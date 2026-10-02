@@ -13923,7 +13923,39 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Most important of all, this project is expected to generate funds for the nation's largest chimpanzee enclosure planned for Monarto Zoo next year."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段先列出人類動物園的幾個目標，接著說最重要的是（Most important of all）替明年要蓋的全國最大黑猩猩園區募集資金（generate funds），選項換成 raise money for protecting chimpanzees，所以是 (C)。題目問 main purpose，關鍵就在 Most important of all。(A) 照抄 study，研究這些人的行為的是心理學家，原文用 also 帶出，只是附帶的事；(B) 照抄 interact，心理學家觀察的是人和人在展區裡的互動，不是人和猿猴的互動；(D) 照抄第 1 段的 demonstrate，計畫要展示的是人類也是動物界的一員，不是人怎麼在展區裡生存。",
+  "map": [
+   [
+    "generate funds",
+    "raise money"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "study",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "interact",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "demonstrate",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg95r_42",
@@ -13942,7 +13974,34 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Four groups of six people will be chosen to participate in the month-long project, each group staying in the enclosure for a week."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說四組人參加為期一個月（month-long）的計畫，每組在展區住一週。題目問的是動物園裡有人住的時間有多長，不是每一組住多久；四組一組接一組，合起來是一個月，所以是 (C)。(B) 照抄 week，那是每一組住的時間；(D) 照抄第 2 段的 year，明年（next year）指的是黑猩猩園區預定興建的時間，和人住多久無關；(A) 一天，原文沒有提到。",
+  "map": [
+   [
+    "month-long",
+    "month"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "week",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "year",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg95r_43",
@@ -13961,7 +14020,34 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "They will be fed like the zoo's other apes, with some food being hidden to encourage their food searching skills."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說展區裡的人吃東西的方式和其他猿猴一樣，有些食物會藏起來，好讓他們練習找食物的本事（food searching skills），選項換成 develop the ability to find food，所以是 (D)。(A) 照抄 vets，獸醫負責檢查他們的健康，和藏食物無關；(C) 照抄第 2 段的 interact，觀察互動的是心理學家，原文沒說少給食物能讓人多互動；(B) 原文沒說藏食物是怕他們吃太多。",
+  "map": [
+   [
+    "food searching skills",
+    "ability to find food"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "vets",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "interact",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg95r_44",
@@ -13980,7 +14066,38 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "There will be no “naked apes”; the exhibits will be wearing swimsuits and have a bag-shower to cool off if the weather gets warm."
+   },
+   {
+    "p": 3,
+    "t": "If it turns chilly, they can wear sports suits."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "第 3 段說展區裡不會有「裸猿」，接著說展出的人（the exhibits）會穿泳衣，冷了可以穿運動服。全文把住進展區的人當成猿猴來展出，說不會有 naked apes，就是說這些人不會光著身子，所以是 (B) 沒穿衣服的人。三個錯誤選項都照抄第 1 段的字詞：(A) 照抄 next to，原文說展區在黑猩猩和大猩猩旁邊，選項把人和猿猴的位置說反了；(C) 照抄 gorillas，大猩猩本來就不穿衣服，和穿泳衣的說明接不上；(D) 照抄 participate，參加計畫的只有人，沒有猿猴。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "next to",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "gorillas",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "participate",
+    "p": 1
+   }
+  ],
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rg95r_45",
@@ -13999,7 +14116,39 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "If the guests relax and have a good feeling, the proper atmosphere can make the food, service and whole dining experience seem better."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說顧客在餐廳裡的感受和食物同樣重要；客人如果放鬆、感覺很好（have a good feeling），對的氛圍會讓整個用餐經驗都顯得更好。所以好氛圍的指標是 (B)。(A) 照抄 food，原文第一句就說吸引人上餐廳的不只是好吃的食物，食物不是氛圍的一部分；(D) 照抄第 2 段的 owner，回頭客和賺錢是氛圍帶給老闆的好處，原文沒說老闆要友善；(C) 照抄第 4 段的 right，第 4 段說要設計「對的」氛圍，原文沒提到背景音樂。",
+  "map": [
+   [
+    "a good feeling",
+    "A good feeling"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "food",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "right",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "owner",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg95r_46",
@@ -14018,7 +14167,34 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "However, for those who work alone in a quiet environment, a noisy cafeteria might provide needed contrast."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段用 However 轉折：對獨自在安靜環境裡工作（work alone in a quiet environment）的人來說，吵鬧的自助餐廳正好提供他們需要的反差，選項換成 work in a quiet place，所以是 (A)。(B) 照抄 all day，前一句說工作一整天的人比較喜歡安靜的氛圍，正好相反；(C) 照抄 alone，原文說的是獨自工作，不是喜歡一個人待著，而且喜歡獨處的人也不一定想去吵鬧的餐廳；(D) 習慣和別人一起工作的人，原文沒有提到。",
+  "map": [
+   [
+    "in a quiet environment",
+    "in a quiet place"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "all day",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "alone",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg95r_47",
@@ -14037,7 +14213,28 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "For the restaurant owner, this means repeat customers and, hopefully, a profitable operation."
+   }
+  ],
+  "qtype": "字義",
+  "note": "profitable 是「能賺錢的」，operation 在這裡指餐廳的經營。第 2 段說好的氛圍讓人記得很久，對老闆來說代表有回頭客，也希望能有 a profitable operation，也就是生意興隆、能賺錢，所以是 (B)。(C) 照抄 customers，回頭客是同一句的前半，是帶來利潤的原因，不是 profitable operation 的意思；(A) 照抄 atmosphere，好的氛圍是讓生意變好的條件，不是生意本身；(D) 裝潢是第 1 段說的氛圍組成之一，和這個片語的意思接不上。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "atmosphere",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "customers",
+    "p": 2
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rg95r_48",
@@ -14056,7 +14253,37 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "It is, therefore, very important to be familiar with the characteristics of the people you wish to serve."
+   },
+   {
+    "p": 4,
+    "t": "They need to attract the largest number possible from the target group."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說不是每個人都想要同樣的氛圍，所以了解你想服務的客人有什麼特點（be familiar with the characteristics of the people you wish to serve）非常重要；第 4 段最後也說氛圍要盡可能吸引目標客群（target group）。選項換成 Knowing who the target customers are，所以是 (B)。(D) 照抄第 1 段的 interior，室內配色只是構成氛圍的一項，設計前要先知道客人是誰，才知道該怎麼布置；(A) 第 4 段雖然提到經營，但沒說要講求效率；(C) 餐廳的地點，原文沒有提到。",
+  "map": [
+   [
+    "be familiar with",
+    "Knowing"
+   ],
+   [
+    "target group",
+    "target customers"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "interior",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg95r_49",
@@ -14075,7 +14302,43 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Did Mallory and Irvine first reach the peak of Everest?"
+   },
+   {
+    "p": 1,
+    "t": "While that debate continues"
+   }
+  ],
+  "qtype": "細節",
+  "note": "文章後半說 Mallory 的遺體找到以後，爭論又熱起來：最早登頂的是 Mallory 和 Irvine，還是官方記載的 Hillary 和 Tenzing？接著說這場爭論還在持續（debate continues），選項換成 It is still uncertain，所以是 (D)。(B) 照抄 Hillary，官方雖然這樣記載，文章卻把它放在問句裡，沒有下定論；(C) 照抄 Mallory，他和 Irvine 有沒有登頂正是爭論的問題；(A) 照抄 Odell，他是最後看見兩人的地質學家，並沒有去登頂。",
+  "map": [
+   [
+    "debate continues",
+    "still uncertain"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Odell",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "Hillary",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "Mallory",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg95r_50",
@@ -14094,7 +14357,38 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "He participated in three British attempts in 1921, 1922 and 1924."
+   },
+   {
+    "p": 1,
+    "t": "He retreated due to an avalanche (snow slide) in which seven Sherpa climbers lost their lives."
+   }
+  ],
+  "qtype": "細節",
+  "note": "Mallory 參加了 1921、1922、1924 年三次攀登，第二次是 1922 年。原文說那一次他爬到 27,000 英尺，因為雪崩（avalanche）撤退，所以是 (A)。(C) 照抄 Sherpa，七名雪巴登山者在雪崩中喪生，原文沒說他沒有雪巴人協助；(D) 照抄 Sandy Irvine，Irvine 是 1924 年第三次攀登的搭檔，兩人是一起失蹤的；(B) 原文清楚寫了撤退的原因。",
+  "map": [
+   [
+    "avalanche",
+    "avalanche"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "Sherpa",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "Sandy Irvine",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg95r_51",
@@ -14113,7 +14407,38 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The appearance of Mallory’s body has again heated up the debate."
+   },
+   {
+    "p": 1,
+    "t": "Did Mallory and Irvine first reach the peak of Everest?"
+   }
+  ],
+  "qtype": "細節",
+  "note": "原文說 Mallory 遺體的出現讓爭論再度熱烈起來，接著用問句說出爭論的內容：Mallory 和 Irvine 是不是最早登頂（first reach the peak）的人？選項換成 Who was the first to reach the top，所以是 (D)。(A) 照抄 want to climb Mount Everest，那是 1923 年記者訪問 Mallory 的問題，比找到遺體早了七十多年，原文還說這是確定的事；(C) 照抄 reached，原文說他 1922 年爬到 27,000 英尺，那是第二次攀登的事，不是找到遺體後引起的問題；(B) 爬聖母峰有多難，原文沒有討論。",
+  "map": [
+   [
+    "first reach the peak",
+    "first to reach the top"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "want to climb Mount Everest",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "reached",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg95r_52",
@@ -14132,7 +14457,44 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "who was engaged in early attempts to conquer the world’s tallest mountain, Everest."
+   },
+   {
+    "p": 1,
+    "t": "He participated in three British attempts in 1921, 1922 and 1924."
+   }
+  ],
+  "qtype": "是非",
+  "note": "Mallory 參與早期征服（conquer）聖母峰的嘗試，參加了三次攀登，1922 年遇上雪崩撤退，1924 年又去，記者問他為什麼要爬，他說「因為山就在那裡」，可見他一心要征服聖母峰，所以是 (A)。(B) 照抄 Noel Odell，Odell 是遠遠看見兩人的地質學家，和 Mallory 同行的是 Irvine；(C) 照抄 Chinese climbers，中國登山者據說找到的是疑似 Irvine 的遺體，Mallory 的遺體是 1999 年美國登山者 Conrad Anker 找到的；(D) 照抄 Chinese climbers，中國登山者 1960 年走完這條路線，比官方記載 1953 年的登頂還晚。",
+  "map": [
+   [
+    "conquer",
+    "conquer"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "Noel Odell",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "Chinese climbers",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "Chinese climbers",
+    "p": 1
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg95r_53",
@@ -14151,7 +14513,43 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "However, you do need to think and argue in a particular way."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說當哲學家不必是學者，接著用 However 轉折：你確實需要用特別的方式（in a particular way）思考和論證，選項換成 have a special way of thinking，所以是 (D)。(C) 照抄 academic，原文說的正好相反，不必是學者；(B) 照抄 study，原文說哲學不是拿來研讀，而是拿來做的；(A) 照抄第 3 段的 truth，追求真理是哲學家的一項任務，但許多哲學家連真理是什麼都說不知道，不是當哲學家的條件。",
+  "map": [
+   [
+    "think",
+    "thinking"
+   ],
+   [
+    "particular way",
+    "special way"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "truth",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "study",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "academic",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg95r_54",
@@ -14170,7 +14568,16 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "The search for truth is not the central concern of most academic philosophers, but that doesn’t mean everyone else shouldn’t have a go at it."
+   }
+  ],
+  "qtype": "字義",
+  "note": "這句說追求真理不是大多數學院派哲學家關心的重點，接著用 but 轉折：這不表示其他人 shouldn’t have a go at it。it 指追求真理，前半說學者不太在意，後半說一般人還是可以去做，have a go 就是 (A) 試試看。(D) 帶來改變、(B) 散步、(C) 度假，放進句子裡都接不上。",
+  "cat": "詞義題"
  },
  {
   "id": "Rg95r_55",
@@ -14189,7 +14596,43 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "The search for truth is not the central concern of most academic philosophers"
+   },
+   {
+    "p": 4,
+    "t": "The second task is about the application of logical thinking to everyday questions, concepts, and ideas that are often taken for granted."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說哲學家有兩項任務，第一項是追求真理，但真理不是大多數哲學家關心的重點；剩下第 4 段的第二項任務：把邏輯思考（logical thinking）應用在日常的概念上，所以是 (C)。(B) 照抄 truth，原文明說追求真理不是重點；(D) 照抄第 2 段的 love of knowledge，那是「哲學」這個詞的字面意思；(A) 照抄第 2 段的 Greek，希臘是這個詞的來源，不是哲學家關心的事。",
+  "map": [
+   [
+    "logical thinking",
+    "Logical thinking"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Greek",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "truth",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "love of knowledge",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg95r_56",
@@ -14208,7 +14651,40 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "You might already be a philosopher without knowing it."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 1 段最後說你可能已經是哲學家，只是自己不知道（without knowing it），選項換成 Many people are unaware that they are philosophers，所以是 (D)。(A) 照抄第 3 段的 two，原文說的是哲學家有兩項任務，不是有兩種哲學家；(B) 照抄第 2 段的 labor work，古希臘哲學家有奴隸替他們做勞力的工作，不是說過去的人喜歡勞動；(C) 照抄第 4 段的 justice，第 4 段說概念分析要釐清大家對正義意義的爭論，可見哲學家對正義的定義並沒有共識。",
+  "map": [
+   [
+    "without knowing it",
+    "unaware"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "two",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "labor work",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "justice",
+    "p": 4
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg98_41",
@@ -14227,7 +14703,27 @@
   "answer": "A",
   "accuracyRate": 50,
   "discrimination": 68,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "We have completely embraced paper technology."
+   },
+   {
+    "p": 5,
+    "t": "Now it’s very calm and quiet here."
+   }
+  ],
+  "qtype": "推論",
+  "note": "寫信的人照著無所事事協會的建議，把電話換成信鴿、把電腦賣掉、改用紙筆；第 5 段說現在辦公室非常平靜、安靜，只聽得到鉛筆寫字和鴿子的聲音。這種不用現代科技、步調緩慢的日子，就是 (A)。(D) 照抄 pencil，他們正好是全面改用紙和鉛筆，不是遠離紙筆；(B) 他們學的是避開不必要的活動，不是努力工作，保險公司也不代表生活有保障；(C) 原文沒有提到宗教或農民的生活。",
+  "trap": [
+   {
+    "o": "D",
+    "t": "pencil",
+    "p": 5
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg98_42",
@@ -14246,7 +14742,41 @@
   "answer": "D",
   "accuracyRate": 41,
   "discrimination": 49,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Your address was forwarded to us by Why Bother Magazine."
+   },
+   {
+    "p": 2,
+    "t": "All of us here think The International Institute of Not Doing Much is the best organization in the world."
+   },
+   {
+    "p": 3,
+    "t": "We closely followed the advice in your article."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 2 段說雜誌把「你們」的地址轉給我們，接著稱讚國際無所事事協會是世界上最好的組織，說「你們」懂得怎麼避開不必要的活動；第 3 段又說照著「你們」文章的建議做。信裡的「你們」就是這個協會，所以是 (D)。(A) 照抄 Why Bother Magazine，雜誌只是轉交地址的；(B) 照抄 ABC Activity Insurance，那是寫信的人自己的公司，在署名裡；(C) 照抄 Stab, Grab, Grit, and Nasty，那是買走電腦的律師事務所。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "Why Bother Magazine",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "ABC Activity Insurance",
+    "p": 7
+   },
+   {
+    "o": "C",
+    "t": "Stab, Grab, Grit, and Nasty",
+    "p": 4
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg98_43",
@@ -14265,7 +14795,43 @@
   "answer": "C",
   "accuracyRate": 53,
   "discrimination": 50,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "By the way, if you can, please send this letter back to us."
+   },
+   {
+    "p": 4,
+    "t": "We can erase and reuse it."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段請收信的人把信寄回來，因為他們可以擦掉再用（erase and reuse it），選項換成 Recycling paper resources，所以是 (C)。(A) 照抄 technology，他們擁抱的是「紙張技術」，做法正好相反，把電話、電腦換成鴿子和紙筆；(B) 照抄 electricity，電費降低是因為把電腦賣掉，原文沒說白天關燈；(D) 照抄第 3 段的 birds，鴿子是拿來取代電話的，不是給員工作伴。",
+  "map": [
+   [
+    "reuse",
+    "Recycling"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "technology",
+    "p": 4
+   },
+   {
+    "o": "B",
+    "t": "electricity",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "birds",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg98_44",
@@ -14284,7 +14850,39 @@
   "answer": "B",
   "accuracyRate": 33,
   "discrimination": 36,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "As a side benefit, the birds also fertilize the lawn outside the new employee sauna."
+   },
+   {
+    "p": 4,
+    "t": "Just tie it to Maggie’s leg and she’ll know where to take it."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 4 段說把信綁在 Maggie 的腳上，她就知道要送到哪裡，可見 Maggie 是一隻送信的鴿子；第 3 段說這些鳥也替員工三溫暖外面的草坪施肥（fertilize the lawn），所以是 (B)。(C) 照抄第 5 段的 inter-office correspondence，公司內部的信件是用紙飛機傳的，而且公司已經賣掉電腦，不會用電子郵件；(D) 照抄 handwriting，字跡讓人刮目相看的是寫信的 Eleanor；(A) Maggie 是鴿子，不是經理。",
+  "map": [
+   [
+    "fertilize the lawn",
+    "fertilize the lawn"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "inter-office correspondence",
+    "p": 5
+   },
+   {
+    "o": "D",
+    "t": "handwriting",
+    "p": 4
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg98_45",
@@ -14303,7 +14901,22 @@
   "answer": "B",
   "accuracyRate": 68,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段說加拉巴哥群島將以世界第一座綠色機場聞名；第 2 段介紹機場重建的工程和特點，並說群島在 2007 年列入環境危險名單；第 3 段說遊客和航班大增，讓島上的環境承受壓力，機場綠化是減少衝擊的一項努力。全文在說蓋綠色機場的來龍去脈，所以是 (B)。(C) 群島的歷史太過廣泛，文章只談機場和觀光帶來的環境問題；(A) 第 1 段提到達爾文的演化論在這裡誕生，只是介紹群島，文章沒有談演化論的問題，偏離主題；(D) 文章談的是航空旅行對環境的傷害，不是去太平洋島嶼的交通有多方便，也偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "太過廣泛"
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rg98_46",
@@ -14322,7 +14935,34 @@
   "answer": "C",
   "accuracyRate": 76,
   "discrimination": 46,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "has recently contracted Argentine Corporación America to manage the redevelopment of the airport on the island of Baltra."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說加拉巴哥群島會有世界第一座綠色機場，第 2 段接著說要重建的是巴爾特拉島（Baltra）上的機場，所以是 (C)。(B) 照抄 Argentine，阿根廷是承包工程的公司所在的國家，不是機場的地點；(A) 照抄第 3 段的 Tahiti，大溪地是和加拉巴哥群島並列、靠觀光維生的太平洋島嶼；(D) 原文的 US$ 是說經費用美元計算，不是蓋在美國。",
+  "map": [
+   [
+    "Baltra",
+    "Baltra"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Tahiti",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "Argentin",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg98_47",
@@ -14341,7 +14981,40 @@
   "answer": "A",
   "accuracyRate": 45,
   "discrimination": 58,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "This group of islands off the coast of Ecuador"
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 1 段說加拉巴哥群島在太平洋上，第 2 段說群島位於厄瓜多外海（off the coast of Ecuador），選項換成 located near Ecuador in the Pacific Ocean，所以是 (A)。(B) 照抄第 3 段的 2001，2001 到 2006 年增加的是飛往當地的商業航班，原文沒有提到人口；(C) 照抄 US$20 million，那是重建機場的經費，不是推廣觀光；(D) 照抄 danger，群島列入的是環境「危險名單」，意思是環境岌岌可危，不是說那裡是全世界最危險的地方。",
+  "map": [
+   [
+    "off the coast of Ecuador",
+    "near Ecuador"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "2001",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "US$20 million",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "danger",
+    "p": 2
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg98_48",
@@ -14360,7 +15033,38 @@
   "answer": "A",
   "accuracyRate": 75,
   "discrimination": 56,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "has recently contracted Argentine Corporación America to manage the redevelopment of the airport on the island of Baltra."
+   },
+   {
+    "p": 2,
+    "t": "It is estimated that US$20 million is needed to complete the project by 2009."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "第 2 段前一句說群島委託公司重建巴爾特拉島上的機場，接著說要 2,000 萬美元才能在 2009 年前完成 the project，所以 the project 指的就是重建機場，也就是第 1 段說的世界第一座綠色機場，答案是 (A)。(B) 照抄 solar energy，使用太陽能只是新機場的特點之一，不是研究太陽能的生產；(C) 照抄 carbon footprint，碳足跡是說明為什麼不用柏油，不是要計算碳足跡；(D) 照抄第 3 段的 natural resources，耗盡自然資源是航空旅行受到的批評。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "solar energy",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "carbon footprint",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "natural resources",
+    "p": 3
+   }
+  ],
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rg98_49",
@@ -14379,7 +15083,25 @@
   "answer": "D",
   "accuracyRate": 36,
   "discrimination": 59,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段提出牛可能有分辨北方的本領；第 2 段說 Begall 博士想知道大型哺乳動物能不能感知磁場；第 3 段說研究人員要排除風和陽光的影響，看牛能不能像指南針的指針；第 4 段說結論是牛大致朝南北方向站。全文在探討牛是不是像指南針，所以是 (D)。(C) 狗在地震前吠叫只是第 1 段開頭的民間說法，過於狹隘；(A) Google Earth 只是研究的工具，第 4 段還說它的解析度不夠，偏離主題；(B) 文章沒有比較牛和其他動物誰比較聰明，也偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   }
+  }
  },
  {
   "id": "Rg98_50",
@@ -14398,7 +15120,38 @@
   "answer": "C",
   "accuracyRate": 55,
   "discrimination": 54,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Grazing animals are known to orient themselves in a way that minimizes wind chill from the north and maximizes the warmth of the sun when they are cold."
+   },
+   {
+    "p": 3,
+    "t": "The researchers therefore had to study a lot of cows grazing in lots of different places at different times of day, in order to average out these factors and see whether cattle could act like compass needles."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 3 段說吃草的動物冷的時候會調整站的方向，避開北風、多曬太陽，所以研究人員必須研究許多不同地方（different places）、不同時間的牛，把這些因素平均掉。可見牛所在的地點會影響研究結果，所以是 (C)。(A) 照抄第 1 段的 rainfall、(B) 照抄第 1 段的 earthquakes，那是民間說法裡動物能預知的事，和這項研究無關；(D) 研究經費，原文沒有提到。",
+  "map": [
+   [
+    "different places",
+    "Location"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Rainfall",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "Earthquakes",
+    "p": 1
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg98_51",
@@ -14417,7 +15170,39 @@
   "answer": "A",
   "accuracyRate": 54,
   "discrimination": 62,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "The researchers concluded that cattle do generally orient themselves in a north-south direction."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段說研究人員的結論是牛大致朝南北方向站（orient themselves in a north-south direction），選項換成 Cattle point north-south，所以是 (A)。(C) 照抄 prefer to look，牛比較喜歡面向北方還是南方，正是研究人員沒辦法回答的問題；(D) 照抄 Google Earth，第 4 段說它的解析度不夠，分不出牛頭牛尾；(B) 照抄第 2 段的 magnetism，研究正是用科學方法探討動物能不能感知磁場。",
+  "map": [
+   [
+    "orient themselves in a north-south direction",
+    "point north-south"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "Magnetism",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "prefer to look",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "Google Earth",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg98_52",
@@ -14436,7 +15221,39 @@
   "answer": "D",
   "accuracyRate": 53,
   "discrimination": 64,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "But unfortunately, even the high resolution of Google Earth is not powerful enough to tell which end of the cow is its head, and which its tail."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段說 Google Earth 的解析度不夠，分不出牛的哪一端是頭、哪一端是尾巴（not powerful enough to tell which end of the cow is its head），選項換成 couldn’t tell a cow’s head from its tail，所以是 (D)。(C) 照抄 hemispheres，南北半球有沒有差別是研究人員想回答的問題，不是回答不了的原因；(B) 照抄第 3 段的 wind chill，牛會避開冷風，研究人員已經用大量樣本把這個因素平均掉；(A) 照抄第 1 段的 sitting on the ground，牛坐在地上預告下雨是民間說法。",
+  "map": [
+   [
+    "not powerful enough to tell",
+    "couldn’t tell"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "sitting on the ground",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "wind chill",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "hemispheres",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg98_53",
@@ -14455,7 +15272,31 @@
   "answer": "D",
   "accuracyRate": 64,
   "discrimination": 54,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "目的",
+  "note": "第 1 段說讓孩子接觸各種食物是父母的責任；第 2 段提出第一個策略：讓孩子參與準備餐點；第 3 段提出另一個策略：不要在孩子面前節食。全文在告訴父母怎麼幫孩子喜歡多樣的食物，所以是 (D)。三個錯誤選項都過於狹隘：(A) 飲食失調只在第 3 段最後一句提到；(B) 準備餐點是第 2 段的策略，而且文章是寫給父母看的，不是教孩子；(C) 蔬菜和全穀類是第 2 段那項研究的營養課程內容。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   },
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   }
+  }
  },
  {
   "id": "Rg98_54",
@@ -14474,7 +15315,39 @@
   "answer": "A",
   "accuracyRate": 67,
   "discrimination": 69,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The researchers found that children who had cooked their own foods were more likely to eat those foods in the cafeteria than children who had not."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說自己做過菜（cooked their own foods）的孩子，在學校餐廳吃這些食物的可能性比較高，選項換成 The children who help cook food，所以是 (A)。(D) 照抄 cafeteria，原文的 cafeteria 是孩子吃飯的學校餐廳，不是父母工作的地方；(C) 照抄 radishes，原文說孩子不喜歡蘿蔔，但自己切了就會愛吃，重點在自己動手；(B) 照抄第 3 段的 diet，父母在孩子面前節食，反而可能讓孩子有飲食失調的風險。",
+  "map": [
+   [
+    "cooked their own foods",
+    "help cook food"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "diet",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "radishes",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "cafeteria",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg98_55",
@@ -14493,7 +15366,27 @@
   "answer": "D",
   "accuracyRate": 40,
   "discrimination": 60,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Another child said dieting meant “you fix food but you don’t eat it.”"
+   },
+   {
+    "p": 3,
+    "t": "By exposing young children to erratic dieting habits, parents may be putting them at risk for eating disorders."
+   }
+  ],
+  "qtype": "字義",
+  "note": "erratic 本身是「反覆無常、沒有規律」的意思。第 3 段舉的例子：孩子以為節食就是喝巧克力奶昔，或是做了飯卻不吃，可見父母的節食方式讓孩子對飲食有錯誤的認識；最後一句又說這會讓孩子有飲食失調的風險。這裡的 erratic 是負面的意思，四個選項中最接近的是 (D) 不恰當的。(B) 照抄 healthful，前面說父母要留意節食習慣會影響孩子對健康飲食的看法，erratic 的意思正好相反；(A) 明顯的、(C) 不誠實的，和上下文接不上。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "healthful",
+    "p": 3
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rg98_56",
@@ -14512,7 +15405,30 @@
   "answer": "B",
   "accuracyRate": 50,
   "discrimination": 43,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "In one study of 5-year-old girls about dieting, one child noted that dieting involved drinking chocolate milkshakes, because her mother was using Slim-Fast drinks."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 3 段說有個 5 歲女孩以為節食就是喝巧克力奶昔（chocolate milkshakes），因為她媽媽在喝 Slim-Fast 飲品。可見 Slim-Fast 是減肥時喝的飲品，看起來像巧克力奶昔，孩子才會弄錯，所以是 (B)。(D) 從產品名字的字面去猜，Slim-Fast 是給想減肥的人喝的，不是給又瘦又快的人；(C) 照抄第 1 段的 a variety of，那是說父母要準備各種食物；(A) 原文沒說孩子喜歡喝。",
+  "map": [
+   [
+    "chocolate milkshakes",
+    "chocolate milkshake"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "a variety of",
+    "p": 1
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg97_41",
@@ -14531,7 +15447,42 @@
   "answer": "A",
   "accuracyRate": 76,
   "discrimination": 54,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Male howler monkeys use their loud voices to fight for food, mates, or territory."
+   },
+   {
+    "p": 1,
+    "t": "Everyone starts and ends the day by howling to check out where their nearest competitors are."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說公吼猴用宏亮的聲音爭奪（fight for）食物、配偶或地盤，每天也用吼叫查看競爭者在哪裡；第 2 段說保護區的錄音是要讓猴子發出宣示地盤的叫聲（territorial calls）。選項換成 claim their territory，所以是 (A)。(B) 照抄 check，吼猴查看的是競爭者在哪裡，不是自己受不受歡迎；(D) 照抄第 2 段的 neighbors，吼猴和鄰居互相確認是為了劃定地盤，不是表示友善；(C) 原文沒說吼叫是告訴別人自己要離開。",
+  "map": [
+   [
+    "fight for",
+    "claim"
+   ],
+   [
+    "territory",
+    "territory"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "check",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "neighbors",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg97_42",
@@ -14550,7 +15501,22 @@
   "answer": "C",
   "accuracyRate": 80,
   "discrimination": 40,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Apparently, with plenty of space and no other howler monkeys around, there was no need to check on the whereabouts of their competitors."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說貝里斯保護區的吼猴空間充足，附近也沒有其他吼猴（no other howler monkeys around），沒有必要查看競爭者在哪裡，所以叫得比較少。選項換成 There were no other competitors around，所以是 (C)。(A) 正好相反，原文說的是空間很充足；(B) 原文說的是空間充足，沒說食物夠吃；(D) 天氣，原文沒有提到。",
+  "map": [
+   [
+    "no other howler monkeys around",
+    "no other competitors around"
+   ]
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg97_43",
@@ -14569,7 +15535,28 @@
   "answer": "B",
   "accuracyRate": 61,
   "discrimination": 59,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "At the sanctuary, keepers now use recorded howler sounds from a distance so that the monkeys feel the need to make the territorial calls as they would do in the wild."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說管理員從遠處播放吼猴的錄音，讓猴子覺得需要像在野外一樣發出宣示地盤的叫聲。保護區的吼猴原本很少叫，錄音讓牠們保持在野外吼叫的習慣，所以是 (B)。(C) 照抄 plenty of space，錄音的作用正好相反，是讓猴子以為附近有競爭者；(D) 照抄第 1 段的 loudest，吼猴本來就是叫聲最大的陸地動物，吼叫是給其他吼猴聽的，不是嚇走人；(A) 原文沒有提到想家。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "plenty of space",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "loudest",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg97_44",
@@ -14588,7 +15575,30 @@
   "answer": "C",
   "accuracyRate": 75,
   "discrimination": 57,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "They are the loudest land animal and their howls can be heard three miles away through dense forests."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 1 段說吼猴的叫聲三英里外都聽得到（can be heard three miles away），選項換成主動語態 People can hear their howls three miles away，所以是 (C)。(B) 照抄第 2 段的 Belize，貝里斯是重新引進吼猴的地方，不是吼猴的原產地；(A) 原文說吼猴在一天開始和結束時吼叫，沒說中午叫得最多；(D) 原文說用叫聲爭奪地盤的是公猴，沒說母猴吼叫是為了保護小猴。",
+  "map": [
+   [
+    "can be heard three miles away",
+    "can hear their howls three miles away"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "Belize",
+    "p": 2
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg97_45",
@@ -14607,7 +15617,39 @@
   "answer": "D",
   "accuracyRate": 71,
   "discrimination": 60,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "After the creation of the Glacier National Park in Montana, the growing number of park visitors increased the need for roads."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說冰河國家公園成立以後，遊客越來越多（the growing number of park visitors），對道路的需求跟著增加，選項換成 More visitors were interested in going to the park，所以是 (D)。(A) 照抄 Montana，蒙大拿州是公園所在的州，原文沒說那裡的公園太多；(B) 照抄 Sun，奔向太陽之路是道路的名字，和公園陽光夠不夠無關；(C) 照抄 mountain，原文說需要一條翻越山脈的路，沒說原有的山路毀了。",
+  "map": [
+   [
+    "growing number of park visitors",
+    "More visitors"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Montana",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "Sun",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "mountain",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg97_46",
@@ -14626,7 +15668,32 @@
   "answer": "C",
   "accuracyRate": 41,
   "discrimination": 36,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The construction of the road has changed the way visitors experience the Glacier National Park."
+   },
+   {
+    "p": 2,
+    "t": "Visitors now can drive over sections of the park that previously took days of horseback riding to see."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說這條路改變了遊客體驗公園的方式：以前要騎好幾天馬才看得到的地方，現在開車就能經過。從好幾天縮短到開車就到，遊客能在比較短的時間裡看到公園更多地方，所以是 (C)。(B) 照抄 horse，騎馬是以前的方式，有了這條路以後改成開車；(A) 照抄 drive，原文說這是北美洲風景最美的道路之一，沒說風景美到讓人沒辦法小心開車；(D) 正好相反，原文說遊客開車就能經過那些地方。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "drive",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "horse",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg97_47",
@@ -14645,7 +15712,20 @@
   "answer": "A",
   "accuracyRate": 67,
   "discrimination": 69,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The construction of the Going-to-the-Sun Road was a huge task."
+   },
+   {
+    "p": 2,
+    "t": "Even today, visitors to the park marvel at how such a road could have been built."
+   }
+  ],
+  "qtype": "字義",
+  "note": "第 2 段前面說興建這條路是一項浩大的工程，花了 11 年才完工；後面說直到今天，遊客仍然驚嘆這樣一條路是怎麼蓋起來的。前後都在說這條路蓋得了不起，所以 an engineering feat 是 (A) 工程上的一大成就。(B) 神奇的建築機器、(C) 遊客的大災難，和遊客驚嘆的語氣接不上；(D) 原文沒有提到工程師覺得施工過程很愉快。",
+  "cat": "詞義題"
  },
  {
   "id": "Rg97_48",
@@ -14664,7 +15744,38 @@
   "answer": "D",
   "accuracyRate": 69,
   "discrimination": 61,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "In 1931, members of the Rotary Clubs of Alberta and Montana suggested joining the two parks as a symbol of peace and friendship between the two countries."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說加拿大那一邊有華特頓湖國家公園，扶輪社成員提議把兩座公園（two parks）結合起來，象徵兩國（two countries）的和平與友誼；1932 年兩國政府把它們命名為國際和平公園。選項換成 composed of two parks located in two countries，所以是 (D)。(B) 照抄 first，原文說它是世界第一座國際和平公園，後來列為世界遺產，沒說由全世界出資；(A) 照抄 lake，華特頓湖是加拿大那座公園的名字，原文沒說冰河流進湖裡；(C) 原文沒說這座公園是為了保護野生動物而建的。",
+  "map": [
+   [
+    "two parks",
+    "two parks"
+   ],
+   [
+    "two countries",
+    "two countries"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "lake",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "first",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg97_49",
@@ -14683,7 +15794,39 @@
   "answer": "B",
   "accuracyRate": 72,
   "discrimination": 57,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Its ideal material is pure, clean water with high clarity."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說冰雕理想的材料是純淨、乾淨（clean water）、透明度高的水，所以是 (B)。(C) 照抄 bubbles，原文說氣泡要越少越好，正好相反；(A) 照抄 ice hotels，冰旅館是用大冰塊蓋的，不是冰塊的來源；(D) 照抄 100，100 公分是冰塊的長度，每塊重 140 公斤只是 Clinebell 公司的規格，原文沒說超過 100 公斤才理想。",
+  "map": [
+   [
+    "clean water",
+    "clean water"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "ice hotels",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "bubbles",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "100",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg97_50",
@@ -14702,7 +15845,42 @@
   "answer": "D",
   "accuracyRate": 61,
   "discrimination": 62,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "First, ice must be carefully selected so that it is suitable for sculpting."
+   },
+   {
+    "p": 2,
+    "t": "Another difficulty in the process of ice sculpting is time control."
+   },
+   {
+    "p": 2,
+    "t": "If the sculpting does not take place in a cold environment, then the sculptor must work quickly to finish his piece."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說第一個困難是冰塊必須仔細挑選（carefully selected）；第 2 段說另一個困難是控制時間，不在寒冷的環境裡就得加快動作。選項把兩段合起來，說找到合適的冰塊和工作環境都不容易，所以是 (D)。(A) 照抄 control，要控制的是時間，不是冰塊的大小和形狀；(C) 照抄 tools，原文說工具會影響完成的時間，最好的冰鑿是日本製的，沒說只有某些國家買得到；(B) 雕刻的主題，原文沒有提到。",
+  "map": [
+   [
+    "carefully selected",
+    "find the right kind of ice"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "control",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "tools",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg97_51",
@@ -14721,7 +15899,22 @@
   "answer": "A",
   "accuracyRate": 70,
   "discrimination": 68,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Ice sculptures are used as decorations in some cuisines, especially in Asia."
+   }
+  ],
+  "qtype": "段落功能",
+  "note": "第 3 段第一句是主題句：冰雕在某些料理中用來當作裝飾（used as decorations），接著舉晚宴的餐桌和婚宴上的冰雕天鵝為例，所以是 (A) 冰雕的用途。(B) 第 3 段提到的餐廳和飯店是擺放冰雕的地方，不是雕冰的地方；(C) 冰塊的品質是第 1 段的內容；(D) 冰雕派對的起源，原文沒有提到。",
+  "map": [
+   [
+    "used as decorations",
+    "uses"
+   ]
+  ],
+  "cat": "主旨題"
  },
  {
   "id": "Rg97_52",
@@ -14740,7 +15933,44 @@
   "answer": "B",
   "accuracyRate": 59,
   "discrimination": 69,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Some sculptures can be completed in as little as ten minutes if power tools are used."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 2 段說如果使用電動工具（power tools），有些作品只要十分鐘就能完成，選項換成 the right tools，所以是 (B)。(D) 照抄 cold environment，原文說不在寒冷的環境裡才要加快動作，而且是為了避免冰融化，不是怕感冒；(A) 照抄 razor-sharp chisels，原文只說冰雕師會用這種鑿子，沒說用它比較費時；(C) 照抄第 1 段的 Sweden，瑞典的大冰塊用在大型活動和冰旅館，原文沒說比較容易處理。",
+  "map": [
+   [
+    "ten minutes",
+    "10 minutes"
+   ],
+   [
+    "power tools",
+    "right tools"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "razor-sharp chisels",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "Sweden",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "cold environment",
+    "p": 2
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg97_53",
@@ -14759,7 +15989,22 @@
   "answer": "D",
   "accuracyRate": 66,
   "discrimination": 68,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段說事先說服自己不會那麼痛，可能就不那麼難受，大腦對劇痛和對預期疼痛起反應的部位大致相同；第 2、3 段說明實驗的做法和結果；第 4 段總結疼痛同時有生理和心理的成分。全文在說我們對疼痛的反應和預期密切相關，所以是 (D)。三個錯誤選項都偏離主題：(A) 文章沒有勸人要對疼痛敏感；(B) 文章說的是心理預期，不是環境；(C) 研究已經找出大腦哪些部位有反應，不能說科學家還不知道人怎麼感覺疼痛。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rg97_54",
@@ -14778,7 +16023,39 @@
   "answer": "A",
   "accuracyRate": 45,
   "discrimination": 63,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Each volunteer wore a device that gave out 20-second-long pulses of heat to the right leg."
+   },
+   {
+    "p": 2,
+    "t": "There were three levels of heat, producing mild, moderate, or strong pain."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 2 段說每位志願者戴的裝置會發出每次 20 秒（20-second-long）的熱脈衝，選項換成 Each heat pulse lasted for 20 seconds，所以是 (A)。(D) 照抄 levels of heat，原文說熱度有三個等級，不是兩個；(C) 照抄 device，每位志願者戴一個裝置，同一個裝置發出不同等級的熱脈衝，原文沒說不同的裝置發出不同等級；(B) 熱脈衝是加在右腿上，不是手臂。",
+  "map": [
+   [
+    "20-second-long",
+    "20 seconds"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "device",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "levels of heat",
+    "p": 2
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg97_55",
@@ -14797,7 +16074,39 @@
   "answer": "D",
   "accuracyRate": 64,
   "discrimination": 64,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "They then learned to associate the length of the silent pause with the intensity of the upcoming heat pulse."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說志願者先聽到一個聲音，接著一段靜默，再感覺到熱脈衝；他們學會把靜默停頓的長短（the length of the silent pause）和熱脈衝的強度聯想在一起，所以是 (D)。(A) 照抄 tone，聲音只是一個開始的訊號，原文沒說聲音有大小之分；(B) 照抄 researchers，志願者是從訓練中自己學會的，原文沒說研究人員告訴他們；(C) 照抄 device，裝置是用來發出熱脈衝的，原文沒有提到閃燈。",
+  "map": [
+   [
+    "the length of the silent pause",
+    "the length of the pause"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "tone",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "researchers",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "device",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg97_56",
@@ -14816,7 +16125,32 @@
   "answer": "B",
   "accuracyRate": 41,
   "discrimination": 43,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "However, if you convince yourself beforehand that the pain won’t be so bad, you might not suffer as much."
+   },
+   {
+    "p": 4,
+    "t": "Understanding how pain works in the mind and brain could eventually give doctors tools for helping people cope with painful medical treatments."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 1 段說事先說服自己不會那麼痛，就可能不那麼難受；第 4 段說了解疼痛在心智中怎麼運作，可以幫醫生協助病人面對會痛的醫療處置。所以作者會建議醫生在手術前和病人談談，減輕病人的擔憂，答案是 (B)。(D) 照抄第 3 段的 severe pain，實驗發現預期輕微疼痛卻遇到劇痛的人，比預期劇痛的人少感覺到 28% 的疼痛，強調會很痛正好相反；(C) 照抄第 2 段的 heat pulse，熱脈衝只是實驗的工具；(A) 止痛藥，原文沒有提到。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "heat pulse",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "severe pain",
+    "p": 3
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg96_41",
@@ -14835,7 +16169,22 @@
   "answer": "C",
   "accuracyRate": 67,
   "discrimination": 38,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "目的",
+  "note": "第 1 段說牙醫建議父母把好的零食和不好的零食分開；第 2 段說明會在嘴裡停留很久的東西傷牙，洋芋片、葡萄乾、餅乾和硬糖都不是好選擇；第 3 段建議改吃巧克力。全文在告訴父母哪些零食比較不傷孩子的牙齒，所以是 (C)。三個錯誤選項都偏離主題：(A) 文章說的是怎麼預防蛀牙，沒有談蛀牙怎麼治療；(B) 文章沒有批評萬聖節的慶祝活動；(D) 文章沒有談萬聖節糖果對孩子有什麼意義。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rg96_42",
@@ -14854,7 +16203,33 @@
   "answer": "D",
   "accuracyRate": 71,
   "discrimination": 59,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The longer the food stays in the mouth, the more likely cavities will develop."
+   },
+   {
+    "p": 2,
+    "t": "Hard candies take a long time to consume and are also a bad choice for Halloween treats."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說食物在嘴裡停留越久（stays in the mouth），越可能蛀牙；硬糖要吃很久，所以也是不好的選擇。選項換成 They stay in the mouth for a long time，所以是 (D)。(C) 照抄第 3 段的 tannins，單寧酸是巧克力裡的成分，能殺死細菌，不是細菌產生的；(A) 原文說硬的東西傷牙是因為停留在嘴裡很久，沒說會咬斷牙齒；(B) 原文說的重點正好是吃什麼不完全要緊，要看停留多久，沒有提到含糖量。",
+  "map": [
+   [
+    "stays in the mouth",
+    "stay in the mouth"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "tannins",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg96_43",
@@ -14873,7 +16248,39 @@
   "answer": "A",
   "accuracyRate": 83,
   "discrimination": 47,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "If children really love candy, dentists recommend that they eat chocolate instead."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說孩子如果真的很愛吃糖，牙醫建議改吃巧克力（chocolate），因為巧克力很快就會溶化，所以是 (A)。三個錯誤選項都照抄第 2 段：(D) 洋芋片會卡在牙縫裡，比糖果更糟；(C) 葡萄乾、(B) 餅乾，原文說同樣的道理也不是最好的選擇。",
+  "map": [
+   [
+    "chocolate",
+    "Chocolate"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "Crackers",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "Raisins",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "Potato chips",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg96_44",
@@ -14892,7 +16299,40 @@
   "answer": "B",
   "accuracyRate": 65,
   "discrimination": 67,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Besides, chocolate contains tannins, which help to kill some of the bacteria in the mouth."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 3 段說巧克力含有單寧酸，能幫忙殺死（kill）嘴裡的一些細菌，選項換成 help to get rid of some bacteria，所以是 (B)。(A) 照抄第 2 段的 produce、(D) 照抄第 2 段的 the surface of the teeth，細菌產生、會破壞牙齒表面的是酸，不是單寧酸；(C) 照抄 dissolve，巧克力本身很快就會溶化，原文沒說是單寧酸讓它溶化得快。",
+  "map": [
+   [
+    "kill",
+    "get rid of"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "produce",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "dissolve",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "the surface of the teeth",
+    "p": 2
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg96_45",
@@ -14911,7 +16351,34 @@
   "answer": "A",
   "accuracyRate": 36,
   "discrimination": 53,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "This is especially noteworthy when one considers that public television stations must often survive on very limited budgets, on viewers’ donations, and on private foundations and some governmental funding."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說公共電視台常常得靠有限的預算、觀眾的捐款、私人基金會（private foundations）和一些政府補助來維持。基金會是一種機構，選項換成 private organizations，所以是 (A)。(B) 照抄 public，public 是說 PBS 是公共電視，原文沒說錢來自公立學校；第 3 段的大專院校是承認電視課程，不是出錢；(D) 照抄 television stations，原文說的是公共電視台自己要靠這些來源維持，不是錢來自別的電視台；(C) 廣告公司，原文沒有提到，PBS 是非營利的。",
+  "map": [
+   [
+    "private foundations",
+    "private organizations"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "public",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "television stations",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg96_46",
@@ -14930,7 +16397,39 @@
   "answer": "C",
   "accuracyRate": 76,
   "discrimination": 50,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "PBS is especially well known for the quality of its many educational TV programs."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說 PBS 尤其以（especially well known for）許多優質的教育節目（educational TV programs）聞名，題目換成 most famous for，所以是 (C)。(D) 照抄 news，新聞是 PBS 品質出色的節目之一，但原文用 especially 強調的是教育節目；(A) 照抄第 1 段的 cable，只播新聞的 CNN 才是有線電視網，PBS 只有在加拿大的部分會員台透過有線電視播出；(B) 照抄第 2 段的 donations，觀眾的捐款是 PBS 經費的來源，不是 PBS 出名的地方。",
+  "map": [
+   [
+    "educational TV programs",
+    "Educational programs"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "cable",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "donations",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "news",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg96_47",
@@ -14949,7 +16448,40 @@
   "answer": "D",
   "accuracyRate": 48,
   "discrimination": 53,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "These courses are accepted and supported by more than 1,800 colleges and universities throughout the US."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 3 段說全美有 1,800 多所大專院校承認（accepted）並支持公共電視台的課程，選項把 1,800 多所換成 many universities，所以是 (D)。(B) 照抄 tele-courses，原文說超過 95% 的公共電視台有電視課程，不是 95% 的節目都是電視課程；(A) 照抄第 2 段的 minority，原文說 PBS 只吸引了少數的觀眾，約 2%，不是說觀眾大多是少數族群；(C) 照抄第 1 段的 profit，PBS 是非營利的，但第 2 段說過去二十年來公共電視的成長相當驚人，正好相反。",
+  "map": [
+   [
+    "accepted",
+    "accepted"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "minority",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "tele-courses",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "profit",
+    "p": 1
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg96_48",
@@ -14968,7 +16500,43 @@
   "answer": "C",
   "accuracyRate": 47,
   "discrimination": 49,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "PBS only attracts a minority of all TV viewers, about 2 percent."
+   },
+   {
+    "p": 2,
+    "t": "The industry leader, NBC, however, attracts 11 percent of viewers."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說 PBS 只吸引約 2% 的觀眾，業界龍頭 NBC 則吸引 11% 的觀眾，所以收視比例最高的是 (C)。(B) PBS 是會員電視台最多的電視網，但觀眾只占 2%，「最大」和「收視最高」是兩回事；(A) ABC、(D) Fox 只出現在第 1 段，原文說它們不是最大的電視網，沒有提到收視比例。",
+  "map": [
+   [
+    "NBC",
+    "NBC"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "ABC",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "PBS",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "Fox",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg96_49",
@@ -14987,7 +16555,44 @@
   "answer": "A",
   "accuracyRate": 41,
   "discrimination": 64,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Last week Jay McCarroll and The HSUS (The Humane Society of the United States) made a bold fur-free statement on the runway"
+   },
+   {
+    "p": 3,
+    "t": "we want to show our respect to leading designers like Jay who embrace compassion as the fashion"
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 1 段說 McCarroll 在伸展台上發表不用皮草的聲明，他的服裝秀得到很好的回應；第 3 段美國人道協會的副會長稱他是頂尖設計師（leading designers like Jay），所以是 (A)。(B) 照抄 executive vice president，執行副會長是 Michael Markarian；(C) 照抄第 2 段的 Fashion Wire Daily，McCarroll 是接受這家媒體的訪問，不是它的編輯；(D) 照抄第 1 段的 animal protection，動物保護團體是和他合作的美國人道協會，他不是協會的負責人。",
+  "map": [
+   [
+    "designers",
+    "designer"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "executive vice president",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "Fashion Wire Daily",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "animal protection",
+    "p": 1
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg96_50",
@@ -15006,7 +16611,20 @@
   "answer": "B",
   "accuracyRate": 45,
   "discrimination": 53,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "marking a new chapter for the fashion industry and animal protection."
+   },
+   {
+    "p": 1,
+    "t": "The encouraging response to McCarroll’s show confirmed that change is happening in fashion."
+   }
+  ],
+  "qtype": "字義",
+  "note": "chapter 本義是書的一章。第 1 段說這場不用皮草的服裝秀為時尚產業和動物保護標示了 a new chapter，下一句又說熱烈的回應證實時尚界正在改變（change is happening）。可見這裡的意思是新的階段、新潮流的開始，所以是 (B)。(A) 書的新單元是字面意思，放在時尚產業接不上；(C) 雜誌的最新一期、(D) 新成立的組織，原文都沒有提到。",
+  "cat": "詞義題"
  },
  {
   "id": "Rg96_51",
@@ -15025,7 +16643,34 @@
   "answer": "C",
   "accuracyRate": 57,
   "discrimination": 62,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "“I have patchwork pieces that contain all sorts of combinations of fabrics."
+   },
+   {
+    "p": 2,
+    "t": "The rest is cotton, nylon, polyester...you name it."
+   },
+   {
+    "p": 2,
+    "t": "I even have some stuff made out of bamboo/cotton blend."
+   },
+   {
+    "p": 2,
+    "t": "Anything but fur and leather,”"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段 McCarroll 列出他用來取代皮草的材料：patchwork pieces 是 (D) 拼布，polyester 是 (A) 聚酯纖維，bamboo/cotton blend 是用 (B) 竹纖維加棉做的布料。他最後說 Anything but fur and leather，除了皮草和皮革什麼都可以，所以他不建議用的是 (C) 皮革。",
+  "map": [
+   [
+    "leather",
+    "Leather"
+   ]
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg96_52",
@@ -15044,7 +16689,29 @@
   "answer": "B",
   "accuracyRate": 47,
   "discrimination": 57,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "we want to show our respect to leading designers like Jay who embrace compassion as the fashion"
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 3 段 Markarian 說要向像 Jay 這樣把慈悲心當成時尚（embrace compassion as the fashion）的設計師致敬；第 1 段也說這場不用皮草的服裝秀得到很好的回應。可見時尚和對生命的慈悲心可以並行，所以是 (B)。(C) 照抄第 2 段的 bamboo/cotton blend，竹纖維加棉的布料是用來取代皮草的，原文沒有比較哪一種效果比較好；(A) 第 3 段說我們每天和動物有情感上的連結，不是說人在情感上依賴動物；(D) 皮草比較貴，原文沒有提到。",
+  "map": [
+   [
+    "compassion",
+    "compassion"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "bamboo/cotton blend",
+    "p": 2
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg96_53",
@@ -15063,7 +16730,28 @@
   "answer": "C",
   "accuracyRate": 77,
   "discrimination": 41,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段說最近的研究顯示男孩和女孩有生理上的差異；第 2 段舉聽覺為例，第 3 段舉表達感受為例；第 4 段說父母和老師應該善用這些生理差異。全文在說男孩和女孩的行為不同，是因為生理差異，所以是 (C)。(A) 男孩上課看起來不專心、(B) 女孩聽覺比較敏銳，都只是第 2 段的例子，過於狹隘；(D) 第 4 段說把男孩和女孩分開有顯著的好處，選項說的正好相反，偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   },
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rg96_54",
@@ -15082,7 +16770,33 @@
   "answer": "D",
   "accuracyRate": 61,
   "discrimination": 66,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Girls develop an early connection between this area and the cerebral cortex, enabling them to talk about their feelings."
+   },
+   {
+    "p": 3,
+    "t": "In boys these links develop later."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說女孩很早（early）就在杏仁核和大腦皮質之間建立連結，所以說得出自己的感受；男孩的這些連結比較晚才發展。選項把兩句合起來，說這些連結女孩發展得比男孩早（earlier），所以是 (D)。(C) 照抄 amygdala，原文說負面情緒位於杏仁核，沒說男孩和女孩的杏仁核位置不同，差別在連結發展的早晚；(A) 原文沒說女孩比較情緒化；(B) 腦細胞的多少，原文沒有提到。",
+  "map": [
+   [
+    "early",
+    "earlier"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "amygdala",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg96_55",
@@ -15101,7 +16815,27 @@
   "answer": "B",
   "accuracyRate": 62,
   "discrimination": 50,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Understanding these differences is important in raising and educating children."
+   },
+   {
+    "p": 4,
+    "t": "Therefore, parents and teachers should try to recognize, understand, and make use of the biological differences that make a girl a girl, and a boy a boy."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 1 段說了解男女的生理差異對教育孩子很重要；第 4 段引用 Sax 博士說男女分班有顯著的好處，接著說父母和老師應該善用這些差異。可見作者認為男孩和女孩應該用不同的方式教育，所以是 (B)。(D) 照抄 differences，作者要父母和老師善用性別差異，不是忽略；(A) 原文說女孩比較會表達感受，需要幫忙的反而是男孩；(C) 原文沒說父母要多注意男孩，說的是父母和老師都要了解男孩和女孩的差異。",
+  "trap": [
+   {
+    "o": "D",
+    "t": "differences",
+    "p": 4
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg96_56",
@@ -15120,7 +16854,24 @@
   "answer": "A",
   "accuracyRate": 41,
   "discrimination": 44,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Twenty years ago, most experts believed that differences in how boys and girls behaved were mainly due to differences in how they were treated by their parents, teachers, and friends."
+   },
+   {
+    "p": 1,
+    "t": "It’s hard to cling to that belief today."
+   },
+   {
+    "p": 1,
+    "t": "Recent research has shown that there are biological differences between boys and girls."
+   }
+  ],
+  "qtype": "字義",
+  "note": "第 1 段說二十年前的專家認為男女的差異來自後天的對待，接著說今天很難 cling to 這種看法，因為最近的研究顯示有生理上的差異。新的研究推翻了舊的看法，所以很難再「維持、堅持」這種看法，cling to 是 (A) maintain。(B) abandon（放棄）正好相反：新研究已經推翻舊看法，放棄它並不難；(C) evaluate（評估）、(D) challenge（質疑），放進句子裡意思接不上。",
+  "cat": "詞義題"
  },
  {
   "id": "Rg95_41",
@@ -15139,7 +16890,25 @@
   "answer": "D",
   "accuracyRate": 31,
   "discrimination": 47,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "目的",
+  "note": "第 1 段用研究結果引起讀者的興趣：美國青少年的壓力比亞洲青少年大；第 2、3 段說壓力是身心的交互作用，有好有壞，太大會傷害身心；最後問怎麼控制壓力，答案是本月的暢銷書有好建議，要讀者趕快買一本。前面的內容都在替最後推薦的書鋪路，所以作者的目的是 (D) 推銷一本減輕壓力的書。(A) 哪裡的青少年壓力最大只是第 1 段的開場，過於狹隘；(C) 文章沒有真的教讀者怎麼減輕壓力，方法要讀者去書裡找，偏離主題；(B) 原文說壓力是心理和身體的交互作用，也有好處，不是只有心理問題，同樣偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rg95_42",
@@ -15158,7 +16927,32 @@
   "answer": "B",
   "accuracyRate": 50,
   "discrimination": 41,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "What can the mind do to the body?"
+   },
+   {
+    "p": 2,
+    "t": "Conversely, worry can give a person an ulcer, high blood pressure, or even a heart attack."
+   }
+  ],
+  "qtype": "字義",
+  "note": "第 2 段問：心理能對身體產生什麼作用？先說看好笑的電影能減輕疼痛，再用 Conversely 轉折：擔憂可能讓人得 ulcer、高血壓，甚至心臟病發作。ulcer 和高血壓、心臟病並列，都是心理造成的身體毛病，所以是 (B)。(C) 照抄 healing，促進癒合是看好笑電影的好處，和 ulcer 方向相反；(D) 照抄第 3 段的 physiological，原文說壓力打亂生理平衡，ulcer 是毛病，不是治療；(A) 擔憂是心理的，ulcer 是擔憂對身體造成的結果，不是心理疾病。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "healing",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "physiological",
+    "p": 3
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rg95_43",
@@ -15177,7 +16971,38 @@
   "answer": "D",
   "accuracyRate": 46,
   "discrimination": 49,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "For example, a stress reaction can sometimes save a person’s life by releasing hormones that enable a person to react quickly and with greater energy in a dangerous situation."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說壓力並不總是壞事，舉例說壓力反應會釋放荷爾蒙，讓人在危險的情況下（in a dangerous situation）反應更快（react quickly），選項換成 Reacting quickly in risky situations，所以是 (D)。(A) 照抄第 2 段的 watching funny movies，看好笑的電影是心理對身體的正面影響，不是壓力帶來的好處；(C) 照抄 difficult，原文說壓力提供推力，讓人去做困難的事，不是避開困難的事；(B) 放鬆的運動，原文沒有提到。",
+  "map": [
+   [
+    "react quickly",
+    "Reacting quickly"
+   ],
+   [
+    "dangerous situation",
+    "risky situations"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "watching funny movies",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "difficult",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg95_44",
@@ -15196,7 +17021,40 @@
   "answer": "C",
   "accuracyRate": 60,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Learn to Lighten Up and Live Longer, the best seller of the month, has several good suggestions."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 3 段說《Learn to Lighten Up and Live Longer》是本月的暢銷書（the best seller of the month），選項換成 a popular book，所以是 (C)。(A) 照抄第 1 段的 Taiwanese，原文說台灣和日本的高二學生常感到壓力的不到一半，壓力比美國青少年小；(B) 照抄 kept under，原文問怎麼控制壓力，接著說這本書有好建議，沒說壓力複雜到控制不了；(D) 照抄 always，原文說壓力並不總是壞事，但太大會傷害身心，沒說壓力總是好處多於害處。",
+  "map": [
+   [
+    "the best seller of the month",
+    "popular book"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Taiwanese",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "kept under",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "always",
+    "p": 3
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg95_45",
@@ -15215,7 +17073,22 @@
   "answer": "C",
   "accuracyRate": 82,
   "discrimination": 44,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "It was then introduced to Europe in the early 1600s, when trade began between Europe and the Far East."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說茶在 1600 年代初期傳到歐洲，那時歐洲和遠東開始貿易（trade），選項換成 business，所以是 (C)。(A) 革命、(B) 婚姻、(D) 教育，原文都沒有提到。",
+  "map": [
+   [
+    "trade",
+    "business"
+   ]
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg95_46",
@@ -15234,7 +17107,39 @@
   "answer": "B",
   "accuracyRate": 84,
   "discrimination": 42,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Most international tea trading is in black tea."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說國際上的茶葉買賣大多是紅茶（black tea），買賣最多的茶，就是全世界最多人喝的茶，所以是 (B)。(A) 綠茶、(C) 烏龍茶是第 2 段列出的另外兩種茶，原文只說明它們的製作方式；(D) 照抄第 1 段的 Europe，原文說茶在 1600 年代傳到歐洲，沒有「歐洲茶」這一種。",
+  "map": [
+   [
+    "black tea",
+    "Black tea"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Green tea",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "Oolong tea",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "Europe",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg95_47",
@@ -15253,7 +17158,35 @@
   "answer": "C",
   "accuracyRate": 76,
   "discrimination": 44,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Oolong tea is prepared similarly to black tea, but without the fermentation time."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 2 段最後說烏龍茶的製作方式和紅茶相似（prepared similarly to black tea），只是沒有發酵的時間，所以是 (C)。這一段依序說紅茶、綠茶、烏龍茶怎麼做，兩個錯誤選項都把做法接錯了茶：(B) 照抄 charcoal fire，用炭火烘乾的是紅茶；(D) 照抄 heated in steam，用蒸氣加熱的是綠茶。(A) 原文說紅茶要在晴朗的好天氣採摘，不是陰天。",
+  "map": [
+   [
+    "prepared similarly to black tea",
+    "similar to that of black tea"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "charcoal fire",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "heated in steam",
+    "p": 2
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg95_48",
@@ -15272,7 +17205,42 @@
   "answer": "D",
   "accuracyRate": 76,
   "discrimination": 53,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "Tea is enjoyed worldwide as a refreshing and stimulating drink."
+   },
+   {
+    "p": 4,
+    "t": "Because so many people continue to drink the many varieties of tea, it will probably continue as the world’s most popular drink."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 4 段說全世界的人喜歡喝茶，因為茶能讓人精神一振（refreshing）；又說有這麼多人一直在喝各式各樣（varieties）的茶。選項把兩句合起來，說人們喝茶是因為茶的種類多、又能提神，所以是 (D)。(B) 照抄第 1 段的 Java，原文說印度 1834 年開始種茶，爪哇是「今天」也產茶的地區之一，看不出爪哇比印度早；(C) 照抄第 3 段的 grow，中國種茶樹能活到 100 歲，阿薩姆種也能活 40 年，不是只能長一小段時間；(A) 原文沒說喝茶能讓人變得有錢。",
+  "map": [
+   [
+    "refreshing",
+    "refreshing"
+   ],
+   [
+    "varieties",
+    "variety"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "Java",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "grow",
+    "p": 3
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg95_49",
@@ -15291,7 +17259,25 @@
   "answer": "B",
   "accuracyRate": 60,
   "discrimination": 59,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段說太空人在太空梭上工作、做實驗、運動；第 2 段說太空人到太空梭外面工作要穿太空衣；第 3 段說任務結束後太空梭怎麼返回地球、怎麼降落。全文依序說一次太空任務從執行到結束的過程，所以是 (B)。(A) 太空梭怎麼滑翔降落只是第 3 段的內容，過於狹隘；(C) 太空梭怎麼建造、(D) 太空人在太空中飛了多遠，原文都沒有提到，偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   },
+   "C": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rg95_50",
@@ -15310,7 +17296,16 @@
   "answer": "D",
   "accuracyRate": 32,
   "discrimination": 35,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Also, astronauts conduct experiments on the shuttle to learn how space conditions, such as microgravity, affect humans, animals, plants, and insects."
+   }
+  ],
+  "qtype": "字義",
+  "note": "conduct 後面接受詞 experiments，句子說太空人在太空梭上 conduct 實驗，了解微重力對生物的影響，意思是「進行」實驗，所以是 (D) carry out。(A) behave（表現、舉止）要用 conduct oneself 才是這個意思，後面不能接 experiments；(B) instruct（指導）、(C) serve as（擔任），放進句子裡都接不上。",
+  "cat": "詞義題"
  },
  {
   "id": "Rg95_51",
@@ -15329,7 +17324,20 @@
   "answer": "D",
   "accuracyRate": 59,
   "discrimination": 75,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "They are protected by a space suit from the radiation of the Sun."
+   },
+   {
+    "p": 2,
+    "t": "Meanwhile, the space suit provides necessary oxygen supply and keeps the astronauts from feeling the extreme heat or cold outside the shuttle."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說太空衣保護太空人不受太陽輻射傷害，提供必要的氧氣（provides necessary oxygen supply），也讓他們感覺不到外面的極端高溫或低溫。太空衣既然提供氧氣，太空人穿著就不會呼吸困難，所以和原文不符的是 (D)。其他三個選項都和原文相符：到太空梭外面工作要穿太空衣是 (A)；感覺不到外面的嚴寒是 (B) 保暖；擋輻射、供應氧氣，是 (C) 在太空中活下來需要太空衣。",
+  "cat": "細節題"
  },
  {
   "id": "Rg95_52",
@@ -15348,7 +17356,33 @@
   "answer": "A",
   "accuracyRate": 37,
   "discrimination": 58,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "When the shuttle touches the land, a drag parachute opens to steady the aircraft, get the speed right, and help the brakes on the landing-gear wheels to bring it to a complete stop."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說太空梭著地時打開減速傘，讓太空梭保持穩定、把速度調整好，並協助煞車讓它完全停下來。太空梭著地時速度還很快，調整速度、幫忙煞車，就是讓它慢下來，所以是 (A)。(B) 照抄 stop，降落傘幫忙煞車讓太空梭停下，不是防止它墜落；(D) 照抄 atmosphere，太空梭不用引擎、靠滑翔穿過大氣層，那是著地以前的事，降落傘是著地以後才打開；(C) 照抄 Earth，降落傘打開時太空梭已經著地了。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "stop",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "Earth",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "atmosphere",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg95_53",
@@ -15367,7 +17401,25 @@
   "answer": "C",
   "accuracyRate": 50,
   "discrimination": 57,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "目的",
+  "note": "第 1 段介紹 Hirsch 用 MRI 研究兩組雙語者的大腦；第 2、3 段說研究發現兩組人使用 Wernicke 區的方式相同、使用 Broca 區的方式不同；第 4 段說 Hirsch 怎麼解釋這個差異。全文在描述一項針對雙語者大腦的研究，所以是 (C)。(D) 小時候和長大後學語言的方式不同，只是第 4 段的一種推測，而且原文沒說哪一種方法最好，過於狹隘；(A) 怎麼成為雙語者、(B) 怎麼把第二語言學得更好，文章都沒有談，偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     4
+    ]
+   }
+  }
  },
  {
   "id": "Rg95_54",
@@ -15386,7 +17438,38 @@
   "answer": "A",
   "accuracyRate": 45,
   "discrimination": 63,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "This allowed Hirsch to see which parts of the brain were getting more blood and were more active."
+   },
+   {
+    "p": 1,
+    "t": "He asked people from both groups to think about what they had done the day before, first in one language and then the other."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說兩組人躺進 MRI 掃描儀，讓 Hirsch 看到大腦哪些部位比較活躍（more active）；他請受試者先用一種語言、再用另一種語言回想前一天的事。這就是在觀察大腦使用語言時的活動，所以是 (A)。(B) 照抄 out loud，原文說受試者不能說出聲，因為任何動作都會干擾掃描；(D) 照抄 second language，研究是看兩組人使用大腦的部位有什麼不同，沒有要找出學第二語言最好的部位；(C) 受試者是在回想前一天的事，不是在睡覺。",
+  "map": [
+   [
+    "active",
+    "activities"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "out loud",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "second language",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg95_55",
@@ -15405,7 +17488,39 @@
   "answer": "D",
   "accuracyRate": 64,
   "discrimination": 69,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Broca’s area, believed to control speech production"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說一般認為控制說話（control speech production）的是 Broca 區，所以是 (D)。(C) 照抄 Wernicke’s area，Wernicke 區是處理意義的；(A) 照抄第 1 段的 MRI，那是觀察大腦的儀器；(B) 照抄第 3 段的 native tongue，母語是一種語言，不是大腦的部位。",
+  "map": [
+   [
+    "Broca’s area",
+    "Broca’s area"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "MRI",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "native tongue",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "Wernicke’s area",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg95_56",
@@ -15424,7 +17539,35 @@
   "answer": "A",
   "accuracyRate": 44,
   "discrimination": 63,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "He found that both groups of people used the same part of Wernicke’s area no matter what language they were speaking."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 2 段說兩組人不論說哪一種語言（no matter what language they were speaking），用的都是 Wernicke 區的同一個部位，所以是 (A)。(D) 照抄 different，不同的是使用 Broca 區的方式，選項把它接到 Wernicke 區；(B) 照抄第 3 段的 Broca’s area，只有小時候學第二語言的人兩種語言都用 Broca 區的同一個區域，長大後才學的人用的是另一個部位，所以不能說 always；(C) 原文說兩組人都用到這兩個區域。",
+  "map": [
+   [
+    "the same part of Wernicke’s area",
+    "the same part of Wernicke’s area"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "Broca’s area",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "different",
+    "p": 2
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg94_41",
@@ -15443,7 +17586,28 @@
   "answer": "B",
   "accuracyRate": 56,
   "discrimination": 52,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段作者說自己多年來以為痛苦是身材造成的；第 2、3 段說許多人以為瘦下來就能解決一切，復胖了還相信下一次會不一樣；第 4 段說如果想要快樂，就該看看內在，改變對自己的態度，整個世界也會跟著改變。全文強調的是看待自己和生活的態度，所以是 (B)。(C) 文化差異、(D) 美的標準因文化而不同，都只是第 4 段舉薩摩亞的例子，過於狹隘；(A) 文章正是要說身材沒有那麼重要，偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     4
+    ]
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     4
+    ]
+   }
+  }
  },
  {
   "id": "Rg94_42",
@@ -15462,7 +17626,27 @@
   "answer": "A",
   "accuracyRate": 58,
   "discrimination": 58,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "I believed that when the weight disappeared, it would take old wounds, hurts, and rejections with it."
+   },
+   {
+    "p": 2,
+    "t": "Many weight-conscious people also mistakenly believe that changing our bodies will fix everything."
+   }
+  ],
+  "qtype": "字義",
+  "note": "第 2 段說在意體重的人以為改變身體就能 fix everything。fix 是修好、解決，後面接的是要解決的東西；第 1 段作者也說以為瘦下來就能帶走過去的創傷、傷痛和別人的拒絕。所以 everything 指的是所有的問題，答案是 (A)。(C) 照抄第 4 段的 the whole world，那是說改變對自己的態度，整個世界也會跟著改變，和 fix 接不上；(B) 所有的財產、(D) 絕對的真理，原文都沒有提到。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "the whole world",
+    "p": 4
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rg94_43",
@@ -15481,7 +17665,28 @@
   "answer": "C",
   "accuracyRate": 66,
   "discrimination": 54,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "For many years, I was convinced that my suffering was due to my size."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 1 段作者說好多年來一直深信自己的痛苦是身材造成的，可見體重一直困擾著作者，所以是 (C)。(A) 照抄第 4 段的 Samoa，薩摩亞是作者舉來說明美的標準因文化而不同的例子，看不出作者是薩摩亞人；(D) 照抄 wound，原文的創傷是心裡的傷痛，和體重有關，不是在戰爭或意外中受傷；(B) 第 3 段說我們常常又胖回來，看不出作者減重成功。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "Samoa",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "wound",
+    "p": 1
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg94_44",
@@ -15500,7 +17705,20 @@
   "answer": "C",
   "accuracyRate": 57,
   "discrimination": 46,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Even so, we continue to believe that next time it will be different."
+   },
+   {
+    "p": 3,
+    "t": "Next time, we will keep it off."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說我們常常又胖回來，即使如此（Even so），還是繼續相信下一次會不一樣，下一次不會再胖回來，瘦終於會帶來快樂。對下一次還是充滿期待，就是對以後控制體重的計畫感到樂觀，所以是 (C)。(D) 正好相反，原文說大家還是相信下一次，沒有放棄；(A) 生氣、(B) 不在乎，原文都沒有提到。",
+  "cat": "細節題"
  },
  {
   "id": "Rg94_45",
@@ -15519,7 +17737,29 @@
   "answer": "A",
   "accuracyRate": 48,
   "discrimination": 44,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "出處",
+  "note": "第 1 段開頭寫明地震發生的日期、死亡人數和受災情形；第 2 到 4 段交代巴姆的建築和歷史背景，說明為什麼災情這麼嚴重；第 5 段報導救援物資星期天運抵、精神領袖誓言重建。這是報導一場剛發生的災難的寫法，最可能出自 (A) 報紙。(B) 城堡和絲路的歷史只是第 3、4 段的背景，過於狹隘；(D) 絲路貿易站只在第 4 段提到，文章的重點不是國際貿易，也過於狹隘；(C) 文章沒有評論任何一本書，偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     3,
+     4
+    ]
+   },
+   "C": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     4
+    ]
+   }
+  }
  },
  {
   "id": "Rg94_46",
@@ -15538,7 +17778,43 @@
   "answer": "C",
   "accuracyRate": 68,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Bam was best known for its 2,000-year-old castle built out of mud, straw, and the trunks of palm trees."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說巴姆最有名的（best known for）是那座有 2,000 年歷史、用泥土和稻草（mud, straw）建成的城堡，所以是 (C)。(A) 照抄 palm trees，棕櫚樹幹是蓋城堡的材料之一，不是巴姆出名的東西；(D) 照抄第 4 段的 treasures from the Far East，遠東的珍寶是經過巴姆運往歐洲的貨物；(B) 照抄第 1 段的 earthquake，原文說這是十多年來最嚴重的地震，沒說巴姆常常地震。",
+  "map": [
+   [
+    "mud, straw",
+    "mud and straw"
+   ],
+   [
+    "castle",
+    "castle"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "palm trees",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "earthquake",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "treasures from the Far East",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg94_47",
@@ -15557,7 +17833,34 @@
   "answer": "D",
   "accuracyRate": 65,
   "discrimination": 60,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "One reason the earthquake caused such damage was that Bam's buildings were made mostly from baked mud."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說地震造成這麼嚴重的破壞（caused such damage），原因之一是巴姆的建築大多是用烤乾的泥土造的，所以是 (D)。(C) 照抄第 4 段的 trading post、(B) 照抄第 4 段的 treasures，巴姆成為貿易站、有珍寶經過，是因為位在絲路上，和建築材料無關；(A) 建築材料說明的是破壞為什麼嚴重，不是地震為什麼發生。",
+  "map": [
+   [
+    "caused such damage",
+    "caused such damage"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "treasures",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "trading post",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg94_48",
@@ -15576,7 +17879,29 @@
   "answer": "A",
   "accuracyRate": 28,
   "discrimination": 47,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "At least 25,000 people died in the quake—nearly a third of the city's population."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 1 段說至少 25,000 人在地震中喪生，將近全城人口的三分之一。死亡的人占三分之一，倒推全城人口大約是 25,000 × 3＝75,000 人，活下來的大約是三分之二，也就是 50,000 人左右，所以是 (A)。(B) 照抄第 5 段的 supplies，原文說食物和物資來自世界各地，不是沒有多少國家援助；(C) 照抄 2003，原文說這是十多年來最嚴重的地震，可見以前也有地震，不是第一次；(D) 第 5 段精神領袖誓言要把巴姆重建得比以前更堅固，不會把城市廢棄。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "supplies",
+    "p": 5
+   },
+   {
+    "o": "C",
+    "t": "2003",
+    "p": 1
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg94_49",
@@ -15595,7 +17920,33 @@
   "answer": "A",
   "accuracyRate": 67,
   "discrimination": 67,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "It is caused by disruption to the internal biological clock"
+   },
+   {
+    "p": 2,
+    "t": "The body takes about one day to get over each hour of time difference."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說時差是體內的生理時鐘（biological clock）受到干擾造成的；第 2 段說每差一個小時，身體大約要一天才能恢復。有時差的旅客，問題就在調整生理時鐘，所以是 (A)。(B) 照抄第 2 段的 direction，旅行的方向會影響時差有多嚴重，不是說旅客不知道飛機往哪個方向飛；(C) 飛行的距離、(D) 適應新地方的天氣，原文都沒有提到。",
+  "map": [
+   [
+    "biological clock",
+    "biological clock"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "direction",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg94_50",
@@ -15614,7 +17965,16 @@
   "answer": "D",
   "accuracyRate": 26,
   "discrimination": 36,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The body takes about one day to get over each hour of time difference."
+   }
+  ],
+  "qtype": "細節",
+  "note": "跨越一個時區，時間就差一個小時，跨越三個時區就差三個小時。第 2 段說每差一個小時，身體大約要一天才能恢復，三個小時就要三天，3 × 24＝72 小時，所以是 (D)。這一題要先把時區換成小時，再把天數換成小時：(A) 24 只算了一個小時時差要的一天；(B) 36、(C) 48 都算錯了天數。",
+  "cat": "細節題"
  },
  {
   "id": "Rg94_51",
@@ -15633,7 +17993,38 @@
   "answer": "B",
   "accuracyRate": 70,
   "discrimination": 33,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "A west-to-east journey, on the other hand, makes us late compared to the local time."
+   },
+   {
+    "p": 2,
+    "t": "It often demands even greater effort in adjustment since we are not quick enough to catch up with the new time schedule."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說往西走可能出現問題；從西往東（west-to-east）的旅程，通常需要花更大的力氣（even greater effort）調整，因為我們追不上新的時間表；最後還舉例說洛杉磯到紐約比紐約到洛杉磯問題多。時差最嚴重的是 (B)。(C) 照抄 north、(D) 照抄 south，原文說往北或往南通常沒有時區變化，不會注意到任何差別；(A) 從東往西也可能有問題，但 even greater 比較的結果是從西往東比較嚴重。",
+  "map": [
+   [
+    "west-to-east",
+    "west-to-east"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "north",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "south",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg94_52",
@@ -15652,7 +18043,22 @@
   "answer": "A",
   "accuracyRate": 45,
   "discrimination": 60,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "目的",
+  "note": "第 1 段說時差是生理時鐘受到干擾造成的，會引起哪些問題；第 2 段說明時差的嚴重程度和跨越幾個時區、往哪個方向旅行有關。全文在解釋時差問題是怎麼來的，所以是 (A)。三個錯誤選項都偏離主題：(B) 怎麼避免時差、(D) 怎麼減輕時差，文章都沒有教；(C) 文章談的是跨越時區對身體的影響，不是比較各個時區有什麼不同。",
+  "cat": "主旨題",
+  "scope": {
+   "B": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rg94_53",
@@ -15671,7 +18077,39 @@
   "answer": "B",
   "accuracyRate": 70,
   "discrimination": 52,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "but the first colony of the red ants was not found until 1942 by a 13-year-old boy in his backyard."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說第一個紅火蟻的蟻窩直到 1942 年才由一個男孩發現（not found until 1942），所以是 (B)。(A) 照抄 1930s，1930 年代末期是紅火蟻搭貨船進入美國的時間，不是發現蟻窩的時間；(C) 照抄第 2 段的 1975，那時紅火蟻已經占據超過 5,200 萬公頃；(D) 1975 年以後，紅火蟻早就散布各地了。",
+  "map": [
+   [
+    "1942",
+    "1942"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "1930s",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "1975",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "1975",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg94_54",
@@ -15690,7 +18128,40 @@
   "answer": "C",
   "accuracyRate": 58,
   "discrimination": 52,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "With multiple queens at work, its population increases rapidly."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 3 段說有多隻蟻后同時工作，蟻群的數量增加得很快（increases rapidly），選項換成 reproduce young ants very quickly，所以是 (C)。(A) 照抄 one queen，原文說以前每個蟻窩只有一隻蟻后，現在常常有多隻；(D) 照抄 mounds，原文說紅火蟻在室內也會築蟻丘，正好相反；(B) 照抄第 1 段的 America，紅火蟻原產於南美洲，北美洲是牠們入侵的地方。",
+  "map": [
+   [
+    "increases rapidly",
+    "very quickly"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "one queen",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "America",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "mounds",
+    "p": 3
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg94_55",
@@ -15709,7 +18180,24 @@
   "answer": "D",
   "accuracyRate": 43,
   "discrimination": 41,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "They construct their colonies on precious farmland, invading crops while searching for insects underground."
+   },
+   {
+    "p": 4,
+    "t": "Small birds such as baby quails are fair game to the expanding colony."
+   },
+   {
+    "p": 4,
+    "t": "Worst of all, their stings can be fatal to livestock and humans."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段列出紅火蟻造成的問題，要自己歸類：侵害農地上的農作物、把果樹的果實吃光，是農業問題（agricultural）；侵擾草坪和牧場、捕食小鳥，是環境問題（environmental）；螫人可能讓人喪命，是健康問題（health）。所以是 (D)。原文沒有提到社會問題（social），(A)、(B)、(C) 都有 social，可以直接排除。",
+  "cat": "細節題"
  },
  {
   "id": "Rg94_56",
@@ -15728,7 +18216,22 @@
   "answer": "C",
   "accuracyRate": 69,
   "discrimination": 56,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "目的",
+  "note": "第 1、2 段說紅火蟻從哪裡來、怎麼進入美國、擴散得多快；第 3 段說牠們怎麼築巢、繁殖；第 4 段列出牠們造成的問題。全文在介紹紅火蟻，所以是 (C)。三個錯誤選項都偏離主題：(A) 文章沒有請大家幫忙消滅紅火蟻；(B) 文章列出紅火蟻的種種危害，不會呼籲保護牠們；(D) 文章沒有提到政府。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rg93_41",
