@@ -25,7 +25,27 @@
     441
    ],
    "source": "大學入學考試中心 115 學年度起適用學科能力測驗參考試卷英文考科"
-  }
+  },
+  "ev": [
+   {
+    "p": 2,
+    "t": "In the Greek version, the toe strap ran between the first and second toes, while Roman sandals had the strap between the second and third toes."
+   }
+  ],
+  "qtype": "圖表",
+  "note": "圖裡的帶子夾在第二趾和第三趾之間，對照第 2 段，是羅馬式的涼鞋。這一題要把文字描述轉成圖像，三個錯誤選項都是同一段列出的其他文化。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "Greek",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "Mesopotamian",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg115r_36",
@@ -44,7 +64,32 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The name comes from the sound the sandals make when they slap the walking feet."
+   }
+  ],
+  "qtype": "細節",
+  "note": "名稱來自走路時發出的聲音，sound 在選項換成 noise。(C) 的 simple 取自第 1 段開頭 the simplest shoe，但那一句講的是鞋子的樣子，不是名稱的由來。",
+  "map": [
+   [
+    "The name comes from",
+    "Because of"
+   ],
+   [
+    "the sound",
+    "the noise"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "simple",
+    "p": 1
+   }
+  ]
  },
  {
   "id": "Rg115r_37",
@@ -63,7 +108,46 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Modern flip-flops derive from Japanese zōris"
+   },
+   {
+    "p": 4,
+    "t": "In the 1950s, flip-flops became popular in the United States as soldiers returning from occupied Japan brought zōris home."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 3 段說現代人字拖源自日本草履，第 4 段說美國士兵把草履從日本帶回家，兩段合起來就是 (D)。(A) 的 toe knob 在第 2 段，和現代人字拖無關；(B) 鮮豔的顏色是後來重新設計才有的，不是美國人喜歡的原因；(C) 橡膠是戰後才取代稻草。",
+  "map": [
+   [
+    "soldiers returning from occupied Japan brought zōris home",
+    "American soldiers brought home from Japan"
+   ],
+   [
+    "Modern flip-flops derive from Japanese zōris",
+    "later became modern flip-flops"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "toe knob",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "bright colors",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "World War II",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg115r_38",
@@ -82,7 +166,23 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 5,
+    "t": "Their simple design is responsible for many foot injuries."
+   },
+   {
+    "p": 5,
+    "t": "Another issue is the suitability of exposing feet on the street and places other than the beach."
+   },
+   {
+    "p": 5,
+    "t": "Millions of plastic discards end up in landfills or the ocean, releasing chemicals and at the same time taking centuries to decompose."
+   }
+  ],
+  "qtype": "未提及",
+  "note": "第 5 段提到三個問題，在選項裡都換了說法：foot injuries 是 Personal health，suitability 是 Social appropriateness，plastic discards end up in the ocean 是 Marine pollution。只有 (B) 品質不好文章沒提。"
  },
  {
   "id": "Rg115r_39",
@@ -101,7 +201,10 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段引出領港員這個職業，第 2–3 段說這份工作為什麼需要、難在哪裡，第 4 段總結這份工作的要求和責任，所以全文介紹的是一種特殊的職業。(B) 只是第 1 段的引子，(C)、(D) 都只是文中的細節。"
  },
  {
   "id": "Rg115r_40",
@@ -120,7 +223,32 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "In addition to the shallower seabeds, tide and wind pose further challenges for bringing ships into a port."
+   },
+   {
+    "p": 4,
+    "t": "controls the vessel based on his or her knowledge of the port and the situation at hand"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說潮汐和風會改變船的方向，第 4 段說領港員要依當下的狀況操控船隻，所以天氣狀況是必備的知識，原文的 wind 在選項換成概括的 weather conditions。(B) 的 cargo 取自第 2 段，那裡講的是擱淺時貨物會受損，不是領港員要懂貨物內容。",
+  "map": [
+   [
+    "wind",
+    "weather conditions"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "cargo",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg115r_41",
@@ -139,7 +267,32 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "But the captain of a ship is responsible for guiding the vessel until they hit a port, waiting to enter the harbor."
+   },
+   {
+    "p": 4,
+    "t": "A marine pilot goes on board at a crucial time"
+   }
+  ],
+  "qtype": "指涉",
+  "note": "第 1 段說船長把船開到港口、等候進港時，就換領港員接手，這正是領港員登船的關鍵時刻；harbor 在選項換成 port。(B) 的 channel 取自第 2 段，講的是港口的地形，不是登船的時間點。",
+  "map": [
+   [
+    "waiting to enter the harbor",
+    "waiting to enter the port"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "channel",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg115r_42",
@@ -158,7 +311,19 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "Marine pilotage is a job that requires a high degree of proficiency as well as quick and independent thinking."
+   },
+   {
+    "p": 4,
+    "t": "The pilot is responsible for not only the safety of the ship but also the protection of the port and the marine environment."
+   }
+  ],
+  "qtype": "寫作手法",
+  "note": "末段把前面講過的內容再收一次：專業知識對應第 2 段，迅速獨立的判斷對應第 3 段的潮汐和風，船和海洋環境的安全對應第 2 段的擱淺與貨物外洩，所以是總結重點，沒有新的細節，也沒有預測或給一般大眾的建議。"
  },
  {
   "id": "Rg115r_43",
@@ -177,7 +342,25 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Scientists thus hope that understanding the self-healing mystery of the fish may one day allow humans to regenerate such organs as eyes, hearts, and spines."
+   },
+   {
+    "p": 3,
+    "t": "it may give rise to new treatments for blindness caused by retinal damage"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說斑馬魚或許能讓人類的器官再生，第 3 段說可能帶來治療失明的新療法，這些都是醫學上的進展。(B) 文章只說 GABA 在視網膜再生中扮演重要角色，沒說再生能力從哪裡來；(C) 只說基因有 70% 相同，沒說為什麼相同。",
+  "map": [
+   [
+    "new treatments",
+    "medical advancements"
+   ]
+  ]
  },
  {
   "id": "Rg115r_44",
@@ -196,7 +379,38 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "They found that lowering GABA levels in zebrafish can trigger retina regeneration"
+   }
+  ],
+  "qtype": "是非",
+  "note": "trigger 在選項換成 stimulate，regeneration 換成 regrowth。(A) 方向相反，原文說 GABA 降低神經元的活動；(D) 照抄同一段的 chemical 和 trigger，可是會啟動再生的是降低 GABA，不是 GABA 含有什麼成分；(B) 文章沒有比較斑馬魚腦中 GABA 的高低。",
+  "map": [
+   [
+    "trigger retina regeneration",
+    "stimulate retina regrowth"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "neuron",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "chemical",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "trigger",
+    "p": 4
+   }
+  ]
  },
  {
   "id": "Rg115r_45",
@@ -215,7 +429,28 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "If the process can be replicated in humans, it may give rise to new treatments for blindness caused by retinal damage."
+   }
+  ],
+  "qtype": "字義",
+  "note": "把斑馬魚視網膜再生的過程在人類身上「再做一次」，replicate 和 reproduce 都是複製、重現。(D) Restored 照抄同一段 vision is restored，但恢復的是視力，不是把過程複製到人身上。",
+  "map": [
+   [
+    "replicated",
+    "Reproduced"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "Restored",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg115r_46",
@@ -234,7 +469,21 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Scientists thus hope that understanding the self-healing mystery of the fish may one day allow humans to regenerate such organs as eyes, hearts, and spines."
+   }
+  ],
+  "qtype": "事實意見",
+  "note": "hope 和 may 表示的是科學家的期望和推測，還沒有證實，屬於意見。(A)、(B)、(C) 文章都當作研究結果或正在進行的事來陳述，是事實。",
+  "map": [
+   [
+    "may one day allow humans to regenerate such organs",
+    "may allow humans to regrow their organs"
+   ]
+  ]
  },
  {
   "id": "Rg115_35",
@@ -253,7 +502,10 @@
   "answer": "C",
   "accuracyRate": 52,
   "discrimination": 49,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段點出這是一段勇氣與毅力的傳奇，第 2–5 段依時間寫整趟航程從出發、受困、棄船到獲救，所以全文講的是一次艱難的南極航行。(A) 只寫主角這個人，(D) 只是第 1 段引出故事的新聞，都只是細節。"
  },
  {
   "id": "Rg115_36",
@@ -272,7 +524,21 @@
   "answer": "D",
   "accuracyRate": 43,
   "discrimination": 72,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Freezing water rushed in and exacerbated the situation."
+   }
+  ],
+  "qtype": "字義",
+  "note": "船板已經擠壞，冰水又灌進來，情況雪上加霜；exacerbate 是讓壞事變得更糟，和 add fuel to the fire（火上加油）意思相同。",
+  "map": [
+   [
+    "exacerbated the situation",
+    "Added fuel to the fire"
+   ]
+  ]
  },
  {
   "id": "Rg115_37",
@@ -291,7 +557,41 @@
   "answer": "A",
   "accuracyRate": 51,
   "discrimination": 66,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "On August 4, 1914, Sir Ernest Shackleton, along with a skilled crew of 27, set sail on the Endurance toward the South Pole, hoping to make the first land crossing over Antarctica."
+   },
+   {
+    "p": 5,
+    "t": "On August 30, 1916, Shackleton finally got back to Elephant Island with a ship big enough to rescue the rest of his men."
+   }
+  ],
+  "qtype": "是非",
+  "note": "原文沒有直接寫「兩年」，要把第 2 段出發的日期和第 5 段救回所有人的日期相減，1914 年 8 月到 1916 年 8 月底，超過兩年。(C) 和 (D) 都照抄第 4 段的字詞，卻把事情接錯：在浮冰上紮營五個月的是船員，不是在象島；五名船員是跟著 Shackleton 一起去求救，不是他派出去的。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "Elephant Island",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "five months",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "five crew members",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "whaling station",
+    "p": 4
+   }
+  ]
  },
  {
   "id": "Rg115_38",
@@ -319,7 +619,23 @@
     858
    ],
    "source": "大學入學考試中心 115 學年度學科能力測驗英文考科"
-  }
+  },
+  "ev": [
+   {
+    "p": 2,
+    "t": "Two days after leaving South Georgia in December, the Endurance encountered floating ice, and was soon completely trapped in pack ice."
+   },
+   {
+    "p": 3,
+    "t": "The worthy vessel held up for nine months, drifting down south slowly and then pushed northward by the ice."
+   },
+   {
+    "p": 3,
+    "t": "Weeks later, they watched the Endurance sink beneath the Weddell Sea."
+   }
+  ],
+  "qtype": "圖表",
+  "note": "題目問的是堅忍號這艘船的路線，不是船員的路線：船離開南喬治亞島後困在浮冰裡，先往南漂、再往北推，最後沉在威德爾海，沒有到過象島，對應 (C)。(A) 畫到象島再回南喬治亞島，那是第 4 段船員搭救生艇和 Shackleton 求救的路線。"
  },
  {
   "id": "Rg115_39",
@@ -338,7 +654,25 @@
   "answer": "D",
   "accuracyRate": 43,
   "discrimination": 31,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "The timeless appeal of their classical design makes spiral staircases a much-desired feature in luxury homes, offices, and public buildings nowadays."
+   }
+  ],
+  "qtype": "細節",
+  "note": "最後一句說古典設計歷久不衰，所以螺旋梯現今很受青睞，回答了 (D) 的「為什麼」。(A) 文章只說最早的記載在舊約、現存最古老的在圖拉真柱，沒說第一座建在哪裡；(B)、(C) 文章都沒提。",
+  "map": [
+   [
+    "much-desired",
+    "popular"
+   ],
+   [
+    "nowadays",
+    "in modern times"
+   ]
+  ]
  },
  {
   "id": "Rg115_40",
@@ -357,7 +691,21 @@
   "answer": "A",
   "accuracyRate": 38,
   "discrimination": 41,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "The defenders, living in the castles, were familiar with the stair pattern and could retreat up them very swiftly"
+   }
+  ],
+  "qtype": "指涉",
+  "note": "retreat up 後面要接可以往上退的地方，就是同一句前面 the stair pattern 說的樓梯。(D) Defenders 是這一句的主詞，(C) Attackers 在後半句，兩者都是人，不能「退到人上面」。",
+  "map": [
+   [
+    "them",
+    "Stairs"
+   ]
+  ]
  },
  {
   "id": "Rg115_41",
@@ -376,7 +724,33 @@
   "answer": "A",
   "accuracyRate": 72,
   "discrimination": 59,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The staircase was built in 113 AD, with a total of 185 steps carved in stone and marble."
+   },
+   {
+    "p": 4,
+    "t": "In Victorian times, cast iron spiral staircases were popular for public buildings and homes for the rich."
+   },
+   {
+    "p": 4,
+    "t": "In the latter half of the 20th century, steel frames became cost-effective, and thus affordable for a much wider staircase market."
+   },
+   {
+    "p": 4,
+    "t": "Today, spiral staircases come in a wide variety of materials: steel, wood, concrete, and recently even glass."
+   }
+  ],
+  "qtype": "順序",
+  "note": "依時間把材料排出來：西元 113 年的石頭、維多利亞時期的鑄鐵、二十世紀的鋼、最近的玻璃。選項照用原文的材料名稱，難處在把散在兩段的時間點串起來。",
+  "map": [
+   [
+    "cast iron",
+    "iron"
+   ]
+  ]
  },
  {
   "id": "Rg115_42",
@@ -395,7 +769,41 @@
   "answer": "B",
   "accuracyRate": 44,
   "discrimination": 25,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Also, the stairs were designed to turn clockwise upwards."
+   },
+   {
+    "p": 3,
+    "t": "This means that ascenders would have their right hand tight against the narrowest part of the staircases, close to the central pole, and as a result were unable to use their sword effectively."
+   }
+  ],
+  "qtype": "推論",
+  "note": "原文只說往上爬的攻方右手貼著中柱、揮不了劍；守方站在上面往下打，右手剛好在寬的那一側，所以推得出順時針的設計對慣用右手的守方有利。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "narrow",
+    "p": 3
+   },
+   {
+    "o": "A",
+    "t": "retreat",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "uneven steps",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "ascend",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg115_43",
@@ -414,7 +822,10 @@
   "answer": "C",
   "accuracyRate": 72,
   "discrimination": 63,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段提問地圖為什麼北方朝上，第 2–5 段依時間寫東方朝上、南方朝上、北方朝上到 GPS 隨路線轉向，所以全文講方位怎麼隨時代演變。(A) 只是第 2 段最後一句，(D) 只是第 4 段的背景，都是細節。"
  },
  {
   "id": "Rg115_44",
@@ -433,7 +844,42 @@
   "answer": "D",
   "accuracyRate": 72,
   "discrimination": 48,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "In ancient India, for example, maps were most likely oriented to the east."
+   },
+   {
+    "p": 2,
+    "t": "Though there is no physical evidence to support this"
+   }
+  ],
+  "qtype": "指涉",
+  "note": "沒有實物證據可以支持的是前一句的整件事：古印度地圖很可能以東方為上方。(B) Physical evidence 是同一個子句裡的字，(A)、(C) 也都照抄這一段的字詞，但都不是要「證明」的那件事。",
+  "map": [
+   [
+    "maps were most likely oriented to the east",
+    "East-orientation of maps"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "Physical evidence",
+    "p": 2
+   },
+   {
+    "o": "A",
+    "t": "dakshina",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "Ancient India",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg115_45",
@@ -452,7 +898,21 @@
   "answer": "A",
   "accuracyRate": 39,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 6,
+    "t": "So, perhaps the north-on-top practice is less a rule and more a blip."
+   }
+  ],
+  "qtype": "字義",
+  "note": "less A and more B 是「與其說是 A，不如說是 B」，blip 和 rule（長久的規則）相對；下一句又說我們回到了古代的起點，可見北方朝上只是一時的現象。",
+  "map": [
+   [
+    "a blip",
+    "A temporary state"
+   ]
+  ]
  },
  {
   "id": "Rg115_46",
@@ -471,7 +931,41 @@
   "answer": "D",
   "accuracyRate": 43,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Map makers in Arabia also drew maps with south on top since the earliest Muslims lived north of Mecca, and a south-oriented map would show the followers looking up toward their holy city."
+   }
+  ],
+  "qtype": "是非",
+  "note": "讓信徒抬頭望向聖城麥加，就是出於宗教的理由。(C) 照抄第 2 段的 pre-Biblical，但那個時代是東方朝上；(A) 北極星是用來辨認方向，不是目的地；(B) 第 5 段說 GPS 畫面隨路線轉向，不是固定方向。",
+  "map": [
+   [
+    "Map makers in Arabia",
+    "Old Islamic maps"
+   ],
+   [
+    "drew maps with south on top",
+    "put south at the top"
+   ],
+   [
+    "looking up toward their holy city",
+    "for religious purposes"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "pre-Biblical",
+    "p": 2
+   },
+   {
+    "o": "A",
+    "t": "North Star",
+    "p": 4
+   }
+  ]
  },
  {
   "id": "Rg114_35",
@@ -490,7 +984,10 @@
   "answer": "A",
   "accuracyRate": 47,
   "discrimination": 72,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "從 Knight 參考鐵路號誌的設計、美國的可動臂與三色燈，到自駕車時代可能不再需要號誌，全文依時間講交通號誌系統怎麼演變。(B) 只寫到其中兩位發明者，(D) 範圍太大，文章只講號誌，沒講整個交通運輸。"
  },
  {
   "id": "Rg114_36",
@@ -518,7 +1015,19 @@
     817
    ],
    "source": "大學入學考試中心 114 學年度學科能力測驗英文考科"
-  }
+  },
+  "ev": [
+   {
+    "p": 1,
+    "t": "Thus, he proposed a signaling system based on the railway movable-arm signal: Arms extending horizontally commanded drivers to stop, whereas arms lowered to a 45-degree angle told drivers to move on, resembling a traffic director’s gestures."
+   },
+   {
+    "p": 1,
+    "t": "Red and green gas lamps were added to the signal for use at night."
+   }
+  ],
+  "qtype": "圖表",
+  "note": "Knight 的號誌要同時有可以擺動的號誌臂和夜間用的燈，四張圖裡只有 (C) 兩者都有。(B) 只有臂、沒有燈，比較像他參考的鐵路號誌本身；(A) 只有燈；(D) 寫 STOP、GO 的牌子文章沒提。"
  },
  {
   "id": "Rg114_37",
@@ -537,7 +1046,46 @@
   "answer": "D",
   "accuracyRate": 56,
   "discrimination": 72,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "Now, with the emergence of self-driving cars, researchers have begun to suggest that traffic signals are no longer necessary."
+   },
+   {
+    "p": 4,
+    "t": "Intersections will operate in a way that cars automatically adjust their speed to cross through, while maintaining safe distances from other vehicles."
+   }
+  ],
+  "qtype": "是非",
+  "note": "自駕車在選項換成 Future vehicles，「號誌不再必要」換成「可能不需要紅綠燈」。(A) 照抄第 2 段的 explosion，但受傷的是操作號誌的警察，不是 Knight；(C) 照抄第 1 段的 traffic director，原文說的是號誌臂像交通指揮的手勢，構想其實來自鐵路號誌；(B) 黃燈是改良，不是美國第一座。",
+  "map": [
+   [
+    "self-driving cars",
+    "Future vehicles"
+   ],
+   [
+    "traffic signals are no longer necessary",
+    "may not need traffic lights"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "explosion",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "traffic director",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "Potts",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg114_38",
@@ -556,7 +1104,15 @@
   "answer": "C",
   "accuracyRate": 75,
   "discrimination": 43,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Installed in Detroit in 1920, Potts’ three-color system allowed for the added signal “proceed with caution” to be displayed."
+   }
+  ],
+  "qtype": "插入句",
+  "note": "This design 要接一個前面剛講完的設計，而且是之後世界各地都採用的；第 3 段最後一句的三色系統正好符合，今天的紅綠燈就是紅、黃、綠三色。第 2 段結尾是號誌遭到禁用，第 4 段講的是未來，都接不上 later designs。"
  },
  {
   "id": "Rg114_39",
@@ -575,7 +1131,10 @@
   "answer": "A",
   "accuracyRate": 66,
   "discrimination": 60,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "出處",
+  "note": "全文談的都是看恐怖片對人的影響：恐懼、焦慮、情緒宣洩、心理創傷、睡眠、兒童日後的焦慮，這些都屬於心理學研究的範圍。文章沒有談教學（Education）、哲學思辨或傳播媒體本身。"
  },
  {
   "id": "Rg114_40",
@@ -594,7 +1153,25 @@
   "answer": "B",
   "accuracyRate": 55,
   "discrimination": 56,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Secondly, as people are drawn into the story, they tend to take the perspective of the characters and rehearse the plot unconsciously."
+   },
+   {
+    "p": 2,
+    "t": "Researchers believe that viewers are learning vicariously this way, picking up tips on how to handle threats in the real world."
+   }
+  ],
+  "qtype": "字義",
+  "note": "this way 指前一句：觀眾站在角色的立場，在腦中預演劇情。觀眾自己沒有遇到危險，是看著角色怎麼應付才學到方法，所以 vicariously 是「透過別人的經歷」，也就是 through observation。(D) personal experience 正好相反。",
+  "map": [
+   [
+    "picking up tips",
+    "Gaining knowledge"
+   ]
+  ]
  },
  {
   "id": "Rg114_41",
@@ -613,7 +1190,32 @@
   "answer": "D",
   "accuracyRate": 65,
   "discrimination": 66,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Children under 14 who watch horror movies have a greater chance of developing anxiety later in adulthood."
+   },
+   {
+    "p": 3,
+    "t": "Worse yet, exposure to graphic violence and bloodshed can make them less sensitive to real-life violence and more accepting of aggression."
+   }
+  ],
+  "qtype": "推論",
+  "note": "小時候看恐怖片，成年後比較容易焦慮，對暴力也變得麻木、更能接受攻擊行為，這些都是對性格的長期影響。(A) 原文只說兒童，選項擴大成大多數愛看恐怖片的人；(C) 照抄第 2 段的 COVID-19，但原文說疫情期間大家愛看恐怖片，不是疫情帶給恐怖片靈感；(B) 文章好處、壞處都談，沒說哪一邊比較多。",
+  "map": [
+   [
+    "later in adulthood",
+    "long-term effect"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "COVID-19",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg114_42",
@@ -632,7 +1234,32 @@
   "answer": "B",
   "accuracyRate": 39,
   "discrimination": 29,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Given the variations in preferences, new studies have started to untangle the benefits and risks of horror movies."
+   },
+   {
+    "p": 3,
+    "t": "However, researchers also find that horror movies can have negative effects on some people."
+   }
+  ],
+  "qtype": "寫作手法",
+  "note": "第 1 段最後一句預告要談好處和風險，第 2 段講好處，第 3 段用 However 轉到壞處，兩段立場相反。(A) 照抄第 2 段的 concept，但 safe fear 只是第一個好處，不是全文的寫法。",
+  "map": [
+   [
+    "the benefits and risks",
+    "opposing views"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "concept",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg114_43",
@@ -651,7 +1278,32 @@
   "answer": "C",
   "accuracyRate": 43,
   "discrimination": 54,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Critics of the country say that drinking is almost an inherent trait of the Russian people."
+   },
+   {
+    "p": 2,
+    "t": "The consumption of alcoholic beverages was unusual in ancient Russia."
+   }
+  ],
+  "qtype": "段落功能",
+  "note": "第 1 段先提出一般人的說法：愛喝酒是俄羅斯人與生俱來的特質，接著用 However 說事情沒這麼簡單；第 2 段就舉證古代俄羅斯人很少喝酒、伏特加也不是他們發明的，用來反駁這個說法。inherent trait 在選項換成 born drinkers。(D) 照抄 Christianity，但原文只用它標出時間，沒說喝伏特加和基督教有關。",
+  "map": [
+   [
+    "an inherent trait",
+    "born drinkers"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "Christianity",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg114_44",
@@ -670,7 +1322,38 @@
   "answer": "A",
   "accuracyRate": 63,
   "discrimination": 59,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The first Russian-made vodka appeared in the 15th century"
+   }
+  ],
+  "qtype": "是非",
+  "note": "第一批俄羅斯自製的伏特加出現，就是俄羅斯開始生產伏特加。(B) 照抄 France，但原文說從法國傳入的是葡萄烈酒，沒提小麥；(C) 照抄第 3 段的德國人和中世紀歐洲，但原文說德國人最會喝酒，不是最會生產伏特加；(D) 19 世紀其實只准政府生產。",
+  "map": [
+   [
+    "The first Russian-made vodka appeared",
+    "Vodka production in Russia started"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "France",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "medieval Europe",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "19th century",
+    "p": 4
+   }
+  ]
  },
  {
   "id": "Rg114_45",
@@ -689,7 +1372,37 @@
   "answer": "D",
   "accuracyRate": 42,
   "discrimination": 68,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "In the 19th century, the emperors began to establish a state monopoly, largely due to the rise of illegal production of low-quality vodka."
+   },
+   {
+    "p": 4,
+    "t": "This soon filled the state treasury with huge revenues, but it also encouraged vodka consumption."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "讓國庫進帳、又助長伏特加消費的，是只准政府生產酒的國家專賣制度。(C) illegal production 是建立專賣制度的原因，(B) government 是專賣制度裡的主角，都照抄同一段的字詞，卻不是 This 指的那件事。",
+  "map": [
+   [
+    "a state monopoly",
+    "The state monopoly"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "illegal production",
+    "p": 4
+   },
+   {
+    "o": "B",
+    "t": "government",
+    "p": 4
+   }
+  ]
  },
  {
   "id": "Rg114_46",
@@ -708,7 +1421,19 @@
   "answer": "A",
   "accuracyRate": 40,
   "discrimination": 41,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 5,
+    "t": "Meanwhile, a powerful anti-alcohol movement started in the 19th century."
+   },
+   {
+    "p": 5,
+    "t": "Although Russia does not occupy first place when it comes to alcohol consumption per capita, it is still close to the top."
+   }
+  ],
+  "qtype": "寫作手法",
+  "note": "末段補上前面沒提過的事：19 世紀的禁酒運動，以及俄羅斯人均飲酒量的排名，都是新的事實。這一段沒有把前面的重點再說一次，也沒有預測未來，問題依然存在只是現況，不是新提出的問題。"
  },
  {
   "id": "Rg113_35",
@@ -736,7 +1461,19 @@
     744
    ],
    "source": "大學入學考試中心 113 學年度學科能力測驗英文考科"
-  }
+  },
+  "ev": [
+   {
+    "p": 2,
+    "t": "Upon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants."
+   },
+   {
+    "p": 2,
+    "t": "He determined that if he could recreate the same thing, making hooks-and-loops that bind to each other firmly, he could produce a strong fastener with many uses."
+   }
+  ],
+  "qtype": "圖表",
+  "note": "de Mestral 模仿的是刺果上的小鉤子勾住布料線圈，做成一面鉤子、一面線圈的布料扣件，就是 (B) 的魔鬼氈。(D) 雖然也有鉤和環，但那是縫在布上的金屬鉤扣，不是布料本身的鉤子和線圈。"
  },
  {
   "id": "Rg113_36",
@@ -755,7 +1492,21 @@
   "answer": "D",
   "accuracyRate": 77,
   "discrimination": 58,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "He immediately rushed to his microscope and examined the burrs attached on his pants—feeling a lightbulb moment coming on."
+   }
+  ],
+  "qtype": "字義",
+  "note": "像漫畫人物頭上突然亮起一顆燈泡，lightbulb moment 是突然想到好點子；第 2 段他果然想到可以做成扣件。",
+  "map": [
+   [
+    "a lightbulb moment",
+    "A sudden inspiration"
+   ]
+  ]
  },
  {
   "id": "Rg113_37",
@@ -774,7 +1525,33 @@
   "answer": "B",
   "accuracyRate": 72,
   "discrimination": 61,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "He first tried cotton, but it proved too soft and could not withstand repeated openings and closures."
+   }
+  ],
+  "qtype": "是非",
+  "note": "經不起反覆撕開、黏合，就是不夠耐用。(C) 照抄 French，但原文說名稱取自法文字，產品是在瑞士取得專利；(D) 照抄 velvet，但那只是名稱的來源，不是要做得像天鵝絨；(A) 第 4 段一開頭就說魔鬼氈起初並不成功。",
+  "map": [
+   [
+    "could not withstand repeated openings and closures",
+    "not durable enough"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "French",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "velvet",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg113_38",
@@ -793,7 +1570,23 @@
   "answer": "A",
   "accuracyRate": 55,
   "discrimination": 62,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "As most fashion critics considered it ugly and cheap-looking, the use of Velcro was limited to athletic equipment."
+   },
+   {
+    "p": 4,
+    "t": "In the early 1960s, the product received a huge boost in popularity when NASA began using it in a lot of equipment that went into space along with astronauts."
+   },
+   {
+    "p": 4,
+    "t": "Most impressively, the magical fastener was used in the first human artificial heart transplantation to hold together parts of the device."
+   }
+  ],
+  "qtype": "未提及",
+  "note": "有提到的三個領域在選項都換了說法：athletic equipment 是 Sports and recreation，NASA 的太空設備是 Aerospace industry，血壓計、手術衣和人工心臟是 Medical technology。(A) 的 engineering 只是呼應第 1 段 de Mestral 的職業 engineer，文章沒說魔鬼氈用在土木工程上。"
  },
  {
   "id": "Rg113_39",
@@ -812,7 +1605,19 @@
   "answer": "D",
   "accuracyRate": 60,
   "discrimination": 58,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone."
+   },
+   {
+    "p": 2,
+    "t": "Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself."
+   }
+  ],
+  "qtype": "細節",
+  "note": "他接下為 Langford 的黃石故事畫插圖的工作，又受到書裡描述的奇景吸引，才想親眼去看，這就是他開始畫黃石的原因。(A) 文章只講黃石一座公園的設立經過；(C) 只說他隨家人移民，沒說為什麼搬家；(B) 黃石的地貌怎麼形成，文章沒提。"
  },
  {
   "id": "Rg113_40",
@@ -831,7 +1636,33 @@
   "answer": "A",
   "accuracyRate": 70,
   "discrimination": 71,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was “a dark, unattractive hole” and the river running through it was a string of dirty water."
+   }
+  ],
+  "qtype": "字義",
+  "note": "冒號後面就是解釋：街道又暗又難看，河是一條髒水，工業革命把這裡燻黑了，所以 blackened 指的是汙染嚴重。(B) 照抄 hole，但「洞」是形容大街的比喻；(C) 照抄 heart，但這裡的 heart 是「核心地帶」，不是人心。",
+  "map": [
+   [
+    "a string of dirty water",
+    "severely polluted"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "hole",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "heart",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg113_41",
@@ -850,7 +1681,38 @@
   "answer": "B",
   "accuracyRate": 54,
   "discrimination": 69,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "Before Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground."
+   }
+  ],
+  "qtype": "是非",
+  "note": "Moran 1871 年去黃石之前，一般人以為那裡荒涼可怕，可見並不知道黃石的美。(A) 照抄 Langford，他只是寫了探險故事；(C) 照抄 government，原文說政府考察後設立公園，沒說是因為天然資源；(D) 照抄 national park，但第 4 段說 Moran 還畫了另外十二處後來成為國家公園或保護區的地方。",
+  "map": [
+   [
+    "in the popular imagination was a harsh, wild place",
+    "Americans knew little about its beauty"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Langford",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "government",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "national park",
+    "p": 4
+   }
+  ]
  },
  {
   "id": "Rg113_42",
@@ -869,7 +1731,27 @@
   "answer": "C",
   "accuracyRate": 52,
   "discrimination": 42,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Moran’s watercolors—the first color renderings of the area—as well as Jackson’s photos and the survey results were presented to the Congress."
+   }
+  ],
+  "qtype": "推論",
+  "note": "同行的 Jackson 拍了照片，最早的彩色圖像卻是 Moran 的水彩畫，可見當時的照片不是彩色的。(B) 方向相反：他在 1871 年親自去黃石之前，已經在為黃石的故事畫插圖；(D) 照抄 watercolors，但文章沒有比較哪一種風景畫最流行；(A) 文章沒說那份雜誌在推廣國家公園。",
+  "trap": [
+   {
+    "o": "D",
+    "t": "Watercolor",
+    "p": 3
+   },
+   {
+    "o": "A",
+    "t": "Scribner’s Monthly",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg113_43",
@@ -888,7 +1770,28 @@
   "answer": "D",
   "accuracyRate": 45,
   "discrimination": 60,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products."
+   }
+  ],
+  "qtype": "細節",
+  "note": "aims to 直接說出目標：充分利用捕到的每一條魚，在選項換成 make the most of marine resources。(C) 跨產業合作是第 4 段說的達成方法，不是目標；(B) 照抄第 3 段的 food crises，那是減少浪費之所以重要的背景。",
+  "map": [
+   [
+    "full utilization of each fish caught",
+    "make the most of marine resources"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "food crises",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg113_44",
@@ -907,7 +1810,32 @@
   "answer": "B",
   "accuracyRate": 27,
   "discrimination": 18,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "A triumph for medical technology, Oddsson’s fish skin transplantation was actually part of the astonishing achievement of “100% Fish,” an ambitious task in promoting environmental efficiency."
+   },
+   {
+    "p": 2,
+    "t": "The Icelandic project, from which this pioneering procedure emerged"
+   }
+  ],
+  "qtype": "指涉",
+  "note": "this pioneering procedure 是「從這個計畫裡產生的開創性療法」，指前一句講的 Oddsson 魚皮移植；procedure 在醫學上就是手術、療法。(C) 照抄同一句後半的 fundamental change，那是計畫要做的事，不是從計畫裡產生的療法。",
+  "map": [
+   [
+    "Oddsson’s fish skin transplantation",
+    "Oddsson’s skin transplant"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "fundamental change",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg113_45",
@@ -926,7 +1854,38 @@
   "answer": "C",
   "accuracyRate": 51,
   "discrimination": 61,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "The Icelandic success is accomplished largely through cooperative efforts across various industries."
+   }
+  ],
+  "qtype": "是非",
+  "note": "冰島的成功主要靠跨產業合作，在選項換成 cross-field collaboration 很有成效。(A) 照抄 30%，但那是每條鱈魚多得到的價值，不是漁獲量增加；(B) Oddsson 是受惠的病人，不是計畫成員；(D) 照抄第 2 段的 seafood products，但 100% Fish 是一項計畫，不是賣海鮮的國際企業。",
+  "map": [
+   [
+    "cooperative efforts across various industries",
+    "Cross-field collaboration"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "30%",
+    "p": 4
+   },
+   {
+    "o": "B",
+    "t": "Petur Oddsson",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "seafood products",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg113_46",
@@ -945,7 +1904,19 @@
   "answer": "C",
   "accuracyRate": 69,
   "discrimination": 45,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Under the guidance of 100% Fish, however, Icelanders are now using almost 95% of a cod."
+   },
+   {
+    "p": 3,
+    "t": "Other groundbreaking products, including Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once cod catch detritus."
+   }
+  ],
+  "qtype": "插入句",
+  "note": "第 3 段說冰島人幾乎用掉一條鱈魚的 95%，再列舉魚皮、魚頭、魚骨和下腳料都派上用場，最後接「一條魚幾乎沒有什麼留給垃圾桶」正好收尾；almost nothing … left 呼應 almost 95%。"
  },
  {
   "id": "Rg112_35",
@@ -964,7 +1935,37 @@
   "answer": "A",
   "accuracyRate": 74,
   "discrimination": 54,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The term “hula,” however, did not enter the English language until the 1700s, when British sailors first witnessed hula dancing in the Hawaiian Islands."
+   },
+   {
+    "p": 2,
+    "t": "Thus “hula” and “hoop” came together, resulting in the term “hula hooping.”"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說明 hula 來自夏威夷的草裙舞，和 hoop 結合成 hula hooping，回答了這個詞怎麼來的。(C) 照抄 Hawaiian，但文章只說英國水手在夏威夷看到草裙舞，沒說草裙舞從哪裡來；(B) 只說 Wham-O 推出塑膠呼拉圈，沒說原因；(D) 只說埃及兒童玩圈圈，沒說那是最喜歡的玩具。",
+  "map": [
+   [
+    "resulting in the term",
+    "derived"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "Hawaiian",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "Wham-O",
+    "p": 4
+   }
+  ]
  },
  {
   "id": "Rg112_36",
@@ -983,7 +1984,38 @@
   "answer": "C",
   "accuracyRate": 45,
   "discrimination": 60,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Their hoops, often made of metal, were not merely toys for Greek children but served as exercise devices as well."
+   }
+  ],
+  "qtype": "是非",
+  "note": "希臘人的圈圈也是運動器材，exercise device 在選項換成 a tool for workout。(A) 照抄第 2 段的 medical，但醫療紀錄記的是玩圈圈玩到受傷；(B) 照抄第 3 段的 animals，但圈圈是用來象徵動物，不是訓練動物；(D) 照抄 circle of life，但那是北美原住民，不是夏威夷舞者。",
+  "map": [
+   [
+    "exercise devices",
+    "a tool for workout"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "medical",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "animals",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "circle of life",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg112_37",
@@ -1002,7 +2034,23 @@
   "answer": "D",
   "accuracyRate": 69,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Although the term did not emerge until the 18th century, toy hoops twirled around the waist, limbs, or neck can be traced back to ancient times."
+   },
+   {
+    "p": 1,
+    "t": "They also struck them with sticks to roll them down the road."
+   },
+   {
+    "p": 3,
+    "t": "Hoops spun their way through the cultures of pre-colonial America as well."
+   }
+  ],
+  "qtype": "未提及",
+  "note": "有提到的三種玩法，選項都把原文的動詞改成動名詞：twirled 是 Twirling，struck 是 Striking，spun 是 Spinning。用腳踢圈圈文章沒提。"
  },
  {
   "id": "Rg112_38",
@@ -1021,7 +2069,27 @@
   "answer": "B",
   "accuracyRate": 67,
   "discrimination": 63,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "As early as 1000 BC, Egyptian children played with hoop toys of dried grapevine."
+   },
+   {
+    "p": 1,
+    "t": "Their hoops, often made of metal"
+   },
+   {
+    "p": 3,
+    "t": "Dancers used small reed hoops as symbolic representations of animals such as eagles or snakes."
+   },
+   {
+    "p": 4,
+    "t": "when a plastic version was successfully marketed by California’s Wham-O toy company"
+   }
+  ],
+  "qtype": "細節",
+  "note": "四種材料散在三段：埃及的葡萄藤、希臘的金屬、北美原住民的蘆葦、Wham-O 的塑膠。選項照用原文的材料名稱，竹子和獸皮文章都沒提。"
  },
  {
   "id": "Rg112_39",
@@ -1040,7 +2108,28 @@
   "answer": "A",
   "accuracyRate": 62,
   "discrimination": 78,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Much of the forest land where tea is grown in Assam is flat and thus farmers must dig drainage trenches to prevent water from accumulating and hurting the shrubs."
+   }
+  ],
+  "qtype": "細節",
+  "note": "挖排水溝是為了不讓積水傷害茶樹，原文的 shrubs 在選項換成 tea trees。(B) 照抄下一句的 trap，但溝渠變成大象的死亡陷阱是意外，不是挖溝的目的。",
+  "map": [
+   [
+    "to prevent water from accumulating and hurting the shrubs",
+    "To protect tea trees"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "trap",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg112_40",
@@ -1059,7 +2148,42 @@
   "answer": "D",
   "accuracyRate": 40,
   "discrimination": 57,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "But baby elephants, not used to negotiating rough ground, may easily fall into the trenches and get hurt"
+   }
+  ],
+  "qtype": "細節",
+  "note": "negotiate 在這裡是「通過、走過」，不是談判；小象不習慣走崎嶇的地面，在選項換成在不平的田裡行動有困難，rough 換成 uneven。(A) 照抄 safe shelter 和 climb out，但安全的庇護所是母象選來生產的地方；(B) 照抄 landmarks，那是成年大象辨認方向用的。",
+  "map": [
+   [
+    "not used to",
+    "have difficulties"
+   ],
+   [
+    "negotiating rough ground",
+    "moving around the uneven fields"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "safe shelter",
+    "p": 2
+   },
+   {
+    "o": "A",
+    "t": "climb",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "landmarks",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg112_41",
@@ -1078,7 +2202,33 @@
   "answer": "C",
   "accuracyRate": 65,
   "discrimination": 61,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Furthermore, elephants are known to resist leaving their sick or dying behind, and a herd may linger at a trench with a trapped baby for hours, reluctant to move on until all hope is lost."
+   }
+  ],
+  "qtype": "是非",
+  "note": "resist leaving 換成 unwilling to leave，sick or dying 換成 injured members。(D) 照抄 Pregnant，但原文正好相反，母象常到茶園生產；(A) 照抄 trenches，溝渠是陷阱，不是大象移動的路線；(B) 文章說茶園破壞的是棲地，沒說食物來源。",
+  "map": [
+   [
+    "resist leaving their sick or dying behind",
+    "unwilling to leave their injured members behind"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "Pregnant",
+    "p": 2
+   },
+   {
+    "o": "A",
+    "t": "trenches",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg112_42",
@@ -1097,7 +2247,37 @@
   "answer": "D",
   "accuracyRate": 68,
   "discrimination": 64,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Is it possible for elephants to coexist with the prosperous tea business?"
+   },
+   {
+    "p": 3,
+    "t": "Elephant Friendly Tea is an organization that takes the initiative to make it possible."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "make it possible 回應前一句的問句 Is it possible …：讓大象和茶葉產業共存，也就是兩全其美。(B)、(C) 照抄後一句組織的做法，那是達成目標的方法，不是 it 本身；(C) 的 high-quality 原文也沒提。",
+  "map": [
+   [
+    "elephants to coexist with the prosperous tea business",
+    "a win-win situation for elephants and tea farms"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "reward tea growers",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "consumers",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg112_43",
@@ -1116,7 +2296,46 @@
   "answer": "C",
   "accuracyRate": 62,
   "discrimination": 58,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Traders from Asia had already visited the islands 900 years before the arrival of its first permanent settlers from the African mainland (around 1000 AD)."
+   }
+  ],
+  "qtype": "是非",
+  "note": "非洲移民約西元 1000 年才定居，亞洲商人早了 900 年就來過，選項把 900 years 換成 centuries。(A) 照抄 900，但 900 是相差的年數，不是西元年份；(D) 照抄 1000 AD 和 permanent，但 1000 年定居的是非洲移民，不是波斯商人。",
+  "map": [
+   [
+    "Traders from Asia",
+    "Asian merchants"
+   ],
+   [
+    "900 years before",
+    "centuries before"
+   ],
+   [
+    "first permanent settlers from the African mainland",
+    "the African settlers"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "900",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "1000 AD",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "permanent",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg112_44",
@@ -1144,7 +2363,19 @@
     585
    ],
    "source": "大學入學考試中心 112 學年度學科能力測驗英文考科"
-  }
+  },
+  "ev": [
+   {
+    "p": 1,
+    "t": "Situated off the coast of Tanzania and washed by the warm, clean waters of the Indian Ocean, Zanzibar is a tropical archipelago comprised of several scattered islands."
+   },
+   {
+    "p": 2,
+    "t": "thanks to its location on the trade route between Arabia and Africa"
+   }
+  ],
+  "qtype": "圖表",
+  "note": "坦尚尼亞在非洲東岸，桑吉巴在它的外海、臨印度洋，又位在阿拉伯和非洲之間的航線上，對應地圖上的 B。D 在非洲南端附近，C 在亞洲，A 在非洲西北角、臨大西洋。"
  },
  {
   "id": "Rg112_45",
@@ -1163,7 +2394,27 @@
   "answer": "B",
   "accuracyRate": 47,
   "discrimination": 46,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "The unique cultural intersections, scented with the aroma of cloves, vanilla, and cinnamon floating in the air, give these jewels on the Indian Ocean an amazing charm that goes far beyond tropical beach fun."
+   }
+  ],
+  "qtype": "推論",
+  "note": "空氣裡隨時飄著丁香、香草和肉桂的香味，推得出這些香料在桑吉巴很常見。(C) 照抄 jewels，但這裡的珠寶是比喻這些島嶼，不是真的珠寶；(D) 照抄 Vasco da Gama，他只是抵達桑吉巴，統治者是之後的葡萄牙人、阿拉伯人和英國人。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "jewel",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "Vasco da Gama",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg112_46",
@@ -1182,7 +2433,40 @@
   "answer": "C",
   "accuracyRate": 43,
   "discrimination": 30,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Zanzibar is a tropical archipelago comprised of several scattered islands."
+   },
+   {
+    "p": 1,
+    "t": "This popular beach destination is now famous for its white sand beaches, slender palms, and turquoise seas."
+   },
+   {
+    "p": 4,
+    "t": "give these jewels on the Indian Ocean an amazing charm"
+   }
+  ],
+  "qtype": "指涉",
+  "note": "同一個地方，作者換了四個說法來指桑吉巴，避免一直重複 Zanzibar：archipelago、islands、beach destination、jewels on the Indian Ocean。(A)、(D) 的 settlements、posts 是波斯商人在島上建的聚落和據點，paths 是宗教交會的路徑，都不是桑吉巴本身。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "settlements",
+    "p": 2
+   },
+   {
+    "o": "A",
+    "t": "posts",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "paths",
+    "p": 4
+   }
+  ]
  },
  {
   "id": "Rg111r_35",
@@ -1201,7 +2485,10 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "目的",
+  "note": "從軍方需要一把刀、Victorinox 設計士兵刀、軍官刀上市，到美軍取名 Swiss army knife，全文依時間講瑞士刀的由來。(B) 功能只是細節；(D) Elsener 只出現在第 3 段，不是整篇的主角。"
  },
  {
   "id": "Rg111r_36",
@@ -1220,7 +2507,42 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Swiss generals decided to issue each soldier a standard knife to serve both as a screwdriver and a can opener."
+   },
+   {
+    "p": 3,
+    "t": "It was a lifesaver for Swiss knife makers, who were struggling to compete with cheaper German imports."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "對瑞士刀具業者來說是救命稻草的，是前一段結尾的那件事：軍方決定發給每個士兵一把刀，等於送上一筆大訂單。(C) 照抄同一句後半的 imports，那是業者的困境，不是救命稻草；(D) 罐頭普及只是軍方需要刀的原因之一。",
+  "map": [
+   [
+    "issue each soldier a standard knife",
+    "needed a knife for every soldier"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "import",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "Canned food",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "every good Swiss citizen",
+    "p": 1
+   }
+  ]
  },
  {
   "id": "Rg111r_37",
@@ -1239,7 +2561,33 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "The Swiss military purchasers considered the new model with a corkscrew for opening wine not “essential for survival,” so officers had to buy this new model by themselves."
+   }
+  ],
+  "qtype": "細節",
+  "note": "採購人員認為多了開瓶器的新款不是生存必需品，essential 在選項換成 necessary。(A) 照抄第 3 段的 simple，但那是士兵刀的設計；(B) 照抄 American soldiers，美軍大量購買是二次大戰後的事。",
+  "map": [
+   [
+    "essential for survival",
+    "necessary"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "simple",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "American soldiers",
+    "p": 4
+   }
+  ]
  },
  {
   "id": "Rg111r_38",
@@ -1258,7 +2606,36 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "After the Second World War, a great number of American soldiers were stationed in Europe."
+   },
+   {
+    "p": 4,
+    "t": "However, it seems that “Schweizer Offizier Messer” was too difficult for them to say, so they just called it the Swiss army knife, and that is the name it is now known by all over the world."
+   }
+  ],
+  "qtype": "細節",
+  "note": "they 指前面幾句的美軍：瑞士德語的名字太難唸，他們乾脆叫它 Swiss army knife。其他三個選項都是文章出現過的人，但和取名無關：Elsener 設計士兵刀，瑞士將領決定發刀，德國人是競爭對手。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "Carl Elsener",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "Swiss generals",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "German",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg111r_39",
@@ -1277,7 +2654,10 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段介紹天貝是印尼的傳統食物，第 2–5 段依序講源自爪哇的起源、營養、料理方式和文化價值，所以全文介紹的是一種來自爪哇的傳統美食。(A) 只是第 4 段，(C) 只是第 3 段提到素食者，(D) 只是第 5 段，都是細節。"
  },
  {
   "id": "Rg111r_40",
@@ -1296,7 +2676,47 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "tempeh is a fermented food originating from the island of Java"
+   },
+   {
+    "p": 2,
+    "t": "It was discovered during tofu production when discarded soybean residue caught microbial spores from the air and grew certain whitish fungi around it."
+   }
+  ],
+  "qtype": "是非",
+  "note": "天貝是豆渣沾上微生物發酵而成的食物，也就是由發酵的大豆做成。(C) 照抄 discarded 和 fungi，但丟棄的是豆渣，長出真菌後反而變成天貝；(A) 照抄第 4 段的 side dish，但天貝也可以當主菜、點心；(D) 照抄第 1 段的 kimchi，那只是拿來比喻同樣是國家的代表食物。",
+  "map": [
+   [
+    "soybean residue",
+    "soybeans"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "discarded",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "fungi",
+    "p": 2
+   },
+   {
+    "o": "A",
+    "t": "side dish",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "kimchi",
+    "p": 1
+   }
+  ]
  },
  {
   "id": "Rg111r_41",
@@ -1315,7 +2735,37 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "tempeh is a fermented food originating from the island of Java"
+   },
+   {
+    "p": 3,
+    "t": "Tempeh is high in protein and low in fat, and contains a host of vitamins."
+   },
+   {
+    "p": 4,
+    "t": "In addition to its highly nutritional makeup, tempeh has diverse preparation possibilities."
+   }
+  ],
+  "qtype": "段落功能",
+  "note": "看每段的第一句就能抓出重點：第 2 段源自爪哇，第 3 段營養成分，第 4 段料理方式。第 4 段開頭 In addition to its highly nutritional makeup 先回顧上一段的營養，再轉到料理，正好把兩段接起來。文章沒有談行銷。",
+  "map": [
+   [
+    "originating from the island of Java",
+    "Origin"
+   ],
+   [
+    "high in protein and low in fat",
+    "nutrition"
+   ],
+   [
+    "diverse preparation possibilities",
+    "cuisine"
+   ]
+  ]
  },
  {
   "id": "Rg111r_42",
@@ -1334,7 +2784,37 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 5,
+    "t": "With the Indonesian traditional fabric batik being recognized by UNESCO as “Intangible Cultural Heritage of Humanity,” tempeh has great potential for this honor as well."
+   }
+  ],
+  "qtype": "推論",
+  "note": "蠟染已經列入人類非物質文化遺產，天貝也很有希望得到這項殊榮，換個說法就是很可能成為國際認可的文化象徵。(B) 照抄 kimchi，文章沒有比較誰比較受歡迎，還說天貝在國際上不算熱門；(A) 照抄 vitamin，文章沒提年長者。",
+  "map": [
+   [
+    "has great potential for this honor",
+    "is likely to be recognized"
+   ],
+   [
+    "Intangible Cultural Heritage of Humanity",
+    "an international cultural symbol"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "kimchi",
+    "p": 1
+   },
+   {
+    "o": "A",
+    "t": "vitamin",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg111r_43",
@@ -1353,7 +2833,42 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Crash testing for vehicles is very important in helping minimize deaths, injuries, and property damage from vehicle crashes."
+   },
+   {
+    "p": 1,
+    "t": "One unit of the U.S. government responsible for ensuring the correct undertaking of this task is the Insurance Institute for Highway Safety (IIHS)"
+   }
+  ],
+  "qtype": "細節",
+  "note": "IIHS 負責的 this task，指前一句的車輛撞擊測試。(C) 照抄 property damage，那是撞擊測試想減少的損失，IIHS 不負責賠償；(D) 照抄 independent 和 Insurance，但 independent 形容的是這個機構，名稱裡的保險也不表示它研究保單。",
+  "map": [
+   [
+    "Crash testing for vehicles",
+    "Vehicle crash testing"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "property damage",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "independent",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "insurance",
+    "p": 1
+   }
+  ]
  },
  {
   "id": "Rg111r_44",
@@ -1372,7 +2887,28 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "It is important since impact forces in this kind of test remain the same as those with the frontal impact test, but only a small portion of the car absorbs all the force of the impact."
+   }
+  ],
+  "qtype": "細節",
+  "note": "兩種測試的撞擊力道相同，差別在偏置撞擊只由車子的一小部分承受，portion 換成 part，absorb 換成 take。(B) 照抄 impact forces，但原文說力道相同，不是比較小；(D) 原文說兩種測試都可能撞上另一輛車，不是只有正面撞擊。",
+  "map": [
+   [
+    "only a small portion of the car absorbs",
+    "Only a small part of the vehicle takes"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "impact forces",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg111r_45",
@@ -1391,7 +2927,28 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "This happens because cars usually do not have a significant crumple zone on the side to cushion all the impact forces before the occupant is injured."
+   }
+  ],
+  "qtype": "字義",
+  "note": "不定詞 to cushion all the impact forces 說明 crumple zone 的作用：在乘客受傷前緩衝撞擊力，也就是吸收衝擊力的區域；crumple 是「壓皺、壓扁」。(C) 照抄 occupant，但這個區域是用來保護乘客，不是讓乘客逃生的出口。",
+  "map": [
+   [
+    "to cushion all the impact forces",
+    "absorbs the forces from a collision"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "occupant",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg111r_46",
@@ -1419,7 +2976,15 @@
     473
    ],
    "source": "大學入學考試中心 111 學年度起適用學科能力測驗參考試卷英文考科"
-  }
+  },
+  "ev": [
+   {
+    "p": 3,
+    "t": "A rollover test verifies the car’s ability to support itself, especially from the pillars supporting the roof, during a dynamic impact."
+   }
+  ],
+  "qtype": "圖表",
+  "note": "翻滾測試的重點是支撐車頂的車柱，圖上 D 指的就是車頂和車身之間的柱子。A 是車頭，屬於正面和偏置撞擊測試；C 是車門，屬於側面撞擊測試；B 是輪胎，文章沒提。"
  },
  {
   "id": "Rg111_35",
@@ -1447,7 +3012,19 @@
     946
    ],
    "source": "大學入學考試中心 111 學年度學科能力測驗英文考科"
-  }
+  },
+  "ev": [
+   {
+    "p": 3,
+    "t": "The most recognizable piece of clothing is the shúkà, a sheet of fabric worn wrapped around the body."
+   },
+   {
+    "p": 3,
+    "t": "A Maasai warrior is rarely seen without his spear and shield."
+   }
+  ],
+  "qtype": "圖表",
+  "note": "典型的馬賽戰士要身裹一塊布，長矛和盾牌不離身，三樣都有的只有 (B)。(A) 拿的是弓箭，(C) 只有盾牌，(D) 只有長矛，也都沒有裹身的布。"
  },
  {
   "id": "Rg111_36",
@@ -1466,7 +3043,42 @@
   "answer": "A",
   "accuracyRate": 39,
   "discrimination": 44,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "and resisted the urging of the Kenyan and Tanzanian governments to adopt a more modern lifestyle"
+   }
+  ],
+  "qtype": "是非",
+  "note": "政府勸他們改採現代的生活方式，換個說法就是要他們拋開傳統。(C) 照抄 kill a lion，但那是取得戰士身分的方法，不是成年的條件，而且原文說直到不久以前才是如此；(B) 照抄 resist，但原文沒說抗拒外來影響是因為曾經淪為奴隸；(D) 照抄 beadwork，務農文章沒提。",
+  "map": [
+   [
+    "the urging of the Kenyan and Tanzanian governments",
+    "urged by governments"
+   ],
+   [
+    "to adopt a more modern lifestyle",
+    "to leave behind their traditions"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "kill a lion",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "resist",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "beadwork",
+    "p": 4
+   }
+  ]
  },
  {
   "id": "Rg111_37",
@@ -1485,7 +3097,47 @@
   "answer": "C",
   "accuracyRate": 49,
   "discrimination": 40,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "Natural materials such as clay, shells, and ivory were used before trading with the Europeans in the 19th century."
+   },
+   {
+    "p": 4,
+    "t": "They were then replaced by colorful glass beads, allowing for more detailed beadwork and color patterns."
+   }
+  ],
+  "qtype": "是非",
+  "note": "19 世紀和歐洲人通商後，天然材料換成彩色玻璃珠，就是彩色玻璃飾品從 19 世紀以後開始流行。(A) 照抄 striped 和 patterned，但原文說偏好這類布料的是女性，不是年輕人；(B) 照抄 black，但年輕男子是行割禮後穿黑色；(D) 照抄 shúkà，原文沒說顏色代表身分地位。",
+  "map": [
+   [
+    "colorful glass beads",
+    "Colorful glass jewelry"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "striped",
+    "p": 3
+   },
+   {
+    "o": "A",
+    "t": "patterned",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "black",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "shúkà",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg111_38",
@@ -1504,7 +3156,42 @@
   "answer": "C",
   "accuracyRate": 68,
   "discrimination": 64,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "A Maasai warrior is rarely seen without his spear and shield."
+   },
+   {
+    "p": 3,
+    "t": "In Blixen’s words, “their weapons and finery are as much a part of their being as are a stag’s antlers”"
+   }
+  ],
+  "qtype": "寫作手法",
+  "note": "前一句說戰士的長矛和盾牌從不離身，Blixen 再拿雄鹿的角來比：武器就像鹿角長在鹿身上一樣，是戰士的一部分，分不開。(A)、(D) 照抄 deer，但雄鹿只是比喻，文章沒說戰士獵鹿，也不是比較兩者的行為；(B) 照抄 weapons，但這句沒有列舉武器的種類。",
+  "map": [
+   [
+    "as much a part of their being",
+    "an inseparable part"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "deer",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "male deer",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "weapons",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg111_39",
@@ -1523,7 +3210,23 @@
   "answer": "D",
   "accuracyRate": 74,
   "discrimination": 65,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "A hard hat is a helmet used mostly at worksites to protect the head from injuries due to falling objects."
+   },
+   {
+    "p": 3,
+    "t": "Over the past century, hard hats have advanced considerably, evolving from canvas and leather to aluminum, fiberglass, and, eventually, to thermoplastic."
+   },
+   {
+    "p": 3,
+    "t": "A common color code has also been developed for recognizing people and their roles on site."
+   }
+  ],
+  "qtype": "未提及",
+  "note": "有提到的三個面向：第 1 段保護頭部是功能，第 3 段帆布、鋁、塑膠是材質，顏色標示和黑漆是外觀。安全帽有什麼缺點或限制，文章沒提。"
  },
  {
   "id": "Rg111_40",
@@ -1542,7 +3245,27 @@
   "answer": "A",
   "accuracyRate": 69,
   "discrimination": 61,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Before the war, workers used to smear their hats with coal tar for protection of their head."
+   },
+   {
+    "p": 2,
+    "t": "The Hard Boiled Hat was thus born, using steamed canvas and leather, covered with black paint, and featuring a suspension system to reduce impact."
+   },
+   {
+    "p": 3,
+    "t": "Over the past century, hard hats have advanced considerably, evolving from canvas and leather to aluminum, fiberglass, and, eventually, to thermoplastic."
+   },
+   {
+    "p": 3,
+    "t": "and see-through face shields were attached to better see the hazards lurking above"
+   }
+  ],
+  "qtype": "順序",
+  "note": "依時間排：一戰前塗煤焦油（d）、1919 年帆布和皮革（c）、之後的玻璃纖維（a）、近年才加上的透明面罩（b）。選項照用原文的材料名稱，難處在第 3 段的 Recently 把面罩排到最後。"
  },
  {
   "id": "Rg111_41",
@@ -1561,7 +3284,33 @@
   "answer": "B",
   "accuracyRate": 51,
   "discrimination": 56,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Bullard, having witnessed the life-saving power of the metal helmet in the War, decided to produce a head protection device that was affordable for every worker and lightweight enough to be worn all day long."
+   }
+  ],
+  "qtype": "是非",
+  "note": "Bullard 在戰場上看到金屬頭盔救人，才決定做安全帽，就是靈感來自他的戰時經歷。(C) 照抄 construction，但工地規定一定要戴是 1931、1933 年的事，不是 1920 年代；(D) 照抄 roles，但顏色區分的是工地上的職務，不是不同的產業；(A) 2016 年到 2025 年預估從 21 億到 31.9 億美元，不是每十年翻倍。",
+  "map": [
+   [
+    "having witnessed the life-saving power of the metal helmet in the War",
+    "The inspiration came from the inventor’s wartime experience"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "construction",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "roles",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg111_42",
@@ -1580,7 +3329,23 @@
   "answer": "B",
   "accuracyRate": 51,
   "discrimination": 44,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "A hard hat is a helmet used mostly at worksites"
+   },
+   {
+    "p": 1,
+    "t": "the headgear has saved countless lives and is considered the number one safety tool for construction workers"
+   },
+   {
+    "p": 2,
+    "t": "decided to produce a head protection device"
+   }
+  ],
+  "qtype": "指涉",
+  "note": "作者換了四個說法來指安全帽，避免一直重複 hard hat：helmet、headgear、tool、device。code 指的是顏色標示，accessory 是加裝在安全帽上的配件，都不是安全帽本身。"
  },
  {
   "id": "Rg111_43",
@@ -1599,7 +3364,25 @@
   "answer": "D",
   "accuracyRate": 60,
   "discrimination": 65,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Scientists thus hope that understanding the self-healing mystery of the fish may one day allow humans to regenerate such organs as eyes, hearts, and spines."
+   },
+   {
+    "p": 3,
+    "t": "it may give rise to new treatments for blindness caused by retinal damage"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說斑馬魚或許能讓人類的器官再生，第 3 段說可能帶來治療失明的新療法，這些都是醫學上的進展。(B) 文章只說 GABA 在視網膜再生中扮演重要角色，沒說再生能力從哪裡來；(C) 只說基因有 70% 相同，沒說為什麼相同。",
+  "map": [
+   [
+    "new treatments",
+    "medical advancements"
+   ]
+  ]
  },
  {
   "id": "Rg111_44",
@@ -1618,7 +3401,38 @@
   "answer": "C",
   "accuracyRate": 58,
   "discrimination": 61,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "They found that lowering GABA levels in zebrafish can trigger retina regeneration"
+   }
+  ],
+  "qtype": "是非",
+  "note": "trigger 在選項換成 stimulate，regeneration 換成 regrowth。(A) 方向相反，原文說 GABA 降低神經元的活動；(D) 照抄同一段的 chemical 和 trigger，可是會啟動再生的是降低 GABA，不是 GABA 含有什麼成分；(B) 文章沒有比較斑馬魚腦中 GABA 的高低。",
+  "map": [
+   [
+    "trigger retina regeneration",
+    "stimulate retina regrowth"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "neuron",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "chemical",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "trigger",
+    "p": 4
+   }
+  ]
  },
  {
   "id": "Rg111_45",
@@ -1637,7 +3451,28 @@
   "answer": "A",
   "accuracyRate": 48,
   "discrimination": 45,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "If the process can be replicated in humans, it may give rise to new treatments for blindness caused by retinal damage."
+   }
+  ],
+  "qtype": "字義",
+  "note": "把斑馬魚視網膜再生的過程在人類身上「再做一次」，replicate 和 reproduce 都是複製、重現。(D) Restored 照抄同一段 vision is restored，但恢復的是視力，不是把過程複製到人身上。",
+  "map": [
+   [
+    "replicated",
+    "Reproduced"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "Restored",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg111_46",
@@ -1656,7 +3491,21 @@
   "answer": "D",
   "accuracyRate": 48,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Scientists thus hope that understanding the self-healing mystery of the fish may one day allow humans to regenerate such organs as eyes, hearts, and spines."
+   }
+  ],
+  "qtype": "事實意見",
+  "note": "hope 和 may 表示的是科學家的期望和推測，還沒有證實，屬於意見。(A)、(B)、(C) 文章都當作研究結果或正在進行的事來陳述，是事實。",
+  "map": [
+   [
+    "may one day allow humans to regenerate such organs",
+    "may allow humans to regrow their organs"
+   ]
+  ]
  },
  {
   "id": "Rg110t_35",
@@ -1921,7 +3770,10 @@
   "answer": "B",
   "accuracyRate": 73,
   "discrimination": 56,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "目的",
+  "note": "第 1 段最後一句點出仙人掌的新用途：生產再生能源，後面幾段接著講沼氣發電機、試驗計畫、比其他作物好的地方和未來的展望，所以全文在介紹一種新的能源來源。(A) 文章不是在論證吃仙人掌的好處；(C)、(D) 文章都沒談。"
  },
  {
   "id": "Rg110_42",
@@ -1940,7 +3792,15 @@
   "answer": "D",
   "accuracyRate": 58,
   "discrimination": 68,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "and modern-day Mexicans eat it, drink it, and even use it in medicines and shampoos"
+   }
+  ],
+  "qtype": "未提及",
+  "note": "有提到的用途在選項都換了說法：eat it, drink it 是 food and beverage，medicines 是 treating illnesses，shampoos 是 personal hygiene。用來園藝造景，文章沒提。"
  },
  {
   "id": "Rg110_43",
@@ -1959,7 +3819,38 @@
   "answer": "D",
   "accuracyRate": 71,
   "discrimination": 59,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The prickly pear cactus is such a powerful symbol in Mexico that it occupies a prime spot on Mexico’s national flag."
+   }
+  ],
+  "qtype": "是非",
+  "note": "prime spot 在選項換成 prominent place。(A) 照抄第 2 段的 soft inner，但丟掉的是外皮，嫩肉一直都在吃；(C) 照抄 200,000 tons，那是每年的產量，每天的廢棄物是 10 噸；(B) 照抄 modern，原文說古代阿茲特克人就把仙人掌視為神聖。",
+  "map": [
+   [
+    "occupies a prime spot",
+    "appears in a prominent place"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "soft inner",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "200,000 tons",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "modern",
+    "p": 1
+   }
+  ]
  },
  {
   "id": "Rg110_44",
@@ -1978,7 +3869,28 @@
   "answer": "B",
   "accuracyRate": 61,
   "discrimination": 70,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "Therefore, using the plant as a fuel source will not put pressure on food prices."
+   }
+  ],
+  "qtype": "細節",
+  "note": "不會對糧食價格造成壓力，在選項換成不會影響糧食價格。(D) 照抄 food production，但原文說的是不會和糧食生產搶水搶地，不是增加糧食產量。",
+  "map": [
+   [
+    "will not put pressure on",
+    "will not influence"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "food production",
+    "p": 4
+   }
+  ]
  },
  {
   "id": "Rg110_45",
@@ -1997,7 +3909,10 @@
   "answer": "A",
   "accuracyRate": 57,
   "discrimination": 76,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "組織方式",
+  "note": "全文依時間往下走：西元前 450 年的尼希米、中世紀的伊斯蘭國家和歐洲、15 世紀的亨利五世、一百年後出現 passport 這個詞，到第一次世界大戰，所以是依時間順序排列。交卷後「這一篇的文章結構」也把這篇歸為時序發展。"
  },
  {
   "id": "Rg110_46",
@@ -2016,7 +3931,37 @@
   "answer": "B",
   "accuracyRate": 49,
   "discrimination": 45,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The Hebrew Bible states that Nehemiah, an official serving King Artaxerxes of ancient Persia, asked permission to travel to Judah."
+   },
+   {
+    "p": 1,
+    "t": "The King agreed and gave Nehemiah a letter"
+   }
+  ],
+  "qtype": "是非",
+  "note": "國王把信交給為古波斯國王效力的官員尼希米。(A) 照抄 Judah，那是尼希米要去的地方，發信的是波斯國王；(D) 照抄 beyond the river，那封信是寫給河那邊的省長，請他們放行，不是邀人去旅行；(C) 西元前 450 年距今大約兩千五百年，不到三千年。",
+  "map": [
+   [
+    "an official serving King Artaxerxes of ancient Persia",
+    "an official of Persia"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Judah",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "beyond the river",
+    "p": 1
+   }
+  ]
  },
  {
   "id": "Rg110_47",
@@ -2035,7 +3980,38 @@
   "answer": "C",
   "accuracyRate": 48,
   "discrimination": 59,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "The earliest reference to these documents is found in a 15th-century Act of Parliament, while the term “passport” came into use about a century later."
+   }
+  ],
+  "qtype": "細節",
+  "note": "15 世紀的法案再過大約一百年，就是 16 世紀，要自己推算。(D) 照抄 King Henry V，那是發明護照的人，不是這個詞出現的時間；(B) 第一次世界大戰是護照普遍使用的時間；(A) 照抄第 1 段的 450 B.C.。",
+  "map": [
+   [
+    "about a century later",
+    "In the 16th century"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "King Henry V",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "World War",
+    "p": 3
+   },
+   {
+    "o": "A",
+    "t": "450 B.C.",
+    "p": 1
+   }
+  ]
  },
  {
   "id": "Rg110_48",
@@ -2054,7 +4030,27 @@
   "answer": "D",
   "accuracyRate": 41,
   "discrimination": 56,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The King agreed and gave Nehemiah a letter"
+   },
+   {
+    "p": 2,
+    "t": "Later, in the medieval Islamic Caliphate, a form of passport was the bara’a, a receipt for taxes paid."
+   },
+   {
+    "p": 2,
+    "t": "and generally contained a list of towns and cities which the document holder was permitted to enter or pass through"
+   },
+   {
+    "p": 3,
+    "t": "as a way of helping his subjects prove who they were in foreign lands"
+   }
+  ],
+  "qtype": "未提及",
+  "note": "有提到的三種：國王的信（letter）、繳稅收據（receipt）、亨利五世的護照幫人證明身分（proof of identity）。(D) 把第 2 段的 list 和 seaports 拼在一起：歐洲的文件列的是城鎮，前往海港反而不需要文件。"
  },
  {
   "id": "Rg110_49",
@@ -2082,7 +4078,19 @@
     345
    ],
    "source": "大學入學考試中心 110 學年度學科能力測驗英文考科"
-  }
+  },
+  "ev": [
+   {
+    "p": 2,
+    "t": "Franklin ran an iron rod through a hole in the top of each hemisphere so that they could nest together from largest to smallest."
+   },
+   {
+    "p": 2,
+    "t": "He linked all of this to a device shaped like a spinning wheel, with a foot control that turned the rod, making the glass hemispheres rotate."
+   }
+  ],
+  "qtype": "圖表",
+  "note": "要找一根軸串起由大到小的玻璃半球，再接上紡車形狀的輪子和腳踏板，四張圖裡只有 (D) 符合。(A) 是一排玻璃杯，就是富蘭克林原本聽到的玻璃杯樂器；(C) 是紡紗機本身，原文只說裝置的形狀像紡車；(B) 是編鐘。"
  },
  {
   "id": "Rg110_50",
@@ -2101,7 +4109,38 @@
   "answer": "D",
   "accuracyRate": 53,
   "discrimination": 72,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Franklin moistened his fingers and held them against the rims of the glass hemispheres as they turned, producing a unique sound."
+   }
+  ],
+  "qtype": "是非",
+  "note": "moisten 是把東西弄濕，在選項換成 slightly wet。(B) 照抄 paint，但油漆是用來標示音符；(C) 照抄 iron rod 和 thick，但鐵棒是用來串起半球、帶動旋轉，不是敲打。",
+  "map": [
+   [
+    "moistened his fingers",
+    "fingers have to be slightly wet"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "paint",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "iron rod",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "thick",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg110_51",
@@ -2120,7 +4159,42 @@
   "answer": "C",
   "accuracyRate": 69,
   "discrimination": 62,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Music was moving out of the relatively small halls of Mozart’s day into the large concert halls of the 19th century, and without amplification, the glass armonica simply couldn’t be heard."
+   }
+  ],
+  "qtype": "細節",
+  "note": "音樂移到 19 世紀的大型音樂廳，沒有擴音就聽不見玻璃琴，這就是不再流行的原因。(A) 照抄第 2 段的 master，但原文說富蘭克林把這種樂器練得很純熟；(D) 照抄 fashion，但評論說的是聲音很美，只是聽不見；(B) 照抄第 1 段的 Beethoven，原文說貝多芬為玻璃琴作過曲。",
+  "map": [
+   [
+    "the large concert halls",
+    "Concert halls became too big"
+   ],
+   [
+    "couldn’t be heard",
+    "to be heard by the audience"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "master",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "fashion",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "Beethoven",
+    "p": 1
+   }
+  ]
  },
  {
   "id": "Rg110_52",
@@ -2139,7 +4213,38 @@
   "answer": "B",
   "accuracyRate": 65,
   "discrimination": 64,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Franklin ran an iron rod through a hole in the top of each hemisphere so that they could nest together from largest to smallest."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "能夠由大到小一個套一個排在一起的，是同一句前面的玻璃半球。(A) 鐵棒只有一根，是用來串起半球的；(C)、(D) 照抄前兩句的 notes 和 pitches，那是半球發出的聲音，不是實物。",
+  "map": [
+   [
+    "each hemisphere",
+    "Hemispheres"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "iron rod",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "notes",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "pitches",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg110_53",
@@ -2158,7 +4263,10 @@
   "answer": "B",
   "accuracyRate": 72,
   "discrimination": 63,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段講建園的緣由，第 2–4 段講樂園的特色和新開的園區，所以全文介紹一座特殊主題樂園的設立和特色。(A) 新園區只是第 4 段，(C) GPS 手環只是第 3 段的細節，(D) 文章沒有專門談身心障礙者的需求。"
  },
  {
   "id": "Rg110_54",
@@ -2177,7 +4285,41 @@
   "answer": "A",
   "accuracyRate": 43,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "so that people of all ages and abilities can come together and play in a fun and safe environment"
+   },
+   {
+    "p": 3,
+    "t": "Completely wheelchair-accessible, the park features 25 acres of attractions"
+   },
+   {
+    "p": 3,
+    "t": "The rides are custom-designed to accommodate wheelchair riders so that every family member can enjoy the fun."
+   }
+  ],
+  "qtype": "字義",
+  "note": "accessible 是「方便使用、可以到達」，ultra- 是「極度」；後文說全區輪椅都能通行、設施特別設計讓每一位家人都能玩，所以是所有遊客都能輕鬆使用設施。(B) 照抄 Admission，但免費的只有特殊需求的遊客；(C) 照抄 wheelchair，原文說設施能讓輪椅搭乘，沒說每項設施都提供輪椅。",
+  "map": [
+   [
+    "every family member can enjoy the fun",
+    "easy for all visitors to use the facilities"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "Admission",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "Wheelchair",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg110_55",
@@ -2196,7 +4338,19 @@
   "answer": "C",
   "accuracyRate": 76,
   "discrimination": 54,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "the park features 25 acres of attractions including rides, playgrounds, a catch-and-release fishing lake, and picnic areas throughout the park"
+   },
+   {
+    "p": 3,
+    "t": "where guests can test their driving skills in sporty vehicles"
+   }
+  ],
+  "qtype": "未提及",
+  "note": "釣魚湖、測試駕駛技術、野餐區都在第 3 段，在選項換成 Fishing、Driving、Picnicking。健行文章沒提。"
  },
  {
   "id": "Rg110_56",
@@ -2215,7 +4369,37 @@
   "answer": "D",
   "accuracyRate": 46,
   "discrimination": 38,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Moreover, each visitor is offered the option to wear a GPS Adventure Band, which allows them to keep track of each other while in the park."
+   },
+   {
+    "p": 3,
+    "t": "The band also enables them to take part in electronic activities."
+   }
+  ],
+  "qtype": "是非",
+  "note": "GPS 手環能掌握彼此的位置，也能參加電子互動活動，就是讓遊客享受電子裝置的便利。(A) 照抄 waterproof chairs，但防水椅只用在戲水區；(B) 照抄 25 acres，那是整座樂園的面積，不是靈感島；(C) 文章只說建園的靈感來自 Morgan，沒說這是 Morgan 想要達成的。",
+  "map": [
+   [
+    "enables them to take part in electronic activities",
+    "enjoy the convenience of the electronic devices"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "waterproof chairs",
+    "p": 4
+   },
+   {
+    "o": "B",
+    "t": "25 acres",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg109_41",
@@ -2243,7 +4427,27 @@
     442
    ],
    "source": "大學入學考試中心 109 學年度學科能力測驗英文考科"
-  }
+  },
+  "ev": [
+   {
+    "p": 2,
+    "t": "In the Greek version, the toe strap ran between the first and second toes, while Roman sandals had the strap between the second and third toes."
+   }
+  ],
+  "qtype": "圖表",
+  "note": "圖裡的帶子夾在第二趾和第三趾之間，對照第 2 段，是羅馬式的涼鞋。這一題要把文字描述轉成圖像，三個錯誤選項都是同一段列出的其他文化。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "Greek",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "Mesopotamian",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg109_42",
@@ -2262,7 +4466,32 @@
   "answer": "A",
   "accuracyRate": 70,
   "discrimination": 68,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The name comes from the sound the sandals make when they slap the walking feet."
+   }
+  ],
+  "qtype": "細節",
+  "note": "名稱來自走路時發出的聲音，sound 在選項換成 noise。(C) 的 simple 取自第 1 段開頭 the simplest shoe，但那一句講的是鞋子的樣子，不是名稱的由來。",
+  "map": [
+   [
+    "The name comes from",
+    "Because of"
+   ],
+   [
+    "the sound",
+    "the noise"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "simple",
+    "p": 1
+   }
+  ]
  },
  {
   "id": "Rg109_43",
@@ -2281,7 +4510,46 @@
   "answer": "D",
   "accuracyRate": 58,
   "discrimination": 60,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Modern flip-flops derive from Japanese zōris"
+   },
+   {
+    "p": 4,
+    "t": "In the 1950s, flip-flops became popular in the United States as soldiers returning from occupied Japan brought zōris home."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 3 段說現代人字拖源自日本草履，第 4 段說美國士兵把草履從日本帶回家，兩段合起來就是 (D)。(A) 的 toe knob 在第 2 段，和現代人字拖無關；(B) 鮮豔的顏色是後來重新設計才有的，不是美國人喜歡的原因；(C) 橡膠是戰後才取代稻草。",
+  "map": [
+   [
+    "soldiers returning from occupied Japan brought zōris home",
+    "American soldiers brought home from Japan"
+   ],
+   [
+    "Modern flip-flops derive from Japanese zōris",
+    "later became modern flip-flops"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "toe knob",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "bright colors",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "World War II",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg109_44",
@@ -2300,7 +4568,23 @@
   "answer": "B",
   "accuracyRate": 61,
   "discrimination": 53,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 5,
+    "t": "Their simple design is responsible for many foot injuries."
+   },
+   {
+    "p": 5,
+    "t": "Another issue is the suitability of exposing feet on the street and places other than the beach."
+   },
+   {
+    "p": 5,
+    "t": "Millions of plastic discards end up in landfills or the ocean, releasing chemicals and at the same time taking centuries to decompose."
+   }
+  ],
+  "qtype": "未提及",
+  "note": "第 5 段提到三個問題，在選項裡都換了說法：foot injuries 是 Personal health，suitability 是 Social appropriateness，plastic discards end up in the ocean 是 Marine pollution。只有 (B) 品質不好文章沒提。"
  },
  {
   "id": "Rg109_45",
@@ -2319,7 +4603,10 @@
   "answer": "A",
   "accuracyRate": 60,
   "discrimination": 77,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段引出領港員這個職業，第 2–3 段說這份工作為什麼需要、難在哪裡，第 4 段總結這份工作的要求和責任，所以全文介紹的是一種特殊的職業。(B) 只是第 1 段的引子，(C)、(D) 都只是文中的細節。"
  },
  {
   "id": "Rg109_46",
@@ -2338,7 +4625,32 @@
   "answer": "C",
   "accuracyRate": 48,
   "discrimination": 60,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "In addition to the shallower seabeds, tide and wind pose further challenges for bringing ships into a port."
+   },
+   {
+    "p": 4,
+    "t": "controls the vessel based on his or her knowledge of the port and the situation at hand"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說潮汐和風會改變船的方向，第 4 段說領港員要依當下的狀況操控船隻，所以天氣狀況是必備的知識，原文的 wind 在選項換成概括的 weather conditions。(B) 的 cargo 取自第 2 段，那裡講的是擱淺時貨物會受損，不是領港員要懂貨物內容。",
+  "map": [
+   [
+    "wind",
+    "weather conditions"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "cargo",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg109_47",
@@ -2357,7 +4669,32 @@
   "answer": "D",
   "accuracyRate": 58,
   "discrimination": 54,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "But the captain of a ship is responsible for guiding the vessel until they hit a port, waiting to enter the harbor."
+   },
+   {
+    "p": 4,
+    "t": "A marine pilot goes on board at a crucial time"
+   }
+  ],
+  "qtype": "指涉",
+  "note": "第 1 段說船長把船開到港口、等候進港時，就換領港員接手，這正是領港員登船的關鍵時刻；harbor 在選項換成 port。(B) 的 channel 取自第 2 段，講的是港口的地形，不是登船的時間點。",
+  "map": [
+   [
+    "waiting to enter the harbor",
+    "waiting to enter the port"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "channel",
+    "p": 2
+   }
+  ]
  },
  {
   "id": "Rg109_48",
@@ -2376,7 +4713,19 @@
   "answer": "C",
   "accuracyRate": 68,
   "discrimination": 61,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "Marine pilotage is a job that requires a high degree of proficiency as well as quick and independent thinking."
+   },
+   {
+    "p": 4,
+    "t": "The pilot is responsible for not only the safety of the ship but also the protection of the port and the marine environment."
+   }
+  ],
+  "qtype": "寫作手法",
+  "note": "末段把前面講過的內容再收一次：專業知識對應第 2 段，迅速獨立的判斷對應第 3 段的潮汐和風，船和海洋環境的安全對應第 2 段的擱淺與貨物外洩，所以是總結重點，沒有新的細節，也沒有預測或給一般大眾的建議。"
  },
  {
   "id": "Rg109_49",
@@ -4675,7 +7024,10 @@
   "answer": "A",
   "accuracyRate": 65,
   "discrimination": 77,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "目的",
+  "note": "從軍方需要一把刀、Victorinox 設計士兵刀、軍官刀上市，到美軍取名 Swiss army knife，全文依時間講瑞士刀的由來。(B) 功能只是細節；(D) Elsener 只出現在第 3 段，不是整篇的主角。"
  },
  {
   "id": "Rg102_42",
@@ -4694,7 +7046,42 @@
   "answer": "A",
   "accuracyRate": 47,
   "discrimination": 51,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Swiss generals decided to issue each soldier a standard knife to serve both as a screwdriver and a can opener."
+   },
+   {
+    "p": 3,
+    "t": "It was a lifesaver for Swiss knife makers, who were struggling to compete with cheaper German imports."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "對瑞士刀具業者來說是救命稻草的，是前一段結尾的那件事：軍方決定發給每個士兵一把刀，等於送上一筆大訂單。(C) 照抄同一句後半的 imports，那是業者的困境，不是救命稻草；(D) 罐頭普及只是軍方需要刀的原因之一。",
+  "map": [
+   [
+    "issue each soldier a standard knife",
+    "needed a knife for every soldier"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "import",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "Canned food",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "every good Swiss citizen",
+    "p": 1
+   }
+  ]
  },
  {
   "id": "Rg102_43",
@@ -4713,7 +7100,33 @@
   "answer": "D",
   "accuracyRate": 64,
   "discrimination": 65,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "The Swiss military purchasers considered the new model with a corkscrew for opening wine not “essential for survival,” so officers had to buy this new model by themselves."
+   }
+  ],
+  "qtype": "細節",
+  "note": "採購人員認為多了開瓶器的新款不是生存必需品，essential 在選項換成 necessary。(A) 照抄第 3 段的 simple，但那是士兵刀的設計；(B) 照抄 American soldiers，美軍大量購買是二次大戰後的事。",
+  "map": [
+   [
+    "essential for survival",
+    "necessary"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "simple",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "American soldiers",
+    "p": 4
+   }
+  ]
  },
  {
   "id": "Rg102_44",
@@ -4732,7 +7145,36 @@
   "answer": "C",
   "accuracyRate": 75,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "After the Second World War, a great number of American soldiers were stationed in Europe."
+   },
+   {
+    "p": 4,
+    "t": "However, it seems that “Schweizer Offizier Messer” was too difficult for them to say, so they just called it the Swiss army knife, and that is the name it is now known by all over the world."
+   }
+  ],
+  "qtype": "細節",
+  "note": "they 指前面幾句的美軍：瑞士德語的名字太難唸，他們乾脆叫它 Swiss army knife。其他三個選項都是文章出現過的人，但和取名無關：Elsener 設計士兵刀，瑞士將領決定發刀，德國人是競爭對手。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "Carl Elsener",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "Swiss generals",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "German",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rg102_45",

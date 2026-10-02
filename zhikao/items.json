@@ -928,7 +928,10 @@
   "answer": "B",
   "accuracyRate": 54,
   "discrimination": 52,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段介紹天貝是印尼的傳統食物，第 2–5 段依序講源自爪哇的起源、營養、料理方式和文化價值，所以全文介紹的是一種來自爪哇的傳統美食。(A) 只是第 4 段，(C) 只是第 3 段提到素食者，(D) 只是第 5 段，都是細節。"
  },
  {
   "id": "Rz108_37",
@@ -947,7 +950,47 @@
   "answer": "C",
   "accuracyRate": 55,
   "discrimination": 44,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "tempeh is a fermented food originating from the island of Java"
+   },
+   {
+    "p": 2,
+    "t": "It was discovered during tofu production when discarded soybean residue caught microbial spores from the air and grew certain whitish fungi around it."
+   }
+  ],
+  "qtype": "是非",
+  "note": "天貝是豆渣沾上微生物發酵而成的食物，也就是由發酵的大豆做成。(B) 照抄 discarded 和 fungi，但丟棄的是豆渣，長出真菌後反而變成天貝；(A) 照抄第 4 段的 side dish，但天貝也可以當主菜、點心；(D) 照抄第 1 段的 kimchi，那只是拿來比喻同樣是國家的代表食物。",
+  "map": [
+   [
+    "soybean residue",
+    "soybeans"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "discarded",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "fungi",
+    "p": 2
+   },
+   {
+    "o": "A",
+    "t": "side dish",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "kimchi",
+    "p": 1
+   }
+  ]
  },
  {
   "id": "Rz108_38",
@@ -966,7 +1009,37 @@
   "answer": "A",
   "accuracyRate": 76,
   "discrimination": 56,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "tempeh is a fermented food originating from the island of Java"
+   },
+   {
+    "p": 3,
+    "t": "Tempeh is high in protein and low in fat, and contains a host of vitamins."
+   },
+   {
+    "p": 4,
+    "t": "In addition to its highly nutritional makeup, tempeh has diverse preparation possibilities."
+   }
+  ],
+  "qtype": "段落功能",
+  "note": "看每段的第一句就能抓出重點：第 2 段源自爪哇，第 3 段營養成分，第 4 段料理方式。第 4 段開頭 In addition to its highly nutritional makeup 先回顧上一段的營養，再轉到料理，正好把兩段接起來。文章沒有談行銷。",
+  "map": [
+   [
+    "originating from the island of Java",
+    "Origin"
+   ],
+   [
+    "high in protein and low in fat",
+    "nutrition"
+   ],
+   [
+    "diverse preparation possibilities",
+    "cuisine"
+   ]
+  ]
  },
  {
   "id": "Rz108_39",
@@ -985,7 +1058,37 @@
   "answer": "D",
   "accuracyRate": 55,
   "discrimination": 29,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 5,
+    "t": "With the Indonesian traditional fabric batik being recognized by UNESCO as “Intangible Cultural Heritage of Humanity,” tempeh has great potential for this honor as well."
+   }
+  ],
+  "qtype": "推論",
+  "note": "蠟染已經列入人類非物質文化遺產，天貝也很有希望得到這項殊榮，換個說法就是很可能成為國際認可的文化象徵。(B) 照抄 kimchi，文章沒有比較誰比較受歡迎，還說天貝在國際上不算熱門；(A) 照抄 vitamin，文章沒提年長者。",
+  "map": [
+   [
+    "has great potential for this honor",
+    "is likely to be recognized"
+   ],
+   [
+    "Intangible Cultural Heritage of Humanity",
+    "an international cultural symbol"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "kimchi",
+    "p": 1
+   },
+   {
+    "o": "A",
+    "t": "vitamin",
+    "p": 3
+   }
+  ]
  },
  {
   "id": "Rz108_40",

@@ -4,13 +4,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>閱讀測驗 · 學測與指考</title>
-<meta name="description" content="學測 83–115 年、指考 91–110 年歷屆閱讀測驗，共 246 篇、959 題，含補考、參考試卷與試辦考試，每題附官方答案，每篇附文章結構分析（文體、組織方式、關鍵轉折詞、綱要）；91 年起的正式考試另附大考中心公布的答對率與鑑別度。免費、免註冊、無廣告。">
+<meta name="description" content="學測 83–115 年、指考 91–110 年歷屆閱讀測驗，共 246 篇、959 題，含補考、參考試卷與試辦考試，每題附官方答案，每篇附文章結構分析（文體、組織方式、關鍵轉折詞、綱要），部分篇章另附逐段中譯與答案依據句；91 年起的正式考試另附大考中心公布的答對率與鑑別度。免費、免註冊、無廣告。">
 <link rel="canonical" href="https://staresto-create.github.io/reading-comprehension/">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="zh_TW">
 <meta property="og:site_name" content="高中英文自學題庫">
 <meta property="og:title" content="閱讀測驗 · 學測與指考">
-<meta property="og:description" content="學測 83–115 年、指考 91–110 年歷屆閱讀測驗，共 246 篇、959 題，含補考、參考試卷與試辦考試，每題附官方答案，每篇附文章結構分析（文體、組織方式、關鍵轉折詞、綱要）；91 年起的正式考試另附大考中心公布的答對率與鑑別度。免費、免註冊、無廣告。">
+<meta property="og:description" content="學測 83–115 年、指考 91–110 年歷屆閱讀測驗，共 246 篇、959 題，含補考、參考試卷與試辦考試，每題附官方答案，每篇附文章結構分析（文體、組織方式、關鍵轉折詞、綱要），部分篇章另附逐段中譯與答案依據句；91 年起的正式考試另附大考中心公布的答對率與鑑別度。免費、免註冊、無廣告。">
 <meta property="og:url" content="https://staresto-create.github.io/reading-comprehension/">
 <meta property="og:image" content="https://staresto-create.github.io/JCEE-vocab-questions/og-cover.png?v=4">
 <meta property="og:image:width" content="1200">
@@ -242,6 +242,33 @@
   @media (max-width:560px){ .stRow{flex-direction:column; gap:0;} .stRow .k{flex:none;} }
   .stBox .textNote{margin:12px 0 0;}
 
+  /* 逐段中譯與答案依據句（交卷後才出現） */
+  .zhBar{display:flex; flex-wrap:wrap; align-items:center; gap:10px; margin:2px 0 12px;}
+  .zhBtn[aria-pressed="true"]{background:var(--ink); color:#fff;}
+  .passage .pn{display:inline-block; font-family:'Noto Sans TC',sans-serif; font-size:11px; color:var(--ink-soft); border:1px solid var(--rule); border-radius:3px; padding:0 5px; margin-right:6px; line-height:1.6; vertical-align:2px; user-select:none;}
+  .passage p.zhp{font-family:'Noto Sans TC',sans-serif; font-size:14.5px; line-height:1.95; color:var(--ink); background:#F7FAF5; border-left:3px solid var(--sage); padding:8px 12px; margin:-6px 0 18px; border-radius:2px;}
+  mark.ev{background:var(--yellow); color:inherit; padding:1px 0; border-radius:2px;}
+  .passage b.mo{font-weight:700; text-decoration:underline; text-decoration-color:var(--sage); text-decoration-thickness:2px; text-underline-offset:3px;}
+  .mt{text-decoration:underline dashed var(--crimson); text-decoration-thickness:1.5px; text-underline-offset:3px;}
+  .evPara{scroll-margin-top:16px;}
+  .evTag{display:block; font-family:'Noto Sans TC',sans-serif; font-size:12.5px; font-weight:700; color:var(--gold); margin-bottom:4px;}
+  .evTag .link-btn{font-weight:400; padding:0 0 0 6px;}
+  .evTag.trapT{color:var(--crimson); font-weight:400;}
+  .optRow .mq{text-decoration:underline; text-decoration-color:var(--sage); text-decoration-thickness:2px; text-underline-offset:3px; font-weight:700;}
+  .trapTag{display:inline-block; font-size:11px; color:var(--crimson); border:1px dashed var(--crimson); border-radius:3px; padding:0 5px; margin-left:8px; line-height:1.6; white-space:nowrap;}
+  .evRow{display:flex; flex-wrap:wrap; align-items:center; gap:8px; margin:4px 0 8px;}
+  .evBtn{padding:4px 12px; font-size:13px; background:var(--yellow); border-color:var(--gold);}
+  .evAll{font-size:13px; font-weight:700; background:var(--yellow); border:1px solid var(--gold); border-radius:3px; padding:2px 10px;}
+  .evHint{font-size:12.5px; color:var(--ink-soft);}
+  .anBox{font-size:13.5px; line-height:1.85; background:#FBF9F2; border:1px solid var(--rule); border-left:3px solid var(--sage); border-radius:2px; padding:8px 12px; margin:0 0 10px;}
+  .anHead{font-size:12px; font-weight:700; color:var(--sage); margin-bottom:2px;}
+  .anMap{margin:1px 0;}
+  .anMap .o,.anMap .q{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:14.5px;}
+  .anMap .o{font-weight:700;}
+  .anMap .q{color:var(--sage); font-weight:700;}
+  .anMap .ar{color:var(--ink-soft);}
+  .anNote{margin-top:4px;}
+
 </style>
 </head>
 <body>
@@ -254,7 +281,16 @@
   <main id="homeView">
     <div class="card">
       <div class="home-lead">開始練習前</div>
-      <p class="home-desc">本題庫收錄學測 83 年至 115 年、指考 91 年至 110 年的閱讀測驗歷屆試題，含補考、參考試卷與試辦考試，共 <b>959 題、246 篇</b>。每一題都附大考中心公布的官方答案；91 年起的正式考試，另外附上官方的答對率和鑑別度。交卷之後，每一篇另外附上<b>文章結構</b>：文體、組織方式、關鍵轉折詞和綱要。<b>逐題解析還在撰寫中</b>，之後會陸續補上。</p>
+      <p class="home-desc">本題庫收錄學測 83 年至 115 年、指考 91 年至 110 年的閱讀測驗歷屆試題，含補考、參考試卷與試辦考試，共 <b>959 題、246 篇</b>。每一題都附大考中心公布的官方答案；91 年起的正式考試，另外附上官方的答對率和鑑別度。交卷之後，每一篇另外附上<b>文章結構</b>：文體、組織方式、關鍵轉折詞和綱要。目前有 <b>29 篇</b>交卷後另外附上<b>逐段中譯</b>和<b>答案依據句</b>，以學測 110 年以後為主，其他年份陸續補上；每個選項為什麼對、為什麼錯的完整解析，之後再寫。</p>
+
+      <details class="sk-box">
+        <summary><div class="sk-title">依據句和逐段中譯怎麼看</div></summary>
+        <div>
+          已經附上依據句的篇章，交卷之後每一題下方會有「看依據句」按鈕，按下去畫面會捲到文章裡的那一段，答案的依據用<b>黃色底</b>標出來，段落上方也寫明是第幾段。主旨題、出處題這類要讀完整篇才能判斷的題目，不標在某一句上，只寫「依據句：全文」。<br><br>
+          題目下方的「原文 → 正確選項」，列出原文的字詞在正確選項裡換成了什麼說法，例如 shrubs → tea trees。正確選項裡換過說法的字詞加<b>綠色底線</b>；錯誤選項如果照抄了原文的字詞，加<b>紅色虛線</b>，旁邊標出照抄的是第幾段，看依據句時，原文裡那些字詞的位置也會一起標出來。照抄原文字詞的選項不一定是對的，要回原文看那些字詞原本在說什麼。<br><br>
+          文章上方的「顯示逐段中譯」可以把中譯接在每一段英文下面，再按一次就收起來。建議先自己讀懂英文、對過答案，再打開中譯核對。
+        </div>
+      </details>
 
       <details class="sk-box">
         <summary><div class="sk-title">文章結構怎麼看</div></summary>
@@ -386,7 +422,7 @@ function isTestMode(){ const el=document.getElementById('testModeToggle'); retur
 
 let PASSAGES = {}, ITEMS = [];
 let selectedExams = new Set(), selectedYears = new Set(), selectedOrgs = new Set(), officialOnly = false;
-let curPid = null, curItems = [], picks = {}, graded = false;
+let curPid = null, curItems = [], picks = {}, graded = false, zhOn = false, evOn = null;
 
 /* 年度分組：鍵是網址上用的代號 */
 const YEAR_GROUPS = [
@@ -630,7 +666,7 @@ function goHome(){
   buildYearList(); writeHash(); window.scrollTo(0,0);
 }
 function openPassage(pid){
-  curPid = pid; graded = false; picks = {};
+  curPid = pid; graded = false; picks = {}; zhOn = false; evOn = null;
   curItems = itemsOf(pid);
   document.getElementById('homeView').style.display='none';
   document.getElementById('historyView').style.display='none';
@@ -679,12 +715,13 @@ function renderPractice(){
     <div class="tagRow">${tags}</div>
     ${flag}
     ${graded ? '' : '<div style="font-size:12.5px; color:var(--ink-soft); line-height:1.8; margin-bottom:12px;">先讀文章，再作答下方的題目。全部答完前也可以交卷，沒答的算答錯。</div>'}
+    ${graded && p.zh ? `<div class="zhBar"><button type="button" class="ghost-btn zhBtn" aria-pressed="${zhOn}" onclick="toggleZh()">${zhOn ? '收起逐段中譯' : '顯示逐段中譯'}</button>${evOn ? `<button type="button" class="link-btn" onclick="clearEv()">取消依據句標示</button>` : ''}</div>` : ''}
     <div class="passage" lang="en">`;
 
   const inline = {};
   curItems.forEach(it => { if(it.afterParagraph) (inline[it.afterParagraph] = inline[it.afterParagraph] || []).push(it); });
   p.paras.forEach((par, idx) => {
-    html += `<p>${br(par)}</p>`;
+    html += paraHtml(p, par, idx);
     (inline[idx+1] || []).forEach(it => { html += renderQuestion(it, true); });
   });
   html += `</div>`;
@@ -700,7 +737,7 @@ function renderPractice(){
     const ok = curItems.filter(it => isCorrect(it, picks[it.id])).length;
     html += `<div class="result" style="margin-top:6px;"><div class="big">${ok} / ${total}</div><div class="lbl">這一組答對的題數</div></div>
       ${renderStructure(p)}
-      <div class="exPending">逐題解析還在撰寫中，目前先提供官方答案與數據。</div>
+      <div class="exPending">${p.zh ? '每個選項為什麼對、為什麼錯的完整解析還在撰寫中；這一篇目前先提供逐段中譯、答案依據句，以及原文和正確選項的對應。' : '逐題解析還在撰寫中，目前先提供官方答案與數據。'}</div>
       <div class="row">
         <button class="ghost-btn" onclick="openPassage('${p.id}')">整組再做一次</button>
         <button class="ghost-btn" onclick="quickStart()">隨機下一篇</button>
@@ -735,7 +772,7 @@ function renderQuestion(it, inline){
   const parts = String(it.stem).split('\n');
   const stem = esc(parts[0]) + (parts.length > 1 ? `<span class="ins">${br(parts.slice(1).join('\n'))}</span>` : '');
   const pk = picks[it.id];
-  let h = `<div class="qBlock${inline ? ' inline' : ''}" role="group" aria-label="第 ${it.no} 題">
+  let h = `<div class="qBlock${inline ? ' inline' : ''}" id="q-${it.id}" role="group" aria-label="第 ${it.no} 題">
     <div class="qStem" lang="en"><span class="qn">${it.no}.</span>${stem}</div>`;
   if(it.figure) h += figureHtml(it.figure, `${it.exam} ${it.year} 第 ${it.no} 題附圖`);
   h += `<div class="optList" style="border-top:none; padding-top:0;">`;
@@ -747,12 +784,13 @@ function renderQuestion(it, inline){
     }else if(pk === ltr) cls += ' pick';
     const act = graded ? ' disabled' : ` onclick="choose('${it.id}','${ltr}')"`;
     h += `<button type="button" class="${cls}" data-q="${it.id}" data-l="${ltr}" aria-pressed="${pk === ltr ? 'true' : 'false'}"${act}>
-        <span class="ltr">(${ltr})</span><span lang="en">${esc(txt)}</span></button>`;
+        <span class="ltr">(${ltr})</span><span lang="en">${graded ? optMarked(it, ltr, txt) : esc(txt)}</span>${graded ? trapTag(it, ltr) : ''}</button>`;
   });
   h += `</div>`;
   if(graded){
     const good = isCorrect(it, pk);
     h += `<div class="qFeed">${good ? '<span class="ok">答對</span>' : (pk ? `<span class="ng">答錯</span>，你選 (${pk})` : '<span class="ng">未作答</span>')}，正確答案 ${answerText(it)}</div>`;
+    h += renderEvidence(it);
     if(it.answerNote) h += `<div class="myPick" style="color:var(--ink-soft); background:#FFFBEA; border-left-color:var(--gold);">${esc(it.answerNote)}</div>`;
     h += renderDataBox(it);
   }
@@ -793,6 +831,87 @@ function grade(){
   graded = true;
   curItems.forEach(it => recordAnswer(it.id, isCorrect(it, picks[it.id])));
   renderPractice(); window.scrollTo(0,0);
+}
+
+/* ---------- 逐段中譯與答案依據句（交卷後才出現） ---------- */
+function lc(s){ return String(s).toLowerCase().replace(/’/g,"'"); }
+function spansIn(text, needle){
+  const out = [], t = lc(text), n = lc(needle);
+  if(!n) return out;
+  let k = t.indexOf(n);
+  while(k >= 0){ out.push([k, k + n.length]); k = t.indexOf(n, k + n.length); }
+  return out;
+}
+/* 依據句黃底；正確選項換過字的原文字詞加粗；照抄進錯誤選項的原文字詞加虛線 */
+function paraHtml(p, par, idx){
+  const no = idx + 1;
+  const it = evOn ? curItems.find(x => x.id === evOn) : null;
+  const L = par.length, ev = new Array(L).fill(0), mo = new Array(L).fill(0), mt = new Array(L).fill(0);
+  let isEv = false, isTrap = false;
+  if(it && Array.isArray(it.ev)){
+    it.ev.filter(e => e.p === no).forEach(e => {
+      const k = par.indexOf(e.t);
+      if(k < 0) return;
+      isEv = true;
+      for(let i = k; i < k + e.t.length; i++) ev[i] = 1;
+      (it.map || []).forEach(m => spansIn(e.t, m[0]).forEach(([a,b]) => { for(let i = k+a; i < k+b; i++) mo[i] = 1; }));
+    });
+  }
+  if(it) (it.trap || []).filter(t => t.p === no).forEach(t => spansIn(par, t.t).forEach(([a,b]) => { isTrap = true; for(let i = a; i < b; i++) mt[i] = 1; }));
+  let body = '', i = 0;
+  while(i < L){
+    let j = i; while(j < L && ev[j] === ev[i] && mo[j] === mo[i] && mt[j] === mt[i]) j++;
+    let seg = br(par.slice(i, j));
+    if(mo[i]) seg = `<b class="mo">${seg}</b>`;
+    if(mt[i]) seg = `<span class="mt">${seg}</span>`;
+    if(ev[i]) seg = `<mark class="ev">${seg}</mark>`;
+    body += seg; i = j;
+  }
+  const pn = graded ? `<span class="pn">第 ${no} 段</span>` : '';
+  let tag = '';
+  if(isEv) tag = `<span class="evTag" lang="zh-Hant-TW">第 ${no} 段・第 ${it.no} 題的依據句 <button type="button" class="link-btn" onclick="backToQ('${it.id}')">回到第 ${it.no} 題 ↓</button></span>`;
+  else if(isTrap) tag = `<span class="evTag trapT" lang="zh-Hant-TW">第 ${no} 段・虛線是第 ${it.no} 題錯誤選項照抄的字詞</span>`;
+  let h = `<p id="para-${no}"${isEv || isTrap ? ' class="evPara"' : ''}>${tag}${pn}${body}</p>`;
+  if(graded && zhOn && p.zh) h += `<p class="zhp" lang="zh-Hant-TW"><span class="pn">第 ${no} 段</span>${esc(p.zh[idx])}</p>`;
+  return h;
+}
+function optMarked(it, ltr, txt){
+  const ans = Array.isArray(it.acceptedAnswers) ? it.acceptedAnswers : [it.answer];
+  const words = ans.includes(ltr) ? (it.map || []).map(m => m[1]) : (it.trap || []).filter(t => t.o === ltr).map(t => t.t);
+  const cls = ans.includes(ltr) ? 'mq' : 'mt';
+  const on = new Array(txt.length).fill(0);
+  words.forEach(w => spansIn(txt, w).forEach(([a,b]) => { for(let i = a; i < b; i++) on[i] = 1; }));
+  let h = '', i = 0;
+  while(i < txt.length){ let j = i; while(j < txt.length && on[j] === on[i]) j++; h += on[i] ? `<span class="${cls}">${esc(txt.slice(i,j))}</span>` : esc(txt.slice(i,j)); i = j; }
+  return h;
+}
+function trapTag(it, ltr){
+  const ps = [...new Set((it.trap || []).filter(t => t.o === ltr).map(t => t.p))];
+  return ps.length ? `<span class="trapTag">照抄第 ${ps.join('、')} 段的字詞</span>` : '';
+}
+function renderEvidence(it){
+  if(!it.ev) return '';
+  let row;
+  if(it.ev === 'all') row = `<span class="evAll">依據句：全文</span><span class="evHint">要讀完整篇才能判斷，不在某一句裡</span>`;
+  else {
+    const ps = [...new Set(it.ev.map(e => e.p))];
+    row = `<button type="button" class="ghost-btn evBtn" onclick="showEv('${it.id}')">看依據句</button><span class="evHint">第 ${ps.join('、')} 段</span>`;
+  }
+  const map = (it.map || []).map(m => `<div class="anMap"><span class="o" lang="en">${esc(m[0])}</span> <span class="ar">→</span>&nbsp;<span class="q" lang="en">${esc(m[1])}</span></div>`).join('');
+  return `<div class="evRow">${row}</div><div class="anBox">${map ? `<div class="anHead">原文 → 正確選項</div>${map}` : ''}<div class="anNote">${esc(it.note)}</div></div>`;
+}
+function scrollToEl(el){ if(el) window.scrollTo(0, el.getBoundingClientRect().top + window.scrollY - 16); }
+function showEv(id){
+  evOn = id; renderPractice();
+  const t = document.querySelector('.evTag:not(.trapT)');
+  scrollToEl(t ? t.closest('p') : null);
+}
+function clearEv(){ const y = window.scrollY; evOn = null; renderPractice(); window.scrollTo(0, y); }
+function backToQ(id){ scrollToEl(document.getElementById('q-' + id)); }
+function toggleZh(){
+  const bar = document.querySelector('.zhBar'), y0 = bar ? bar.getBoundingClientRect().top : 0;
+  zhOn = !zhOn; renderPractice();
+  const b2 = document.querySelector('.zhBar'); if(b2) window.scrollTo(0, b2.getBoundingClientRect().top + window.scrollY - y0);
 }
 
 init();

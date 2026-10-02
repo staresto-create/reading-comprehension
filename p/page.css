@@ -86,3 +86,17 @@ footer .fl{font-size:13px; margin-bottom:12px; font-weight:700;}
 }
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto !important; transition:none !important;}}
 .stBox .textNote{margin:12px 0 0;}
+.passage .pn,.evp{display:inline-block; font-family:'Noto Sans TC',sans-serif; font-size:11px; color:var(--ink-soft); border:1px solid var(--rule); border-radius:3px; padding:0 5px; margin-right:6px; line-height:1.6; vertical-align:2px;}
+.evH{font-size:15px; margin:18px 0 8px; color:var(--sage);}
+.evItem{border-top:1px dashed var(--rule); padding-top:8px; margin-bottom:10px;}
+.evN{font-weight:700; font-size:13.5px; color:var(--crimson); margin-bottom:4px;}
+.evq{margin:0 0 6px; font-size:14px; line-height:1.85;}
+.evq mark{background:#FFF2A8; font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:15px; padding:1px 0;}
+.evAll{display:inline-block; font-size:13px; font-weight:700; background:#FFF2A8; border:1px solid var(--gold); border-radius:3px; padding:0 8px; margin-right:8px;}
+.anBox{font-size:13.5px; line-height:1.85; background:#FBF9F2; border:1px solid var(--rule); border-left:3px solid var(--sage); border-radius:2px; padding:8px 12px; margin:6px 0 4px;}
+.anHead{font-size:12px; font-weight:700; color:var(--sage);}
+.anMap{margin:1px 0;}
+.anMap .o,.anMap .q{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:14.5px; font-weight:700;}
+.anMap .q{color:var(--sage);}
+.anMap .ar{color:var(--ink-soft);}
+.zhp{font-size:14.5px; line-height:1.95; margin:0 0 10px;}
