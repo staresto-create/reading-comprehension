@@ -268,6 +268,13 @@
   .anMap .q{color:var(--sage); font-weight:700;}
   .anMap .ar{color:var(--ink-soft);}
   .anNote{margin-top:4px;}
+  .qtTag{display:inline-block; font-size:12px; color:var(--sage); border:1px solid var(--sage); border-radius:3px; padding:1px 7px; line-height:1.6;}
+  .qtTag [lang="en"]{font-size:11px; opacity:.85;}
+  .scopeTag{display:inline-block; font-size:11px; color:var(--gold); border:1px dashed var(--gold); border-radius:3px; padding:0 5px; margin-left:8px; line-height:1.6; white-space:nowrap;}
+  .citeBox{margin-top:8px; padding-top:6px; border-top:1px dashed var(--rule); font-size:13px; color:var(--ink-soft);}
+  .citeH{display:inline-block; font-size:11.5px; font-weight:700; color:var(--sage); border:1px solid var(--sage); border-radius:3px; padding:0 5px; margin-right:6px;}
+  .citeBox a{color:var(--crimson);}
+  .histRow .en{font-size:11px; color:var(--ink-soft);}
 
 </style>
 </head>
@@ -281,21 +288,35 @@
   <main id="homeView">
     <div class="card">
       <div class="home-lead">開始練習前</div>
-      <p class="home-desc">本題庫收錄學測 83 年至 115 年、指考 91 年至 110 年的閱讀測驗歷屆試題，含補考、參考試卷與試辦考試，共 <b>959 題、246 篇</b>。每一題都附大考中心公布的官方答案；91 年起的正式考試，另外附上官方的答對率和鑑別度。交卷之後，每一篇另外附上<b>文章結構</b>：文體、組織方式、關鍵轉折詞和綱要。目前有 <b>29 篇</b>交卷後另外附上<b>逐段中譯</b>和<b>答案依據句</b>，以學測 110 年以後為主，其他年份陸續補上；每個選項為什麼對、為什麼錯的完整解析，之後再寫。</p>
+      <p class="home-desc">本題庫收錄學測 83 年至 115 年、指考 91 年至 110 年的閱讀測驗歷屆試題，含補考、參考試卷與試辦考試，共 <b>959 題、246 篇</b>。每一題都附大考中心公布的官方答案；91 年起的正式考試，另外附上官方的答對率和鑑別度。交卷之後，每一篇另外附上<b>文章結構</b>：文體、組織方式、關鍵轉折詞和綱要。目前有 <b>56 篇</b>交卷後另外附上<b>逐段中譯</b>和<b>答案依據句</b>：學測 105 年到 115 年（含參考試卷和試辦考試）每一篇都有，102 到 104 年學測和 108 年指考則各有一篇，是和參考試卷同一篇的文章；其他年份陸續補上。每個選項為什麼對、為什麼錯的完整解析，之後再寫。</p>
 
       <details class="sk-box">
         <summary><div class="sk-title">依據句和逐段中譯怎麼看</div></summary>
         <div>
-          已經附上依據句的篇章，交卷之後每一題下方會有「看依據句」按鈕，按下去畫面會捲到文章裡的那一段，答案的依據用<b>黃色底</b>標出來，段落上方也寫明是第幾段。主旨題、出處題這類要讀完整篇才能判斷的題目，不標在某一句上，只寫「依據句：全文」。<br><br>
+          已經附上依據句的篇章，交卷之後每一題下方會有「看依據句」按鈕，按下去畫面會捲到文章裡的那一段，答案的依據用<b>黃色底</b>標出來，段落上方也寫明是第幾段。主旨題這類要讀完整篇才能判斷的題目，不標在某一句上，只寫「依據句：全文」。「看依據句」旁邊另外標出這一題屬於哪一類題型，六類題型各在考什麼，見下一則說明。<br><br>
           題目下方的「原文 → 正確選項」，列出原文的字詞在正確選項裡換成了什麼說法，例如 shrubs → tea trees。正確選項裡換過說法的字詞加<b>綠色底線</b>；錯誤選項如果照抄了原文的字詞，加<b>紅色虛線</b>，旁邊標出照抄的是第幾段，看依據句時，原文裡那些字詞的位置也會一起標出來。照抄原文字詞的選項不一定是對的，要回原文看那些字詞原本在說什麼。<br><br>
           文章上方的「顯示逐段中譯」可以把中譯接在每一段英文下面，再按一次就收起來。建議先自己讀懂英文、對過答案，再打開中譯核對。
         </div>
       </details>
 
       <details class="sk-box">
+        <summary><div class="sk-title">六類題型各在考什麼</div></summary>
+        <div>
+          已經附上依據句的篇章，交卷之後每一題都會標出題型，學習歷程也會分類統計答對率，哪一類比較弱一看就知道。六類的名稱取自大考中心和高中英文教學常用的說法。<br><br>
+          <b>主旨題 Main idea</b>：問全文在講什麼、作者寫這篇的目的、文章可能出自哪裡，也包括問某一段的目的。先想每一段各在講什麼，再找能把各段都包進去的選項。交卷之後，錯誤選項旁邊會標出錯在哪裡：<b>過於狹隘</b>是只講到其中一段或一個細節，<b>太過廣泛</b>是範圍比文章大，<b>偏離主題</b>是文章根本不是在談這件事。臺師大英語系劉宇挺教授分析 110 年試辦考試時指出，以往的考題多半只問整篇的大意，新型學測還會問「某一段落」扮演什麼角色、目的是什麼（<a href="https://sites.google.com/view/smengverliu/%E8%A3%9C%E5%85%85%E8%B3%87%E6%BA%90/%E5%A4%A7%E8%80%83%E8%A7%A3%E6%9E%90" target="_blank" rel="noopener">〈大考解析〉</a>）。<br><br>
+          <b>細節題 Supporting details</b>：答案寫在文章的某一句或某幾句裡。常見的問法有何者為是（Which of the following is true）、未提及（NOT mentioned），以及要對照文章選圖的圖片題。正確選項常常換過說法，照抄原文字詞的選項反而要回原文確認那些字詞原本在說什麼。<br><br>
+          <b>詞義題 Vocabulary in context</b>：問文中某個字、詞組或慣用語的意思，要從上下文推敲，不能只靠字典上的第一個意思。問 it、this、they 這類字指的是什麼的題目，大考中心稱為<b>指代詞</b>，站上也歸在這一類，另外標出「指代詞」。劉宇挺教授稱這類字為回指詞（anaphora），並提醒它所指的人事物有時隔了好幾句，要掌握前後文才判斷得出來（<a href="https://sites.google.com/view/smengverliu/%E8%A3%9C%E5%85%85%E8%B3%87%E6%BA%90/%E5%A4%A7%E8%80%83%E8%A7%A3%E6%9E%90" target="_blank" rel="noopener">〈大考解析〉</a>）。<br><br>
+          <b>推論題 Inference</b>：答案沒有直接寫在文章裡，要從某一句話推出它背後沒有明說的事。問作者的態度、哪一句是意見而不是事實，以及 Which of the following can be concluded 這類題目，也歸在這一類。推論題可以從任何一段出題，但推出來的結果仍要找得到文章的依據，不能靠常識或背景知識。<br><br>
+          <b>文章段落組織 Structure</b>：問文章怎麼組織（依時間、因果、比較對比等）、作者怎麼發展論點、引用某句話有什麼用意，或是把一個句子放回最合適的段落。這一類和下一則「文章結構怎麼看」的組織方式直接相關。<br><br>
+          <b>結尾寫作手法 Conclusion</b>：問 How does the author conclude the passage，也就是作者怎麼替文章收尾。這類題目要先掌握全文，再拿末段和前面各段比對，才判斷得出末段是在總結重點、補充新的事實，還是提出新的問題，所以依據句雖然標在末段，提示會寫「要和前面各段比對」。這是近幾年才出現的題型。
+        </div>
+      </details>
+
+      <details class="sk-box">
         <summary><div class="sk-title">文章結構怎麼看</div></summary>
         <div>
-          每一篇交卷之後，答案下方會出現「這一篇的文章結構」，寫出這篇文章的<b>文體</b>（記敘文、說明文、論說文等）、<b>組織方式</b>（時序發展、因果關係、問題解決等）、<b>關鍵轉折詞</b>和<b>綱要</b>。綱要裡括號中的英文是原文的轉折詞或關鍵字句，可以回到文章找出它們的位置，看作者怎麼一步一步把文章接起來。<br><br>
+          每一篇交卷之後，答案下方會出現「這一篇的文章結構」，寫出這篇文章的<b>文體</b>（記敘文、說明文、論說文等）、<b>組織方式</b>（時序發展、因果關係、問題解決等）、<b>關鍵轉折詞</b>和<b>綱要</b>。綱要裡括號中的英文是原文的轉折詞或關鍵字句，可以回到文章找出它們的位置，看作者怎麼一步一步把文章接起來。<br><br>          為什麼要看結構？臺師大英語系劉宇挺教授分析 110 年試辦考試時指出，大考的閱讀文章「每一篇閱讀幾乎都是架構完整、結構縝密之寫作範例」，每一段的主題句都反映了該段的內容（<a href="https://sites.google.com/view/smengverliu/%E8%A3%9C%E5%85%85%E8%B3%87%E6%BA%90/%E5%A4%A7%E8%80%83%E8%A7%A3%E6%9E%90" target="_blank" rel="noopener">〈大考解析〉</a>）。也就是說，讀的時候先抓每一段的主題句，再看段落之間怎麼接，比一句一句往下讀更容易抓到重點。<br><br>
+
           文章結構放在交卷之後，是因為綱要等於先講出各段在說什麼，先看就失去練習的意義。想專練某一種結構，可以用下方的「依組織方式篩選」；也可以到<a href="p/">篇目一覽</a>，依組織方式瀏覽全部 246 篇。
         </div>
       </details>
@@ -396,6 +417,8 @@
       <div id="histByExam"></div>
       <div class="sec-title">正式考試與其他試卷</div>
       <div id="histByType"></div>
+      <div class="sec-title">各類題型答對率</div>
+      <div id="histByCat"></div>
       <div class="note-box" style="margin:10px 0 0;">題數少的時候比率會跳動得很厲害，累積幾十題以後再看比較準。</div>
       <div class="sec-title">最近作答記錄</div>
       <div id="histRecent"></div>
@@ -631,6 +654,11 @@ function showHistory(){
     `<div class="histRow"><span>${e}</span><span class="r">${rateLine(known.filter(h => byId[h.id].exam === e))}</span></div>`).join('');
   document.getElementById('histByType').innerHTML = [['正式考試',true],['補考、參考試卷與試辦考試',false]].map(([lb,off]) =>
     `<div class="histRow"><span>${lb}</span><span class="r">${rateLine(known.filter(h => isOfficial(byId[h.id]) === off))}</span></div>`).join('');
+  const tagged = ITEMS.filter(it => it.cat), nP = new Set(tagged.map(it => it.passageId)).size;
+  const kc = known.filter(h => byId[h.id].cat);
+  document.getElementById('histByCat').innerHTML =
+    `<div class="note-box" style="margin:0 0 8px;">目前有標題型的是 ${nP} 篇、${tagged.length} 題（附逐段中譯的篇章），只統計這些題目；其他篇章陸續補上。</div>` +
+    CATS.map(c => `<div class="histRow"><span>${c.k} <span lang="en" class="en">${c.en}</span></span><span class="r">${rateLine(kc.filter(h => byId[h.id].cat === c.k))}</span></div>`).join('');
   const recent = known.slice(-20).reverse();
   document.getElementById('histRecent').innerHTML = recent.length ? recent.map(h => {
     const it = byId[h.id], p = PASSAGES[it.passageId], d = new Date(h.t);
@@ -784,7 +812,7 @@ function renderQuestion(it, inline){
     }else if(pk === ltr) cls += ' pick';
     const act = graded ? ' disabled' : ` onclick="choose('${it.id}','${ltr}')"`;
     h += `<button type="button" class="${cls}" data-q="${it.id}" data-l="${ltr}" aria-pressed="${pk === ltr ? 'true' : 'false'}"${act}>
-        <span class="ltr">(${ltr})</span><span lang="en">${graded ? optMarked(it, ltr, txt) : esc(txt)}</span>${graded ? trapTag(it, ltr) : ''}</button>`;
+        <span class="ltr">(${ltr})</span><span lang="en">${graded ? optMarked(it, ltr, txt) : esc(txt)}</span>${graded ? trapTag(it, ltr) + scopeTag(it, ltr) : ''}</button>`;
   });
   h += `</div>`;
   if(graded){
@@ -885,6 +913,24 @@ function optMarked(it, ltr, txt){
   while(i < txt.length){ let j = i; while(j < txt.length && on[j] === on[i]) j++; h += on[i] ? `<span class="${cls}">${esc(txt.slice(i,j))}</span>` : esc(txt.slice(i,j)); i = j; }
   return h;
 }
+/* 題型大類：中文名稱照交接說明第八點定案，英文照使用者的六類 */
+const CATS = [
+  { k:'主旨題', en:'Main idea' }, { k:'細節題', en:'Supporting details' }, { k:'詞義題', en:'Vocabulary in context' },
+  { k:'推論題', en:'Inference' }, { k:'文章段落組織', en:'Structure' }, { k:'結尾寫作手法', en:'Conclusion' }
+];
+function catTag(it){
+  const c = CATS.find(x => x.k === it.cat);
+  if(!c) return '';
+  return `<span class="qtTag">${esc(c.k)}${it.sub ? '（' + esc(it.sub) + '）' : ''} <span lang="en">${c.en}</span></span>`;
+}
+function scopeTag(it, ltr){
+  const s = it.scope && it.scope[ltr];
+  if(!s) return '';
+  return `<span class="scopeTag">${esc(s.k)}${s.p ? '（只講第 ' + s.p.join('、') + ' 段）' : ''}</span>`;
+}
+function citeBox(it){
+  return (it.cite || []).map(c => `<div class="citeBox"><span class="citeH">延伸閱讀</span>${esc(c.who)}：${esc(c.what)} <a href="${esc(c.url)}" target="_blank" rel="noopener">〈大考解析〉</a></div>`).join('');
+}
 function trapTag(it, ltr){
   const ps = [...new Set((it.trap || []).filter(t => t.o === ltr).map(t => t.p))];
   return ps.length ? `<span class="trapTag">照抄第 ${ps.join('、')} 段的字詞</span>` : '';
@@ -895,10 +941,12 @@ function renderEvidence(it){
   if(it.ev === 'all') row = `<span class="evAll">依據句：全文</span><span class="evHint">要讀完整篇才能判斷，不在某一句裡</span>`;
   else {
     const ps = [...new Set(it.ev.map(e => e.p))];
-    row = `<button type="button" class="ghost-btn evBtn" onclick="showEv('${it.id}')">看依據句</button><span class="evHint">第 ${ps.join('、')} 段</span>`;
+    const hint = it.cat === '結尾寫作手法' ? '末段，要和前面各段比對' : `第 ${ps.join('、')} 段`;
+    row = `<button type="button" class="ghost-btn evBtn" onclick="showEv('${it.id}')">看依據句</button><span class="evHint">${hint}</span>`;
   }
+  row += catTag(it);
   const map = (it.map || []).map(m => `<div class="anMap"><span class="o" lang="en">${esc(m[0])}</span> <span class="ar">→</span>&nbsp;<span class="q" lang="en">${esc(m[1])}</span></div>`).join('');
-  return `<div class="evRow">${row}</div><div class="anBox">${map ? `<div class="anHead">原文 → 正確選項</div>${map}` : ''}<div class="anNote">${esc(it.note)}</div></div>`;
+  return `<div class="evRow">${row}</div><div class="anBox">${map ? `<div class="anHead">原文 → 正確選項</div>${map}` : ''}<div class="anNote">${esc(it.note)}</div>${citeBox(it)}</div>`;
 }
 function scrollToEl(el){ if(el) window.scrollTo(0, el.getBoundingClientRect().top + window.scrollY - 16); }
 function showEv(id){
