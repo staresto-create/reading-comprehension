@@ -22,7 +22,32 @@
   "twinIds": [
    "g109p1"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "but",
+    "while",
+    "During World War II",
+    "In 1945",
+    "thus",
+    "In the 1950s",
+    "Despite",
+    "Another",
+    "But"
+   ],
+   "outline": [
+    "介紹人字拖是最簡單的鞋子，名稱來自走路時拍打腳底的聲音。",
+    "最早的紀錄來自埃及，(but) 許多古文明各有樣式，(while) 希臘、羅馬、美索不達米亞、印度的夾腳位置各不相同。",
+    "現代人字拖源自日本草鞋，(During World War II) 日本掌握大量橡膠，(In 1945) 戰後用橡膠量產，(thus) 橡膠取代了稻草。",
+    "(In the 1950s) 美軍把草鞋帶回美國，重新設計後流行至今。",
+    "(Despite their popularity) 人字拖也引發問題：容易受傷、場合是否合宜，(But even more serious) 更嚴重的是對環境的衝擊。"
+   ]
+  }
  },
  {
   "id": "g115rp2",
@@ -46,7 +71,27 @@
   "twinIds": [
    "g109p2"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "定義",
+   "orgEn": "Definition",
+   "orgCode": "def",
+   "transitions": [
+    "But",
+    "In addition to",
+    "Also",
+    "Above all"
+   ],
+   "outline": [
+    "船是國際貿易的命脈，(But) 船長只負責航行到港外，入港停泊由另一位船長負責，也就是領港員。",
+    "領港員熟悉特定港口，引導大船通過深水航道，沒有他們，船隻很容易擱淺。",
+    "(In addition to) 除了淺灘，潮汐也讓入港更困難，(Also) 風會改變船的方向。",
+    "領港需要高度專業與獨立快速的判斷，(Above all) 最重要的是風險管理。",
+    "領港員在關鍵時刻登船掌舵，負責船隻、港口與海洋環境的安全。"
+   ]
+  }
  },
  {
   "id": "g115rp3",
@@ -71,7 +116,30 @@
   "twinIds": [
    "g111p3"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "Above all",
+    "Moreover",
+    "thus",
+    "yet",
+    "If",
+    "while",
+    "If"
+   ],
+   "outline": [
+    "斑馬魚是熱門研究對象，(Above all) 具有驚人的自癒能力，心臟、視力都能再生。",
+    "人和斑馬魚有相同的主要器官，共享七成基因，(Moreover) 致病基因也多有對應，(thus) 科學家希望藉此讓人類器官再生。",
+    "范德堡大學研究視網膜再生，(yet) 斑馬魚失明後三、四週就能恢復，(If) 若能在人身上複製，可能治療失明。",
+    "研究發現降低 GABA 濃度會啟動視網膜再生，(while) 濃度高則會抑制。",
+    "團隊開始在老鼠身上測試，(If) 若成功，全球四千萬盲人或許要感謝這條小魚。"
+   ]
+  }
  },
  {
   "id": "g115p1",
@@ -94,7 +162,35 @@
   "accuracyRateSource": "大考中心 115 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "On August 4",
+    "1914",
+    "There",
+    "Gradually",
+    "On October 27",
+    "1915",
+    "Weeks later",
+    "Finally",
+    "So",
+    "Then",
+    "On August 30",
+    "1916"
+   ],
+   "outline": [
+    "2022 年沉沒 107 年的堅忍號在南極尋獲，為這段傳奇畫下句點。",
+    "(On August 4, 1914) Shackleton 帶領 27 名船員出發，想徒步橫越南極，離開南喬治亞島後 (There) 受困浮冰。",
+    "堅忍號在冰裡困了九個月，(Gradually) 冰的壓力慢慢壓壞船身，(On October 27, 1915) 他下令棄船，(Weeks later) 船沉入威德爾海。",
+    "船員在浮冰上漂流五個月，(Finally) 搭救生艇到象島，(So) Shackleton 帶五人航行 800 英里回南喬治亞島求救。",
+    "(On August 30, 1916) 他終於帶船回象島救出所有人，全員生還。"
+   ]
+  }
  },
  {
   "id": "g115p2",
@@ -116,7 +212,32 @@
   "accuracyRateSource": "大考中心 115 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Around this time",
+    "Throughout the Middle Ages",
+    "To begin with",
+    "Also",
+    "further",
+    "while",
+    "In Victorian times",
+    "Then",
+    "Today"
+   ],
+   "outline": [
+    "歐洲古堡常見螺旋梯，其實有悠久的歷史。",
+    "舊約提到所羅門聖殿的螺旋梯，現存最古老的在羅馬圖拉真柱，(Around this time) 之後廣泛用於歐洲建築。",
+    "(Throughout the Middle Ages) 螺旋梯成為城堡的防禦設計：(To begin with) 狹窄只能一次一人，(Also) 順時針上升，讓攻方右手揮不了劍。",
+    "不規則的階梯讓攻方 (further) 更吃力，(while) 守方熟悉階梯能快速撤退。",
+    "(In Victorian times) 鑄鐵螺旋梯流行，二十世紀鋼材普及，(Today) 材質多元，仍是高級建築的熱門設計。"
+   ]
+  }
  },
  {
   "id": "g115p3",
@@ -140,7 +261,33 @@
   "accuracyRateSource": "大考中心 115 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Well",
+    "but",
+    "for example",
+    "Though",
+    "therefore",
+    "also",
+    "As",
+    "By the 16th century",
+    "Today",
+    "So"
+   ],
+   "outline": [
+    "地圖為何北方朝上？(Well … but) 其實並非向來如此。",
+    "古代地圖多以東方朝上，(for example) 古印度與舊約時代都是，(also) 所以東方至今叫 Orient。",
+    "現存最古老的地圖南方朝上：埃及因尼羅河源自南方，(As) 河往下流，阿拉伯則因麥加在南方。",
+    "歐洲航海時代水手靠北極星導航，(By the 16th century) 地圖以歐洲為中心、北方朝上，帝國主義擴張後成為標準。",
+    "(Today) GPS 地圖隨行進方向轉動，(So) 北方朝上或許只是一時現象，我們又回到古人以自己為中心的方式。"
+   ]
+  }
  },
  {
   "id": "g114p1",
@@ -162,7 +309,29 @@
   "accuracyRateSource": "大考中心 114 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Thus",
+    "whereas",
+    "but",
+    "In the early 1900s",
+    "while",
+    "Now"
+   ],
+   "outline": [
+    "多數人認為紅綠燈的發明人是鐵路號誌工程師 Knight，(Thus) 他仿照鐵路臂板號誌設計交通號誌，臂水平代表停，(whereas) 下垂代表行。",
+    "1868 年號誌裝在倫敦西敏橋附近，(but) 一個月後瓦斯外洩爆炸，計畫立即停止。",
+    "(In the early 1900s) 英國式號誌出現在美國大城，芝加哥用臂板，(while) 舊金山用紅綠燈。",
+    "底特律警察 Potts 發明黃燈，1920 年裝設三色號誌。",
+    "(Now) 自駕車出現後，研究者認為號誌可能不再需要。"
+   ]
+  }
  },
  {
   "id": "g114p2",
@@ -183,7 +352,30 @@
   "accuracyRateSource": "大考中心 114 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "But",
+    "Secondly",
+    "In addition",
+    "However",
+    "Furthermore",
+    "Finally",
+    "Worse yet"
+   ],
+   "outline": [
+    "恐怖片讓有些人害怕，(But) 也有許多人喜歡，新研究開始探討它的好處與風險。",
+    "好處一是「安全的恐懼」，(Secondly) 觀眾代入角色，間接學習應對威脅，(In addition) 刺激感也有療癒作用。",
+    "(However) 恐怖片也有壞處：容易焦慮的人會恐慌，創傷可能復發。",
+    "(Furthermore) 恐怖片會干擾睡眠，造成隔天疲倦易怒。",
+    "(Finally) 對兒童影響更大，可能導致成年後焦慮，(Worse yet) 還會對暴力變得麻木。"
+   ]
+  }
  },
  {
   "id": "g114p3",
@@ -206,7 +398,32 @@
   "accuracyRateSource": "大考中心 114 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "論說文",
+   "genreEn": "Argumentative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "However",
+    "therefore",
+    "while",
+    "actually",
+    "Thus",
+    "but",
+    "Meanwhile",
+    "however",
+    "Although"
+   ],
+   "outline": [
+    "一般人常把俄羅斯描繪成最依賴酒精的國家，(However) 事情其實沒那麼簡單。",
+    "古代俄羅斯很少喝酒，基督教傳入前沒有葡萄園，(therefore) 也就沒有葡萄酒；伏特加的前身是十四世紀末從法國傳入的葡萄酒精，十五世紀俄國才開始自製。",
+    "十五、十六世紀的記載互相矛盾，(actually) 中世紀歐洲最愛喝酒的其實是德國人。",
+    "國家推波助瀾：十九世紀實施專賣，(Thus) 國庫大增，(but) 卻也鼓勵飲酒，工業化生產更讓價格大跌。",
+    "(Meanwhile) 十九世紀起也有禁酒運動，(however) 問題仍在，(Although) 俄羅斯人均飲酒量雖非第一，仍名列前茅。"
+   ]
+  }
  },
  {
   "id": "g113p1",
@@ -228,7 +445,32 @@
   "accuracyRateSource": "大考中心 113 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Upon",
+    "Upon closer examination",
+    "first",
+    "After years of research and testing",
+    "By 1955",
+    "thus",
+    "Initially",
+    "In the early 1960s",
+    "Today"
+   ],
+   "outline": [
+    "1941 年 de Mestral 帶狗散步，(Upon their return home) 回家發現衣服沾滿芒刺，靈光一閃。",
+    "(Upon closer examination) 顯微鏡下芒刺有許多小鉤，他想到可以做出鉤環扣件。",
+    "(first) 棉太軟不耐用，(After years of research and testing) 最後選用尼龍，(By 1955) 完成改良並取得專利，命名 Velcro。",
+    "(Initially) 起初時尚界嫌它難看，只用在運動用品，(In the early 1960s) NASA 採用後大受歡迎。",
+    "(Today) 魔鬼氈隨處可見，甚至用在第一次人工心臟移植。"
+   ]
+  }
  },
  {
   "id": "g113p2",
@@ -250,7 +492,30 @@
   "accuracyRateSource": "大考中心 113 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "thus",
+    "later",
+    "In 1871",
+    "In March 1872",
+    "Before",
+    "Since",
+    "By the time"
+   ],
+   "outline": [
+    "畫家 Moran 的畫作讓美國人看見壯麗景觀，(thus) 促成國家公園的設立。",
+    "他七歲從英國工業區移民費城，家鄉只有髒河與暗街，十五歲受泰納影響開始作畫。",
+    "他擔任雜誌插畫家，(later) 升任首席插畫家，為黃石探險故事畫插圖，因而想親眼看看黃石。",
+    "(In 1871) 他隨政府考察隊進入黃石，水彩畫與照片呈交國會，(In March 1872) 黃石成為世界第一座國家公園。",
+    "(Before … Since) 黃石從荒涼可怕的印象變成如畫仙境，(By the time Moran died) 他還畫了十二處後來成為國家公園的地方。"
+   ]
+  }
  },
  {
   "id": "g113p3",
@@ -272,7 +537,28 @@
   "accuracyRateSource": "大考中心 113 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "But",
+    "however",
+    "for example",
+    "not only",
+    "but also"
+   ],
+   "outline": [
+    "冰島電廠工人 Oddsson 全身近半燒傷，(But) 移植鱈魚皮救了他一命。",
+    "這項手術源自冰島「100% Fish」計畫，目標是充分利用每一條魚，並推動海鮮產品創新。",
+    "糧食危機下減少浪費很重要，2003 年鱈魚約六成遭到浪費，(however) 現在冰島利用率達九成五，(for example) 魚皮、魚頭、魚骨都做成產品。",
+    "成功的關鍵在跨產業合作，計畫串連漁業、學界、新創與研發團隊。",
+    "(not only … but also) 冰島每條鱈魚的價值比多數已開發國家高三成，也為全球資源效率提供典範。"
+   ]
+  }
  },
  {
   "id": "g112p1",
@@ -294,7 +580,32 @@
   "accuracyRateSource": "大考中心 112 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Although",
+    "As early as",
+    "also",
+    "In the 14th century",
+    "however",
+    "Though",
+    "Thus",
+    "as well",
+    "in the late 1950s"
+   ],
+   "outline": [
+    "(Although) hula 一詞到 18 世紀才出現，(As early as 1000 BC) 埃及兒童就玩葡萄藤做的圈，(also) 希臘人也用金屬圈運動。",
+    "(In the 14th century) 呼拉圈在英國流行，甚至造成背部脫臼與心臟病。",
+    "(however) hula 到 1700 年代英國水手看到夏威夷草裙舞才進入英文，(Thus) hula 與 hoop 結合成 hula hooping。",
+    "(as well) 美洲原住民也在儀式舞蹈中用蘆葦圈象徵動物。",
+    "(in the late 1950s) Wham-O 推出塑膠呼拉圈，四個月賣出兩千五百萬個，至今仍流行。"
+   ]
+  }
  },
  {
   "id": "g112p2",
@@ -315,7 +626,29 @@
   "accuracyRateSource": "大考中心 112 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "however",
+    "Since",
+    "Moreover",
+    "But",
+    "Furthermore",
+    "Until now"
+   ],
+   "outline": [
+    "喝茶時很少人知道，茶葉可能讓印度茶園裡的亞洲象受傷甚至死亡。",
+    "阿薩姆茶園擴張破壞象群棲地，農民挖排水溝保護茶樹，(however) 溝渠卻成了死亡陷阱。",
+    "(Since) 大象穿越茶園認路，(Moreover) 母象也在茶園生產，(But) 小象不熟悉崎嶇地面，容易跌落受傷，母象救援時也可能一起受困。",
+    "(Furthermore) 大象不願丟下受困的同伴，會在溝邊守好幾個小時。",
+    "「大象友善茶」組織設立認證，鼓勵消費者選購，(Until now) 目前認證的是小品牌，但意識逐漸提高。"
+   ]
+  }
  },
  {
   "id": "g112p3",
@@ -337,7 +670,32 @@
   "accuracyRateSource": "大考中心 112 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "But",
+    "From ancient times",
+    "In the 8th century",
+    "Between the 12th and 15th centuries",
+    "During the Age of Exploration",
+    "In 1498",
+    "In 1499",
+    "Since the 16th century",
+    "also"
+   ],
+   "outline": [
+    "桑吉巴是熱門海灘勝地，(But) 過去控制桑吉巴就等於掌握財富。",
+    "(From ancient times) 位於阿拉伯與非洲貿易路線上，亞洲商人比非洲移民早九百年到來，(In the 8th century) 波斯商人建立據點。",
+    "(During the Age of Exploration) 香料貿易興起，(In 1499) 達伽馬抵達位於香料之路交會點的桑吉巴，使它成為世界最大的貿易中心之一。",
+    "(Since the 16th century) 先後由葡萄牙、阿拉伯、英國統治，(also) 多種宗教也在此和平共存。",
+    "獨特的文化交融與香料香氣，賦予這片群島遠超海灘的魅力。"
+   ]
+  }
  },
  {
   "id": "g111rp1",
@@ -361,7 +719,33 @@
   "twinIds": [
    "g102p1"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "But",
+    "In the late nineteenth century",
+    "At the same time",
+    "In 1884",
+    "A few years after",
+    "Interestingly",
+    "But",
+    "After the Second World War",
+    "And",
+    "However"
+   ],
+   "outline": [
+    "瑞士刀舉世聞名，(But) 卻有不起眼的起源。",
+    "(In the late nineteenth century) 軍隊的槍需要螺絲起子拆卸，(At the same time) 罐頭食品也普及，所以軍方決定發刀。",
+    "(In 1884) Victorinox 的 Carl Elsener 把握機會，設計出軍隊喜愛的士兵刀。",
+    "(A few years after) 軍官刀問世，(Interestingly) 軍方認為開酒器不必要，軍官得自費購買。",
+    "(After the Second World War) 駐歐美軍大量購買，(However) 德文名稱太難唸，就叫它 Swiss army knife。"
+   ]
+  }
  },
  {
   "id": "g111rp2",
@@ -386,7 +770,30 @@
   "twinIds": [
    "z108p1"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "When",
+    "In fact",
+    "Apart from",
+    "Best of all",
+    "In addition to",
+    "Though",
+    "not just … but also"
+   ],
+   "outline": [
+    "天貝是印尼傳統黃豆製品，和韓國泡菜、日本味噌一樣，稱為這個國家「給世界的禮物」。",
+    "天貝源自爪哇島，幾百年來是印尼穩定又便宜的蛋白質來源：做豆腐丟掉的豆渣沾上空氣中的孢子，長出白色菌絲，(When) 人們發現這種發酵豆渣好吃，就開始在家做，各地也發展出不同風味。",
+    "天貝高蛋白、低脂肪，(In fact) 是唯一有紀錄的植物性維生素 B12 來源；(Apart from) 除了有益健康，(Best of all) 最棒的是蛋白質品質和肉一樣，又能吸收各種風味，素食者很快就接受了。",
+    "(In addition to) 天貝的吃法也很多：主菜、配菜、炸成點心，甚至打成果昔；(Though) 雖然國際上還不普遍，舊金山已經吃得到天貝 BLT 三明治，峇里島也有天貝漢堡排。",
+    "對印尼人來說，天貝 (not just … but also) 不只是食物，也有文化價值；印尼蠟染已經登錄聯合國教科文組織「人類非物質文化遺產」，天貝也很有機會獲得這項榮譽。"
+   ]
+  }
  },
  {
   "id": "g111rp3",
@@ -408,7 +815,28 @@
   "accuracyRateSource": "本卷非正式施測，無答對率",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "分類",
+   "orgEn": "Classification",
+   "orgCode": "cls",
+   "transitions": [
+    "also",
+    "Some examples",
+    "since",
+    "This happens because",
+    "especially"
+   ],
+   "outline": [
+    "撞擊測試能減少車禍傷亡，美國由 IIHS 負責，(also) 公路損失資料研究所和保險業也支持。",
+    "撞擊測試有多種，(Some examples) 例如正面撞擊、偏置撞擊、側面撞擊、翻滾測試。",
+    "正面撞擊模擬對撞，偏置撞擊只讓車頭一部分承受全部撞擊力。",
+    "側面撞擊模擬闖紅燈的車撞上車側，(since, This happens because) 車側沒有潰縮區，所以死亡率高；翻滾測試則檢驗車頂支柱的支撐力。",
+    "世界各地都有撞擊測試計畫，提供貼近真實情況的安全數據。"
+   ]
+  }
  },
  {
   "id": "g111p1",
@@ -430,7 +858,27 @@
   "accuracyRateSource": "大考中心 111 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "In fact",
+    "Up until recently",
+    "then",
+    "while"
+   ],
+   "outline": [
+    "馬賽人以紅毯、彩盾聞名，是東非的象徵。",
+    "馬賽人是半游牧民族，以牲畜為生，抗拒奴役與現代化，(In fact) 保留大部分傳統，(Up until recently) 男孩要獨力殺獅子才能成為戰士。",
+    "服裝因年齡、性別、地區而異，最具代表性的是 shúkà，紅色最受歡迎。",
+    "戰士總是帶著矛和盾，就像鹿角一樣是身體的一部分。",
+    "珠飾是重要文化，19 世紀後 (then) 改用彩色玻璃珠，各顏色有不同意義，(while) 紅色代表團結與勇敢。"
+   ]
+  }
  },
  {
   "id": "g111p2",
@@ -452,7 +900,30 @@
   "accuracyRateSource": "大考中心 111 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Since",
+    "thus",
+    "Soon",
+    "later",
+    "Over the past century",
+    "Recently",
+    "For instance"
+   ],
+   "outline": [
+    "安全帽 (Since) 自 20 世紀初問世，救了無數人命，是建築工人的頭號安全工具。",
+    "1919 年 Bullard 從一次大戰歸來，受鋼盔啟發，設計出便宜又輕的帽子，(thus) Hard Boiled Hat 就此誕生。",
+    "(Soon) 安全帽廣為使用，(later) 胡佛水壩、金門大橋工程規定必戴。",
+    "(Over the past century) 材質從帆布皮革演進到熱塑性塑膠，(Recently, For instance) 新增通風、面罩、無線電等配件，並以顏色區分身分。",
+    "新產品持續擴大市場，全球銷售額預計 2025 年達 31.9 億美元。"
+   ]
+  }
  },
  {
   "id": "g111p3",
@@ -477,7 +948,30 @@
   "twinIds": [
    "g115rp3"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "Above all",
+    "Moreover",
+    "thus",
+    "yet",
+    "If",
+    "while",
+    "If"
+   ],
+   "outline": [
+    "斑馬魚是熱門研究對象，(Above all) 具有驚人的自癒能力，心臟、視力都能再生。",
+    "人和斑馬魚有相同的主要器官，共享七成基因，(Moreover) 致病基因也多有對應，(thus) 科學家希望藉此讓人類器官再生。",
+    "范德堡大學研究視網膜再生，(yet) 斑馬魚失明後三、四週就能恢復，(If) 若能在人身上複製，可能治療失明。",
+    "研究發現降低 GABA 濃度會啟動視網膜再生，(while) 濃度高則會抑制。",
+    "團隊開始在老鼠身上測試，(If) 若成功，全球四千萬盲人或許要感謝這條小魚。"
+   ]
+  }
  },
  {
   "id": "g110tp1",
@@ -499,7 +993,28 @@
   "accuracyRateSource": "本卷非正式施測，無答對率",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "For instance",
+    "while",
+    "Although",
+    "in fact",
+    "In contrast"
+   ],
+   "outline": [
+    "島嶼的面積與隔絕對生態有深遠影響。",
+    "福斯特法則：大型哺乳類到島上會變小，小型的會變大，(For instance) 囓齒類變大，(while) 鹿、象變小。",
+    "體型決定一切：大陸上體型大較安全，島上天敵少，(in fact) 體型大反而需要更多食物。",
+    "化石研究顯示島嶼生態影響縮小的程度：物種多的島上縮小較少，(In contrast) 小島上縮小得很快。",
+    "以英法海峽群島的紅鹿為例，六千年內縮小到歐陸的六分之一。"
+   ]
+  }
  },
  {
   "id": "g110tp2",
@@ -521,7 +1036,29 @@
   "accuracyRateSource": "本卷非正式施測，無答對率",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "but",
+    "In 1904",
+    "on the other hand",
+    "However",
+    "Thus",
+    "ironically"
+   ],
+   "outline": [
+    "大富翁風行全球，(but) 很少人知道發明人 Elizabeth Magie 和遊戲背後的理念。",
+    "Magie 受 Henry George 啟發，挑戰資本主義的土地所有制，(In 1904) 為「地主遊戲」申請專利。",
+    "遊戲有兩套規則：繁榮規則讓大家一起致富，(on the other hand) 壟斷規則讓贏家通吃，讓玩家看見不同的社會結果。",
+    "遊戲流傳後經人修改，Darrow 把修改版賣給 Parker Brothers，(However) 真相曝光後，公司只用 500 美元買下專利。",
+    "公司只保留壟斷規則推出大富翁，Darrow 成了白手起家的發明人，(Thus, ironically) 正好體現大富翁的價值觀。"
+   ]
+  }
  },
  {
   "id": "g110tp3",
@@ -543,7 +1080,29 @@
   "accuracyRateSource": "本卷非正式施測，無答對率",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "Yet",
+    "Thus",
+    "Meanwhile",
+    "thus",
+    "As a result",
+    "Despite"
+   ],
+   "outline": [
+    "印度的時區爭議已有數十年，從兩個時區改為單一時區，(Yet) 並非人人贊同。",
+    "印度東西橫跨約 30 度經度，(Thus) 東部比西部早將近兩小時日出，東北部浪費日照、耗電，生產力下降。",
+    "(Meanwhile) 研究指出單一時區造成教育問題：(thus) 西部日落晚，孩子睡得少。",
+    "窮人家庭受到的影響更明顯，(As a result) 日落晚地區的孩子較難完成中小學教育。",
+    "(Despite) 儘管有人提議多時區，政府為避免混亂與交通安全問題，仍堅持現制。"
+   ]
+  }
  },
  {
   "id": "g110p1",
@@ -566,7 +1125,31 @@
   "accuracyRateSource": "大考中心 110 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "Now",
+    "until",
+    "Then",
+    "For one thing",
+    "while",
+    "Therefore",
+    "Moreover",
+    "If"
+   ],
+   "outline": [
+    "仙人掌是墨西哥的象徵，可吃、可喝、可入藥，(Now) 科學家發現它還能產生再生能源。",
+    "過去只用果肉，(until) 外皮一直是廢棄物，直到研究人員開發出沼氣發電機。",
+    "墨西哥城南部的試驗計畫：市場每天有多達 10 噸廢棄外皮，(Then) 綠能新創公司把廢棄物轉為能源。",
+    "(For one thing) 只用外皮，(while) 果肉留作食物，(Therefore) 不影響糧價，(Moreover) 需水量少，不和糧食作物搶水搶地。",
+    "這項計畫帶來減少化石燃料的希望，(If) 擴大後可能是墨西哥能源的未來。"
+   ]
+  }
  },
  {
   "id": "g110p2",
@@ -587,7 +1170,29 @@
   "accuracyRateSource": "大考中心 110 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "But",
+    "Later",
+    "on the other hand",
+    "On the whole",
+    "while",
+    "Nevertheless"
+   ],
+   "outline": [
+    "旅行文件的概念可能自有統治者就存在，(But) 最早提到類似護照的物品約在西元前 450 年。",
+    "波斯國王給官員尼希米一封信，請各地讓他安全通過。",
+    "(Later) 中世紀伊斯蘭國家以完稅收據當通行證，(on the other hand) 歐洲則由地方政府發給列出可通行城鎮的文件。",
+    "一般認為英王亨利五世發明了第一本真正的護照，(while) passport 這個字大約一百年後才出現。",
+    "(Nevertheless) 直到第一次世界大戰，國際旅行才普遍需要護照。"
+   ]
+  }
  },
  {
   "id": "g110p3",
@@ -608,7 +1213,29 @@
   "accuracyRateSource": "大考中心 110 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "not only",
+    "but also",
+    "In 1761",
+    "but",
+    "But",
+    "So"
+   ],
+   "outline": [
+    "富蘭克林 (not only … but also) 是政治家，也是科學家、發明家，他還發明了玻璃琴，莫札特和貝多芬都為它作曲。",
+    "(In 1761) 他在英國聽到玻璃杯演奏，(but) 覺得有更好的方法發出同樣的聲音。",
+    "他請人做 37 個大小厚薄不同的玻璃半球，用鐵棒串起，以腳踏轉動，沾濕手指摩擦邊緣發聲。",
+    "玻璃琴大受歡迎，賣出數千台。",
+    "(But) 音樂潮流改變，大型音樂廳裡聽不見玻璃琴的聲音，(So) 終究遭到淘汰。"
+   ]
+  }
  },
  {
   "id": "g110p4",
@@ -631,7 +1258,25 @@
   "accuracyRateSource": "大考中心 110 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "Moreover",
+    "For example"
+   ],
+   "outline": [
+    "介紹德州的摩根奇幻樂園，主要服務身心障礙兒童，創辦人 Hartman 的靈感來自女兒 Morgan。",
+    "2010 年開幕，是全球第一座無障礙家庭樂園，身障者免費入場。",
+    "園區完全無障礙，設施都能讓輪椅使用者遊玩，(Moreover) 還提供 GPS 手環，(For example) 掃描後會自動拍照寄出。",
+    "(In June 2017) 新開幕的戲水區提供防水輪椅。",
+    "Hartman 說 Morgan 帶給他的祝福超乎想像。"
+   ]
+  }
  },
  {
   "id": "g109p1",
@@ -656,7 +1301,32 @@
   "twinIds": [
    "g115rp1"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "but",
+    "while",
+    "During World War II",
+    "In 1945",
+    "thus",
+    "In the 1950s",
+    "Despite",
+    "Another",
+    "But"
+   ],
+   "outline": [
+    "介紹人字拖是最簡單的鞋子，名稱來自走路時拍打腳底的聲音。",
+    "最早的紀錄來自埃及，(but) 許多古文明各有樣式，(while) 希臘、羅馬、美索不達米亞、印度的夾腳位置各不相同。",
+    "現代人字拖源自日本草鞋，(During World War II) 日本掌握大量橡膠，(In 1945) 戰後用橡膠量產，(thus) 橡膠取代了稻草。",
+    "(In the 1950s) 美軍把草鞋帶回美國，重新設計後流行至今。",
+    "(Despite their popularity) 人字拖也引發問題：容易受傷、場合是否合宜，(But even more serious) 更嚴重的是對環境的衝擊。"
+   ]
+  }
  },
  {
   "id": "g109p2",
@@ -680,7 +1350,27 @@
   "twinIds": [
    "g115rp2"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "定義",
+   "orgEn": "Definition",
+   "orgCode": "def",
+   "transitions": [
+    "But",
+    "In addition to",
+    "Also",
+    "Above all"
+   ],
+   "outline": [
+    "船是國際貿易的命脈，(But) 船長只負責航行到港外，入港停泊由另一位船長負責，也就是領港員。",
+    "領港員熟悉特定港口，引導大船通過深水航道，沒有他們，船隻很容易擱淺。",
+    "(In addition to) 除了淺灘，潮汐也讓入港更困難，(Also) 風會改變船的方向。",
+    "領港需要高度專業與獨立快速的判斷，(Above all) 最重要的是風險管理。",
+    "領港員在關鍵時刻登船掌舵，負責船隻、港口與海洋環境的安全。"
+   ]
+  }
  },
  {
   "id": "g109p3",
@@ -701,7 +1391,28 @@
   "accuracyRateSource": "大考中心 109 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "分類",
+   "orgEn": "Classification",
+   "orgCode": "cls",
+   "transitions": [
+    "Second",
+    "Lastly",
+    "therefore",
+    "additionally",
+    "however"
+   ],
+   "outline": [
+    "介紹橄欖油的製法：特級初榨等級最高，是第一道壓榨，酸度低於 1%，還得通過實驗室與品油小組檢驗。",
+    "(Second) 次一級是初榨橄欖油，酸度略高，(Lastly) 最便宜的是精製橄欖油，適合一般烹調。",
+    "包裝與保存也影響品質：要避光、存放在 16–18°C，濕氣和氧氣會 (therefore) 加速氧化。",
+    "塑膠容器擋不住光、熱、濕氣，(additionally) 塑膠微粒還可能滲入油中。",
+    "(however) 國際橄欖油理事會正尋求更透明、準確的檢驗方法，並重新定義名稱，以促進貿易。"
+   ]
+  }
  },
  {
   "id": "g109p4",
@@ -724,7 +1435,27 @@
   "accuracyRateSource": "大考中心 109 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "because",
+    "In the past",
+    "When",
+    "Future plans"
+   ],
+   "outline": [
+    "日本研究人員在火車上裝設會發出狗吠與鹿鳴聲的喇叭，防止撞到動物。",
+    "日本火車常撞鹿，2016–17 年有 613 次停駛或延誤。",
+    "(because) 鹿需要鐵質，會舔鐵軌上的鐵屑，(In the past) 閃光燈、獅子臉都試過，沒有效果。",
+    "鐵道綜合技術研究所研發新裝置：鹿鳴警告加上狗吠，(When) 鹿聽到就會驚慌逃走。",
+    "夜間測試使鹿出沒減少 45%，(Future plans) 未來將在鹿常出沒處設固定裝置，住宅區除外。"
+   ]
+  }
  },
  {
   "id": "g108p1",
@@ -745,7 +1476,31 @@
   "accuracyRateSource": "大考中心 108 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "actually",
+    "Another",
+    "though",
+    "However",
+    "When",
+    "This is when",
+    "Slowly",
+    "Two weeks later"
+   ],
+   "outline": [
+    "介紹神仙魚色彩鮮豔，(actually) 花紋其實能幫助躲避危險，夜間顏色變淡，幼魚與成魚顏色不同。",
+    "(Another) 神仙魚會替其他魚清除死皮，(though) 但那不是食物，主食是海綿和藻類。",
+    "黑斑神仙魚能從雌性變為雄性，(However) 這不是隨機發生，而是有特定原因。",
+    "每群有一條藍色雄魚和四條黃色雌魚，(When) 雄魚死後，群體需要新的守衛。",
+    "(This is when) 最大的雌魚先變大，一週後變色，(Slowly) 行為也改變，(Two weeks later) 出現黑色條紋，變性完成。"
+   ]
+  }
  },
  {
   "id": "g108p2",
@@ -768,7 +1523,30 @@
   "accuracyRateSource": "大考中心 108 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "分類",
+   "orgEn": "Classification",
+   "orgCode": "cls",
+   "transitions": [
+    "not just",
+    "also",
+    "also",
+    "but",
+    "While",
+    "Once",
+    "Despite"
+   ],
+   "outline": [
+    "介紹北美西北岸原住民的圖騰柱，(not just) 不只是藝術品，也是口傳家族與氏族歷史的方式。",
+    "依位置與用途分類：迎賓柱立在海灘迎接訪客；屋柱立在酋長家中，刻著家族歷史，(also) 也支撐屋頂大梁。",
+    "紀念柱立在屋前紀念過世的酋長或族人，(also) 墓葬柱也是紀念死者，(but) 但頂端放有骨灰箱。",
+    "(While) 多數圖騰柱仍可在北美西岸看到，羞辱柱現在只在博物館，(Once) 錯誤改正後柱子就會拆下。",
+    "(Despite) 儘管受到殖民勢力威脅，雕刻藝術仍流傳至今，象徵文化自豪與氏族情誼。"
+   ]
+  }
  },
  {
   "id": "g108p3",
@@ -789,7 +1567,30 @@
   "accuracyRateSource": "大考中心 108 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "Even though",
+    "rather than",
+    "but",
+    "also",
+    "While",
+    "nevertheless",
+    "while"
+   ],
+   "outline": [
+    "音樂常卡在腦中不斷重播，科學家稱這個現象為「耳蟲」等名稱。",
+    "耳蟲可持續數分鐘到數小時，(Even though) 耳朵沒聽到，大腦仍繼續播放。",
+    "耳蟲常是熟悉歌曲的片段，(but) 每個人的耳蟲不同，旋律簡單輕快、歌詞重複的歌最容易卡住。",
+    "最近或反覆聽到某首歌，(also) 或聽到和歌詞相似的字句，也會引發耳蟲。",
+    "(While) 耳蟲雖然惱人，(nevertheless) 多數人覺得愉快或無所謂；有正面感受的人順其自然，(while) 負面感受的人會唱歌、說話或祈禱來應付。"
+   ]
+  }
  },
  {
   "id": "g108p4",
@@ -810,7 +1611,30 @@
   "accuracyRateSource": "大考中心 108 學年度學科能力測驗統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "論說文",
+   "genreEn": "Argumentative",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "Actually",
+    "Moreover",
+    "First of all",
+    "thus",
+    "Second",
+    "thus",
+    "Therefore"
+   ],
+   "outline": [
+    "許多人用除蟲噴霧彈對付咬人的蟲，以為藥劑能滲透每個角落，(Actually) 事實正好相反，蟲會躲進牆裡。",
+    "俄亥俄州立大學測試三種市售除蟲彈，發現對床蝨幾乎無效，因為床蝨躲在縫隙、床墊下、地毯深處。",
+    "(Moreover) 接觸到藥霧的蟲也可能有抗藥性。",
+    "除蟲彈應是最後手段，(First of all) 氣體易燃，有爆炸風險，(Second) 有毒藥劑會留在家中各處表面，危害健康。",
+    "(Therefore) 建議把問題交給專業人員處理。"
+   ]
+  }
  },
  {
   "id": "g107rp1",
@@ -833,7 +1657,29 @@
   "twinIds": [
    "g104p2"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "But",
+    "for example",
+    "Even when",
+    "After",
+    "then",
+    "Now"
+   ],
+   "outline": [
+    "許多病人和醫生認為醫療越多越好，(But) 過度醫療其實可能有害，一項檢查常引來更多檢查。",
+    "(for example) 以 Power 太太為例：醫生堅持每三週回診，頻繁抽血、照 X 光，連小毛病也轉診專科。",
+    "(Even when) 檢查正常仍加做檢查，感冒就住院，半年看診 25 次，一年花費約三萬美元。",
+    "(After) 多年身心與經濟的煎熬後，夫妻和網路病友交流，開始質疑治療。",
+    "(then) 先生的家庭醫師建議換專科醫師，停止例行檢查後病情穩定，(Now) 現在一年只看診四、五次。"
+   ]
+  }
  },
  {
   "id": "g107rp2",
@@ -856,7 +1702,29 @@
   "twinIds": [
    "g103p3"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "In addition to",
+    "Since",
+    "even",
+    "Perhaps",
+    "While",
+    "After all"
+   ],
+   "outline": [
+    "介紹 MOOC 的定義，(In addition to) 除了傳統教材，還有互動論壇。",
+    "2011 年史丹佛大學一門人工智慧課開放全球選修，吸引十六萬人報名。",
+    "(Since) 一門課能同時容納數十萬人，大學數量可能大減，(Perhaps) 最大特色是免費。",
+    "(While) 支持者認為能增加少數族群入學機會，批評者擔心許多學生跟不上。",
+    "批評者也認為師生真正的對話無可取代，(After all) 人腦不是電腦，線上學生會失去大學的社交生活。"
+   ]
+  }
  },
  {
   "id": "g107rp3",
@@ -880,7 +1748,25 @@
   "twinIds": [
    "g105p3"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "also",
+    "In certain cases"
+   ],
+   "outline": [
+    "聯合國兒童基金會報告指出，中東衝突使超過 1,300 萬名兒童無法上學。",
+    "失學原因有二：學校遭到破壞，以及人口流離失所，(also called) 也就是「強迫遷徙」。",
+    "九個國家共有 8,500 所學校無法使用，(In certain cases) 有些學校成了難民收容所，伊拉克一間教室住到九戶人家。",
+    "報告特別關注敘利亞：內戰使至少 900 萬人流離失所，教育等公共服務瀕臨崩潰。",
+    "報告呼籲國際決策者提供資金與資源，並指出一整個世代兒童的教育前景岌岌可危。"
+   ]
+  }
  },
  {
   "id": "g107rp4",
@@ -904,7 +1790,26 @@
   "twinIds": [
    "g106p3"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "then",
+    "later",
+    "From the late 1850s until his death in 1910"
+   ],
+   "outline": [
+    "介紹霍默是許多人眼中 19 世紀最偉大的美國畫家，在故鄉波士頓當印刷學徒，以插畫成名。",
+    "(then) 搬到紐約當自由插畫家並開始作畫，報導林肯就職，(later) 再報導南北戰爭，以北軍畫作贏得國際肯定。",
+    "旅居英國兩年後回國，1883 年定居緬因州。",
+    "(From the late 1850s until his death in 1910) 作品深刻、不受傳統束縛，插畫、油畫、水彩都出色，描繪 19 世紀美國生活與人和自然的關係。",
+    "介紹為期兩週的展覽，呈現他在各地創作的完整面貌。"
+   ]
+  }
  },
  {
   "id": "g107p1",
@@ -925,7 +1830,31 @@
   "accuracyRateSource": "大考中心 107 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "In 1790",
+    "As",
+    "Although",
+    "It was not until",
+    "also",
+    "In addition",
+    "but then",
+    "It was not until"
+   ],
+   "outline": [
+    "白宮兩百多年來象徵美國總統、政府與人民。",
+    "(In 1790) 華盛頓宣布設立聯邦首都特區，(As) 籌備時舉辦設計比賽，愛爾蘭籍建築師霍本勝出，1792 年動工。",
+    "(Although) 華盛頓監督興建卻沒住過，(It was not until 1800) 亞當斯夫婦才成為第一批住戶。",
+    "傑佛遜首開就職開放日並開放參觀，(In addition) 元旦與國慶也接待訪客，(but then) 林肯時期人潮太多造成安全問題，(It was not until) 到克里夫蘭才實施人潮管制。",
+    "白宮曾有多個名稱，1901 年老羅斯福正式定名。"
+   ]
+  }
  },
  {
   "id": "g107p2",
@@ -947,7 +1876,28 @@
   "accuracyRateSource": "大考中心 107 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "but",
+    "That is what",
+    "even though",
+    "also",
+    "thus"
+   ],
+   "outline": [
+    "介紹西尼羅病毒的傳播途徑：鳥傳蚊，蚊子再叮人。",
+    "多數感染者沒有症狀，(but) 有些人發燒頭痛，少數人癱瘓昏迷，甚至死亡。",
+    "(That is what) 2012 年美國大爆發，達拉斯 10 人死亡、200 多人染病，宣布緊急狀態並空中噴藥，(even though) 居民認為農藥可能比疾病更危險。",
+    "原因之一是天氣：暖冬讓更多蚊子存活，酷暑加速繁殖；(also) 經濟危機使屋主棄屋，留下的泳池成了蚊子溫床。",
+    "疫情輕重 (also) 也取決於政府作為，達拉斯沒有檢測死鳥、設捕蚊器，(thus) 熱帶傳染病和政府不作為、氣候都有關。"
+   ]
+  }
  },
  {
   "id": "g107p3",
@@ -969,7 +1919,32 @@
   "accuracyRateSource": "大考中心 107 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "But",
+    "that is",
+    "The problem is that",
+    "as well",
+    "Also",
+    "but",
+    "Despite",
+    "At present",
+    "Therefore"
+   ],
+   "outline": [
+    "台灣多數地方淡水充足，(But) 沙烏地阿拉伯等乾旱地區缺水，人口成長將使缺水更嚴重，有人問何不取用海水。",
+    "(that is) 海水要淡化才能喝，(The problem is that) 但淡化耗能，成本很高。",
+    "(as well) 淡化也有環境代價：吸入海洋生物、破壞食物鏈，(Also) 濃鹽水排回海中會傷害生態。",
+    "(Despite) 儘管有經濟與環境障礙，淡化越來越受重視，(At present) 目前是中東、北非鄉村唯一可行的供水方式。",
+    "(Therefore) 各方競相研發更便宜、乾淨、節能的淡化技術，也已有可喜的發現。"
+   ]
+  }
  },
  {
   "id": "g107p4",
@@ -990,7 +1965,28 @@
   "accuracyRateSource": "大考中心 107 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "yet",
+    "but",
+    "Then",
+    "therefore",
+    "In addition"
+   ],
+   "outline": [
+    "四千年前巴比倫人寫下可能是最早的搖籃曲，內容帶有威脅，(yet) 許多搖籃曲至今仍有陰暗的弦外之音。",
+    "研究顯示搖籃曲能安撫嬰兒，(but) 嬰兒回應的是聲音和旋律，不是歌詞。",
+    "(Then) 那歌詞有什麼作用？有些提供建議，有些說出難以啟齒的話，反映照顧者的情緒。",
+    "研究者認為搖籃曲幫母親說出擔憂，嬰幼兒期很脆弱，母子關係又緊密，(therefore) 搖籃曲是母親的心理治療。",
+    "(In addition) 歌曲也像在施法，祈求悲傷別再上門。"
+   ]
+  }
  },
  {
   "id": "g106p1",
@@ -1013,7 +2009,31 @@
   "accuracyRateSource": "大考中心 106 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "But",
+    "Just as",
+    "After",
+    "For example",
+    "Then",
+    "At the end",
+    "also",
+    "For example"
+   ],
+   "outline": [
+    "介紹新公司 Dognition 提供線上測驗，讓飼主了解狗的認知特質。",
+    "測驗涵蓋同理心、記憶、推理等面向，(But) 不測智商，(Just as) 狗跟人一樣有多種智能。",
+    "(After) 付費後先填問卷，(Then) 再帶狗做像遊戲一樣的測驗，(At the end) 最後拿到認知報告。",
+    "狗會歸入九種類型之一，(For example) 例如 Charmer 型很信任主人，寧可依賴主人提供的資訊解決問題。",
+    "Dognition 幫助飼主了解自己的狗，增進人和狗的關係。"
+   ]
+  }
  },
  {
   "id": "g106p2",
@@ -1034,7 +2054,31 @@
   "accuracyRateSource": "大考中心 106 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Although",
+    "In the sixteenth century",
+    "But",
+    "When",
+    "At first",
+    "However",
+    "Nowadays",
+    "also"
+   ],
+   "outline": [
+    "介紹卡波耶拉結合格鬥、雜技、鼓樂、歌唱與舞蹈，(Although) 看起來像舞蹈，基本技巧卻和其他武術相似。",
+    "近五百年前由巴西的非洲奴隸創立，可能源自非洲部落爭奪新娘的徒手格鬥。",
+    "(In the sixteenth century) 奴隸為了自衛而練，(But) 很快成為反抗壓迫者的武器，(When) 奴隸主開始懲罰練習的人，他們就用歌舞掩飾。",
+    "(At first) 卡波耶拉在巴西不合法，(However) Mestre Bimba 說服政府承認，使它成為巴西國技。",
+    "開設學校後傳遍世界，(Nowadays) 現在常出現在電影與音樂影片中，(also) 還影響了霹靂舞、嘻哈舞。"
+   ]
+  }
  },
  {
   "id": "g106p3",
@@ -1058,7 +2102,26 @@
   "twinIds": [
    "g107rp4"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "then",
+    "later",
+    "From the late 1850s until his death in 1910"
+   ],
+   "outline": [
+    "介紹霍默是許多人眼中 19 世紀最偉大的美國畫家，在故鄉波士頓當印刷學徒，以插畫成名。",
+    "(then) 搬到紐約當自由插畫家並開始作畫，報導林肯就職，(later) 再報導南北戰爭，以北軍畫作贏得國際肯定。",
+    "旅居英國兩年後回國，1883 年定居緬因州。",
+    "(From the late 1850s until his death in 1910) 作品深刻、不受傳統束縛，插畫、油畫、水彩都出色，描繪 19 世紀美國生活與人和自然的關係。",
+    "介紹為期兩週的展覽，呈現他在各地創作的完整面貌。"
+   ]
+  }
  },
  {
   "id": "g106p4",
@@ -1080,7 +2143,33 @@
   "accuracyRateSource": "大考中心 106 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "soon",
+    "thus",
+    "However",
+    "Around 1800",
+    "Until then",
+    "At approximately the same time",
+    "Before long",
+    "As",
+    "Thus",
+    "Today"
+   ],
+   "outline": [
+    "茶在英國流行要歸功於查理二世的葡萄牙籍王后凱薩琳，17 世紀她把飲茶帶進宮廷。",
+    "(soon) 風氣擴及中產階級與倫敦咖啡館，雇主供茶給員工，(thus) 形成「茶歇」傳統，(However) 但茶價昂貴又課稅，一般人喝不起。",
+    "(Around 1800) 貝德福公爵夫人開創「下午茶」，(At approximately the same time) 三明治伯爵推廣三明治，(Before long) 茶配三明治成為英國生活的一部分。",
+    "(As) 19 世紀茶價下降，茶普及各階層，(Thus) 成為英國人最愛的飲料，勞工家庭晚餐配茶稱為 high tea。",
+    "(Today) 現在茶隨時都能喝，占英國飲料消費量的五分之二以上（水除外）。"
+   ]
+  }
  },
  {
   "id": "g105p1",
@@ -1102,7 +2191,27 @@
   "accuracyRateSource": "大考中心 105 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "but",
+    "Though",
+    "even",
+    "In fact"
+   ],
+   "outline": [
+    "日本人普遍相信血型決定性格，並介紹各血型的刻板印象，(Though) 雖然缺乏科學根據，卻常見於書報電視。",
+    "血型說用在運動訓練、幼稚園教學與企業人事，以三菱電機的 AB 型團隊為例。",
+    "(even) 血型說甚至影響政治，以前首相公開血型、松本龍辭職時歸咎於血型為例。",
+    "有些人覺得血型說無傷大雅，但它可能演變成偏見與歧視，(In fact) 日本人還為此造了「血型騷擾」一詞。",
+    "舉出血型歧視造成兒童遭到霸凌、感情破裂、失去工作機會。"
+   ]
+  }
  },
  {
   "id": "g105p2",
@@ -1123,7 +2232,29 @@
   "accuracyRateSource": "大考中心 105 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "However",
+    "After",
+    "and yet",
+    "When not in use",
+    "Two years later",
+    "As a result"
+   ],
+   "outline": [
+    "五歲的 Jeanie Low 要踩凳子才搆得到洗手台，(However) 家裡的塑膠凳不穩又占空間。",
+    "(After) 得知學校舉辦發明比賽，決定做一張固定在浴室、(and yet) 不用時又能收起來的凳子。",
+    "用木板和鉸鏈裝在洗手台下的櫃門上，展開就是穩固的踏板，(When not in use) 不用時摺起來，用磁鐵固定。",
+    "Kiddie Stool 在校內比賽得第一名，(Two years later) 兩年後又在休士頓發明展得到首獎。",
+    "(As a result) 她多次公開亮相，登上電視報紙，故事激勵許多人：只要有想像力，人人都能發明。"
+   ]
+  }
  },
  {
   "id": "g105p3",
@@ -1147,7 +2278,25 @@
   "twinIds": [
    "g107rp3"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "also",
+    "In certain cases"
+   ],
+   "outline": [
+    "聯合國兒童基金會報告指出，中東衝突使超過 1,300 萬名兒童無法上學。",
+    "失學原因有二：學校遭到破壞，以及人口流離失所，(also called) 也就是「強迫遷徙」。",
+    "九個國家共有 8,500 所學校無法使用，(In certain cases) 有些學校成了難民收容所，伊拉克一間教室住到九戶人家。",
+    "報告特別關注敘利亞：內戰使至少 900 萬人流離失所，教育等公共服務瀕臨崩潰。",
+    "報告呼籲國際決策者提供資金與資源，並指出一整個世代兒童的教育前景岌岌可危。"
+   ]
+  }
  },
  {
   "id": "g105p4",
@@ -1168,7 +2317,32 @@
   "accuracyRateSource": "大考中心 105 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "However",
+    "If",
+    "Because",
+    "When",
+    "But",
+    "Thus",
+    "while",
+    "Finally",
+    "Thus"
+   ],
+   "outline": [
+    "許多海洋動物能排出多餘鹽分，(However) 海蛇的鹽腺應付不了海水，(If) 那牠們不喝海水要怎麼生存？",
+    "研究團隊鎖定哥斯大黎加附近的黃腹海蛇，(Because) 雨水是牠們唯一的淡水來源，(When it rains) 下雨時才能喝到海面上的淡水。",
+    "(But) 乾季沒有水喝，(Thus) 團隊想知道海蛇是否在海上脫水。",
+    "研究發現乾季約一半的海蛇會喝淡水，(while) 雨季幾乎不喝，越乾瘦的蛇喝得越多。",
+    "(Finally) 乾季捕獲的海蛇體內水分明顯較少，(Thus) 可見海蛇能忍受一定程度的脫水，脫水也可能是部分地區海蛇減少的原因。"
+   ]
+  }
  },
  {
   "id": "g104p1",
@@ -1190,7 +2364,27 @@
   "accuracyRateSource": "大考中心 104 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Surprisingly",
+    "Now",
+    "however",
+    "As long as"
+   ],
+   "outline": [
+    "泰武國小古謠傳唱隊 2009 年赴歐演出，2011 年獲日本 NHK 節目觀眾票選為全球五大表演團體。",
+    "創辦人 Camake 回憶首次歐洲巡演很緊張，擔心無伴奏演唱讓觀眾睡著，(Surprisingly) 觀眾卻聽得很專心，讓團員信心大增。",
+    "唱古謠讓學生和家長重新認識自己的文化，(Now) 孩子唱了以後家長開始問，常常是孩子教父母唱。",
+    "(however) 國際名聲不是成團的初衷，最重要的是讓孩子明白為何而唱，傳承文化。",
+    "莫拉克颱風後遷校遷村，Camake 說森林和房子帶不走，文化卻帶得走，(As long as) 只要孩子願意唱，他就會一直陪著。"
+   ]
+  }
  },
  {
   "id": "g104p2",
@@ -1213,7 +2407,29 @@
   "twinIds": [
    "g107rp1"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "But",
+    "for example",
+    "Even when",
+    "After",
+    "then",
+    "Now"
+   ],
+   "outline": [
+    "許多病人和醫生認為醫療越多越好，(But) 過度醫療其實可能有害，一項檢查常引來更多檢查。",
+    "(for example) 以 Power 太太為例：醫生堅持每三週回診，頻繁抽血、照 X 光，連小毛病也轉診專科。",
+    "(Even when) 檢查正常仍加做檢查，感冒就住院，半年看診 25 次，一年花費約三萬美元。",
+    "(After) 多年身心與經濟的煎熬後，夫妻和網路病友交流，開始質疑治療。",
+    "(then) 先生的家庭醫師建議換專科醫師，停止例行檢查後病情穩定，(Now) 現在一年只看診四、五次。"
+   ]
+  }
  },
  {
   "id": "g104p3",
@@ -1238,7 +2454,32 @@
   "accuracyRateSource": "大考中心 104 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "but",
+    "As a teenager",
+    "In his early adulthood",
+    "But",
+    "And",
+    "then",
+    "Not long after World War II",
+    "In 1952",
+    "In 1968"
+   ],
+   "outline": [
+    "介紹布列松是攝影史上最有原創性與影響力的人物，使新聞攝影成為一種藝術。",
+    "家境富裕，(but) 但父母節儉；在巴黎受教育，從小熱愛文學藝術，(But) 藝術始終是他生活的重心。",
+    "1931 年到非洲打獵，(And) 因此迷上攝影，(then) 帶著手持相機周遊世界，捕捉日常生活的瞬間。",
+    "(Not long after World War II) 前往印度拍攝甘地，並記錄甘地遇刺後對印度的影響。",
+    "一生堅持不靠人工光源、暗房或裁切，(In 1952) 出版《決定性的瞬間》，(In 1968) 之後轉向素描與繪畫。"
+   ]
+  }
  },
  {
   "id": "g104p4",
@@ -1260,7 +2501,28 @@
   "accuracyRateSource": "大考中心 104 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "And",
+    "But",
+    "But wait",
+    "furthermore",
+    "Overall"
+   ],
+   "outline": [
+    "開車通勤、久坐辦公、看電視的生活有害健康，專家稱為「久坐病」。",
+    "久坐使新陳代謝變慢，血糖血壓上升，少量活動就能降下來，(And) 零星的輕度活動累積起來和半小時運動一樣有效。",
+    "(But without that activity) 不活動的話，血糖血壓持續升高，增加糖尿病、心臟病、中風的風險。",
+    "(But wait) 有運動也不能放心：無論是否運動，每週平均坐 64 小時，(furthermore) 運動當天的活動量反而較少。",
+    "(Overall) 多數人的活動量抵銷不了久坐的傷害，解決方法就是起身活動、多休息。"
+   ]
+  }
  },
  {
   "id": "g103p1",
@@ -1282,7 +2544,31 @@
   "accuracyRateSource": "大考中心 103 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "After",
+    "Several years later",
+    "but then",
+    "In 1964",
+    "eventually",
+    "From 1970 to 1992",
+    "for example",
+    "In 1993"
+   ],
+   "outline": [
+    "介紹 Toni Morrison 1931 年生於俄亥俄州，家庭溫暖，在校表現優異。",
+    "(After) 大學畢業後教書、結婚，(Several years later) 婚姻出問題，加入寫作社團，寫下一個想要藍眼睛的女孩的故事，(but then) 之後擱置。",
+    "(In 1964) 離婚後專心寫作，把那篇故事擴寫成小說，(eventually) 1970 年出版《最藍的眼睛》。",
+    "(From 1970 to 1992) 又出版五本小說，作品描寫非裔美國人的過去，(for example) 如《所羅門之歌》。",
+    "(In 1993) 獲諾貝爾文學獎，成為第一位獲獎的非裔美國女性。"
+   ]
+  }
  },
  {
   "id": "g103p2",
@@ -1311,7 +2597,28 @@
   "accuracyRateSource": "大考中心 103 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "訪談",
+   "genreEn": "Interview",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "And",
+    "And then",
+    "First",
+    "A second",
+    "And maybe the third"
+   ],
+   "outline": [
+    "引言：訪問衛生政策專家 Zeke Emanuel，談他兩位知名的弟弟。",
+    "談寫書的緣由：書中也有不少糗事，原本是寫給孩子的故事，(And then) 後來很多人問兄弟三人為何都成功。",
+    "談成功的原因：(First) 母親讓世界更好的期許，(A second) 永不滿足於上一次勝利，(And maybe the third) 父親說攻擊是最好的防禦。",
+    "談生活：不看電視、沒有車、不用臉書和推特，手機從四支減為兩支。",
+    "預測五年後：三兄弟都會繼續做現在的事，不會去度假享樂。"
+   ]
+  }
  },
  {
   "id": "g103p3",
@@ -1334,7 +2641,29 @@
   "twinIds": [
    "g107rp2"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "In addition to",
+    "Since",
+    "even",
+    "Perhaps",
+    "While",
+    "After all"
+   ],
+   "outline": [
+    "介紹 MOOC 的定義，(In addition to) 除了傳統教材，還有互動論壇。",
+    "2011 年史丹佛大學一門人工智慧課開放全球選修，吸引十六萬人報名。",
+    "(Since) 一門課能同時容納數十萬人，大學數量可能大減，(Perhaps) 最大特色是免費。",
+    "(While) 支持者認為能增加少數族群入學機會，批評者擔心許多學生跟不上。",
+    "批評者也認為師生真正的對話無可取代，(After all) 人腦不是電腦，線上學生會失去大學的社交生活。"
+   ]
+  }
  },
  {
   "id": "g103p4",
@@ -1354,7 +2683,28 @@
   "accuracyRateSource": "大考中心 103 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "Another",
+    "also",
+    "Moreover",
+    "If and when",
+    "If"
+   ],
+   "outline": [
+    "汽車技術不斷進步，介紹車對車通訊 V2V，可讓車輛保持安全距離。",
+    "(Another) 介紹車對基礎設施通訊 V2I，(also) 還能查詢路況與最佳路線，兩者可減少約八成車禍。",
+    "許多新車已能自動倒車入庫、辨識號誌、自動煞車，(Moreover) 業者正研發無人駕駛車，預計五年內上市。",
+    "(If and when) 無人車普及後效益巨大，以 Google 讓盲人搭原型車買漢堡為例。",
+    "(If) 長者與身障者能自由行動，年輕人不必付高額保險，通勤者每天多出好幾個小時。"
+   ]
+  }
  },
  {
   "id": "g102p1",
@@ -1378,7 +2728,33 @@
   "twinIds": [
    "g111rp1"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "But",
+    "In the late nineteenth century",
+    "At the same time",
+    "In 1884",
+    "A few years after",
+    "Interestingly",
+    "But",
+    "After the Second World War",
+    "And",
+    "However"
+   ],
+   "outline": [
+    "瑞士刀舉世聞名，(But) 卻有不起眼的起源。",
+    "(In the late nineteenth century) 軍隊的槍需要螺絲起子拆卸，(At the same time) 罐頭食品也普及，所以軍方決定發刀。",
+    "(In 1884) Victorinox 的 Carl Elsener 把握機會，設計出軍隊喜愛的士兵刀。",
+    "(A few years after) 軍官刀問世，(Interestingly) 軍方認為開酒器不必要，軍官得自費購買。",
+    "(After the Second World War) 駐歐美軍大量購買，(However) 德文名稱太難唸，就叫它 Swiss army knife。"
+   ]
+  }
  },
  {
   "id": "g102p2",
@@ -1400,7 +2776,29 @@
   "accuracyRateSource": "大考中心 102 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "But",
+    "since",
+    "However",
+    "since",
+    "Moreover",
+    "To avoid this"
+   ],
+   "outline": [
+    "太空是人類的未來，(But) 人類已在太空留下大量垃圾，可能危及人類。",
+    "1964 年失效的先鋒一號是第一件太空垃圾，(However, since) 因為沒造成問題，科學家越來越習慣丟棄。",
+    "估計目前有超過五十萬件垃圾高速繞行地球，從油漆碎片到工具箱都有。",
+    "主要問題是撞擊衛星與太空船，(Moreover) 碎片互撞後還會掉回地球。",
+    "(To avoid this) 科學家設立地面站監測，未來希望各國合作停止亂丟並清理。"
+   ]
+  }
  },
  {
   "id": "g102p3",
@@ -1421,7 +2819,29 @@
   "accuracyRateSource": "大考中心 102 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "while",
+    "However",
+    "First",
+    "then",
+    "However",
+    "This shows that"
+   ],
+   "outline": [
+    "說明酒測的用途與美國法定標準，(However) 許多酒測未過的人宣稱只喝了能量飲料。",
+    "密蘇里研究人員設計實驗查證。",
+    "(First) 先測量 27 種能量飲料的酒精含量，(then) 再讓受試者喝完後 1 分鐘、15 分鐘各測一次。",
+    "喝完 1 分鐘內有 11 種測出酒精，(However) 15 分鐘後全都測不出來。",
+    "(This shows that) 結論：測試時間是影響結果的關鍵。"
+   ]
+  }
  },
  {
   "id": "g102p4",
@@ -1442,7 +2862,27 @@
   "accuracyRateSource": "大考中心 102 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "While",
+    "However",
+    "As such",
+    "Today"
+   ],
+   "outline": [
+    "印度女性眉心的紅點 (While) 一般人常以為是已婚的記號，其實主要和印度教有關。",
+    "紅點最常見的名稱是 bindi，原本男女都戴，(However) 現在男性戴的人變少了。",
+    "位置固定在眉心，代表第三隻眼，用來向內專注於神，(As such) 象徵虔誠。",
+    "傳統顏色是紅色，相傳源自丈夫以血封印婚姻，象徵為夫妻帶來好運。",
+    "(Today) 顏色、樣式隨個人喜好，任何人都能戴，已成為時尚而非宗教習俗。"
+   ]
+  }
  },
  {
   "id": "g101p1",
@@ -1463,7 +2903,29 @@
   "accuracyRateSource": "大考中心 101 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "Usually",
+    "Then",
+    "Today",
+    "also",
+    "too",
+    "also"
+   ],
+   "outline": [
+    "介紹蘇格蘭裙的定義與穿法：從腰部一側纏繞，前片交疊。",
+    "(Usually) 說明長度到膝蓋上方，鬆緊要合宜。",
+    "介紹最大特色是方格圖案 sett，原本代表家族，(Then) 維多利亞時代開始系統化並用於商業。",
+    "(Today) 現在也有州、省、學校的專屬圖案與一般圖案。",
+    "(also, too) 介紹配件：裙針、小刀與毛皮袋 sporran。"
+   ]
+  }
  },
  {
   "id": "g101p2",
@@ -1486,7 +2948,29 @@
   "accuracyRateSource": "大考中心 101 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "After",
+    "After",
+    "initially",
+    "then",
+    "When",
+    "But"
+   ],
+   "outline": [
+    "作者決定觀賞爵士歌手 Wesla Whitfield 的表演並採訪她。",
+    "(After) 描述她坐輪椅上台，歌聲讓觀眾忘了輪椅的存在。",
+    "介紹她的背景：18 歲在披薩店當駐唱服務生，(After) 大學學古典音樂，之後加入舊金山歌劇院合唱團。",
+    "29 歲遭隨機槍擊下半身癱瘓，(initially) 起初不願面對，憂鬱一年後住院才康復。",
+    "(When) 她體認到失去的只是行走能力，心智才是最重要的資產，(But) 遇到挫折就專注在自己能做的事情上。"
+   ]
+  }
  },
  {
   "id": "g101p3",
@@ -1508,7 +2992,36 @@
   "accuracyRateSource": "大考中心 101 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "By the 7th century A.D.",
+    "From the 10th through the 13th centuries",
+    "In the 11th century",
+    "however",
+    "Then in 1533",
+    "also",
+    "In 1608",
+    "Slowly",
+    "however",
+    "By the mid 1600s",
+    "but",
+    "In late 17th century",
+    "By the early 19th century"
+   ],
+   "outline": [
+    "追溯叉子源自古希臘，起初是廚房切肉用的兩齒大叉。",
+    "(By the 7th century A.D.) 中東宮廷開始用叉子進餐，(In the 11th century) 傳入義大利，(Then in 1533) 再傳入法國，但兩地都接受得很慢。",
+    "(In 1608) 叉子傳入英國，起初遭到嘲笑。",
+    "(Slowly, however) 叉子成為富人地位的象徵，(By the mid 1600s) 用叉子吃飯成為時尚。",
+    "(In late 17th century) 法國發展出四齒彎叉，不易掉食物又能舀，(By the early 19th century) 之後傳到德、英、美。"
+   ]
+  }
  },
  {
   "id": "g101p4",
@@ -1530,7 +3043,27 @@
   "accuracyRateSource": "大考中心 101 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "However",
+    "because",
+    "afterwards",
+    "After all"
+   ],
+   "outline": [
+    "動物是熱門攝影題材，(However, because) 但動物難以聽令，有些專業攝影師拒拍寵物。",
+    "方法一：把零食舉在相機上方，拍下寵物渴望的眼神。",
+    "方法二：用高感光底片，叫寵物名字後立刻按快門，捕捉不同表情。",
+    "拍動物園動物需要更多耐心，(After all) 畢竟不能叫醒獅子。",
+    "提醒拍攝時不要靠籠子太近、不要敲玻璃或丟東西，要尊重動物。"
+   ]
+  }
  },
  {
   "id": "g100p1",
@@ -1551,7 +3084,27 @@
   "accuracyRateSource": "大考中心 100 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "for example",
+    "However",
+    "But",
+    "In fact",
+    "also",
+    "However"
+   ],
+   "outline": [
+    "迷思一：眼神接觸越多越好，(However) 但凝視太久會讓人不自在。",
+    "迷思二：有權勢的人主動觸碰別人，(In fact) 研究顯示多半是地位較低的人主動觸碰，女性也比男性常主動。",
+    "迷思三：說話快代表說謊，(However) 其實說話慢、停頓多才更可能是說謊。"
+   ]
+  }
  },
  {
   "id": "g100p2",
@@ -1574,7 +3127,29 @@
   "accuracyRateSource": "大考中心 100 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "But",
+    "thus",
+    "though",
+    "Rather than",
+    "Therefore",
+    "instead of"
+   ],
+   "outline": [
+    "提出主題：大象能用視覺和嗅覺分辨敵友。",
+    "說明肯亞的馬賽族男性獵殺大象，(thus) 構成威脅，坎巴族則以務農為主。",
+    "嗅覺實驗：聞到馬賽族穿過的衣服，大象逃得更快，也較久才放鬆。",
+    "(though in a different way) 視覺實驗：看到馬賽族常穿的紅色衣服，(Rather than) 大象不逃跑，反而發動攻擊。",
+    "(Therefore, instead of) 研究者解釋：聞到氣味代表危險就在附近，只看到威脅則代表風險低，所以表現憤怒。"
+   ]
+  }
  },
  {
   "id": "g100p3",
@@ -1597,7 +3172,29 @@
   "accuracyRateSource": "大考中心 100 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Finally",
+    "Just like that",
+    "After",
+    "And",
+    "Currently",
+    "After"
+   ],
+   "outline": [
+    "(Finally) 描述 Deborah Duffey 多年苦練，終於要參加第一場高中籃球比賽。",
+    "比賽中為了防守對手，膝蓋受傷倒地，(Just like that) 球季就此結束。",
+    "(After) 受傷後只能坐在場邊看別人打球，第一次感到無法掌控。",
+    "之後膝蓋又受傷三次，常去物理治療診所，(And) 因此看見人生新方向。",
+    "(Currently) 現在大學主修物理治療，(After) 畢業後打算幫助別人照顧身體、走出絕望。"
+   ]
+  }
  },
  {
   "id": "g100p4",
@@ -1609,7 +3206,7 @@
    53,
    56
   ],
-  "title": "紅木的生態（The Ecology of Redwood Trees）",
+  "title": "紅杉的生態（The Ecology of Redwood Trees）",
   "paras": [
    "Redwood trees are the tallest plants on the earth, reaching heights of up to 100 meters. They are also known for their longevity, typically 500 to 1000 years, but sometimes more than 2000 years. A hundred million years ago, in the age of dinosaurs, redwoods were common in the forests of a much more moist and tropical North America. As the climate became drier and colder, they retreated to a narrow strip along the Pacific coast of Northern California.",
    "The trunk of redwood trees is very stout and usually forms a single straight column. It is covered with a beautiful soft, spongy bark. This bark can be pretty thick, well over two feet in the more mature trees. It gives the older trees a certain kind of protection from insects, but the main benefit is that it keeps the center of the tree intact from moderate forest fires because of its thickness. This fire resistant quality explains why the giant redwood grows to live that long. While most other types of trees are destroyed by forest fires, the giant redwood actually prospers because of them. Moderate fires will clear the ground of competing plant life, and the rising heat dries and opens the ripe cones of the redwood, releasing many thousands of seeds onto the ground below.",
@@ -1618,7 +3215,29 @@
   "accuracyRateSource": "大考中心 100 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "but",
+    "As",
+    "because",
+    "While",
+    "then",
+    "in turn"
+   ],
+   "outline": [
+    "介紹紅杉是地球上最高的植物，壽命長達數百到兩千年以上。",
+    "(As) 氣候變得乾冷，紅杉從北美各地退縮到加州太平洋沿岸。",
+    "說明樹皮厚實，可防蟲，(because) 更能保護樹心不受火災破壞，所以長壽。",
+    "(While) 其他樹毀於森林火災，紅杉反而受惠：火清除競爭植物，熱氣使毬果張開散播種子。",
+    "新樹常從樹幹基部的嫩芽長出，母樹死後形成「仙女環」，(in turn) 循環不息。"
+   ]
+  }
  },
  {
   "id": "g99rp1",
@@ -1640,7 +3259,31 @@
   "accuracyRateSource": "本卷非正式施測，無答對率",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Because",
+    "also",
+    "For example",
+    "From there",
+    "In the 1800s",
+    "During World War II",
+    "In the 20th century",
+    "In 1999"
+   ],
+   "outline": [
+    "陶笛歷史悠久，可追溯到石器時代，(Because) 因為聲音像鳥叫，古人認為它有魔力。",
+    "介紹中國的塤，有七千多年歷史，用於宮廷宗教祭祀與娛樂。",
+    "(For example) 舉馬雅人用陶笛於儀式為例，(From there) 之後傳入歐洲並改良，(In the 1800s) 在義大利發展最盛，(During World War II) 二戰時傳入美國。",
+    "(In the 20th century) 陶笛普及大眾，應用延伸到電玩。",
+    "(In 1999) 以任天堂《薩爾達傳說：時之笛》為例。"
+   ]
+  }
  },
  {
   "id": "g99rp2",
@@ -1661,7 +3304,27 @@
   "accuracyRateSource": "本卷非正式施測，無答對率",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "In contrast",
+    "In other words",
+    "on the other hand",
+    "But"
+   ],
+   "outline": [
+    "介紹一項親子情感連結的研究，說明選擇加拿大、法國、義大利的原因。",
+    "研究最重要的發現：加拿大父母重視獨立、較寬容，(In contrast) 義大利父母較嚴格，法國居中。",
+    "(In other words) 加拿大父母最寬鬆，研究者從教育價值觀解釋，(on the other hand) 義大利則重視權威與控制。",
+    "三國子女都覺得母親溫暖開放，義大利與加拿大子女和父親也很親近。",
+    "(But) 法國父親在子女眼中較疏遠冷淡。"
+   ]
+  }
  },
  {
   "id": "g99rp3",
@@ -1683,7 +3346,29 @@
   "accuracyRateSource": "本卷非正式施測，無答對率",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "But today",
+    "However",
+    "For one thing",
+    "For example",
+    "Likewise",
+    "however"
+   ],
+   "outline": [
+    "過去心理學家不研究快樂，(But today) 如今正向心理學成為熱門研究。",
+    "(However) 正向心理學面臨難題，(For one thing) 快樂難以科學測量，也難以跨人比較。",
+    "(For example, Likewise) 舉例說明自評與表現不一、分數難以比較的問題。",
+    "(however) 近年研究者發展出測量方法，例如觀察真笑的次數。",
+    "研究發現最快樂的人常行善，並列舉其他提升快樂的方法。"
+   ]
+  }
  },
  {
   "id": "g99rp4",
@@ -1704,7 +3389,28 @@
   "accuracyRateSource": "本卷非正式施測，無答對率",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "However",
+    "But",
+    "Rather ironically",
+    "however",
+    "for example"
+   ],
+   "outline": [
+    "家長與教育者批評電玩讓孩子反社會、肥胖、無法專心。",
+    "(However) 認知科學研究指出，動作電玩玩家決策更快、更準確，非玩家經過訓練也能獲益。",
+    "(But) 只有快節奏的動作遊戲才有效，(Rather ironically) 模擬經營遊戲反而沒有效果。",
+    "確切原因仍不清楚，(however) 但已知人是根據大腦不斷計算的機率做決定。",
+    "(for example) 以開車煞車為例，蒐集視聽資訊越有效率，決定就越快。"
+   ]
+  }
  },
  {
   "id": "g99p1",
@@ -1725,7 +3431,27 @@
   "accuracyRateSource": "大考中心 99 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "Just like",
+    "but",
+    "until",
+    "Since"
+   ],
+   "outline": [
+    "介紹紐西蘭特有的昆蟲威塔，毛利語意為「醜陋之神」，多數人看到牠就覺得噁心。",
+    "描述威塔的習性：夜間活動、體型大、壽命長，(Just like) 也像蚱蜢、蟋蟀一樣能摩擦腳部發聲。",
+    "(but they do need protecting) 指出威塔雖然不討喜，卻需要保護。",
+    "(until) 說明威塔原本沒有天敵，直到老鼠隨歐洲移民來到島上。",
+    "(Since) 老鼠愛吃威塔，數量大增，嚴重威脅本地物種與威塔族群。"
+   ]
+  }
  },
  {
   "id": "g99p2",
@@ -1747,7 +3473,31 @@
   "accuracyRateSource": "大考中心 99 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "also",
+    "Therefore",
+    "By the 1930s",
+    "After the 1960s",
+    "Whether",
+    "Since the 1990s",
+    "For example",
+    "also"
+   ],
+   "outline": [
+    "介紹高中畢業舞會是多數美國青少年第一次正式社交活動，也是成年禮。",
+    "說明 prom 一詞源自 1890 年代，家長與教育者視舞會為社交課，(Therefore) 所以每年舉辦。",
+    "(By the 1930s) 描述早期舞會樸素，(After the 1960s) 後來變得奢華、過度消費。",
+    "(Whether simple or lavish) 指出舞會常讓擔心形象、沒有舞伴的青少年感到難熬。",
+    "(Since the 1990s) 為了照顧特定學生，出現另類舞會，(For example) 如無家青少年舞會與不需舞伴的舞會。"
+   ]
+  }
  },
  {
   "id": "g99p3",
@@ -1771,7 +3521,29 @@
   "accuracyRateSource": "大考中心 99 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "too",
+    "But",
+    "However",
+    "Besides",
+    "but",
+    "but"
+   ],
+   "outline": [
+    "提出省錢度假的辦法：換屋，連車子也交換，(too) 還能省下租車費。",
+    "說明換屋並非新鮮事，(But) 不過線上換屋越來越熱門，並介紹最大的換屋網站。",
+    "說明年費與聯絡方式：先用電子郵件聯絡，再以電話溝通。",
+    "(However) 有人擔心失竊、損壞，但機率不高，(Besides) 雙方同時住在對方家；網站建議事先簽協議劃分責任。",
+    "最常見的抱怨是清潔標準不同，(but) 但多數人不會因此放棄下次換屋。"
+   ]
+  }
  },
  {
   "id": "g99p4",
@@ -1794,7 +3566,27 @@
   "accuracyRateSource": "大考中心 99 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "Yet",
+    "Added to this",
+    "As a reward",
+    "also"
+   ],
+   "outline": [
+    "介紹衣索比亞小鎮貝科吉生活步調緩慢，(Yet) 卻不斷培育出世界頂尖的長跑選手。",
+    "說明地理因素：小鎮位於高海拔火山邊，日常生活就是高地訓練。",
+    "孩子從小長途奔跑取水、撿柴、上學，(Added to this) 再加上天生的長腿。",
+    "年輕跑者渴望改變命運，以 Million Abate 為例，教練送鞋、替他找工作。",
+    "長跑是脫離貧窮的出路，(As a reward) 奧運金牌得主 Derartu Tulu 成為國家英雄，激勵數千名孩子湧入鎮上。"
+   ]
+  }
  },
  {
   "id": "g95rp1",
@@ -1815,7 +3607,26 @@
   "accuracyRateSource": "本卷非正式施測，無答對率",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "Most important of all",
+    "also",
+    "If"
+   ],
+   "outline": [
+    "介紹美國一動物園將開設人類展區，(as part of a program to demonstrate) 旨在展示人類亦屬動物界。",
+    "說明參與方式：六人一組，每組住一週，動物園會像對待猿猴一樣對待他們。",
+    "描述生活方式：獸醫檢查健康，提供刺激行為的裝置，食物會藏起來，讓他們練習覓食。",
+    "闡述人類動物園的目標：教育人們人類在動物界的地位、提升保育意識，(Most important of all) 最重要的是為猩猩圍欄籌集資金。",
+    "補充說明展區規定：人類展品將穿泳裝或運動服，(If) 天氣轉冷則可穿運動服。"
+   ]
+  }
  },
  {
   "id": "g95rp2",
@@ -1837,7 +3648,28 @@
   "accuracyRateSource": "本卷非正式施測，無答對率",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "Equally important",
+    "Thus",
+    "However",
+    "therefore",
+    "Together"
+   ],
+   "outline": [
+    "提出吸引顧客的不僅是美食，(Equally important is) 更重要的是顧客在餐廳裡的感受（氛圍）。",
+    "定義氛圍：由設計、裝飾、色彩、牆面質地、服務等組成，若顧客感到放鬆，氛圍能提升整體用餐體驗。",
+    "(Thus) 說明氛圍應營造友善、舒適、吸引人的感覺，(For the restaurant owner) 這意味著回頭客和營利。",
+    "(However) 指出不同顧客對氛圍有不同需求，(Therefore) 了解目標客群的特點很重要。",
+    "(Together these combine to make) 總結氛圍由多種感知因素結合而成，設計「正確」氛圍需仔細考量，以吸引目標客群。"
+   ]
+  }
  },
  {
   "id": "g95rp3",
@@ -1849,14 +3681,33 @@
    49,
    52
   ],
-  "title": "喬治·馬洛里與珠峰之謎（George Mallory and the Everest Mystery）",
+  "title": "喬治·馬洛里與聖母峰之謎（George Mallory and the Everest Mystery）",
   "paras": [
    "George Leigh Mallory (1886-1924) was a British pioneering mountaineer, who was engaged in early attempts to conquer the world’s tallest mountain, Everest. He participated in three British attempts in 1921, 1922 and 1924. In the 1922 expedition, he reached a height of 27,000 feet. He retreated due to an avalanche (snow slide) in which seven Sherpa climbers lost their lives. The 1924 climb was his final one. Mallory and his partner, Sandy Irvine, departed from the high camp on June 8. They were even seen by geologist Noel Odell during a short break in the blowing snow as they moved toward the Second Step. After that there was no news of them—they were lost in the vast North Face of Everest. In 1960 Chinese climbers completed the same route that Mallory and Irvine attempted. A Chinese climber reportedly found a body believed to be Irvine’s at that time. In 1999 American climber Conrad Anker found the frozen body of Mallory at 26,760 feet. A positive identification was made by Mallory’s name label on the torn clothing. The appearance of Mallory’s body has again heated up the debate. Did Mallory and Irvine first reach the peak of Everest? Or did Sir Edmund Hillary and Sherpa Tenzing Norgay reach the summit in June of 1953 as is officially cited? While that debate continues, there is one thing that is certain—in March 1923, a reporter from The New York Times interviewed George Mallory. He asked Mallory, “Why do you want to climb Mount Everest?” His reply has become famous; he said, “Because it’s there.”"
   ],
   "accuracyRateSource": "本卷非正式施測，無答對率",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "After that",
+    "Or",
+    "While"
+   ],
+   "outline": [
+    "介紹 George Leigh Mallory 是一位英國登山先驅，早期嘗試征服聖母峰，參與三次遠征。",
+    "描述他 1922 年的嘗試因雪崩而撤退，1924 年是他最後一次攀登，與 Sandy Irvine 一同出發。",
+    "(After that) 他們失蹤於聖母峰北壁。(In 1960) 1960 年中國登山者完成相同路線，據報發現疑似 Irvine 的遺體。",
+    "(In 1999) 1999 年有人找到 Mallory 的遺體，他是不是第一個登頂的人又引起爭論。",
+    "(While that debate continues) 儘管爭論持續，(In March 1923) 但 Mallory 那句「因為山在那裡」的回答已成名言。"
+   ]
+  }
  },
  {
   "id": "g95rp4",
@@ -1878,7 +3729,27 @@
   "accuracyRateSource": "本卷非正式施測，無答對率",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "定義",
+   "orgEn": "Definition",
+   "orgCode": "def",
+   "transitions": [
+    "therefore",
+    "However",
+    "Broadly speaking",
+    "The first",
+    "The second"
+   ],
+   "outline": [
+    "(therefore) 定義哲學為一種活動而非學科，任何人無需學術背景都可成為哲學家，只要 (However) 以特定方式思考和論證。",
+    "解釋「哲學」一詞源自希臘語，意為「愛知識」，古代希臘哲學家同時也是數學家和科學家，他們有時間追求知識。",
+    "(Broadly speaking) 闡述哲學家的第一個任務：探索真理，但真理的定義與存在性有爭議。",
+    "(The second task is about) 闡述哲學家的第二個任務：將邏輯思維應用於日常概念分析，(unless) 以澄清諸如正義、知識、人性等詞語的意義。"
+   ]
+  }
  },
  {
   "id": "g98p1",
@@ -1890,7 +3761,7 @@
    41,
    44
   ],
-  "title": "「不事事營營」保險公司的宣傳信（Promotional Letter from a \"Not Doing Much\" Insurance Company）",
+  "title": "保險公司寫給「無所事事協會」的信（An Insurance Company’s Letter to the Institute of Not Doing Much）",
   "paras": [
    "To Whom It May Concern:",
    "Your address was forwarded to us by Why Bother Magazine. All of us here think The International Institute of Not Doing Much is the best organization in the world. You know how to avoid unnecessary activities!",
@@ -1903,7 +3774,31 @@
   "accuracyRateSource": "大考中心 98 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "書信",
+   "genreEn": "Letter",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "First",
+    "Besides",
+    "After all",
+    "As a side benefit",
+    "Next",
+    "Now that",
+    "By the way",
+    "Now"
+   ],
+   "outline": [
+    "寫信的是一家保險公司，收信的是「無所事事協會」：公司全體認為這個協會是世界上最好的組織，(You know how to avoid) 懂得避開不必要的活動。",
+    "(First, we replaced) 描述第一個改革：用鴿子取代電話，(Simply removing … has had a remarkable effect) 強調效果好且 (Besides) 更經濟。",
+    "(Next) 描述第二個改革：賣掉電腦，完全擁抱紙張技術，(The boss is impressed) 老闆印象深刻，(Now that we all use) 並讚揚手寫品質。",
+    "(You can notice the difference) 描述改革後的辦公室氛圍：平靜、安靜，沒有電話噪音。",
+    "(Wonderful! … Now it’s perfect) 結尾說這一切太美好了，作者從小就想在保險公司上班，現在終於完美了。"
+   ]
+  }
  },
  {
   "id": "g98p2",
@@ -1924,7 +3819,27 @@
   "accuracyRateSource": "大考中心 98 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "Now",
+    "However",
+    "while",
+    "Thus"
+   ],
+   "outline": [
+    "介紹加拉巴哥群島的生態，(Now they will be famous for one more thing) 並指出將以「世界第一個綠色機場」聞名。",
+    "闡述機場重建計畫的背景和特點，(The new development has several important features) 如使用風能和太陽能，(couldn't be coming at a better time for) 強調其在群島面臨環境挑戰時的及時性。",
+    "(However) 轉折：指出旅遊導向經濟模式的不可持續性，(These increases put great stress on) 因遊客和航班大增對環境造成巨大壓力。",
+    "(Air travel is especially criticized for) 強調航空旅行因消耗資源和環境破壞而受批評。",
+    "(Thus, efforts are being made to) 總結為減少旅遊業環境影響的努力，(is just one of these attempts) 說明綠色機場是這些努力之一。"
+   ]
+  }
  },
  {
   "id": "g98p3",
@@ -1946,7 +3861,26 @@
   "accuracyRateSource": "大考中心 98 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "But",
+    "therefore",
+    "But unfortunately"
+   ],
+   "outline": [
+    "(According to popular folklore) 開篇引入民間傳說，(But cattle may have another hidden talent) 並提出牛可能還有分辨方向的隱藏能力。",
+    "(wanted to know whether) 引出研究目的：Dr. Begall 團隊想知道大型哺乳動物是否也有感知地磁場的能力，(They investigated this possibility by studying) 並說明研究方法。",
+    "(The researchers therefore had to study) 闡述研究過程的複雜性：需要大量不同時間、地點的牛隻圖片來排除環境因素。",
+    "(The researchers concluded that) 提出研究結論：牛隻普遍傾向南北方向。",
+    "(But unfortunately) 指出研究的局限性：Google Earth 解析度不足以判斷牛頭牛尾方向，(were therefore unable to answer) 故無法確定偏好南北向或南北半球差異。"
+   ]
+  }
  },
  {
   "id": "g98p4",
@@ -1967,7 +3901,28 @@
   "accuracyRateSource": "大考中心 98 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "But",
+    "First of all",
+    "But",
+    "Another strategy",
+    "Given this powerful effect"
+   ],
+   "outline": [
+    "提出兒童不信任新食物，(But it's the parents' job to) 但父母有責任提供多樣食物並培養健康飲食習慣。",
+    "(can help) 說明簡單策略可幫助挑食孩子接受多樣化飲食，(But studies suggest that) 研究表明讓孩子參與備餐是 (is an important first step in getting them to try) 重要步驟。",
+    "引用研究：參與烹飪的孩子 (were more likely to eat) 更可能吃自己做的食物，(if kids cut them up … they will love) 舉例蘿蔔。",
+    "(Another strategy is not to) 提出另一策略：父母不應在孩子面前節食，(are far more likely to try foods if they see) 解釋孩子會受父母飲食偏好影響。",
+    "(Given this powerful effect) 強調父母應注意節食習慣如何影響孩子，(By exposing young children to erratic dieting habits, parents may be putting them at risk for) 因不規律節食恐導致飲食失調。"
+   ]
+  }
  },
  {
   "id": "g97p1",
@@ -1987,7 +3942,28 @@
   "accuracyRateSource": "大考中心 97 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "Interestingly",
+    "Apparently",
+    "so that",
+    "In the future",
+    "because"
+   ],
+   "outline": [
+    "介紹吼猴的名稱由來與其巨大聲量，說明公猴利用叫聲爭奪食物、配偶和地盤。",
+    "(Interestingly) 提出有趣現象：當吼猴數量稀少時，嚎叫模式會改變。",
+    "(Apparently) 解釋原因：在貝里斯的猴群因空間充足且無競爭者，無需頻繁嚎叫。",
+    "管理員現使用錄音來模擬吼叫聲，(so that) 以便猴子感受壓力而發出地域性叫聲。",
+    "(In the future) 展望未來：當猴群數量增長，將不再需要錄音，(because) 因為牠們會有更多理由與鄰居劃分地盤。"
+   ]
+  }
  },
  {
   "id": "g97p2",
@@ -2008,7 +3984,26 @@
   "accuracyRateSource": "大考中心 97 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Eventually",
+    "Even today",
+    "More recently"
+   ],
+   "outline": [
+    "(After the creation of) 描述冰河國家公園成立後，遊客增長導致對道路的需求。",
+    "(Eventually) 說明對橫跨山脈道路的需求，(led to the building of) 最終促成了「奔向太陽之路」的建設。",
+    "(After 11 years of work) 闡述道路建設的艱鉅與工程壯舉，(Even today) 至今仍令人驚嘆。",
+    "(has changed the way) 說明道路改變了遊客體驗公園的方式，從騎馬數日變成開車輕鬆遊覽。",
+    "(In 1931) 介紹與加拿大華特頓湖國家公園合作的緣起，(In 1932) 成為世界第一個國際和平公園，(More recently) 並獲得國際榮譽，(highlights the importance of) 凸顯其重要性。"
+   ]
+  }
  },
  {
   "id": "g97p3",
@@ -2029,7 +4024,27 @@
   "accuracyRateSource": "大考中心 97 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "First",
+    "also",
+    "Another difficulty",
+    "For example"
+   ],
+   "outline": [
+    "(First) 闡述冰雕的第一個難點：冰塊的選擇，(Its ideal material is) 理想材料要求高純度、高透明度且氣泡最少。",
+    "介紹冰塊的來源：科羅拉多州的 Clinebell 公司生產的標準塊，以及歐洲、加拿大或瑞典冰河中更大的冰塊。",
+    "(Another difficulty) 闡述冰雕的第二個難點：時間控制，環境溫度影響融化速度。",
+    "(If … then) 說明若不在寒冷環境，雕塑家必須快速完成作品。",
+    "(The tools used … also affect) 提及工具對完成時間的影響，(Some sculptures can be completed in as little as … if) 使用電動工具可快速完成，並介紹日本的冰雕鑿子與傳統。"
+   ]
+  }
  },
  {
   "id": "g97p4",
@@ -2051,7 +4066,28 @@
   "accuracyRateSource": "大考中心 97 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "However",
+    "During training",
+    "then",
+    "A day or two later",
+    "Interestingly"
+   ],
+   "outline": [
+    "提出疼痛的普遍經驗，(However) 但指出若事先說服自己疼痛不那麼劇烈，感受可能減輕。",
+    "(According to a recent study) 說明最新研究：大腦對預期疼痛的反應與實際疼痛的反應區域相似。",
+    "描述研究設計：10 位志願者參與實驗，通過不同長度的靜默期預期不同強度的熱脈衝。",
+    "(The researchers found that) 研究結果：預期越高疼痛，大腦中涉及學習、記憶、情感和觸摸的區域越活躍，且與實際疼痛區域重疊。",
+    "(Interestingly) 驚人發現：當預期輕度或中度疼痛卻遇到劇痛時，實際感受到的疼痛比預期劇痛時減少 28%。"
+   ]
+  }
  },
  {
   "id": "g96p1",
@@ -2072,7 +4108,31 @@
   "accuracyRateSource": "大考中心 96 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "but",
+    "This is because",
+    "Therefore",
+    "For the same reason",
+    "instead",
+    "Unlike",
+    "Besides",
+    "But"
+   ],
+   "outline": [
+    "提出問題：萬聖節糖果是牙醫的惡夢，即使家長處理掉部分糖果，仍需分辨好壞。",
+    "(According to) 說明最重要的是食物在口中停留的時間，(This is because) 因為細菌會產生酸性物質破壞牙齒，造成蛀牙。",
+    "(Therefore) 分析薯片比糖果更糟，(For the same reason) 葡萄乾和餅乾也不是好選擇，硬糖更是糟糕。",
+    "(Unlike) 建議巧克力是更好的選擇，因為它溶解快，(Besides) 且含有單寧酸有助於殺菌。",
+    "(But no matter what) 總結無論吃什麼，飯後刷牙仍是預防蛀牙的最佳方式。"
+   ]
+  }
  },
  {
   "id": "g96p2",
@@ -2093,7 +4153,28 @@
   "accuracyRateSource": "大考中心 96 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "Nor",
+    "Rather",
+    "however",
+    "But",
+    "especially"
+   ],
+   "outline": [
+    "駁斥迷思：美國最大的電視網不是商業電視台，(Rather it is) 而是非營利公共廣播電視台 PBS。",
+    "介紹 PBS 的規模與會員站點，(however) 但指出其收視率僅佔少數（約 2%），遠低於商業台 NBC。",
+    "(This is especially noteworthy when) 強調 PBS 在預算有限（依賴捐款和政府資助）的情況下，過去二十年卻戲劇性成長。",
+    "讚揚 PBS 節目品質卓越，涵蓋新聞、娛樂、教育。",
+    "(Over 95 percent) 指出 PBS 以高品質教育節目聞名，超過 95% 的公共電視台提供遠距課程，(Each year) 每年有大量學生通過此方式學習。"
+   ]
+  }
  },
  {
   "id": "g96p3",
@@ -2114,7 +4195,24 @@
   "accuracyRateSource": "大考中心 96 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "But"
+   ],
+   "outline": [
+    "(Last week) 介紹時尚設計師 Jay McCarroll 與美國人道協會 (HSUS) 共同發起一項「無皮草」聲明，開啟時尚與動物保護新篇章。",
+    "闡述 McCarroll 拒絕皮草的原因：每年數千萬動物因皮草業而受苦死亡。",
+    "(But what did … use in place of) 說明 McCarroll 替代皮草的材料：各種織物組合、棉、尼龍、聚酯纖維、竹棉混紡等，強調「除了皮草和皮革」。",
+    "(So many people want to) 說明 HSUS 支持此運動的理由：多數美國人想保護動物，並強調人與動物的情感連結。",
+    "(It is great to see) 總結時尚界領導者意識到動物比人類更需要皮草，讚揚設計師擁抱同情心。"
+   ]
+  }
  },
  {
   "id": "g96p4",
@@ -2136,7 +4234,28 @@
   "accuracyRateSource": "大考中心 96 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "For example",
+    "So",
+    "Conversely",
+    "Likewise",
+    "Therefore"
+   ],
+   "outline": [
+    "提出過去普遍認為性別差異主要歸因於後天教養，(It’s hard to cling to that belief today) 但現在此信念難以堅持。",
+    "(Recent research has shown that) 最新研究顯示男女存在生物性差異，理解這些差異對教養很重要。",
+    "(For example) 舉例一：女孩聽力比男孩更敏感，(So) 導致男性正常音量對女孩來說可能是吼叫。",
+    "(Conversely) 反之，男孩上課不專心可能是因聽不清老師講課。",
+    "(Likewise) 舉例二：女孩情感表達能力更強，(Studies reveal that) 大腦連接使她們能談論感受，男孩則發展較晚。(Therefore) 結論父母教師應理解並利用這些生物性差異。"
+   ]
+  }
  },
  {
   "id": "g95p1",
@@ -2157,7 +4276,30 @@
   "accuracyRateSource": "大考中心 95 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "Surprise",
+    "Conversely",
+    "However",
+    "For example",
+    "too",
+    "But",
+    "So"
+   ],
+   "outline": [
+    "提出美國青少年壓力遠高於日台青少年的研究發現。",
+    "解釋壓力的現象：身心持續互動的結果，影響可正可負。",
+    "(Conversely) 說明身心互動：幽默電影能減輕疼痛，而擔憂則可導致潰瘍、高血壓、心臟病。",
+    "(However) 強調壓力不總是壞事，(For example) 適度壓力能激發潛能、救命。",
+    "(But too much stress often injures) 指出過度壓力有害身心，(So) 建議讀書學習如何控制壓力以減輕生活壓力。"
+   ]
+  }
  },
  {
   "id": "g95p2",
@@ -2179,7 +4321,29 @@
   "accuracyRateSource": "大考中心 95 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "分類",
+   "orgEn": "Classification",
+   "orgCode": "cls",
+   "transitions": [
+    "Then",
+    "Today",
+    "Next",
+    "Finally",
+    "but",
+    "Because"
+   ],
+   "outline": [
+    "(The first) 介紹茶是首個沖泡飲品，(in) 由中國皇帝在西元前 2737 年引進。",
+    "描述茶在中國、日本的傳播，(In … introduced to) 後於 17 世紀初 (when) 傳入歐洲。",
+    "(Then in) 指出 1834 年印度開始種茶，並擴展至東南亞各地，(Today) 現今爪哇、南非等地也產茶。",
+    "(There are three kinds of tea) 介紹茶的三種主要類型：紅茶、綠茶、烏龍茶，並簡述其製作過程。",
+    "(Three main varieties of tea) 說明茶的三個主要品種（中國、阿薩姆、柬埔寨）及其不同特性。"
+   ]
+  }
  },
  {
   "id": "g95p3",
@@ -2200,7 +4364,27 @@
   "accuracyRateSource": "大考中心 95 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Also",
+    "Besides",
+    "Meanwhile",
+    "When"
+   ],
+   "outline": [
+    "說明太空人每天工作 16 小時，(in order to) 以完成任務項目，研究地球地理、汙染、天氣，並拍照紀錄。",
+    "(Also) 提及太空人在太空梭內進行實驗，(Besides working) 且需規律運動保持健康。",
+    "描述太空人出艙工作，(Meanwhile) 太空服提供防輻射、氧氣供應及溫控保護。",
+    "(When the mission is over) 說明任務結束返地過程：太空梭不靠引擎降落，(It glides) 而是滑翔通過大氣層。",
+    "(When the shuttle touches) 描述降落時，(opens to) 阻力傘打開以穩定飛機、調整速度，並協助輪煞車完全停止。"
+   ]
+  }
  },
  {
   "id": "g95p4",
@@ -2222,7 +4406,27 @@
   "accuracyRateSource": "大考中心 95 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "But",
+    "But once",
+    "Another possibility",
+    "And"
+   ],
+   "outline": [
+    "(has recently found evidence that) 介紹研究：兒童與成人學習二語時，大腦使用不同區域。",
+    "(He used … to study) 描述研究方法：用 MRI 掃描兩組雙語者（兒童期學、成年期學）的大腦活躍區塊。",
+    "(He found that) 研究發現：Wernicke 區使用相同，(But how … was different) 但 Broca 區不同。",
+    "學齡期學二語者 Broca 區使用相同區域，成年期學者則用特殊區域。",
+    "(How does … explain this difference) Hirsch 解釋：可能兒童期大腦混合語言，或 (But once that programming is complete, Another possibility is simply that) 成年後由不同腦區接管，且學習方式不同。"
+   ]
+  }
  },
  {
   "id": "g94p1",
@@ -2244,7 +4448,29 @@
   "accuracyRateSource": "大考中心 94 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "論說文",
+   "genreEn": "Argumentative",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "Perhaps",
+    "Then",
+    "at last",
+    "But",
+    "Even so",
+    "More importantly"
+   ],
+   "outline": [
+    "(For many years) 作者過去深信體重是痛苦來源，(I believed that) 認為減重能解決所有問題。",
+    "闡述許多人誤以為改變身體能解決一切，並幻想瘦身後會獲得幸福、價值和愛。",
+    "(But) 轉折：然而人們常復胖，(Even so) 但仍天真地認為 (next time) 下次會不同。",
+    "作者花很長時間才意識到美有更多內涵，美感標準因文化而異。",
+    "(More importantly, if it's happiness that we want, why not) 總結：既然追求幸福，為何不將精力放在內在，而非體型？(When we change) 改變對自己的態度，世界也會隨之改變。"
+   ]
+  }
  },
  {
   "id": "g94p2",
@@ -2267,7 +4493,28 @@
   "accuracyRateSource": "大考中心 94 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "And",
+    "But",
+    "One reason",
+    "Ever since",
+    "In the face of this tragedy"
+   ],
+   "outline": [
+    "(On December 26, 2003) 描述 2003 年伊朗巴姆古城遭受毀滅性地震，造成大量死傷與無家可歸者。",
+    "描述巴姆的建築多為泥磚屋，(But) 災難中幾乎全毀，(One reason … was that) 解釋其脆弱性。",
+    "介紹巴姆最著名的 2000 年古堡，曾是城市本身，內有居所、市集、清真寺。",
+    "巴姆曾是絲路貿易站，16-17 世紀達繁榮高峰，(Ever since) 50 年前開始修復，吸引許多遊客。",
+    "(In the face of this tragedy) 總結面對悲劇，全球供應物資，精神領袖誓言「重建巴姆，比以前更強大」。"
+   ]
+  }
  },
  {
   "id": "g94p3",
@@ -2287,7 +4534,29 @@
   "accuracyRateSource": "大考中心 94 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "Generally speaking",
+    "but",
+    "But",
+    "However",
+    "on the other hand",
+    "Therefore"
+   ],
+   "outline": [
+    "說明時差是旅行跨時區造成的問題，常導致消化、疲勞和睡眠紊亂。",
+    "解釋時差成因：內部生理時鐘受擾亂。",
+    "(Generally speaking) 說明跨越 3-4 個時區會導致明顯時差，(The body takes about) 身體需一天來適應每小時時差。",
+    "(But the seriousness … also depends on) 強調時差嚴重性也與旅行方向有關，(If … we won’t notice any difference, because) 南北向無時差。",
+    "(However) 比較東西向旅行：西向東旅行 (on the other hand) 較難適應，(Therefore) 紐約到洛杉磯問題少於洛杉磯到紐約。"
+   ]
+  }
  },
  {
   "id": "g94p4",
@@ -2309,7 +4578,29 @@
   "accuracyRateSource": "大考中心 94 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "but",
+    "By 1975",
+    "Now",
+    "also",
+    "but now",
+    "Worst of all"
+   ],
+   "outline": [
+    "(Originally from) 紅火蟻原產於南美洲，1930 年代末隨貨船進入美國，(but) 直到 1942 年才有人發現。",
+    "描述其在美國快速繁殖蔓延，(By) 至 1975 年已殖民 5200 萬公頃，(Now) 現已超過 2.75 億公頃。",
+    "描述紅火蟻巢穴特徵：可在任何土壤或室內築巢，(Each nest used to have but one queen, but now) 過去單蟻后，現多蟻后巢穴常見。",
+    "(With multiple queens at work) 強調多蟻后導致蟻群數量迅速增加。",
+    "(can cause a number of problems) 列舉紅火蟻的危害：破壞農田、侵擾草坪、攻擊果樹、捕食幼鳥、損壞電氣設備，(Worst of all) 甚至叮咬可致命。"
+   ]
+  }
  },
  {
   "id": "g93p1",
@@ -2332,7 +4623,25 @@
   "accuracyRateSource": "大考中心 93 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "While",
+    "But"
+   ],
+   "outline": [
+    "介紹 Alfred 和 Anthony Melillo 雙胞胎兄弟，於 2002 年創造了成人雙胞胎皆接受心臟移植的紀錄。",
+    "Alfred 以幽默方式表達自己因新心臟而「更年輕」。",
+    "(While) 雙胞胎認為遺傳可能導致心臟問題，但也承認不當飲食習慣 (might have also contributed) 是原因。",
+    "描述 Anthony 心臟移植後五年的恢復情況：規律運動，用藥量減少。",
+    "(But, he added) Alfred 表示目標是比哥哥恢復得更好，但也強調兄弟情誼。"
+   ]
+  }
  },
  {
   "id": "g93p2",
@@ -2352,7 +4661,26 @@
   "accuracyRateSource": "大考中心 93 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "Following",
+    "For example",
+    "But"
+   ],
+   "outline": [
+    "大都會藝術博物館因判決而 (reluctantly handed over) 歸還土耳其文物。",
+    "(Following increasing calls) 面對文物歸還要求，一些主要博物館簽署聲明拒絕歸還。",
+    "(They say) 博物館論點：文物在大型博物館能讓世界人民充分欣賞古代文明。",
+    "英國博物館未簽署但支持，(has faced growing pressure to hand back) 面臨歸還希臘雕塑的壓力。",
+    "(But) 英國博物館堅稱文物必須留在博物館，以實現其「向世界展示世界」的宗旨。"
+   ]
+  }
  },
  {
   "id": "g93p3",
@@ -2374,7 +4702,26 @@
   "accuracyRateSource": "大考中心 93 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "And if",
+    "also",
+    "As",
+    "On land as in the sea"
+   ],
+   "outline": [
+    "介紹生物體內發光器官，用於 (to signal to) 信號傳遞、(to lure) 誘捕獵物或 (to escape from) 逃避捕食者。",
+    "(When night falls) 以燈籠魚為例，說明其利用光線交流，(so that) 以避免過近並均勻分布覓食，(And if) 受威脅時閃光迷惑捕食者。",
+    "(Certain land animals can also produce light) 以螢火蟲為例，說明雄螢火蟲透過特定閃光模式吸引雌性，(After darkness falls) 雌性在地回應。",
+    "(On land as in the sea) 指出發光生物可能具欺騙性，(When they are hungry) 有些雌螢火蟲會發出虛假信號誘捕並吃掉其他物種的雄性。"
+   ]
+  }
  },
  {
   "id": "g93p4",
@@ -2400,7 +4747,24 @@
   "accuracyRateSource": "大考中心 93 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "書目簡介",
+   "genreEn": "Book Annotations",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "Though",
+    "Soon"
+   ],
+   "outline": [
+    "《Everywhere》：小主角 Peanuts 在祖父心臟病發後，透過儀式和想像學會希望與愛的力量。",
+    "《Tuck Everlasting》：塔克一家發現喝了會永生的泉水，為了保守祕密而面臨種種考驗。",
+    "《The Table Where Rich People Sit》：小女孩在父母引導下，明白生活中真正的財富不是金錢。",
+    "《Beyond the Ridge》：依據美洲印第安習俗，說明死亡只是換到另一個世界，死者會進入美麗的新天地。"
+   ]
+  }
  },
  {
   "id": "g92bp1",
@@ -2421,7 +4785,26 @@
   "accuracyRateSource": "大考中心未公布本卷逐題數據",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "But",
+    "Then",
+    "But now"
+   ],
+   "outline": [
+    "Laura 在門口把一條細金鍊塞給 Amy，鍊子上掛著心形墜子，Amy 一看就愛上了。",
+    "Amy 擁抱 Laura，答應會回來看她，(But) 其實她自己也不知道還會不會回到這個小鎮。",
+    "Laura 一路揮手、倒退著走到街角；媽媽催 Amy 出門，她戴好手鍊、把毛衣和外套都穿上，因為她們只能帶自己拿得動的東西。",
+    "母女最後一次走過空蕩蕩的每個房間，Amy 回想房間原本擺滿家具、地毯、畫和書的樣子。",
+    "(If he were here now) 要是爸爸在，一定會摘一朵康乃馨送媽媽，(But now) 他心愛的花園卻光禿破敗，就像 Amy 此刻孤單、沒人理會的心情。"
+   ]
+  }
  },
  {
   "id": "g92bp2",
@@ -2442,7 +4825,27 @@
   "accuracyRateSource": "大考中心未公布本卷逐題數據",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "Since",
+    "Besides",
+    "In view of all these strengths",
+    "Since then"
+   ],
+   "outline": [
+    "西方世界近幾十年重新發現黃豆；黃豆在亞洲的食用歷史比文字紀錄還早，中國人更把它列為五穀之一。",
+    "(Since) 黃豆生產成本低、富含蛋白質、用途又多，可以供養不斷增加的世界人口，(Besides) 也能當作各種動物的飼料。",
+    "黃豆幾乎是完美的蛋白質來源：纖維能預防消化疾病，本身不含膽固醇，黃豆油裡的 Omega 3 脂肪酸還能降低膽固醇、防止血液凝結。",
+    "(In view of all these strengths) 美國和加拿大在 1930 年代培育出高含油量的品種，(Since then) 美國成為全球最大產國，並大量出口。",
+    "黃豆如今是健康食品的代表，美國人把豆腐加進沙拉、拿來代替肉類，大城市的健康食品店甚至買得到豆腐漢堡和豆腐熱狗。"
+   ]
+  }
  },
  {
   "id": "g92bp3",
@@ -2462,7 +4865,25 @@
   "accuracyRateSource": "大考中心未公布本卷逐題數據",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "By contrast",
+    "However"
+   ],
+   "outline": [
+    "兄姊通常因父母賦予的責任而早發展出領導傾向，(mainly a result of) 且多因父母期望而追求成就。",
+    "(also suggests that) 研究顯示長子通常較保守，因受父母管教多，(Used to caring for others) 傾向教職、政治等領導職業，但社交能力較差。",
+    "(By contrast) 較小的孩子通常更放鬆、善交際，(However) 但抱負較小，不習慣替他人做決定。",
+    "(This may help explain why) 較小的孩子傾向音樂、藝術、寫作等創意領域，也善於說服，(because) 這可能是他們處理兄姊的唯一工具。",
+    "較小的孩子有時會過度依賴他人。"
+   ]
+  }
  },
  {
   "id": "g92bp4",
@@ -2482,7 +4903,28 @@
   "accuracyRateSource": "大考中心未公布本卷逐題數據",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "論說文",
+   "genreEn": "Argumentative",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "In this way",
+    "as a consequence",
+    "In fact",
+    "Given",
+    "After all"
+   ],
+   "outline": [
+    "醫療廢棄物是戴奧辛汙染主要來源，(Linked to) PVC 塑膠在醫院用品中廣泛使用。",
+    "(is created when) 戴奧辛是 PVC 燃燒時產生的副產品，透過空氣進入食物鏈，(is stored … and builds up over time) 儲存於人體脂肪中。",
+    "(as a consequence) 人類持續暴露於戴奧辛，對育齡女性和嬰兒影響尤大，(In fact) 嬰兒最脆弱。",
+    "塑膠在醫療廢棄物中佔比劇增，(before disposables began rapidly replacing reusables) 從 1970 年代的 10% 增至現今的 30%。",
+    "(The EPA estimates that) EPA 估計戴奧辛含量已高到可導致健康問題（含癌症），(Given the harm caused by) 醫護人員有責任帶頭減少塑膠使用，(After all) 因不能在院內治癌同時在院外助長。"
+   ]
+  }
  },
  {
   "id": "g92p1",
@@ -2502,7 +4944,24 @@
   "accuracyRateSource": "大考中心 92 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "In fact"
+   ],
+   "outline": [
+    "描述作者（電梯操作員）的上班準備與工作時間安排。",
+    "說明作者喜歡這份工作，(I meet all kinds of people and talk to everyone) 因能接觸形形色色的人並交談。",
+    "(Many people ask me questions, and I give them) 作者會提供必要資訊，並努力提供幫助。",
+    "(I always call out floors very clearly, and I am constantly on the move) 強調作者會清晰報樓，且持續移動。",
+    "(In fact) 作者說自己的生活就是一連串的「上上下下」，也描述了乘客的舉動，例如脫帽、抽菸。"
+   ]
+  }
  },
  {
   "id": "g92p2",
@@ -2523,7 +4982,27 @@
   "accuracyRateSource": "大考中心 92 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Actually",
+    "This explains why",
+    "however",
+    "also"
+   ],
+   "outline": [
+    "(is believed to have begun with) 說明魔術起源於西元前 1700 年的古埃及。",
+    "埃及魔術師 Dedi 替法老和奴隸表演，他的「杯與球」戲法至今還有人在變。",
+    "(This explains why at that time) 古希臘羅馬人也著迷於魔法，祭司們甚至建造魔法裝置以說服人們他們擁有力量。",
+    "(However, was not well accepted before) 1800 年代以前，社會不接受魔術，把魔術師看成怪胎，只准他們在馬戲團表演。",
+    "(It was in the 19th century that) 19 世紀魔術師 Robert Houdin 改變了人們對魔術的看法，(Today) 如今魔術已成為家庭娛樂。"
+   ]
+  }
  },
  {
   "id": "g92p3",
@@ -2544,7 +5023,28 @@
   "accuracyRateSource": "大考中心 92 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "分類",
+   "orgEn": "Classification",
+   "orgCode": "cls",
+   "transitions": [
+    "Although",
+    "A second kind",
+    "The third kind",
+    "Sometimes",
+    "Other times"
+   ],
+   "outline": [
+    "醫學分成三個分支。第一種是「醫生醫學」，也就是「科學醫學」：觀察病症、找出規律，再決定療法，大約始於西元前四世紀。",
+    "(Although) 科學醫學現在很成功，在古代卻治不好多少病人。",
+    "(A second kind) 第二種是「自然療法」，也叫「民俗醫學」：教育程度不高的人用各種草藥治病，一直試到找出有效的方法；這種醫學比科學醫學更早出現，在古代也更有效。",
+    "(The third kind) 第三種是「健康療養所」或「信仰治療」，(Sometimes) 可能只是摸一下聖人就痊癒，(Other times) 也可能靠魔法護身符或咒語。",
+    "有些宗教團體設立療養聖所，病人在那裡休息、吃健康的食物、運動，並向神祈禱；要是心情低落或工作過度，去這種地方可能正好有幫助。"
+   ]
+  }
  },
  {
   "id": "g92p4",
@@ -2565,7 +5065,26 @@
   "accuracyRateSource": "大考中心 92 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "Even though",
+    "Perhaps one of the best examples",
+    "Soon after that"
+   ],
+   "outline": [
+    "提出青少年消費市場利潤豐厚，但 (Even though) 僅少數（不到 20%）青少年具創新能力主導時尚潮流。",
+    "(Perhaps one of the best examples is) 舉例嘻哈文化對青少年時尚的影響力，帶來巨大銷售額。",
+    "(Remember when) 提醒讀者瑪丹娜的例子，(Soon after that) 說明她如何影響青少年內衣外穿的風潮。",
+    "(was fully aware of) 設計師 Tommy Hilfiger 充分意識到青年文化的力量，(by giving … and featuring) 透過贊助明星和廣告推廣品牌。",
+    "(Picking up on) Hilfiger 利用青少年對電玩興趣，贊助任天堂比賽，並在店內設置終端，(The payoff) 最終使其牛仔褲品牌深受青少年喜愛。"
+   ]
+  }
  },
  {
   "id": "g91bp1",
@@ -2586,7 +5105,25 @@
   "accuracyRateSource": "大考中心未公布本卷逐題數據",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "定義",
+   "orgEn": "Definition",
+   "orgCode": "def",
+   "transitions": [
+    "however",
+    "for example",
+    "in other words"
+   ],
+   "outline": [
+    "定義民間故事：口耳相傳，通常關於出身卑微但強大聰明的人。",
+    "說明這些人如何憑藉智慧和精力戰勝敵人，民間故事兼具寫實與想像。",
+    "許多民間故事源於事實，但隨著講述和重述而改變，(in other words) 例如「誇張故事」是將事實誇大。",
+    "(By reading and listening to) 總結民間故事是文化文學的重要部分，透過它們能更好理解一個民族的真實價值、信仰和目標。"
+   ]
+  }
  },
  {
   "id": "g91bp2",
@@ -2608,7 +5145,26 @@
   "accuracyRateSource": "大考中心未公布本卷逐題數據",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "It used to be",
+    "But nowadays",
+    "Meanwhile"
+   ],
+   "outline": [
+    "(It used to be that) 過去運動員和貴賓免費贈送簽名，簽名物品只是裝飾品。",
+    "(But nowadays) 轉折：現今簽名已是大生意，許多名人要求報酬，且許多人願付錢。",
+    "說明簽名經銷商隨處可見，收藏家可花費數百甚至數千美元購買名人簽名物品。",
+    "舉例愛因斯坦手稿和達文西筆記本高價售出，(Meanwhile) 同時粉絲仍蜂擁至體育展求取英雄簽名。",
+    "(What is the real reason) 總結收藏簽名的真正原因：與名人連結，或幻想自己是仰慕的英雄。"
+   ]
+  }
  },
  {
   "id": "g91bp3",
@@ -2627,7 +5183,28 @@
   "accuracyRateSource": "大考中心未公布本卷逐題數據",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "As a result",
+    "Surprisingly",
+    "so",
+    "But",
+    "while"
+   ],
+   "outline": [
+    "(As a result) 指出台灣民眾因過度專注教育與工作而忽略健康，(shows that) 新研究顯示逾半數成年人缺乏健康知識。",
+    "(Surprisingly) 調查發現，僅 51% 受訪者知道感冒無法治癒，(The problem is made worse by) 且醫生過量開藥使問題惡化。",
+    "(More than) 超過三分之二的人誤信只有尼古丁致癌，認為抽「淡菸」不會致癌。",
+    "(Since) 指出台灣有 26% 成人吸菸，(such a misunderstanding will lead to) 這種誤解將導致更多疾病與早逝。",
+    "(But the outlook … is not all negative) 總結健康教育前景非全盤悲觀，(while) 年輕一代健康知識優於父母，老年人最差。"
+   ]
+  }
  },
  {
   "id": "g91bp4",
@@ -2650,7 +5227,25 @@
   "accuracyRateSource": "大考中心未公布本卷逐題數據",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "Although",
+    "Soon"
+   ],
+   "outline": [
+    "介紹電腦程式設計師 Lowery 太太的經驗，反映傳統相機使用率低，(With digital cameras, you aren’t spending money on film for wasted pictures) 而數位相機則省去浪費底片的成本。",
+    "(And there are plenty of models from which to choose) 數位相機款式多樣，(The wide selection is a sure sign that) 已從新奇小玩意轉變為必備品。",
+    "數位相機提供即時預覽功能，(offer more than just) 可儲存大量照片並輕鬆在家列印或寄送。",
+    "(Although there are extra costs involved) 儘管有記憶卡和特殊紙張等額外成本，(many buyers have been willing to make the switch) 但許多買家仍願意轉換。",
+    "(Although about 90 percent … still use) 儘管傳統相機仍佔主導，但數位相機市佔率增長，(And the number of … is certain to grow) 隨著品質提升，(Soon) 甚至專業人士也將使用，(Salesmen expect) 銷售員預期將成熱門禮品。"
+   ]
+  }
  },
  {
   "id": "g91p1",
@@ -2672,7 +5267,27 @@
   "accuracyRateSource": "大考中心 91 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Luckily",
+    "but",
+    "Finally",
+    "But"
+   ],
+   "outline": [
+    "介紹 Tim Welford 和 Dom Mee 兩位英國划船手，計劃從日本橫渡太平洋到舊金山。",
+    "(They set out from) 他們 2001 年 5 月 17 日從日本出發，(when) 划了將近 5,500 英里，9 月 17 日一艘漁船撞上了他們的船。",
+    "(Luckily … but) 兩人毫髮無傷，船卻嚴重損壞，只好放棄這趟航程。",
+    "(In a radio interview) Dom 在廣播訪問中回憶：漁船駛來時駕駛台上沒有人，(It all happened so quickly) 他跳進海裡，Tim 卻困在船艙裡。",
+    "(Finally) 船停下後，Tim 獲救，Dom 表示儘管未能抵達舊金山，但 (That above everything is the most important) 活著最重要。"
+   ]
+  }
  },
  {
   "id": "g91p2",
@@ -2693,7 +5308,25 @@
   "accuracyRateSource": "大考中心 91 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "That is why",
+    "For example"
+   ],
+   "outline": [
+    "提出現實世界常令人困惑，不總是公平或美好，也無快樂結局。",
+    "(That is why) 說明人們為何偶爾喜歡逃入奇幻世界，那是事事順心、結局皆歡樂之處。",
+    "人們渴望相信奇幻生物、魔法力量、好朋友以及正義戰勝邪惡的力量。",
+    "(The main reason is that) 超級英雄故事吸引眾多讀者，(For example) 因為它們提供逃離現實的機會，並找到問題的魔法解決方案。",
+    "舉例說明超人、彼得潘、哈利波特如何運用超能力解決問題。"
+   ]
+  }
  },
  {
   "id": "g91p3",
@@ -2713,7 +5346,27 @@
   "accuracyRateSource": "大考中心 91 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Then",
+    "again",
+    "instead",
+    "eventually"
+   ],
+   "outline": [
+    "描述 20 世紀初美國種族歧視盛行，非裔美國人缺乏教育和就業機會。",
+    "Marian Anderson 在種族歧視下嶄露頭角，從小在教會唱詩班唱歌，(When) 1917 年申請音樂學校，學校卻因為膚色拒絕她。",
+    "(Unable to attend) 她開始了教會歌唱生涯，(Then) 後於 1929 年赴歐深造並廣受好評，(Then she returned) 1935 年回美成為頂級音樂會歌手。",
+    "(Racism again affected) 1939 年她再次受種族歧視，無法在憲法大廳演唱，但 (She sang instead) 她選擇在林肯紀念堂為 75,000 人演唱。",
+    "(eventually triumphed over) 1955 年她成為首位在大都會歌劇院演唱的黑人獨唱家，並獲得多項國際榮譽，最終戰勝種族歧視。"
+   ]
+  }
  },
  {
   "id": "g91p4",
@@ -2734,7 +5387,26 @@
   "accuracyRateSource": "大考中心 91 學年度學科能力測驗統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "One reason",
+    "Another reason",
+    "also"
+   ],
+   "outline": [
+    "介紹 David Smith 從「衣服狂」轉變為穿著休閒服上班的經歷，因需要舒適感。",
+    "(More and more companies are allowing) 越來越多公司允許員工穿著休閒服上班，(In the early 1990s) 始於 1990 年代的「便服星期五」。",
+    "(What started out as) 最初作為額外福利，(has really become) 現已成為日常。",
+    "(Why have so many companies started allowing) 解釋公司推行休閒服飾的原因：(One reason) 易於吸引新員工，(Another reason) 員工更快樂、生產力更高。",
+    "(Supporters … also argue that) 支援者也認為休閒服飾能節省員工購衣費用。"
+   ]
+  }
  },
  {
   "id": "g90p1",
@@ -2753,7 +5425,29 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "but",
+    "By this time",
+    "Then",
+    "Soon",
+    "A few years later",
+    "But"
+   ],
+   "outline": [
+    "(Believe it or not) 介紹美國最受歡迎零食洋芋片的故事。",
+    "(One might think that, but it didn’t happen that way) 故事並非天才發明，而是意外。",
+    "(Picture) 1853 年餐廳裡，一位顧客嫌炸薯條太厚，退回廚房。",
+    "廚師憤怒之餘，將馬鈴薯切得極薄並炸脆，想讓顧客無法用叉子吃。",
+    "(When) 顧客卻非常滿意，洋芋片迅速走紅，(Soon) 成為菜單菜色，並在美國各地熱銷。(But because) 後因去皮耗時，(In the 1920s) 直到 1920 年代機器去皮器發明，(soon) 洋芋片才大量生產並普及全球。"
+   ]
+  }
  },
  {
   "id": "g90p2",
@@ -2775,7 +5469,28 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "Even though",
+    "however",
+    "Even fewer",
+    "But",
+    "Luckily"
+   ],
+   "outline": [
+    "(Even though) 介紹大仲馬的動作小說即便寫於 150 年前，至今仍讓全球數百萬讀者著迷。",
+    "他的兩部名作《三劍客》和《基督山恩仇記》啟發了上百部電影。",
+    "(Few people know, however) 指出鮮為人知的是，大仲馬是海地奴隸的孫子，其父在 31 歲前晉升將軍。",
+    "(The general died young, leaving Alexander penniless) 父親早逝讓他貧困，(But) 但他克服貧困、缺乏教育和種族歧視，成為最受歡迎的作家之一。",
+    "大仲馬的生活如其小說般多采多姿，他參與三場革命，致富後建豪宅並慷慨招待藝術家。"
+   ]
+  }
  },
  {
   "id": "g90p3",
@@ -2797,7 +5512,27 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "So",
+    "After a year",
+    "There",
+    "but"
+   ],
+   "outline": [
+    "1995 年 12 月，有人在肯亞的村莊市集發現小象 Zoe，牠的母親已經死了，於是 Zoe 送到奈洛比的孤兒院。",
+    "介紹孤兒院由 Daphne Sheldrick 創辦，她有 60 年野生動物經驗，孤兒院至今已救助百餘隻小象。",
+    "Zoe 在孤兒院健康長大，(After a year) 一年後移到國家公園的保護區，(There her keepers have gradually introduced) 飼養員在那裡慢慢教牠適應野外生活。",
+    "(It may take some years, but the final aim is) 最終目標是將所有小象放歸野外象群。",
+    "Daphne 的夢想是禁止象牙貿易、銷毀庫存象牙，(she explained) 即使土地競爭持續，(but we can protect … and give) 仍可在公園保護大象並給予幼象機會。"
+   ]
+  }
  },
  {
   "id": "g90p4",
@@ -2817,7 +5552,30 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "Sometimes",
+    "Such is the case with",
+    "At first glance",
+    "But",
+    "Or",
+    "Perhaps",
+    "but"
+   ],
+   "outline": [
+    "(Even) 即使普通物品也能呈現強大意象，(Sometimes) 其平凡性反而使其非凡，(Such is the case with) 阿拉斯加博物館的一隻舊皮鞋就是如此。",
+    "(At first glance) 鞋子初看普通，但 (But what is unique about this shoe is where it was found) 獨特之處在於其發現地：奇爾庫特山徑。",
+    "提問：鞋子是意外遺落，還是為 (to travel lighter) 減輕負重而丟棄？",
+    "(Few of them understood that) 數十萬尋金者少有人理解路途險惡，許多人死於飢餓和寒冷，(This was thought to be enough for) 加拿大政府要求攜帶一年份補給。",
+    "(Whoever dropped the shoe must have been a brave and determined woman) 丟鞋的女子定是勇敢堅毅，(Perhaps she was successful … Perhaps she had to turn back) 雖不知成敗，(but what we do know is that) 但確定她參與了 19 世紀最偉大的探險之一。"
+   ]
+  }
  },
  {
   "id": "g89p1",
@@ -2837,7 +5595,26 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "One week later",
+    "Then",
+    "In the end"
+   ],
+   "outline": [
+    "(One day) Nasreddin 向鄰居 Ali 借了一個大鍋，(The next day) 隔天歸還時裡面放了一個小鍋。",
+    "Ali 否認小鍋屬於他，但 Nasreddin 謊稱 (Yes, it is) 大鍋在他家「生了小鍋」。",
+    "(One week later) Nasreddin 再次借鍋，Ali 欣然同意並期待再得到兩個鍋。",
+    "(One week passed. Then another. In the end) Ali 失去耐心追討鍋子，Nasreddin 卻說 (I’m sorry, your pot has died) 鍋子死了。",
+    "(Well, you believed me when I told you that … had a baby, didn’t you?) 當 Ali 質疑鍋子如何會死時，Nasreddin 反問 Ali 當初相信鍋子生了小孩的說法。"
+   ]
+  }
  },
  {
   "id": "g89p2",
@@ -2858,7 +5635,27 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "Perhaps",
+    "so",
+    "First of all",
+    "also",
+    "However"
+   ],
+   "outline": [
+    "(Sometimes) 郵局有些郵件因為地址不詳無法投遞，(so) 成了「死信」，郵局會把它們送到專門的死信辦公室。",
+    "(The staff … has a variety of ways to deal with) 死信員工會尋找線索，(First of all) 打開包裹尋找寄件收件資訊，(will also be listed on a computer so that) 並列在電腦上供查詢。",
+    "(However) 死信無法永久儲存因數量過多，(When a lot of dead mail has piled up) 大量累積時會舉行公開拍賣。",
+    "(Every three months) 每三個月，公眾可購買死信包裹中的物品。"
+   ]
+  }
  },
  {
   "id": "g89p3",
@@ -2878,7 +5675,24 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "詩歌",
+   "genreEn": "Poetry",
+   "org": "描寫",
+   "orgEn": "Descriptive",
+   "orgCode": "dsc",
+   "transitions": [
+    "When all at once"
+   ],
+   "outline": [
+    "詩人獨自漫步如雲，飄浮於山谷丘陵之上。",
+    "(When all at once) 詩人突然看到一大片金色的水仙花群，它們在湖邊樹下翩翩起舞。",
+    "(Continuous as the stars that shine) 水仙花如星辰般連綿不絕，閃爍於銀河，沿著海灣邊緣延伸成無盡的線條。",
+    "(Ten thousand saw I at a glance) 詩人一眼看到上萬朵水仙花。",
+    "水仙花搖曳著頭，歡快地舞動著。"
+   ]
+  }
  },
  {
   "id": "g89p4",
@@ -2900,7 +5714,29 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Thus",
+    "Then",
+    "Or at least",
+    "For",
+    "of course",
+    "though"
+   ],
+   "outline": [
+    "(Once) 語言學家邀請朋友來家錄音，謊稱只錄幾分鐘區域口音。",
+    "(Thus, When they saw) 朋友見到工作室般佈置後不安，錄完數數，作者關掉錄音機並招待飲料。",
+    "朋友們嚴厲批評作者的工作很蠢，之後作者說要接電話，離開了一段時間。",
+    "(Or at least that was how it would appear. For, of course) 麥克風實則連至廚房另一台錄音機，(thus giving excellent sound quality) 朋友們以為錄音結束而放鬆交談，提供絕佳錄音品質。",
+    "(I should add) 作者事後告知真相並提供銷毀選擇，朋友未銷毀，但作者感覺道德上虧欠。"
+   ]
+  }
  },
  {
   "id": "g89p5",
@@ -2921,7 +5757,23 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "however"
+   ],
+   "outline": [
+    "描述 George Bernard Shaw 和 Winston Churchill 兩人彼此不喜歡。",
+    "(It is said that) 蕭伯納曾寄兩張戲票給邱吉爾，並附卡寫道：「帶一位朋友來（如果你有的話）」。",
+    "(however) 邱吉爾巧妙回擊，退回戲票並附註：「那天晚上我很忙。請寄兩張第二晚的票給我（如果有的話）」。",
+    "(There is no record of whether) 文中未記載蕭伯納是否寄了票。"
+   ]
+  }
  },
  {
   "id": "g88p1",
@@ -2943,7 +5795,23 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "Sometimes",
+    "also"
+   ],
+   "outline": [
+    "闡述作者寫作目的多樣：常寫真實或虛構的人事物，內容可幽默、悲傷或恐怖。",
+    "寫作目的包括 (to entertain) 娛樂讀者或 (to inform) 透過事實或觀點來告知讀者。",
+    "(The following two paragraphs are examples of these two kinds) 提供兩段範例：第一段是虛構的故事（娛樂），第二段是關於貝殼的科普說明（資訊）。"
+   ]
+  }
  },
  {
   "id": "g88p2",
@@ -2965,7 +5833,25 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "Yet",
+    "While"
+   ],
+   "outline": [
+    "介紹考艾島是夏威夷群島中最古老的島嶼，擁有令人驚嘆的自然風光。",
+    "描述島上的河流、熱帶叢林、壯麗的納帕利海岸懸崖，以及有「太平洋大峽谷」之稱的威美亞峽谷。",
+    "考艾島中心的懷亞萊阿萊山是世界上最潮濕的地方，(yet) 但僅幾英里外卻有乾燥區域，雨量集中。",
+    "說明考艾島正從 1992 年颶風伊尼基的破壞中恢復，(but) 雖有飯店重建，但仍美麗如昔。",
+    "(While) 考艾島不適合喜歡喧囂或夜生活的人，(its main attractions lie outdoors) 主要吸引力在於戶外活動（如健行、露營、水肺潛水）。"
+   ]
+  }
  },
  {
   "id": "g88p3",
@@ -2984,7 +5870,24 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "Without"
+   ],
+   "outline": [
+    "(In ecological terms) 從生態學角度看，所有生物體的化學物質都從地球借來，死亡時歸還。",
+    "(All the material that … also returns to the Earth, as) 所有動物攝取的食物也以廢物形式歸還地球。",
+    "死物質和廢物是分解者的食物，(They include) 分解者（細菌、真菌、小動物）將其分解成更小物質。",
+    "(until) 直到所有化學物質釋放到空氣、土壤和水中，供其他生物使用。",
+    "(Without) 沒有分解過程釋放的二氧化碳，植物將滅絕；沒有植物提供的氧氣和食物，所有生命將停滯，(The decomposers are a vital link) 分解者是生命與死亡自然循環中的關鍵環節。"
+   ]
+  }
  },
  {
   "id": "g88p4",
@@ -3015,7 +5918,25 @@
     "from": "Police and Glenn’s parade",
     "to": "Police said Glenn’s parade"
    }
-  ]
+  ],
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "despite",
+    "After that"
+   ],
+   "outline": [
+    "描述 John Glenn 第二次在紐約「英雄谷」的遊行，慶祝他重返太空。",
+    "(is considered the largest ever) 1962 年他首次太空飛行後的遊行規模空前， confetti 數量龐大。",
+    "(For his second parade) 這次遊行相對冷清，觀眾稀少且拘謹，(The … celebration \"was more enthusiastic …\") 許多人認為不如第一次熱情。",
+    "(Another spectator said that) 有人認為美國人對太空計畫成就已習以為常，(It’s become so everyday) 變得太過平常，無人關心。",
+    "(After that event) Glenn 本人回憶 1962 年遊行時紙花如暴雪，(joins a list of) 他是少數獲多次紙花遊行殊榮的人。"
+   ]
+  }
  },
  {
   "id": "g87p1",
@@ -3038,7 +5959,25 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Although",
+    "instead"
+   ],
+   "outline": [
+    "(One of the most unusual … was not a person at all) 1983 年某社區大學畢業典禮，演講者竟是機器人 Robot Redford。",
+    "(The speaker … arrived on the stage under its own power and proceeded to tell) Robot Redford 自行上台演講，談及與科技合作解決社會問題。",
+    "(Although) 機器人雖可發聲，(the voice heard wasn’t that of the robot) 但因音量考量，改用人聲擴音，觀眾僅看機器人。",
+    "(Robot Redford was followed by) 機器人後由其創造者 William Bakaleinikoff 演講，強調人與科技合作。",
+    "(There was quite a bit of controversy) 機器人演講引發爭議：部分學生認為不妥，(Others thought) 另些則認為創新，(I’ll never forget this speech) 一名畢業生表示永難忘懷。"
+   ]
+  }
  },
  {
   "id": "g87p2",
@@ -3057,7 +5996,26 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "still",
+    "Then",
+    "even though"
+   ],
+   "outline": [
+    "描述與父親共度的夏天充滿樂趣，活動豐富，但 (There never seemed to be enough time to go to church) 卻沒時間去教會。",
+    "(Accused of neglecting) 有人指責父親忽略孩子的宗教教育，他仍替孩子辦了夏季家庭學校。",
+    "(His summer course included) 課程包含古歷史和航海學，(in which) 航海學有正式考試和實際「航行」。",
+    "(Then we were each separately sent on) 父親讓孩子獨自駕駛船出海過夜，母親為他們準備足夠食物。",
+    "(I remember that on my cruise I was required to formally plot our course, even though) 作者記得出航時父親要他正式規劃航線，即使目的地看得見也一樣。"
+   ]
+  }
  },
  {
   "id": "g87p3",
@@ -3085,7 +6043,25 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "also",
+    "while"
+   ],
+   "outline": [
+    "(will be given a new Eiffel Tower--but made of wood--for the millennium) 巴黎市將建造一座木製艾菲爾鐵塔慶祝千禧年。",
+    "(The new structure will be) 新塔高 200 公尺，(It will be made of timber as an ecological symbol of) 以木材為材，象徵環保。",
+    "(The tower … will be built on) 木塔將建於八根柱子上，塔頂有五片金屬花瓣，(to be erected … will cost) 建造成本 2.5 億法郎。",
+    "(Tiberi also said that) 市長表示，巴黎將在「文化與生活」之光下迎接千禧年；(If, in 1900 … it will become) 1900 年巴黎是「光之城」，千禧年將成為「光之首都」。",
+    "(The mayor said new buildings would be illuminated, notably along) 新建築會打上燈光，塞納河沿岸成為發光帶，聖母院內部也會點亮；(A laser clock would be installed) 凱旋門頂端裝設雷射時鐘，還有巨型沙漏開始計時。"
+   ]
+  }
  },
  {
   "id": "g86p1",
@@ -3107,7 +6083,24 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "It was in response to this situation"
+   ],
+   "outline": [
+    "提出家庭常面臨如何處理舊家具物品的問題。",
+    "(It was in response to) 為解決此問題，The Carpenters’ Shop 應運而生，由教會志工營運。",
+    "商店收集品質良好的多餘物品，(and store them until they can be redistributed to) 儲存並分發給需要的人。",
+    "(Many have been helped through the scheme, including) 許多人因此受益，包括單親父母、殘疾人士和長者，以及因災害失去財產者。",
+    "(It’s an admirable project) 作者稱讚這項計畫，鼓勵人們尋找家鄉是否有類似的計畫，(and can make such a difference to others) 參與者無需付出，卻能對他人產生巨大影響。"
+   ]
+  }
  },
  {
   "id": "g86p2",
@@ -3128,7 +6121,26 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "however",
+    "For example",
+    "But"
+   ],
+   "outline": [
+    "介紹 Jack's Disk Doctor Service，專門恢復磁碟資料，(They work from home and give all the money they earn to charity) 收入捐慈善。",
+    "服務費固定，(Some people, however) 但許多感激的客戶會額外捐款，甚至有客戶提供空白支票。",
+    "(It would be difficult to put a value on the things rescued) Disk Doctor 拯救的資料價值無法衡量，包括醫療研究、劇本、重要文件等。",
+    "磁碟通常郵寄，但緊急情況下會特快專遞，(When the material has been recovered) 資料恢復後，磁碟會附診斷和預防建議返還。",
+    "(But … most people don’t take any notice of the doctor’s advice!) 儘管服務貴重，Jack 感嘆多數人並不採納建議。"
+   ]
+  }
  },
  {
   "id": "g86p3",
@@ -3148,7 +6160,31 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "Accordingly",
+    "First",
+    "Second",
+    "Third",
+    "While",
+    "That is",
+    "In this way",
+    "Lastly"
+   ],
+   "outline": [
+    "(Here is an easy way of understanding it) 解釋「關係」的意義：兩人互動時的交流，世間萬事皆透過關係發生。",
+    "人都需要愛人也需要別人愛，(Accordingly) 這份需要來自和他人的關係，所以我們想建立長久的關係。",
+    "(Here are a few tips) 提供建立持久關係的建議：(First) 認識自己，像跳舞需先獨自舞動。",
+    "(Second) 信任是基石，透過了解和安全感建立，(Third) 親密關係是心與心的連結，而非僅限性。",
+    "(Lastly) 把關係看成有生命的東西，需要時間和關懷才會成長；(In our proper relationship with others) 在對的關係裡，別人看見並了解我們，愛也就隨之而來。"
+   ]
+  }
  },
  {
   "id": "g86p4",
@@ -3173,7 +6209,25 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "until",
+    "However"
+   ],
+   "outline": [
+    "兩名俄羅斯父子在澎湖群島附近獲救，(after) 因帆船故障開始漂流。",
+    "他們於 8 月 18 日從俄羅斯港口出發，進行環球航行。",
+    "(Their voyage … had been smooth until) 航程原本順利，直到四天前強風把主帆打碎。",
+    "(However) 啟動船內引擎，但不到兩天引擎又故障，船隻失去動力和方向。",
+    "(Surprised by) 澎湖警方和漁民救起兩人，他們英語有限，花數小時解釋，(It is not immediately known whether) 帆船能否修復和何時能繼續航行未定。"
+   ]
+  }
  },
  {
   "id": "g85p1",
@@ -3211,7 +6265,25 @@
     "from": "letter, is the most likely",
     "to": "letter, what is the most likely"
    }
-  ]
+  ],
+  "structure": {
+   "genre": "書信",
+   "genreEn": "Letter",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "so",
+    "not only … but"
+   ],
+   "outline": [
+    "(It seems only yesterday that) 信中表達作者對 Tom 進入大學的欣喜與驕傲。",
+    "(We are both very proud of you) 作者和 Jack 為 Tom 高中生涯的成就感到驕傲，並期待其大學生涯更豐碩。",
+    "(A word of congratulation just doesn't seem enough) 僅說恭喜不足以表達心意，故贈送 Tom 一本無刪節詞典。",
+    "(Jack says you'll not only find it handy in your studies, but a great argument-saver when playing) Jack 認為詞典不僅學習實用，也是玩「拼字遊戲」的好幫手。",
+    "邀請 Tom 下個月來和父母一起度過週末。"
+   ]
+  }
  },
  {
   "id": "g85p2",
@@ -3232,7 +6304,26 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "分類",
+   "orgEn": "Classification",
+   "orgCode": "cls",
+   "transitions": [
+    "Generally speaking",
+    "As of",
+    "If"
+   ],
+   "outline": [
+    "(Generally speaking) 說明外國人入境台灣通常需向中華民國使領館或外交部授權機構申請簽證。",
+    "(As of) 自 1995 年 5 月 1 日起，特定 15 國國民可享 14 天免簽入境。",
+    "(Requirements for a 14-day non-visa entry are) 14 天免簽入境要求：護照有效期至少六個月、14 天內確認離境機票、無違法紀錄。",
+    "(If it is necessary to stay more than … and less than) 若需停留 14 至 30 天，符合免簽國國民需在抵達機場時申請落地簽證。",
+    "(The landing-visa fee is) 落地簽證費用為新台幣 1,500 元。"
+   ]
+  }
  },
  {
   "id": "g85p3",
@@ -3259,7 +6350,25 @@
     "from": "memorizing les and lists",
     "to": "memorizing rules and lists"
    }
-  ]
+  ],
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "Although",
+    "In contrast"
+   ],
+   "outline": [
+    "介紹大腦是複雜器官，科學家雖未解所有謎團，但已發現特定區域負責學習、記憶和語言。",
+    "(Recent studies indicate that) 最新研究指出大腦兩半球（左右腦）在學習和溝通中扮演極重要角色。",
+    "左腦負責規則、資訊列表和短期記憶，(In contrast) 右腦負責情感、色彩和長期記憶，兩者在語言學習中都重要。",
+    "(Scientists now relate) 科學家將左右腦與不同個體的語言學習方式聯繫起來，相信某些學習者偏向使用其中一側。",
+    "(If teachers know) 若教師了解學生是左腦型或右腦型，(they can help them learn better) 便能協助他們更好地學習。"
+   ]
+  }
  },
  {
   "id": "g84p1",
@@ -3279,7 +6388,24 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "But"
+   ],
+   "outline": [
+    "介紹駭客行為是超級聰明青少年的最新遊戲。",
+    "強調駭客活動是智力挑戰，如同攀登聖母峰，並非需昂貴電腦，但需對電腦有全面了解。",
+    "(At the moment) 目前多數駭客活動僅是樂趣，但 (But how long will it be before) 犯罪集團可能很快利用駭客協助犯罪。",
+    "預測未來銀行搶劫無需炸藥，只需能破解電腦代碼的人。",
+    "(Already in Britain people say that) 英國已報告電腦犯罪每年造成數十億英鎊損失。"
+   ]
+  }
  },
  {
   "id": "g84p2",
@@ -3298,7 +6424,24 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "論說文",
+   "genreEn": "Argumentative",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "not only … but also"
+   ],
+   "outline": [
+    "(There is increasing scientific evidence that) 科學證據顯示大型車輛導致更多交通事故。",
+    "(In the news recently was the story of) 舉例一名女子因心臟病發，駕駛旅行車失控，導致五人死亡。",
+    "(Those unnecessary deaths are attributable in part to) 這些不必要的死亡部分歸因於她選擇大型車輛。",
+    "說明若駕駛輕型小車，可能不會穿過護欄，衝擊能量會小很多，降低傷亡。",
+    "(The present design of the oversized automobile is largely responsible not only for … but also for) 總結大型車輛設計不僅造成高速公路死亡人數增加，也導致石油資源枯竭、環境汙染、城市擁堵不便。"
+   ]
+  }
  },
  {
   "id": "g84p3",
@@ -3331,7 +6474,25 @@
     "from": "had seen set free",
     "to": "had been set free"
    }
-  ]
+  ],
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Early this past summer",
+    "A month after their release"
+   ],
+   "outline": [
+    "介紹三隻領航鯨魚 Tag、Notch、Baby 在去年 12 月擱淺後獲救，現自由游弋。",
+    "(As many as) 多達 60 隻領航鯨魚擱淺，(Scientists are still trying to find out why) 科學家仍在調查鯨魚這種自毀行為的原因。",
+    "(Many of the whales died on the beach) 許多鯨魚死亡，獲救的三隻因年幼無法獨自生存。",
+    "(The three whales were taken in a van to) 三隻鯨魚用貨車送到水族館，在大水箱裡養了七個月，(Only a few people worked with … so that) 只讓少數人照顧，以免牠們太親近人類。",
+    "(Early this past summer) 今年夏初，獸醫判斷牠們可以回到大海，(A month after their release) 野放一個月後，有人看到牠們跟著一群鯨魚游。"
+   ]
+  }
  },
  {
   "id": "g83p1",
@@ -3353,7 +6514,25 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "But",
+    "however"
+   ],
+   "outline": [
+    "闡述英雄的定義：發現特殊勇氣、勇敢助人，並看到需要做的事就去做。",
+    "(Sometimes) 英雄會因勇敢行為獲得獎勵，(One such reward is) 例如卡內基獎章。",
+    "(It is given to) 獎章頒發給冒險救人者，(The medal was named after) 以紀念 Andrew Carnegie。",
+    "(In 1886) Carnegie 曾聽聞 William Hunter 救人溺斃，(If so) 便撥款榮譽像 Hunter 一樣的英雄，有需要或受傷者還可獲得獎金。",
+    "(Over 6,000 people have received) 超過 6000 人獲此獎章，(All these heroes have one thing in common, however) 他們共同點是將他人安全置於自身之前。"
+   ]
+  }
  },
  {
   "id": "g83p2",
@@ -3374,7 +6553,28 @@
   "accuracyRateSource": "該屆逐題數據未公開",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "however",
+    "Instead",
+    "Then",
+    "Furthermore",
+    "By the next day"
+   ],
+   "outline": [
+    "1977 年，George Willig 徒手攀爬紐約 1350 英尺高的世貿中心，耗時三小時半。",
+    "(At the top) 抵達頂樓時，警察和記者已經在等他，他隨即因違法面臨巨額罰款。",
+    "(Then) 市政府甚至計劃 (to sue) 起訴他索賠 25 萬美元，以支付救援費用。",
+    "(By the next day) 隔天，市府官員重新評估，市長舉辦記者會表彰 Willig，(Instead of punishing) 並將罰款降至每層一美分。",
+    "(Instead of punishing … the city treated him as) 城市將 Willig 視為挑戰不可能的英雄，而非懲罰。"
+   ]
+  }
  },
  {
   "id": "g83p3",
@@ -3402,6 +6602,23 @@
     "from": "linked over",
     "to": "inked over"
    }
-  ]
+  ],
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "likewise"
+   ],
+   "outline": [
+    "印刷是重要溝通方式，(Without it) 若無印刷，讀者無法閱讀此文，廣播電視發展也未減其重要性。",
+    "(The first printing was done from) 最初印刷使用木刻版，(This was a slow process) 過程緩慢耗時，每頁需單獨刻製。",
+    "(A great step forward was) 活字印刷術是重大進步，(The Chinese discovered this in the 11th century) 中國在 11 世紀發現，(but it was not known in Europe until about) 歐洲約 1440 年才知曉。",
+    "(In this method of printing) 活字印刷術用獨立金屬字元，(If) 字母組合按壓紙張即可印刷，印完後可拆解重排。",
+    "(One of the first European books) 第一批歐洲活字印刷書是古騰堡聖經，第一本英文書是 William Caxton 於 1474 年在法蘭德斯印刷的特洛伊歷史。"
+   ]
+  }
  }
 ]
