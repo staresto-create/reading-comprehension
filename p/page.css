@@ -85,3 +85,4 @@ footer .fl{font-size:13px; margin-bottom:12px; font-weight:700;}
   .stRow{flex-direction:column; gap:0;} .stRow .k{flex:none;}
 }
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto !important; transition:none !important;}}
+.stBox .textNote{margin:12px 0 0;}

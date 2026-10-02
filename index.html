@@ -240,6 +240,7 @@
   .tw{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; color:var(--crimson); font-size:.98em;}
   .stNote{font-size:12px; color:var(--ink-soft); line-height:1.7; margin-top:8px;}
   @media (max-width:560px){ .stRow{flex-direction:column; gap:0;} .stRow .k{flex:none;} }
+  .stBox .textNote{margin:12px 0 0;}
 
 </style>
 </head>
@@ -725,7 +726,8 @@ function renderStructure(p){
     <div class="stRow"><span class="k">關鍵轉折詞</span><span class="v trList">${tr}</span></div>
     <div class="stSub">綱要</div>
     <ol class="stOutline">${s.outline.map(o => `<li>${twHtml(o)}</li>`).join('')}</ol>
-    <div class="stNote">括號裡是原文的轉折詞或關鍵字句，可以回文章找出它們的位置。綱要依內容分點，不一定和段落一一對應。</div>
+    <div class="stNote">括號裡是原文的轉折詞或關鍵字句，可以回文章找出它們的位置。綱要依內容分點，不一定和段落一一對應。</div>${s.textNote ? `
+    <div class="flagNote textNote">${esc(s.textNote)}</div>` : ''}
   </section>`;
 }
 
