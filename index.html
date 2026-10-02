@@ -4,13 +4,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>閱讀測驗 · 學測與指考</title>
-<meta name="description" content="學測 83–115 年、指考 91–110 年歷屆閱讀測驗，共 246 篇、959 題，含補考、參考試卷與試辦考試，每題附官方答案；91 年起的正式考試另附大考中心公布的答對率與鑑別度。免費、免註冊、無廣告。">
+<meta name="description" content="學測 83–115 年、指考 91–110 年歷屆閱讀測驗，共 246 篇、959 題，含補考、參考試卷與試辦考試，每題附官方答案，每篇附文章結構分析（文體、組織方式、關鍵轉折詞、綱要）；91 年起的正式考試另附大考中心公布的答對率與鑑別度。免費、免註冊、無廣告。">
 <link rel="canonical" href="https://staresto-create.github.io/reading-comprehension/">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="zh_TW">
 <meta property="og:site_name" content="高中英文自學題庫">
 <meta property="og:title" content="閱讀測驗 · 學測與指考">
-<meta property="og:description" content="學測 83–115 年、指考 91–110 年歷屆閱讀測驗，共 246 篇、959 題，含補考、參考試卷與試辦考試，每題附官方答案；91 年起的正式考試另附大考中心公布的答對率與鑑別度。免費、免註冊、無廣告。">
+<meta property="og:description" content="學測 83–115 年、指考 91–110 年歷屆閱讀測驗，共 246 篇、959 題，含補考、參考試卷與試辦考試，每題附官方答案，每篇附文章結構分析（文體、組織方式、關鍵轉折詞、綱要）；91 年起的正式考試另附大考中心公布的答對率與鑑別度。免費、免註冊、無廣告。">
 <meta property="og:url" content="https://staresto-create.github.io/reading-comprehension/">
 <meta property="og:image" content="https://staresto-create.github.io/JCEE-vocab-questions/og-cover.png?v=4">
 <meta property="og:image:width" content="1200">
@@ -20,7 +20,7 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Dataset",
  "name":"閱讀測驗：學測與指考英文考科歷屆閱讀測驗",
- "description":"大學入學考試中心學科能力測驗（83–115 學年度）與指定科目考試（91–110 學年度）英文考科閱讀測驗共 246 篇、959 題，含文章、題目、選項、官方答案，以及正式考試的答對率與鑑別度。",
+ "description":"大學入學考試中心學科能力測驗（83–115 學年度）與指定科目考試（91–110 學年度）英文考科閱讀測驗共 246 篇、959 題，含文章、題目、選項、官方答案、文章結構分析，以及正式考試的答對率與鑑別度。",
  "url":"https://staresto-create.github.io/reading-comprehension/",
  "inLanguage":"zh-Hant-TW","isAccessibleForFree":true,
  "temporalCoverage":"1994/2026",
@@ -225,6 +225,22 @@
     .year-item{flex-direction:column; align-items:flex-start; gap:2px;}
   }
 
+  /* 文章結構（交卷後才出現） */
+  .stBox{border:1px solid var(--rule); border-left:3px solid var(--sage); border-radius:3px; background:#F7FAF5; padding:12px 14px; margin:0 0 14px;}
+  .stHead{font-family:'Noto Serif TC',serif; font-weight:700; font-size:15.5px; margin-bottom:8px;}
+  .stRow{display:flex; gap:10px; font-size:13.5px; line-height:1.8; padding:4px 0; border-bottom:1px dotted var(--rule);}
+  .stRow .k{flex:0 0 76px; font-weight:700; color:var(--sage);}
+  .stRow .v{min-width:0; overflow-wrap:anywhere;}
+  .stRow .en{font-size:12px; color:var(--ink-soft);}
+  .trList{display:flex; flex-wrap:wrap; gap:5px;}
+  .trw{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:13.5px; background:#fff; border:1px solid var(--rule); border-radius:3px; padding:0 6px; line-height:1.7;}
+  .stSub{font-weight:700; font-size:13.5px; color:var(--sage); margin:10px 0 4px;}
+  .stOutline{margin:0; padding-left:22px; font-size:14px; line-height:1.9;}
+  .stOutline li{margin-bottom:5px; overflow-wrap:anywhere;}
+  .tw{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; color:var(--crimson); font-size:.98em;}
+  .stNote{font-size:12px; color:var(--ink-soft); line-height:1.7; margin-top:8px;}
+  @media (max-width:560px){ .stRow{flex-direction:column; gap:0;} .stRow .k{flex:none;} }
+
 </style>
 </head>
 <body>
@@ -237,7 +253,15 @@
   <main id="homeView">
     <div class="card">
       <div class="home-lead">開始練習前</div>
-      <p class="home-desc">本題庫收錄學測 83 年至 115 年、指考 91 年至 110 年的閱讀測驗歷屆試題，含補考、參考試卷與試辦考試，共 <b>959 題、246 篇</b>。每一題都附大考中心公布的官方答案；91 年起的正式考試，另外附上官方的答對率和鑑別度。<b>逐題解析還在撰寫中</b>，目前可以作答、交卷、對答案，解析之後會陸續補上。</p>
+      <p class="home-desc">本題庫收錄學測 83 年至 115 年、指考 91 年至 110 年的閱讀測驗歷屆試題，含補考、參考試卷與試辦考試，共 <b>959 題、246 篇</b>。每一題都附大考中心公布的官方答案；91 年起的正式考試，另外附上官方的答對率和鑑別度。交卷之後，每一篇另外附上<b>文章結構</b>：文體、組織方式、關鍵轉折詞和綱要。<b>逐題解析還在撰寫中</b>，之後會陸續補上。</p>
+
+      <details class="sk-box">
+        <summary><div class="sk-title">文章結構怎麼看</div></summary>
+        <div>
+          每一篇交卷之後，答案下方會出現「這一篇的文章結構」，寫出這篇文章的<b>文體</b>（記敘文、說明文、論說文等）、<b>組織方式</b>（時序發展、因果關係、問題解決等）、<b>關鍵轉折詞</b>和<b>綱要</b>。綱要裡括號中的英文是原文的轉折詞或關鍵字句，可以回到文章找出它們的位置，看作者怎麼一步一步把文章接起來。<br><br>
+          文章結構放在交卷之後，是因為綱要等於先講出各段在說什麼，先看就失去練習的意義。想專練某一種結構，可以用下方的「依組織方式篩選」；也可以到<a href="p/">篇目一覽</a>，依組織方式瀏覽全部 246 篇。
+        </div>
+      </details>
 
       <details class="sk-box">
         <summary><div class="sk-title">補考、參考試卷和試辦考試怎麼認</div></summary>
@@ -299,6 +323,8 @@
 
       <div class="sec-title">依年度篩選<span class="sec-note">（可複選，不選則不限年度）</span></div>
       <div class="cat-grid" id="yearGrid"></div>
+      <div class="sec-title">依組織方式篩選<span class="sec-note">（可複選，不選則不限）</span></div>
+      <div class="cat-grid" id="orgGrid"></div>
       <label class="toggleRow"><input type="checkbox" id="officialToggle">只看正式考題（不列補考、參考試卷與試辦考試）</label>
 
       <div class="sec-title">選擇年度／篇章<span class="sec-note" id="listCount"></span></div>
@@ -311,6 +337,7 @@
       <b>關於本站的資料</b><br>
       <span class="srcLine"><b style="font-size:12.5px;">試題來源：</b>大學入學考試中心。文章、題目、選項與答案均取自大考中心公布之試卷與參考答案。</span>
       <span class="srcLine"><b style="font-size:12.5px;">數據來源：</b>答對率與鑑別度取自大考中心統計資料：<a href="https://www.ceec.edu.tw/xmdoc?xsmsid=0J018604485538810196" target="_blank" rel="noopener">學測</a>、<a href="https://www.ceec.edu.tw/xmdoc?xsmsid=0J018611000723433352" target="_blank" rel="noopener">指考</a>，每一題下方標出是哪一年的哪一份表。</span>
+      <span class="srcLine"><b style="font-size:12.5px;">文章結構：</b>文體、組織方式、關鍵轉折詞與綱要是本站整理的分析，不是大考中心的資料；轉折詞都逐字對照過原文。<a href="p/">篇目一覽</a>依組織方式列出全部篇章。</span>
       <span class="srcLine">篇名是本站依文章內容所訂，不是大考中心的標題。參考試卷、試辦考試與補考屬非正式考試，篇名旁會標明。</span>
       <span class="srcLine"><b style="font-size:12.5px;">錯誤仍然可能存在</b>，發現任何問題歡迎回報，我會逐筆核對更正。本站為個人製作，與大考中心無任何隸屬或合作關係；完全免費、不用註冊、沒有廣告，歡迎自由分享。</span>
     </div>
@@ -357,7 +384,7 @@ function saveWrongIds(w){ try{ localStorage.setItem(WRONG_KEY, JSON.stringify(w)
 function isTestMode(){ const el=document.getElementById('testModeToggle'); return !!(el && el.checked); }
 
 let PASSAGES = {}, ITEMS = [];
-let selectedExams = new Set(), selectedYears = new Set(), officialOnly = false;
+let selectedExams = new Set(), selectedYears = new Set(), selectedOrgs = new Set(), officialOnly = false;
 let curPid = null, curItems = [], picks = {}, graded = false;
 
 /* 年度分組：鍵是網址上用的代號 */
@@ -366,6 +393,12 @@ const YEAR_GROUPS = [
   { key:'101', label:'101–110 年', lo:101, hi:110 },
   { key:'91',  label:'91–100 年',  lo:91,  hi:100 },
   { key:'83',  label:'83–90 年',   lo:83,  hi:90  }
+];
+/* 組織方式：鍵是網址上用的代號（o=） */
+const ORGS = [
+  { key:'chr', label:'時序發展' }, { key:'cau', label:'因果關係' }, { key:'lst', label:'列舉' },
+  { key:'pbs', label:'問題解決' }, { key:'exm', label:'舉例說明' }, { key:'cmp', label:'比較對比' },
+  { key:'cls', label:'分類' }, { key:'def', label:'定義' }, { key:'dsc', label:'描寫' }
 ];
 const EXAM_CODE = { '學測':'g', '指考':'z' };
 const CODE_EXAM = { g:'學測', z:'指考' };
@@ -391,7 +424,7 @@ async function init(){
   document.getElementById('officialToggle').addEventListener('change', e => {
     officialOnly = e.target.checked; buildYearList(); writeHash();
   });
-  buildExamGrid(); buildYearGrid(); buildYearList(); renderStatsBox();
+  buildExamGrid(); buildYearGrid(); buildOrgGrid(); buildYearList(); renderStatsBox();
   const pid = new URLSearchParams(location.hash.replace(/^#/,'')).get('p');
   if(pid && PASSAGES[pid]) openPassage(pid);
 }
@@ -401,6 +434,7 @@ function writeHash(){
   const p = new URLSearchParams();
   if(selectedExams.size) p.set('e', [...selectedExams].map(e => EXAM_CODE[e]).join(','));
   if(selectedYears.size) p.set('y', YEAR_GROUPS.filter(g => selectedYears.has(g.key)).map(g => g.key).join(','));
+  if(selectedOrgs.size) p.set('o', ORGS.filter(g => selectedOrgs.has(g.key)).map(g => g.key).join(','));
   if(officialOnly) p.set('off','1');
   if(curPid && document.getElementById('practiceView').style.display !== 'none') p.set('p', curPid);
   const s = p.toString();
@@ -412,6 +446,7 @@ function readHash(){
   const p = new URLSearchParams(h);
   (p.get('e')||'').split(',').forEach(c => { if(CODE_EXAM[c]) selectedExams.add(CODE_EXAM[c]); });
   (p.get('y')||'').split(',').forEach(k => { if(YEAR_GROUPS.some(g => g.key === k)) selectedYears.add(k); });
+  (p.get('o')||'').split(',').forEach(k => { if(ORGS.some(g => g.key === k)) selectedOrgs.add(k); });
   officialOnly = p.get('off') === '1';
 }
 
@@ -445,8 +480,9 @@ function yearOk(p){
   return YEAR_GROUPS.some(g => selectedYears.has(g.key) && n >= g.lo && n <= g.hi);
 }
 function officialOk(p){ return !officialOnly || isOfficial(p); }
+function orgOk(p){ return selectedOrgs.size === 0 || (p.structure && selectedOrgs.has(p.structure.orgCode)); }
 function visiblePassages(){
-  return Object.values(PASSAGES).filter(p => examOk(p) && yearOk(p) && officialOk(p)).sort(cmpPassage);
+  return Object.values(PASSAGES).filter(p => examOk(p) && yearOk(p) && officialOk(p) && orgOk(p)).sort(cmpPassage);
 }
 function itemsOf(pid){ return ITEMS.filter(it => it.passageId === pid).sort((a,b) => a.no - b.no); }
 function badge(p){ return isOfficial(p) ? '' : `<span class="badge">${esc(p.examType)}</span>`; }
@@ -476,6 +512,15 @@ function buildYearGrid(){
     const n = Object.values(PASSAGES).filter(p => { const y = yearNum(p); return y >= yg.lo && y <= yg.hi; }).length;
     g.appendChild(makeChip(`${yg.label}（${n}篇）`, selectedYears.has(yg.key),
       on => on ? selectedYears.add(yg.key) : selectedYears.delete(yg.key)));
+  });
+}
+function buildOrgGrid(){
+  const g = document.getElementById('orgGrid'); g.innerHTML='';
+  ORGS.forEach(o => {
+    const n = Object.values(PASSAGES).filter(p => p.structure && p.structure.orgCode === o.key).length;
+    if(!n) return;
+    g.appendChild(makeChip(`${o.label}（${n}篇）`, selectedOrgs.has(o.key),
+      on => on ? selectedOrgs.add(o.key) : selectedOrgs.delete(o.key)));
   });
 }
 function buildYearList(){
@@ -653,6 +698,7 @@ function renderPractice(){
   }else{
     const ok = curItems.filter(it => isCorrect(it, picks[it.id])).length;
     html += `<div class="result" style="margin-top:6px;"><div class="big">${ok} / ${total}</div><div class="lbl">這一組答對的題數</div></div>
+      ${renderStructure(p)}
       <div class="exPending">逐題解析還在撰寫中，目前先提供官方答案與數據。</div>
       <div class="row">
         <button class="ghost-btn" onclick="openPassage('${p.id}')">整組再做一次</button>
@@ -662,6 +708,25 @@ function renderPractice(){
   }
   html += `</div>`;
   document.getElementById('practiceBody').innerHTML = html;
+}
+
+/* 交卷後才出現：綱要等於先講出各段大意 */
+function twHtml(s){
+  return esc(s).replace(/\(([^()]*[A-Za-z][^()]*)\)/g, '<span class="tw" lang="en">($1)</span>');
+}
+function renderStructure(p){
+  const s = p.structure;
+  if(!s) return '';
+  const tr = s.transitions.map(t => `<span class="trw" lang="en">${esc(t)}</span>`).join('');
+  return `<section class="stBox" aria-label="這一篇的文章結構">
+    <div class="stHead">這一篇的文章結構</div>
+    <div class="stRow"><span class="k">文體</span><span class="v">${esc(s.genre)} <span class="en" lang="en">${esc(s.genreEn)}</span></span></div>
+    <div class="stRow"><span class="k">組織方式</span><span class="v">${esc(s.org)} <span class="en" lang="en">${esc(s.orgEn)}</span></span></div>
+    <div class="stRow"><span class="k">關鍵轉折詞</span><span class="v trList">${tr}</span></div>
+    <div class="stSub">綱要</div>
+    <ol class="stOutline">${s.outline.map(o => `<li>${twHtml(o)}</li>`).join('')}</ol>
+    <div class="stNote">括號裡是原文的轉折詞或關鍵字句，可以回文章找出它們的位置。綱要依內容分點，不一定和段落一一對應。</div>
+  </section>`;
 }
 
 function renderQuestion(it, inline){
