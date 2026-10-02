@@ -19,7 +19,29 @@
   "accuracyRateSource": "大考中心 110 學年度指定科目考試統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Since about 1900",
+    "However",
+    "Nevertheless",
+    "So",
+    "thereby",
+    "Today"
+   ],
+   "outline": [
+    "胡佛水壩位於美國內華達州和亞利桑那州交界的黑峽谷，名列 20 世紀十大營建成就，1931 到 1936 年興建，是當時最大的水壩，超過一百名工人喪命。",
+    "(Since about 1900) 大約從 1900 年起，黑峽谷一帶就在評估興建水壩，用來防洪、灌溉和水力發電；1928 年美國國會核准，由 Six Companies 公司得標。",
+    "(However) 然而這麼大的混凝土結構前所未有，夏天又酷熱，困難重重；(Nevertheless) 儘管如此，Six Companies 在 1936 年 3 月 1 日完工，比預定早了兩年多。",
+    "最初的設計太平淡，(So) 所以請建築師 Kaufmann 重新設計外觀，採用裝飾藝術風格；插畫家 Allen Tupper True 融入美洲原住民的意象，(thereby) 創造出既古老又現代的圖案。",
+    "(Today) 如今胡佛水壩已是國家歷史地標，高出科羅拉多河 725 英尺以上，是西半球最高的混凝土水壩，完工 85 年後每年仍吸引超過一百萬名遊客。"
+   ]
+  }
  },
  {
   "id": "z110p2",
@@ -41,7 +63,31 @@
   "accuracyRateSource": "大考中心 110 學年度指定科目考試統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "but",
+    "In fact",
+    "Back in the Middle Ages",
+    "But",
+    "hence",
+    "Ironically",
+    "Suddenly",
+    "as"
+   ],
+   "outline": [
+    "法國催生了餐廳，(but) 過程卻一點也不文明，(In fact) 事實上今天的餐飲業是法國大革命階級鬥爭的副產品。",
+    "(Back in the Middle Ages) 中世紀時，精緻餐飲是貴族的特權，平民只能去髒亂的路邊旅店；(But) 1760 年代巴黎商人愛上據說能恢復元氣的清湯，(hence) restaurant 一詞由此而來，1780 年代出現了幾家有名的餐廳。",
+    "(Ironically) 諷刺的是，這些餐廳流行的時候，多數法國人連麵包都買不起：數十年的嚴冬和苛稅讓餐桌空空，1789 年飢餓的群眾失控，巴黎各地暴動搶劫，法國大革命爆發。",
+    "有錢的貴族逃到鄉下，留下技術高超的廚師和酒窖裡的好酒，(Suddenly) 失業的廚師一下子湧進城裡的餐館，一年內巴黎冒出將近 50 家高級餐廳。",
+    "拿破崙掌權後，餐飲業真正發展起來：他給公民「享樂的自由」，(as) 因為他認為專注美食的人不會密謀反他；1814 年一本旅遊指南列了約三千家餐廳，巴黎成了餐廳文化的中心。"
+   ]
+  }
  },
  {
   "id": "z110p3",
@@ -63,7 +109,30 @@
   "accuracyRateSource": "大考中心 110 學年度指定科目考試統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "In the past",
+    "But now",
+    "Once",
+    "Right after",
+    "also",
+    "that is",
+    "even"
+   ],
+   "outline": [
+    "訓練獵鷹和人合作狩獵的技藝稱為鷹獵，約西元前 4000 年發源於阿拉伯沙漠；(In the past) 過去是為了打獵補充食物，(But now) 現在成了阿拉伯半島最受歡迎的運動。",
+    "鷹獵包括捕鷹、訓鷹、帶鷹打獵三個過程：每年六、七月捕捉一、兩歲的野生獵鷹；(Once) 捕到後立刻蓋上皮頭罩，因為牠們會把拿掉頭罩後第一眼看到的人認作主人。",
+    "(Right after) 捉到後馬上開始訓練，先不給食物，讓牠比較容易馴服，再教牠認得自己的名字、聽到主人呼喚就回應；阿拉伯鷹獵者日夜和鷹住在一起，建立緊密的關係。",
+    "到十月底或十一月中，獵鷹就能在沙漠打獵：視力是人類的 2.6 倍，(also) 也是俯衝最快的動物；牠們能把獵物活著帶回來，這在伊斯蘭文化很重要，(that is) 因為肉要符合 halal。",
+    "獵鷹在伊斯蘭文化中地位重要，有些中東國家定為國鳥，還有專門的醫院，獵鷹 (even) 甚至有自己的護照，在阿拉伯聯合大公國是唯一能合法進入機艙的動物。"
+   ]
+  }
  },
  {
   "id": "z110p4",
@@ -83,7 +152,30 @@
   "accuracyRateSource": "大考中心 110 學年度指定科目考試統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Since",
+    "Then",
+    "The next advancement",
+    "because",
+    "also",
+    "In general",
+    "whereas"
+   ],
+   "outline": [
+    "(Since) 高爾夫球從 15 世紀出現以來進步很多，球的改變尤其大：早期用圓形木球，後來羽毛球（用皮囊塞鵝毛或雞毛）成為主流。",
+    "(Then) 1848 年出現古塔膠球，比羽毛球耐用也便宜得多；(The next advancement) 下一個進展是 1900 年代初的 Haskell 球，有橡膠核心，比古塔膠球多飛 20 碼。",
+    "1905 年 William Taylor 推出第一顆有凹洞的球，1930 年代成排凹洞成為標準設計；現在的球多半是橡膠線纏繞橡膠核心，外面包一層有凹洞的琺瑯。",
+    "凹洞很重要，(because) 因為能改善空氣動力：凹洞把往後拉的阻力減到最小，球飛得更遠，凹洞 (also) 也把氣流往下推，讓球往上升，和飛機飛行的原理一樣。",
+    "(In general) 一般來說，小而淺的凹洞讓球飛得遠而低，(whereas) 深的凹洞則讓球飛得高，球員可以依擊球需要或天氣選球。"
+   ]
+  }
  },
  {
   "id": "z109bp1",
@@ -106,7 +198,25 @@
   "accuracyRateSource": "大考中心未公布本卷逐題數據",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "致詞",
+   "genreEn": "Speech",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "And",
+    "And of course"
+   ],
+   "outline": [
+    "作者歡迎大家參加第 20 屆羅傑·伊伯特影展；1999 年他們想重新打造影展，表揚受到忽略的電影，沒想到成了社區的年度盛事，還幫忙修復了 Virginia 戲院。",
+    "今年作者和 Chaz Ebert 以女性電影人為選片靈感，一半的片子由女性執導或共同執導，(And) 女性製片也很多，例如《Interstellar》的 Lynda Obst 和 Emma Thomas。",
+    "開幕片是伊利諾大學校友 Andrew Davis 執導的《The Fugitive》，嘉賓是好萊塢傳奇人物 Jeff Dowd，(And of course) 當然 Alloy 管弦樂團也會回來，替日本默片現場配樂。",
+    "作者感謝贊助者、志工、通行證持有人和單場購票觀眾的參與，期待大家繼續支持，讓影展每年春天在伊利諾州中部茁壯，特別感謝伊利諾大學年年的支持。",
+    "這個影展是羅傑·伊伯特送給家鄉的禮物，作者感謝他和妻子 Chaz，能和他們合作是一種榮幸。"
+   ]
+  }
  },
  {
   "id": "z109bp2",
@@ -128,7 +238,28 @@
   "accuracyRateSource": "大考中心未公布本卷逐題數據",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "also",
+    "while",
+    "however",
+    "Today",
+    "However"
+   ],
+   "outline": [
+    "追風暴廣義是指追逐各種惡劣天氣，原因從好奇、冒險、科學探索到媒體報導都有。",
+    "追風暴常要開幾千英里，只為看短短一段惡劣天氣，空手而回也很常見；多數追風者不是專業氣象學家，很多人花大量時間學習氣象學。",
+    "使用的裝備 (also) 也各不相同：有人只帶基本攝影器材，(while) 有人從衛星追蹤系統、即時資料到車載氣象站、防冰雹罩一應俱全。",
+    "追逐危險天氣本身就危險：閃電、龍捲風、路況不佳、大雨遮蔽視線都是威脅；龍捲風保持距離就能避開，閃電 (however) 卻無法避免，穿越雷暴中心的「core punching」更是極度危險。",
+    "(Today) 如今追風暴越來越熱門，業餘玩家和專業人士搶拍最震撼的畫面，安全威脅越來越大；資深追風者提倡倫理守則，(However) 不過許多追風者反對自律規範。"
+   ]
+  }
  },
  {
   "id": "z109bp3",
@@ -149,7 +280,28 @@
   "accuracyRateSource": "大考中心未公布本卷逐題數據",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "Instead of",
+    "Fifty years later",
+    "for example",
+    "Though",
+    "though"
+   ],
+   "outline": [
+    "加拿大育空地區的 Watson Lake 有一片特別的森林，(Instead of) 放眼望去不是樹冠，而是數萬個雜亂堆疊的路標，這就是「路標森林」，最近一次統計有 91,000 個。",
+    "這個傳統始於 1942 年阿拉斯加公路工程：美國士兵 Carl K. Lindley 在 Watson Lake 養傷時奉命修理路標，想家的他順手加了一塊指向家鄉的牌子。",
+    "其他人跟著做，每年平均新增 1,000 塊；Lindley 原來的牌子已經遺失，(Fifty years later) 五十年後的 1992 年，他和妻子重回 Watson Lake 放了一塊複製品。",
+    "路標森林占地數英畝，巨大的板子在樹林間蜿蜒，有路牌、歡迎牌、簽名餐盤和世界各地的車牌，也有很多家族牌子，(for example) 例如祖父立了一塊，多年後家人回來找。",
+    "(Though) 雖然遊客中心備有木板和顏料，很多人選擇自己帶牌子，(though) 有些甚至違法從家鄉拔下金屬路牌釘在木柱上；森林已經大到遊客中心不再詳細記錄每塊牌子。"
+   ]
+  }
  },
  {
   "id": "z109bp4",
@@ -171,7 +323,31 @@
   "accuracyRateSource": "大考中心未公布本卷逐題數據",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Before World War I",
+    "That is",
+    "For example",
+    "Therefore",
+    "After World War II",
+    "Unfortunately",
+    "thus",
+    "In 1976"
+   ],
+   "outline": [
+    "匯率是一國貨幣兌換另一國貨幣的比率，依兩種貨幣各自的價值決定。",
+    "(Before World War I) 第一次世界大戰前，多數貨幣採金本位，(That is) 也就是紙幣代表政府持有的黃金；(For example) 例如一盎司黃金值 4.24 英鎊或 35 美元，(Therefore) 所以一英鎊值 8.25 美元。",
+    "二戰期間歐洲列強印出超過黃金儲備的鈔票，金本位開始瓦解；(After World War II) 二戰後建立布列敦森林體系，各國依美元訂定幣值，維持固定匯率。",
+    "(Unfortunately) 可惜這個體系跟不上全球經濟：1960 年代美國的黃金儲備不足以支應全球流通的美元，其他主要貨幣 (thus) 因此比美元更穩定，布列敦森林體系終於在 1971 年廢除。",
+    "(In 1976) 1976 年牙買加協定確立了沿用至今的浮動匯率制度，一國貨幣的價值隨外匯市場的供需變動，各國也可以讓中央銀行決定自己的匯率。"
+   ]
+  }
  },
  {
   "id": "z109p1",
@@ -191,7 +367,28 @@
   "accuracyRateSource": "大考中心 109 學年度指定科目考試統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "However",
+    "In the second step",
+    "At the same time",
+    "Then",
+    "Finally"
+   ],
+   "outline": [
+    "早期文明就建排水系統處理雨水，(However) 然而城市人口增加，舊系統不堪負荷，工業革命時製造業廢棄物又混進汙水，19 世紀中期開始處理廢水。",
+    "現代汙水處理是把廢水和家庭汙水中有害的物理、化學、生物成分去除：第一步先篩掉紙、木頭等大型物品，去除泥土等重物，接著汙水進入一連串混凝土池。",
+    "(In the second step) 第二步，汙水進入初級池，人類排泄物（汙泥）沉到底部，油脂浮到上面收集起來，(At the same time) 同時蛋殼、咖啡渣等有機物分解成較小的物質。",
+    "剩下的汙水進入二級池做第三階段處理，初級池沒處理到的固體在這裡分解去除；(Then) 接著液態汙水用沙過濾，去除幾乎所有細菌和殘留的固體微粒。",
+    "(Finally) 最後廢水流進最後的池子，加氯殺死剩下的細菌，細菌消滅以後再除去水中的氯，處理乾淨的水排進河川或海洋。"
+   ]
+  }
  },
  {
   "id": "z109p2",
@@ -214,7 +411,26 @@
   "accuracyRateSource": "大考中心 109 學年度指定科目考試統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "Similarly",
+    "therefore",
+    "despite"
+   ],
+   "outline": [
+    "地球最深處在太平洋的馬里亞納海溝，《Nature Ecology & Evolution》的新研究發現，即使在這麼偏遠的地方，生物也逃不過汙染。",
+    "研究團隊派遙控載具潛入海溝，發現 7 英里以下的海洋生物遭到禁用工業化學物質嚴重汙染，帶上來的小型甲殼生物毒素濃度是全世界汙染最嚴重河川的 50 倍。",
+    "這些化合物屬於「持久性有機汙染物」(POPs)，最常見的是 PCBs 和 PBDEs：PCBs 曾廣泛用於工業，1970 年代因為和癌症有關而禁用；(Similarly) PBDEs 也一樣，兩種都不會在環境中分解。",
+    "這些化合物附著在塑膠上，生物誤吃後在體內脂肪累積；生物死後沉到海底，深海生物吃下遺骸，POPs (therefore) 因此沿著食物鏈傳下去。",
+    "馬里亞納海溝離任何工業汙染源都很遠，表示這些汙染物 (despite) 雖然幾十年前就全球禁用，仍能長距離移動。"
+   ]
+  }
  },
  {
   "id": "z109p3",
@@ -236,7 +452,29 @@
   "accuracyRateSource": "大考中心 109 學年度指定科目考試統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "But",
+    "While",
+    "Thanks to",
+    "The former",
+    "The latter",
+    "Though"
+   ],
+   "outline": [
+    "紐西蘭國家橄欖球隊全黑隊讓哈卡舞登上世界舞台：開球前全隊齊聲吼出戰歌，跺腳、瞪眼、吐舌，用來提振士氣、震懾對手。",
+    "一般認為哈卡是毛利戰舞的統稱，戰士出征或在戰場上表演，用來威嚇敵人、做好作戰準備，(But) 但在毛利語中 haka 只是「舞蹈」的意思，搭配表達情感或講述古老故事的吟唱。",
+    "(While) 雖然許多哈卡應該由男性表演，也有男女都能跳的哈卡，甚至有只限女性的哈卡。",
+    "(Thanks to) 因為全黑隊，兩支哈卡廣為人知：(The former) Ka Mate 是一位毛利酋長在 1800 年代初所作，1906 年全黑隊首次表演；(The latter) Kapa o Pango 是 2005 年專為球隊寫的。",
+    "如今哈卡在迎賓、生日、婚禮、葬禮等場合表演，(Though) 雖然傳統上只在毛利社群，現在已經普及，成了紐西蘭最具代表性的象徵。"
+   ]
+  }
  },
  {
   "id": "z109p4",
@@ -259,7 +497,30 @@
   "accuracyRateSource": "大考中心 109 學年度指定科目考試統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "One important idea",
+    "Thus",
+    "Fortunately",
+    "For instance",
+    "Another idea",
+    "A third idea",
+    "The last idea"
+   ],
+   "outline": [
+    "2015 年歐巴馬總統簽署《每個學生都成功法》(ESSA)，取代 2001 年起實施的《有教無類法》(NCLB)，讓各州在課程、教學和評量上有更多決定權，以下是許多州規劃評量時參考的大方向。",
+    "(One important idea) 第一是彈性：標準化測驗無法完整呈現學習進展，(Thus) 所以各州改考慮以學生為中心的評量；(Fortunately) 幸好科技可以幫忙，(For instance) 例如電腦適性測驗會依學生前面的作答調整題目。",
+    "(Another idea) 第二是多科目測驗：有些州在數學和閱讀之外加考自然、社會、公民或經濟，也有州在一份測驗裡同時評量多個科目。",
+    "(A third idea) 第三是重視學習過程：為了以學生為中心，許多州更重視學習過程中的評量，不只看學年末的總結性測驗，也鼓勵老師在不同時間點蒐集資料，拼出學生學習的完整樣貌。",
+    "(The last idea) 最後是評量的目的：評量應該同時引導老師的教學和學生的學習，老師依學生表現調整教學，學生找出自己的問題、擬定改進計畫。"
+   ]
+  }
  },
  {
   "id": "z108p1",
@@ -284,7 +545,30 @@
   "twinIds": [
    "g111rp2"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "When",
+    "In fact",
+    "Apart from",
+    "Best of all",
+    "In addition to",
+    "Though",
+    "not just … but also"
+   ],
+   "outline": [
+    "天貝是印尼傳統黃豆製品，和韓國泡菜、日本味噌一樣，稱為這個國家「給世界的禮物」。",
+    "天貝源自爪哇島，幾百年來是印尼穩定又便宜的蛋白質來源：做豆腐丟掉的豆渣沾上空氣中的孢子，長出白色菌絲，(When) 人們發現這種發酵豆渣好吃，就開始在家做，各地也發展出不同風味。",
+    "天貝高蛋白、低脂肪，(In fact) 是唯一有紀錄的植物性維生素 B12 來源；(Apart from) 除了有益健康，(Best of all) 最棒的是蛋白質品質和肉一樣，又能吸收各種風味，素食者很快就接受了。",
+    "(In addition to) 天貝的吃法也很多：主菜、配菜、炸成點心，甚至打成果昔；(Though) 雖然國際上還不普遍，舊金山已經吃得到天貝 BLT 三明治，峇里島也有天貝漢堡排。",
+    "對印尼人來說，天貝 (not just … but also) 不只是食物，也有文化價值；印尼蠟染已經登錄聯合國教科文組織「人類非物質文化遺產」，天貝也很有機會獲得這項榮譽。"
+   ]
+  }
  },
  {
   "id": "z108p2",
@@ -306,7 +590,28 @@
   "accuracyRateSource": "大考中心 108 學年度指定科目考試統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "定義",
+   "orgEn": "Definition",
+   "orgCode": "def",
+   "transitions": [
+    "Instead",
+    "But",
+    "however",
+    "Specifically",
+    "However"
+   ],
+   "outline": [
+    "Dr. David Spiegel 1972 年接受三小時的肩部手術後，沒有用止痛藥，(Instead) 而是自我催眠，結果奏效，除了研究催眠 45 年的他自己，大家都很驚訝。",
+    "很多人誤以為催眠像睡著一樣、別人叫你做什麼就做什麼，(But) 但 Spiegel 認為催眠是高度專注的狀態，排除周遭的刺激，可以有效控制疼痛、緩解焦慮。",
+    "每個人容易催眠的程度 (however) 並不相同：容易催眠的人比較信任別人、依賴直覺；研究用功能性磁振造影比較兩組人，只有容易催眠的那組在催眠時大腦出現變化。",
+    "(Specifically) 具體來說，大腦中通常在有事情要擔心時活躍的區域，活動下降了，這說明了催眠為什麼能減輕壓力、焦慮、疼痛和自我意識。",
+    "Spiegel 希望催眠能取代止痛藥：學會自我催眠的病人，止痛藥用量和疼痛程度都只有對照組的一半；(However) 不過要發揮催眠的潛力，還需要更多了解。"
+   ]
+  }
  },
  {
   "id": "z108p3",
@@ -328,7 +633,28 @@
   "accuracyRateSource": "大考中心 108 學年度指定科目考試統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "But",
+    "In addition to",
+    "Interestingly",
+    "Then",
+    "Unlike"
+   ],
+   "outline": [
+    "英語等許多語言缺少專門的氣味詞彙，很難直接談論氣味，英語使用者常得借用 vanilla 這類氣味來源，或 sweet 這類比喻來描述。",
+    "(But) 但不是每種語言都這樣：泰國南部的狩獵採集民族 Maniq 至少有十五個專門描述氣味的詞，(In addition to) 鄰近的 Jahai 語也有十幾個。",
+    "(Interestingly) 有趣的是，英語使用者能分辨超過一兆種氣味，說不出來和鼻子的能力無關；(Then) 那麼落差從哪裡來？研究者認為環境可能扮演重要角色。",
+    "Maniq 和 Jahai 人住在熱帶雨林，隨時處在各種氣味之中，要靠嗅覺辨認可以獵捕的動物，也要察覺腐壞食物這類危險。",
+    "(Unlike) 和 Maniq、Jahai 人不同，許多英語使用者住在後工業化的西方，不必靠氣味在環境中生存，這個差異也許能解釋上面談到的語言現象。"
+   ]
+  }
  },
  {
   "id": "z108p4",
@@ -350,7 +676,29 @@
   "accuracyRateSource": "大考中心 108 學年度指定科目考試統計圖表：英文科答對率及鑑別度表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "Yet",
+    "Although",
+    "Overall",
+    "While",
+    "It was only later",
+    "But"
+   ],
+   "outline": [
+    "霍加狓生活在中非，西方直到 20 世紀初才知道牠，常形容牠半斑馬半長頸鹿；(Yet) 然而在牠唯一的野生棲地剛果，牠的形象隨處可見，就像大貓熊之於中國。",
+    "(Although) 雖然霍加狓的條紋像斑馬，親緣最近的卻是長頸鹿：脖子長，耳朵大而靈活，臉和喉嚨灰白色，身體是巧克力色到紅棕色，和腿上白色的橫紋、白腳踝形成對比。",
+    "(Overall) 整體來說，霍加狓很容易和長頸鹿區分：體型小很多，大約和馬一樣大，外觀更像鹿；(While) 長頸鹿公母都有角，霍加狓只有公的有角。",
+    "西方最早在 1890 年從 Stanley 的書中聽說一種奇怪的「非洲驢」；探險家可能只瞥見牠帶條紋的臀部，有人猜是雨林斑馬，(It was only later) 直到分析骨骸，才發現是長頸鹿的親戚。",
+    "1987 年剛果東部設立霍加狓野生動物保護區，(But) 但數十年的政治動盪讓天然資源脫離政府掌控，霍加狓數量從 1995 年以來減少一半，如今只剩一萬隻。"
+   ]
+  }
  },
  {
   "id": "zref107p1",
@@ -374,7 +722,32 @@
   "twinIds": [
    "z102p1"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "Here’s how it works",
+    "Once",
+    "But",
+    "First of all",
+    "Also",
+    "While",
+    "Also",
+    "however",
+    "that is"
+   ],
+   "outline": [
+    "流行歌手常說成功要感謝歌迷，英國樂團 SVM 確實如此：358 位歌迷出資 10 萬英鎊讓他們錄音，這筆錢來自線上唱片公司 MMC 的網路「群眾募資」。",
+    "(Here’s how it works) MMC 在網站放上 10 組藝人的試聽帶，讓用戶投資 10 到 1,000 英鎊；(Once) 一旦募到 10 萬英鎊就用來錄音，收益由投資人、MMC 各分 40%，藝人拿 20%。",
+    "群眾募資並不新鮮，(But) 但 MMC 更進一步：(First of all) 第一，投資人拿到的是現金，不只是贈品；(Also) 第二，MMC 本身是唱片公司，能把音樂發行到全世界。",
+    "(While) 數位科技讓音樂人掀起自己動手做的風潮，成功仍然很難，2009 年只有 14 組 DIY 藝人進入前 200 名；(Also) 加上唱片收入減少，唱片公司更不敢冒險。",
+    "群眾募資的模式 (however) 則把風險分散給數百位投資人，讓更多唱片得以製作；網站的社群特性也幫忙擴大歌迷群，(that is) 也就是說，投資人成了宣傳大軍。"
+   ]
+  }
  },
  {
   "id": "zref107p2",
@@ -398,7 +771,28 @@
   "twinIds": [
    "z104p1"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "But",
+    "Unfortunately",
+    "also",
+    "Today",
+    "More significantly"
+   ],
+   "outline": [
+    "法貝熱彩蛋是俄國著名珠寶商法貝熱公司在 1885 到 1917 年間製作的珠寶蛋，用貴重金屬或寶石做成，塗上美麗的色彩，再鑲上珍貴珠寶。",
+    "第一顆彩蛋是沙皇亞歷山大三世為了慶祝結婚 20 週年，送給皇后瑪麗亞的復活節彩蛋，他向作品曾經吸引皇后注意的年輕珠寶師 Peter Carl Fabergé 訂製。",
+    "1885 年復活節送進宮的看似普通的琺瑯蛋，(But) 打開卻讓皇后驚喜：蛋裡有金蛋黃，蛋黃裡有金母雞，母雞裡藏著鑽石小皇冠和紅寶石小蛋；(Unfortunately) 可惜最後這兩樣已經失傳。",
+    "皇后非常喜歡，沙皇於是任命法貝熱為皇室金匠，(also) 還要他每年做一顆獨一無二、藏有驚喜的復活節彩蛋；到 1917 年俄國革命為止，法貝熱和繼承人一共做了大約 50 顆。",
+    "(Today) 如今「法貝熱彩蛋」已成為奢華的代名詞，公認是珠寶藝術的傑作；(More significantly) 更重要的是，它們讓人想起俄國最後的皇室。"
+   ]
+  }
  },
  {
   "id": "zref107p3",
@@ -429,7 +823,29 @@
    ],
    "source": "大學入學考試中心 107 學年度起適用指定科目考試參考試卷英文考科"
   },
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "In order to do so",
+    "The first",
+    "The second",
+    "while",
+    "One",
+    "The other"
+   ],
+   "outline": [
+    "蜘蛛網是動物建築最迷人的例子之一，其中以圓網最美、結構最有秩序。",
+    "蜘蛛網的主要功能是攔住飛行的獵物，讓蜘蛛來得及捕捉；(In order to do so) 為了做到這一點，網絲必須承受大型獵物的撞擊和風雨，通常至少要維持一天。",
+    "圓網有兩大特點，(The first) 第一是幾何結構：外框加上從中心向外放射的絲，捕獵螺旋一圈圈從中心繞到外框，整張網再靠固定絲繫在周圍的植物或物體上。",
+    "(The second) 第二點，也可能是最重要的一點，是建材：蜘蛛絲是天然的複合材料，又輕又有和鋼相當的抗拉強度，(while) 同時又很有彈性。",
+    "網上用了兩種絲：(One) 一種彈性高，多半塗有黏液，用在捕獵螺旋；(The other) 另一種比較硬、比較強韌，用在輻射絲、外框和固定絲，讓網承受得了獵物撞擊。"
+   ]
+  }
  },
  {
   "id": "zref107p4",
@@ -453,7 +869,28 @@
   "twinIds": [
    "z103p4"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "For example",
+    "Despite",
+    "If",
+    "And if",
+    "Another"
+   ],
+   "outline": [
+    "科學家嘗試用基因改造改變世界，甚至消滅疾病，(For example) 例如改造蚊子來殺死瘧疾寄生蟲；寄生蟲由雌性瘧蚊攜帶，傳給人以後先到肝臟，再進入血液繁殖、破壞紅血球。",
+    "每年約有 2.5 億人感染瘧疾，約一百萬人死亡，其中很多是兒童，目前還沒有有效或核准的瘧疾疫苗。",
+    "為了「殺死」瘧疾，科學家改造蚊子體內的一種細菌，讓它釋放有毒化合物；這種化合物對人和蚊子無害，卻能殺死瘧疾寄生蟲，蚊子也就無法把瘧疾傳給人。",
+    "(Despite) 儘管有這項成果，科學家還要讓改造蚊子有競爭優勢，最終取代野生蚊子；(If) 要是有寄生蟲漏網，下一代很可能產生抗性，(And if) 一旦如此，就得從頭來過。",
+    "(Another) 另一個挑戰是爭取大眾認同：環保人士擔心，還不清楚基因改造生物對生態和人體健康的長期影響就野放，基因改造技術要用在疾病防治，還有很長的路要走。"
+   ]
+  }
  },
  {
   "id": "z107p1",
@@ -484,7 +921,29 @@
    ],
    "source": "大學入學考試中心 107 學年度指定科目考試英文考科"
   },
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "But",
+    "Though",
+    "A few months later",
+    "though",
+    "however",
+    "Decades later"
+   ],
+   "outline": [
+    "1785 年生於德國的德萊斯男爵是 19 世紀德國最有創意的發明家之一，發明過最早的打字機、絞肉機等，(But) 但讓他成名的是自行車的始祖「滑行車」。",
+    "滑行車沒有鏈條，靠騎士用腳蹬地前進，(Though) 雖然不算現代意義的自行車，卻是自行車發展的起點：它是第一輛兩輪前後排列的車，轉向裝置已經很像現代的把手。",
+    "德萊斯的構想是用人力取代昂貴、不用時也要吃很多飼料的馬，讓一般大眾移動得比走路或坐馬車快。",
+    "1817 年 6 月 12 日他首次有紀錄的試騎，一小時騎了 13 公里，(A few months later) 幾個月後四小時騎了 60 公里，轟動一時；之後到巴黎推銷，滑行車很快流行起來，也傳到英國。",
+    "滑行車的成功 (though) 卻很短暫：車子笨重，沒有煞車和踏板，常撞上路人，幾年後許多城市禁止使用；德萊斯的構想 (however) 並沒有消失，(Decades later) 數十年後法國人加上踏板，成了現代自行車。"
+   ]
+  }
  },
  {
   "id": "z107p2",
@@ -506,7 +965,29 @@
   "accuracyRateSource": "大考中心 107 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "But",
+    "Today",
+    "First",
+    "unlike",
+    "Also",
+    "The most significant advantage"
+   ],
+   "outline": [
+    "閃爍的燈會讓人頭痛，(But) 但如果每秒閃爍數百萬次，快到察覺不到，就能用來傳輸資料，這就是 Li-Fi（光照上網），由 Harald Haas 教授在 2011 年的 TED 演講中提出。",
+    "(Today) 如今 Li-Fi 已經發展成一種無線技術，搭配越來越常用來照明公共場所和住家的 LED 燈，高速傳送資料。",
+    "Li-Fi 比 Wi-Fi 有幾項優勢：(First) 第一，光線穿不透牆壁，(unlike) 不像 Wi-Fi 的無線電波，所以不怕遠端駭客入侵；(Also) 第二，光線不會干擾無線電訊號，可以用在機艙、醫院等對電磁敏感的地方。",
+    "(The most significant advantage) 最大的優勢是速度，實驗室裡已經達到每秒 224 gigabits，比 Wi-Fi 寬頻快得多。",
+    "有 LED 照明的地方就能應用 Li-Fi：路燈讓手機上網，紅綠燈提供駕駛路況，家長關燈就能切斷孩子的網路；140 億顆燈泡就是 140 億個潛在的資料發射器。"
+   ]
+  }
  },
  {
   "id": "z107p3",
@@ -528,7 +1009,26 @@
   "accuracyRateSource": "大考中心 107 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "In contrast",
+    "however",
+    "But"
+   ],
+   "outline": [
+    "根據英屬哥倫比亞大學的新研究，世界上一些最大型的甲蟲因為棲地變暖而變小，研究 2018 年 1 月發表於《動物生態學期刊》，顯示氣候變遷正在影響這些小生物。",
+    "研究先查閱科學文獻，演化生態學家 Michelle Tseng 和學生找出探討溫度影響昆蟲的實驗室研究，發現至少 22 種甲蟲在比正常溫暖的環境中長大時體型縮小。",
+    "為了確認野外是否也是這樣，團隊利用學校的昆蟲標本，拍攝 8 個物種、超過 6,500 隻甲蟲，發現 8 種中有 5 種在過去一百年縮小，最大的 4 種在過去 45 年縮小了 20%。",
+    "(In contrast) 相反的，較小的甲蟲沒有受到影響，甚至稍微變大。",
+    "有些生態學家認為還無法證明暖化就是原因；英國生物學家 Alan Ronan Baudron (however) 則深信如此，他記錄過某些魚類因暖化縮小，(But) 不過他和 Tseng 都不認為氧氣減少能解釋甲蟲縮小。"
+   ]
+  }
  },
  {
   "id": "z107p4",
@@ -549,7 +1049,29 @@
   "accuracyRateSource": "大考中心 107 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "論說文",
+   "genreEn": "Argumentative",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "also",
+    "however",
+    "since",
+    "Yet",
+    "Moreover",
+    "neither … nor"
+   ],
+   "outline": [
+    "為了保護作物多樣性免於浩劫，斯瓦巴全球種子庫建在北極一座島嶼的山裡，幫助農民和科學家找到改良作物的基因，(also) 也希望培育出更能因應氣候變遷的品種。",
+    "(however) 然而越來越多人認為，世界對斯瓦巴的信心放錯了地方：多樣性沒辦法裝箱存在單一容器裡，因為作物不斷改變，病蟲害不斷適應，暖化還會帶來無法預見的挑戰。",
+    "爭議的焦點是保存作物多樣性應該和田間社群合作，還是和機構合作，(since) 因為經費很難兩邊都顧到；現在偏遠的斯瓦巴種子庫正吸走可用的經費。",
+    "(Yet) 然而這種高度集中的做法，五十年或一百年後可能幫不了農民因應氣候變遷；新研究發現，全球多達 75% 的作物多樣性不在大型機構種子庫，而在世界上最邊緣的一些農民手中。",
+    "(Moreover) 此外，越來越多人主張，種子庫 (neither … nor) 既無法取代第一線農民的實務知識，也比不上他們的巧思。"
+   ]
+  }
  },
  {
   "id": "z106p1",
@@ -571,7 +1093,28 @@
   "accuracyRateSource": "大考中心 106 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "but",
+    "Also",
+    "Despite",
+    "Once",
+    "also"
+   ],
+   "outline": [
+    "札哈·哈蒂是伊拉克出生的英國建築師，常有人稱她是當代最傑出的女性建築師；多年來她的設計常登上建築期刊，(but) 卻常讓人覺得不切實際、太過激進，(Also) 身為男性主導領域裡的女性，也不利於她成功。",
+    "(Despite) 儘管有這些挫折，她設計的辛辛那提當代藝術中心獲選並落成，讓她聲名大噪，《紐約時報》稱這棟建築是冷戰以來美國最重要的新建築。",
+    "(Once) 才華獲得肯定以後，大眾運輸、圖書館、歌劇院等各類設計委託接踵而來；2004 年她成為第一位獲得普立茲克獎的女性，(also) 也在 2010 和 2011 年獲得斯特林獎。",
+    "她對建築的興趣源自青少年時期到伊拉克南部古蘇美地區旅行，那裡沙、水、蘆葦、建築和人融為一體，她希望用當代的方式創造出同樣效果的建築。",
+    "自然的形態一再成為她的靈感來源，她的設計大膽而有遠見，探索空間以及建築和城市環境的關係，不斷突破建築與都市設計的界限，追求表達自身理想的美學。"
+   ]
+  }
  },
  {
   "id": "z106p2",
@@ -593,7 +1136,28 @@
   "accuracyRateSource": "大考中心 106 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "Today",
+    "as long as",
+    "therefore",
+    "Once",
+    "also"
+   ],
+   "outline": [
+    "退休商人 Todd Bol 2009 年在自家露台做了一個木箱，沒想到今天會有全球性的影響。",
+    "他做了一個像校舍的小書箱，立在草坪上當免費社區圖書館，紀念當過老師的母親；這個原型催生了非營利組織小小免費圖書館 (LFL)，(Today) 如今 70 個國家登記了超過五萬座。",
+    "幾乎人人都能登記開設，(as long as) 只要維護良好、書籍內容適合社區；主人可以自己做書箱，(therefore) 所以外觀各有特色，例如加州有一座用舊酒箱做的，德州有一座有小樓梯和鮮豔的牆面。",
+    "(Once) 登記以後，LFL 網站會給每座圖書館編號，列出 GPS 座標等資料，主人也會收到一塊寫著 Little Free Library 的招牌。",
+    "人們說經過時因為好奇又方便，比較會拿起書來看，有些主人也因此認識更多鄰居；Bol (also) 也最自豪 LFL 凝聚了社區，讓鄰居互相交談、熟悉，進而互相幫忙。"
+   ]
+  }
  },
  {
   "id": "z106p3",
@@ -615,7 +1179,27 @@
   "accuracyRateSource": "大考中心 106 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "A famous example of",
+    "later",
+    "For instance",
+    "also"
+   ],
+   "outline": [
+    "鑑識語言學廣義來說涵蓋語言和法律交會的所有研究領域，(A famous example of) 著名的應用例子是 2009 年涉嫌殺害家人的 Chris Coleman 一案。",
+    "鑑識語言學家 Robert Leonard 在審判中提出語言證據，指出恐嚇電子郵件和塗鴉出自同一人，也和 Coleman 的寫作風格相似；Coleman (later) 後來判定謀殺罪成立。",
+    "Leonard 的同事 James Fitzgerald 在「大學炸彈客」案中讓這個領域受到重視：炸彈客多年來寄郵包炸彈給大學教授，Fitzgerald 力主公開炸彈客闡述理念的長信。",
+    "信公開以後，許多人說認得這種文風；Fitzgerald 分析句構和用字，把信和 Ted Kaczynski 的著作連在一起，(For instance) 例如兩人都常用平行句，(also) 也都偏好罕見字；法院最後判 Kaczynski 終身監禁。",
+    "從語言證據找出隱藏的意思，其實是我們日常語言互動中憑直覺在做的事，和鑑識專家的工作一樣；鑑識語言學公司 Testipro 甚至說這個領域是整個法律體系的基礎。"
+   ]
+  }
  },
  {
   "id": "z106p4",
@@ -637,7 +1221,29 @@
   "accuracyRateSource": "大考中心 106 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "分類",
+   "orgEn": "Classification",
+   "orgCode": "cls",
+   "transitions": [
+    "As",
+    "Others",
+    "With imperialism",
+    "Even when",
+    "The result is that",
+    "In addition to"
+   ],
+   "outline": [
+    "過去三百年來，國家獨立後最先建立的東西之一就是國歌，通常在正式國家場合，以及慶祝、支持國家認同的活動中演奏演唱。",
+    "荷蘭 16 世紀的〈Het Wilhelmus〉公認是最古老的國歌，其次是英國的〈天佑吾王／女王〉；(As) 隨著民族主義在 18、19 世紀傳遍歐洲，許多國家仿照它採用聖歌，(Others) 西班牙、法國等國則選了進行曲。",
+    "(With imperialism) 隨著帝國主義擴張，歐洲人把音樂品味帶到各地，(Even when) 即使殖民地獨立，往往也模仿前統治者的傳統，(The result is that) 結果多數國歌不是聖歌就是進行曲，用歐洲樂器演奏。",
+    "日本國歌是歐洲影響的好例子：1860 年代英國軍樂隊長 Fenton 替日本國歌作曲；約十年後日本改用宮廷樂師的曲子，後來又由德國人 Franz Eckert 改成西方音階。",
+    "(In addition to) 除了聖歌和進行曲，英國作曲家 Michael Bristow 還分出幾個小類：中南美洲的國歌常帶歌劇風格，受 19 世紀義大利歌劇影響；緬甸和斯里蘭卡屬於民俗類，比較依賴本土樂器。"
+   ]
+  }
  },
  {
   "id": "z105p1",
@@ -659,7 +1265,26 @@
   "accuracyRateSource": "大考中心 105 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "Others",
+    "In this setting",
+    "for example"
+   ],
+   "outline": [
+    "有人稱它是航行的博物館，(Others) 也有人說它是露天博物館：妮娜號是在巴西建造的哥倫布時代複製船，為了紀念哥倫布首航新大陸 500 週年而建。",
+    "作者 2013 年 2 月在阿拉巴馬州加入妮娜號，參與大學資助的研究計畫，要把船上的日子寫成部落格；作者很快發現，觀察學童參觀或替他們導覽時收穫最多。",
+    "妮娜號導覽是最好的動手學習，(In this setting) 學生可以摸纜繩、傳遞壓艙石、推動大舵柄，很快就體會到當年航行有多辛苦，成為主動學習的參與者。",
+    "提供這類校外教學的不只妮娜號，(for example) 例如在詹姆斯鎮殖民地，學生可以登上 17 世紀初載運英國移民的複製船，和穿著當時服裝的解說員互動，了解過去的生活。",
+    "這次經驗證實了作者一向的信念：學生主動參與學習時，會保持興趣、問更好的問題、做更高層次的思考；上船時還只是聽講的學生，下船時已經成了大膽的探險家。"
+   ]
+  }
  },
  {
   "id": "z105p2",
@@ -684,7 +1309,26 @@
   "accuracyRateSource": "大考中心 105 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "After",
+    "then",
+    "later"
+   ],
+   "outline": [
+    "最近出土的古老頭骨顯示，大型貓科動物起源於中亞，不是一般認為的非洲。",
+    "這塊化石有 410 萬到 595 萬年歷史，是目前發現最古老的豹亞科大型貓科動物遺骸；先前的紀錄是坦尚尼亞出土、約 380 萬年前的牙齒碎片。",
+    "大型貓科動物的演化一直很有爭議，又缺乏化石證據；研究主持人 Jack Tseng 表示，這項發現顯示牠們的演化起源比原先推測的更早。",
+    "Tseng 團隊 2010 年在西藏偏遠邊境發現這塊化石；(After) 經過三年和其他化石比對，並用 DNA 資料建立族譜，團隊確信牠屬於豹亞科。",
+    "證據顯示大型貓科動物約 1600 萬年前起源於中亞或北亞，(then) 之後擴散到東南亞，演化出雲豹、老虎、雪豹，(later) 後來跨越大陸遷徙，演化成美洲豹和獅子。"
+   ]
+  }
  },
  {
   "id": "z105p3",
@@ -706,7 +1350,25 @@
   "accuracyRateSource": "大考中心 105 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "for example",
+    "then"
+   ],
+   "outline": [
+    "美國烹飪節目教導觀眾、改變觀眾，也隨觀眾改變；1926 年 10 月美國農業部創造了第一位代表人物，也就是虛構的廣播主持人 Aunt Sammy，她的食譜最受注意。",
+    "烹飪節目在 1940 年代轉到電視，1950 年代多半在白天播出，對象是重視方便食物的中產階級婦女；(for example) 例如 Poppy Cannon 上節目示範用罐頭快速做菜。",
+    "1960、70 年代，名廚節目成為展示歐洲高級料理的舞台；這種菁英氣息 (then) 後來讓位給世界各地的料理，例如 1982 年 Martin Yan 的《Yan Can Cook》示範中國菜。",
+    "到了 1990 年代，節目從高檔料理到健康飲食都有，廚師的個人特色和娛樂性成為節目成功的兩大關鍵。",
+    "21 世紀初出現迎合實境秀觀眾的新節目，廚師名氣媲美搖滾巨星；觀眾多半是愛看別人做菜、自己不下廚的人，照著食譜做菜的傳統也就過時了。"
+   ]
+  }
  },
  {
   "id": "z105p4",
@@ -728,7 +1390,29 @@
   "accuracyRateSource": "大考中心 105 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "However",
+    "While",
+    "thus",
+    "As expected",
+    "But",
+    "also"
+   ],
+   "outline": [
+    "尖叫是人類和其他動物共有的原始反應，一般認為尖叫的特別之處在於大聲或高音，(However) 然而許多又大又高的聲音並不像尖叫那樣讓人起雞皮疙瘩。",
+    "神經科學家 Luc Arnal 的團隊發現尖叫有一種「粗糙度」，指音量變化的快慢；(While) 一般說話的變化只在 4 到 5 赫茲之間，尖叫卻在 30 到 150 赫茲之間，(thus) 所以聽起來刺耳。",
+    "受試者判斷最可怕的尖叫幾乎都最粗糙；用功能性磁振造影觀察大腦，(As expected) 不出所料，聽覺中樞活動增加，(But) 不過恐懼中心杏仁核 (also) 也亮了起來。",
+    "杏仁核在察覺威脅時讓身體準備應變，尖叫對身體也有類似影響；研究也發現，自然說話都沒有粗糙度，最惱人的鬧鐘、汽車喇叭、火災警報卻都很粗糙。",
+    "這項研究可能的應用是在警報聲中加入粗糙度，讓警報更有效，就像在天然氣裡加入臭味，讓人容易察覺；也可以替特別安靜的電動車加上警示音，讓行人容易注意到。"
+   ]
+  }
  },
  {
   "id": "z104p1",
@@ -752,7 +1436,28 @@
   "twinIds": [
    "zref107p2"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "But",
+    "Unfortunately",
+    "also",
+    "Today",
+    "More significantly"
+   ],
+   "outline": [
+    "法貝熱彩蛋是俄國著名珠寶商法貝熱公司在 1885 到 1917 年間製作的珠寶蛋，用貴重金屬或寶石做成，塗上美麗的色彩，再鑲上珍貴珠寶。",
+    "第一顆彩蛋是沙皇亞歷山大三世為了慶祝結婚 20 週年，送給皇后瑪麗亞的復活節彩蛋，他向作品曾經吸引皇后注意的年輕珠寶師 Peter Carl Fabergé 訂製。",
+    "1885 年復活節送進宮的看似普通的琺瑯蛋，(But) 打開卻讓皇后驚喜：蛋裡有金蛋黃，蛋黃裡有金母雞，母雞裡藏著鑽石小皇冠和紅寶石小蛋；(Unfortunately) 可惜最後這兩樣已經失傳。",
+    "皇后非常喜歡，沙皇於是任命法貝熱為皇室金匠，(also) 還要他每年做一顆獨一無二、藏有驚喜的復活節彩蛋；到 1917 年俄國革命為止，法貝熱和繼承人一共做了大約 50 顆。",
+    "(Today) 如今「法貝熱彩蛋」已成為奢華的代名詞，公認是珠寶藝術的傑作；(More significantly) 更重要的是，它們讓人想起俄國最後的皇室。"
+   ]
+  }
  },
  {
   "id": "z104p2",
@@ -774,7 +1479,27 @@
   "accuracyRateSource": "大考中心 104 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "定義",
+   "orgEn": "Definition",
+   "orgCode": "def",
+   "transitions": [
+    "In other words",
+    "also",
+    "A few years later",
+    "By 2000"
+   ],
+   "outline": [
+    "六標準差是一套高度嚴謹的流程，幫助公司專注開發、提供近乎完美的產品和服務；sigma 是統計名詞，衡量一個流程離完美還差多遠。",
+    "核心概念是：公司如果能算出生產流程中有多少「瑕疵」，就能有系統地找出消除問題的方法，盡量接近「零瑕疵」。",
+    "訓練和團隊合作是六標準差的關鍵，(In other words) 也就是說，公司要訓練組長和組員執行六標準差流程，學會使用測量和改善工具，(also) 也要學會溝通技巧，讓顧客和供應商參與並滿足他們的需求。",
+    "六標準差是摩托羅拉在 1986 年發展出來的，原本用來減少生產錯誤；(A few years later) 幾年後擴大成一般的績效改善方法；1995 年奇異公司導入，到 1998 年宣稱省下超過七億五千萬美元。",
+    "(By 2000) 到了 2000 年，六標準差已經自成一個產業，地方政府、監獄、醫院、軍隊、銀行、跨國企業等各種組織都用它來提升品質、改善流程。"
+   ]
+  }
  },
  {
   "id": "z104p3",
@@ -797,7 +1522,28 @@
   "accuracyRateSource": "大考中心 104 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "but",
+    "not only … but … also",
+    "It seems that",
+    "If confirmed",
+    "However"
+   ],
+   "outline": [
+    "兩隻瓶鼻海豚在墨西哥灣游泳，彼此發出喀噠聲、哨聲和嗚咽聲，就像在對話；我們不確定牠們在說什麼，(but) 但科學家相信海豚會叫彼此的「名字」。",
+    "最近一項研究指出，海豚 (not only … but … also) 不但有自己獨特的「招牌哨聲」，也會模仿親近同伴的哨聲；(It seems that) 看來海豚能用這種方式呼喚對方，研究作者 Randall Wells 稱之為抽象的名字。",
+    "研究人員分析佛州 Sarasota 灣約 250 隻野生海豚和 4 隻水族館海豚的錄音，發現熟識的海豚分開時會模仿對方的哨聲，多半是母子或關係密切的雄海豚，屬於親近而非攻擊的行為。",
+    "這種模仿聲音的用法和人類語言相似，維繫社會關係比立即保衛資源重要，也和鳥類不同，鳥類比較會在「攻擊的情境」下呼叫彼此。",
+    "(If confirmed) 如果得到證實，這將是自然界少見的溝通層次；海豚若能用幾聲尖叫表明身分、呼叫朋友，不難想像牠們還說了什麼，(However) 不過研究作者也指出，目前我們仍然只能想像。"
+   ]
+  }
  },
  {
   "id": "z104p4",
@@ -818,7 +1564,31 @@
   "accuracyRateSource": "大考中心 104 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "but",
+    "Eventually",
+    "however",
+    "whereupon",
+    "But",
+    "too",
+    "even",
+    "To this day"
+   ],
+   "outline": [
+    "哥樂美國家公園位於土耳其中部，有高聳的岩石、獨特的波紋地形和神祕的地下城市，是很吸引人的觀光景點。",
+    "數千年前一群古火山噴出一層層厚厚的火山灰和熔岩，形成公園所在的卡帕多奇亞地區；幾百年來風雨侵蝕，切出壯觀的峽谷，留下高達 40 公尺的岩柱，稱為「仙女煙囪」。",
+    "仙女煙囪形狀大小不一，(but) 大多高高的、頂端有帽子，像杏鮑菇；帽子的石頭最硬，保護下方較軟的岩石，(however) 不過帽子 (Eventually) 最後還是會掉落，(whereupon) 接著風雨開始削蝕錐體，直到錐體倒塌。",
+    "(But) 哥樂美國家公園不只有壯觀的風景，人類 (too) 也在這裡留下印記：四世紀時拜占庭基督徒在岩石上鑿出數千座洞穴教堂和修道院，許多壁畫至今色彩鮮豔。",
+    "拜占庭基督徒 (even) 甚至鑿出整座地下村莊，躲避羅馬人和後來的穆斯林；(To this day) 直到今天，許多村莊仍有人居住，岩鑿的儲藏室裡仍堆滿葡萄、檸檬、馬鈴薯和扁麵包，準備過冬。"
+   ]
+  }
  },
  {
   "id": "z103p1",
@@ -840,7 +1610,27 @@
   "accuracyRateSource": "大考中心 103 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Before that",
+    "but",
+    "When",
+    "once more"
+   ],
+   "outline": [
+    "布魯克林大橋 1883 年啟用，是第一座通行汽車的長跨距吊橋，很快成為下個世紀各大吊橋的典範。",
+    "大橋橫跨紐約東河，是曼哈頓島和布魯克林之間的第一條交通幹道；(Before that) 在那之前只能搭渡輪，速度慢，冬天還可能有危險。",
+    "19 世紀初就有人討論在東河上建橋，(but) 1861 年內戰爆發，計畫擱置；(When) 1865 年戰爭結束，建橋 (once more) 再度成為重要議題，1867 年紐約州議會通過法案，成立紐約橋梁公司。",
+    "設計師 John Augustus Roebling 1806 年生於德國，學生時代思想激進，德國警方把他列為危險的自由派，1830 年他為了逃避政治歧視移民美國。",
+    "Roebling 原本提議主跨 1,500 英尺，以兩座位於河中的石造塔當主橋墩；實際建成的橋更長，達 1,597 英尺，是當時最長的吊橋。"
+   ]
+  }
  },
  {
   "id": "z103p2",
@@ -862,7 +1652,28 @@
   "accuracyRateSource": "大考中心 103 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "despite",
+    "So",
+    "However",
+    "But",
+    "not … but"
+   ],
+   "outline": [
+    "日本人心臟病發生率全世界最低，(despite) 儘管大多數日本男性抽菸，而抽菸是心臟病最主要的危險因子之一；(So) 那麼保護日本男性的是什麼呢？",
+    "柏克萊兩位教授調查 12,000 名日本男性，分成住在日本、移民夏威夷、移民北加州三組，發現移民加州的人心臟病發生率增加為五倍，移民夏威夷的約為 2.5 倍。",
+    "抽菸、高血壓、膽固醇等常見危險因子都無法解釋這些差異，從壽司改吃漢堡薯條的飲食變化也無關；(However) 有關的是他們在新國家為自己建立的社會型態。",
+    "最傳統、維持緊密互助社群的日裔美國人，心臟病發生率和日本本地人一樣低；(But) 採用西方較孤立生活方式的人，心臟病發生率卻增加三到五倍。",
+    "研究顯示，和社會團體連結是人類的基本需求，甚至決定我們健康或生病、存活或死亡；我們需要歸屬感，(not … but) 不是在網路上，而是在現實世界裡的擁抱、握手和拍肩之中。"
+   ]
+  }
  },
  {
   "id": "z103p3",
@@ -885,7 +1696,29 @@
   "accuracyRateSource": "大考中心 103 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "that is",
+    "That means",
+    "However",
+    "Consequently",
+    "Although",
+    "As such"
+   ],
+   "outline": [
+    "比特幣是實驗性、去中心化的數位貨幣，能即時付款給世界上任何人；它用點對點技術運作，沒有中央機構，(that is) 也就是說，管理交易和發行貨幣都由整個網路共同完成。",
+    "比特幣交易無法撤銷，只能由收款人退款，(That means) 所以要和認識、信任或有良好信譽的人和機構交易；比特幣能偵測打錯字，通常不會讓人誤把錢轉到無效的地址。",
+    "所有交易都公開、永久存在網路上，任何人都看得到任何比特幣地址的餘額和交易，(However) 但在購物等情況下揭露資訊以前，地址背後的使用者身分仍然沒人知道。",
+    "比特幣的經濟還很年輕，價格可能短期內劇烈漲跌，(Consequently) 因此目前不建議用比特幣存錢，應該當作高風險資產，輸不起的錢不要放進去。",
+    "比特幣是仍在積極發展的實驗性新貨幣，(Although) 雖然使用的人越多就越不實驗性，但它畢竟在嘗試前所未有的概念，(As such) 因此沒有人能預測它的未來。"
+   ]
+  }
  },
  {
   "id": "z103p4",
@@ -909,7 +1742,28 @@
   "twinIds": [
    "zref107p4"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "For example",
+    "Despite",
+    "If",
+    "And if",
+    "Another"
+   ],
+   "outline": [
+    "科學家嘗試用基因改造改變世界，甚至消滅疾病，(For example) 例如改造蚊子來殺死瘧疾寄生蟲；寄生蟲由雌性瘧蚊攜帶，傳給人以後先到肝臟，再進入血液繁殖、破壞紅血球。",
+    "每年約有 2.5 億人感染瘧疾，約一百萬人死亡，其中很多是兒童，目前還沒有有效或核准的瘧疾疫苗。",
+    "為了「殺死」瘧疾，科學家改造蚊子體內的一種細菌，讓它釋放有毒化合物；這種化合物對人和蚊子無害，卻能殺死瘧疾寄生蟲，蚊子也就無法把瘧疾傳給人。",
+    "(Despite) 儘管有這項成果，科學家還要讓改造蚊子有競爭優勢，最終取代野生蚊子；(If) 要是有寄生蟲漏網，下一代很可能產生抗性，(And if) 一旦如此，就得從頭來過。",
+    "(Another) 另一個挑戰是爭取大眾認同：環保人士擔心，還不清楚基因改造生物對生態和人體健康的長期影響就野放，基因改造技術要用在疾病防治，還有很長的路要走。"
+   ]
+  }
  },
  {
   "id": "zref99p1",
@@ -929,7 +1783,25 @@
   "accuracyRateSource": "本卷非正式施測，無答對率",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "but",
+    "because"
+   ],
+   "outline": [
+    "英國橡木相當堅硬，(but) 但還沒乾的時候容易加工，(because) 因為非常耐候、不怕甲蟲，已經使用了數千年。",
+    "橡木由長管狀細胞組成，像一束緊緊黏在一起的細吸管；科學研究顯示這種複雜結構讓木材有優異的結構特性，耐久強度勝過鋼，許多 16、17 世紀的橡木框架建築至今仍在使用。",
+    "英國橡樹是英國最常見的樹木之一，葉子有獨特的裂片，通常長到 30 到 40 公尺高，可以活一千年以上。",
+    "橡樹的種子是橡實，松鼠和松鴉最愛吃，會埋起來過冬，忘了吃的橡實就長成新樹。",
+    "在英國所有樹木中，橡樹養活的昆蟲種類最多，超過 500 種；英國橡樹遍布全英國，和山毛櫸、甜栗有親緣關係，常見於過去為了提供木材而經營的古老林地。"
+   ]
+  }
  },
  {
   "id": "zref99p2",
@@ -949,7 +1821,31 @@
   "accuracyRateSource": "本卷非正式施測，無答對率",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "rather than",
+    "but",
+    "However",
+    "Though",
+    "When",
+    "So",
+    "Obviously",
+    "but"
+   ],
+   "outline": [
+    "「口紅效應」指經濟不景氣時，消費者為了讓自己開心，會買口紅之類較小、較便宜的東西，(rather than) 而不買大件奢侈品。",
+    "這個現象最早在 1930 年代經濟大蕭條時期發現，當時美國工業生產銳減，(but) 化妝品銷量卻上升。",
+    "(However) 不過「口紅效應」這個詞是雅詩蘭黛董事長 Leonard Lauder 在 2001 年經濟衰退時提出的，那次美國口紅銷量增加 11%；最近全球經濟低迷，口紅效應又出現了。",
+    "(Though) 口紅賣得火紅，卻不是人人笑得出來：(When) 消費者對經濟沒信心時，會買不傷荷包的東西，(So) 所以買不起新衣的女性，就買一支口紅犒賞自己、提振心情。",
+    "(Obviously) 男性當然不會買口紅，(but) 但買不起汽車這類大件奢侈品時，可能改買新口味的啤酒，或電動刮鬍刀之類比較便宜的小玩意。"
+   ]
+  }
  },
  {
   "id": "zref99p3",
@@ -973,7 +1869,27 @@
   "twinIds": [
    "z96p3"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "but",
+    "In order to",
+    "Furthermore",
+    "So"
+   ],
+   "outline": [
+    "衝突鑽石又稱血鑽石，販售所得用來資助叛軍、軍隊和恐怖組織；獅子山、安哥拉、賴比瑞亞和剛果民主共和國受害最深，控制鑽石交易的團體恐嚇甚至殺害當地人民。",
+    "這些地區的戰爭大多已經結束或減緩，(but) 但是衝突鑽石的問題並未消失，賴比瑞亞等叛軍控制區開採的鑽石，走私到鄰國以後，再當作無衝突鑽石出口。",
+    "(In order to) 為了阻止血鑽石交易，有合法鑽石貿易的南部非洲國家在 2000 年發起追蹤原鑽來源的運動，促成了金伯利進程認證機制 (KPCS) 這個國際組織。",
+    "KPCS 的目標是在原鑽進入參與國時記錄並追蹤來源，運貨商必須把鑽石裝進密封箱，並提供足夠的產地資料，證明鑽石不是來自衝突地區。",
+    "鑽石帶來的苦難難以想像，(Furthermore) 媒體也很少報導鑽石和恐怖活動的關聯，電影《血鑽石》讓更多人注意到這件事；(So) 作者呼籲讀者買鑽石時憑良心選擇。"
+   ]
+  }
  },
  {
   "id": "zref99p4",
@@ -996,7 +1912,28 @@
   "accuracyRateSource": "本卷非正式施測，無答對率",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "but",
+    "therefore",
+    "for instance",
+    "As",
+    "but"
+   ],
+   "outline": [
+    "每 14 天就有一種語言消失，到 2100 年，地球上 7,000 種語言可能有一半以上不復存在，連帶帶走大量歷史、文化和自然環境的知識。",
+    "語言界定文化，描述特定文化習俗或觀念的詞語未必能精確翻成別的語言；許多瀕危語言有豐富的口傳故事、歌謠和歷史，(but) 卻沒有文字，語言一消失，整個文化也跟著消失。",
+    "人類對自然的許多知識只保存在口語中，和大自然密切互動數千年的原住民族往往深知當地的土地、動植物和生態系統，(therefore) 因此研究他們的語言有助於了解和保育環境。",
+    "歷史上強勢族群的語言不斷擴張，小語言逐漸滅絕，原因是官方語言政策或強勢語言的聲望；(for instance) 例如小國玻利維亞的語言多樣性，比大國林立的整個歐洲還高。",
+    "(As) 隨著大語言擴張，父母說小語言的孩子常改學強勢語言，他們或下一代可能沒學會祖先的語言，或因為不用而忘記；這種情形自古就有，(but) 但近年語言消失的速度大幅加快。"
+   ]
+  }
  },
  {
   "id": "z102p1",
@@ -1020,7 +1957,32 @@
   "twinIds": [
    "zref107p1"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "Here’s how it works",
+    "Once",
+    "But",
+    "First of all",
+    "Also",
+    "While",
+    "Also",
+    "however",
+    "that is"
+   ],
+   "outline": [
+    "流行歌手常說成功要感謝歌迷，英國樂團 SVM 確實如此：358 位歌迷出資 10 萬英鎊讓他們錄音，這筆錢來自線上唱片公司 MMC 的網路「群眾募資」。",
+    "(Here’s how it works) MMC 在網站放上 10 組藝人的試聽帶，讓用戶投資 10 到 1,000 英鎊；(Once) 一旦募到 10 萬英鎊就用來錄音，收益由投資人、MMC 各分 40%，藝人拿 20%。",
+    "群眾募資並不新鮮，(But) 但 MMC 更進一步：(First of all) 第一，投資人拿到的是現金，不只是贈品；(Also) 第二，MMC 本身是唱片公司，能把音樂發行到全世界。",
+    "(While) 數位科技讓音樂人掀起自己動手做的風潮，成功仍然很難，2009 年只有 14 組 DIY 藝人進入前 200 名；(Also) 加上唱片收入減少，唱片公司更不敢冒險。",
+    "群眾募資的模式 (however) 則把風險分散給數百位投資人，讓更多唱片得以製作；網站的社群特性也幫忙擴大歌迷群，(that is) 也就是說，投資人成了宣傳大軍。"
+   ]
+  }
  },
  {
   "id": "z102p2",
@@ -1042,7 +2004,31 @@
   "accuracyRateSource": "大考中心 102 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "For years",
+    "but",
+    "Usually",
+    "After many years’ research",
+    "even though",
+    "In particular",
+    "for example",
+    "But"
+   ],
+   "outline": [
+    "科幻影集《星艦迷航記》用牽引光束拖曳太空船，(For years) 科學家多年來努力重現，2013 年 Tomas Cizmar 的團隊宣布成功，至少在顯微尺度上能用光束吸引物體。",
+    "操控光的技術 1970 年代就有了，(but) 但一般認為這是第一次用光束把物體拉向光源；(Usually) 通常微小物體遭到光束照射時，會順著光束的方向推開。",
+    "(After many years’ research) 經過多年研究，Cizmar 團隊找到讓光的輻射力反轉的技術，用這股負向的力吸出特定粒子。",
+    "(even though) 雖然離實際應用還有好幾年，這項技術在醫學研究上潛力很大；(In particular) 尤其牽引光束挑選粒子的能力很強，可以從混合物中吸出特定大小或成分的粒子，(for example) 例如將來可能用來分離白血球。",
+    "(But) 不過 Cizmar 表示，這項技術不會變成科幻片裡困住太空船的裝置，因為拉動大型物體需要大量能量，物體會發熱毀壞。"
+   ]
+  }
  },
  {
   "id": "z102p3",
@@ -1064,7 +2050,26 @@
   "accuracyRateSource": "大考中心 102 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "But",
+    "Now",
+    "A bigger question is"
+   ],
+   "outline": [
+    "奈洛比 Amaf 學校 14 歲的 Grace 從沒摸過平板電腦，(But) 平板送到學校時，她一分鐘左右就學會；過去上課只有黑板和破舊課本，(Now) 現在孩子五人一組輪流用平板。",
+    "這是科技新創公司 eLimu 的試辦計畫，平板等數位裝置可能很快在非洲學校普及，有些主管甚至預期會像肯亞的行動支付 M-Pesa 一樣大成功。",
+    "數位教育來得正是時候，因為學生大量湧入，原本就人手不足、經費不足、管理不善的公立學校已經招架不住。",
+    "非洲三億學生的商機吸引了國際科技大廠：Amazon 的 Kindle 在非洲的銷量一年成長十倍，Intel 也協助各國政府購買入門電腦。",
+    "(A bigger question is) 更重要的問題是數位工具能不能真正改善教育，初步結果令人振奮：迦納拿到 Kindle 的孩子閱讀能力明顯進步，Amaf 學校的科學平均分數一學期從 58 分升到 73 分。"
+   ]
+  }
  },
  {
   "id": "z102p4",
@@ -1086,7 +2091,29 @@
   "accuracyRateSource": "大考中心 102 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "The first is",
+    "but",
+    "Above all",
+    "The second reason is that",
+    "However",
+    "But"
+   ],
+   "outline": [
+    "斯巴達松是世界最艱難的超級馬拉松之一，跑者要在 36 小時內從雅典跑到斯巴達，全程 245 公里，約等於六場馬拉松。",
+    "賽事源自西元前 490 年雅典人 Pheidippides 跑到斯巴達求援，據記載隔天就抵達；1982 年英國空軍軍官 John Foden 花 36 小時跑完驗證，隔年辦了第一屆斯巴達松。",
+    "吸引力的第一個來源 (The first is) 是難以完賽：斯巴達松不是最難的比賽，(but) 但結合白天酷熱、入夜驟冷、半夜翻越山口等考驗，(Above all) 最重要的是時間壓力。",
+    "(The second reason is that) 第二個原因是，重走 Pheidippides 足跡的想法仍然深深吸引許多參賽者，感覺像在歷史中賽跑。",
+    "完賽者從女學生手中接過桂冠和水時欣喜若狂，(However) 不過興奮很快就消失，幾分鐘內關節肌肉就開始僵硬，Sparti 看起來像殭屍電影的片場；(But) 但想再跑一次的念頭很快又冒出來。"
+   ]
+  }
  },
  {
   "id": "z101p1",
@@ -1109,7 +2136,31 @@
   "accuracyRateSource": "大考中心 101 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "分類",
+   "orgEn": "Classification",
+   "orgCode": "cls",
+   "transitions": [
+    "However",
+    "but",
+    "on the other hand",
+    "But",
+    "though",
+    "Finally",
+    "but",
+    "So"
+   ],
+   "outline": [
+    "幽默感很受重視，有幽默感的人常給人快樂、有自信的印象；(However) 然而幽默是兩面刃，可以拉近關係、幫人面對生活，(but) 但也可能傷害自尊、得罪別人。",
+    "第一種是連結式幽默：講笑話、緩和氣氛，常拿大家共同的經驗開玩笑，甚至笑看自己的不幸，傳達「我們都一樣、同在一起」的訊息。",
+    "(on the other hand) 第二種是貶低式幽默，用嘲弄批評、操控別人；拿政治人物開玩笑多半無傷，(But) 在現實生活中卻可能傷人，受到質疑時還推說「只是開玩笑」。",
+    "這種幽默 (though) 雖然有人認為在社交上可以接受，卻可能傷害遭到嘲弄的人，損害人際關係。",
+    "(Finally) 第三種是自貶式幽默，拿自己當笑柄逗別人開心；少量很討喜，(but) 經常這樣做卻會侵蝕自尊，(So) 所以會搞笑不一定代表社交能力好、過得好。"
+   ]
+  }
  },
  {
   "id": "z101p2",
@@ -1131,7 +2182,30 @@
   "accuracyRateSource": "大考中心 101 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "論說文",
+   "genreEn": "Argumentative",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "Despite",
+    "Besides that",
+    "It turned out",
+    "Eventually",
+    "Fortunately",
+    "while",
+    "now"
+   ],
+   "outline": [
+    "2010 年 6 月 23 日，Sunny Airlines 一位資深機長擔心電源組件故障，拒絕跨太平洋夜航；(Despite) 他的顧慮有理，管理階層仍施壓，他拒絕後公司保全把他帶離機場。",
+    "(Besides that) 另外還有五位機師也以安全為由拒飛；(It turned out) 結果證明機師是對的，電源組件確實故障，飛機停飛維修，(Eventually) 最後由第三組機組員在幾小時後執飛。",
+    "整起事件中，公司施壓資深機師不顧安全疑慮、夜間載客飛越太平洋，(Fortunately) 幸好這些機師堅持立場，沒有屈服。",
+    "作者請讀者自己上網查證，並提醒讀者：動用公司保全把機師帶離機場 (while) 雖然是新做法，恐嚇機組員的事情在 Sunny Airlines 卻越來越常見，每週都有紀錄。",
+    "搭機大眾應該享有最高的安全，航空公司不該為了營收不顧人命；機師們承諾抵制犧牲安全換取利潤的做法，私下努力已久，(now) 現在需要大眾支持，請大家上網站了解能做什麼。"
+   ]
+  }
  },
  {
   "id": "z101p3",
@@ -1153,7 +2227,29 @@
   "accuracyRateSource": "大考中心 101 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "Since then",
+    "also",
+    "In the same year",
+    "Later",
+    "also",
+    "even"
+   ],
+   "outline": [
+    "憤怒鳥是芬蘭 Rovio Mobile 開發的電玩，靈感來自一張沒有翅膀的鳥的草圖，2009 年 12 月在蘋果行動系統推出，(Since then) 之後在 App Store 賣出超過 1,200 萬份。",
+    "遊戲爆紅以後，憤怒鳥和綠豬出現在各國電視節目中：以色列喜劇用牠們諷刺以巴和談失敗，美國主持人 Conan O’Brien 等人也在節目中拿來搞笑。",
+    "知名玩家包括英國首相 David Cameron，作家 Salman Rushdie 更據說是箇中高手。",
+    "憤怒鳥 (also) 也出現在各種廣告中：2011 年起替微軟 Bing 打廣告；(In the same year) 同年 Nokia 把角色投影在大樓上宣傳新手機；(Later) 後來 T-Mobile 拍了真人版廣告，Nokia (also) 也用這款遊戲挑戰世界紀錄。",
+    "憤怒鳥 (even) 甚至啟發了哲學類比：巴西的 Giridhari Dasar 寫了五篇〈憤怒鳥瑜伽〉，用遊戲角色和玩法詮釋瑜伽哲學，手法獨特，引起媒體關注。"
+   ]
+  }
  },
  {
   "id": "z101p4",
@@ -1174,7 +2270,31 @@
   "accuracyRateSource": "大考中心 101 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "but",
+    "The first step",
+    "Next",
+    "Once",
+    "Generally speaking",
+    "first … then",
+    "In most cases",
+    "but"
+   ],
+   "outline": [
+    "爆破拆除是拆掉建築物的一種方法；五層樓用挖土機、破壞球就能夷平，(but) 但要拆二十層的摩天大樓，安全的首選是爆破。",
+    "爆破前要先仔細規劃：(The first step) 第一步是研究建築藍圖，了解建築的結構；(Next) 接著爆破小組實地走一遍，記下每層樓的支撐結構。",
+    "(Once) 資料收齊以後，爆破人員擬定計畫，決定用哪些炸藥、放在哪裡、什麼時候引爆。",
+    "(Generally speaking) 一般來說，爆破人員 (first … then) 先炸低樓層的主要支柱，再炸幾層高樓層；(In most cases) 炸低樓層就足以讓建築倒塌，(but) 高樓層放炸藥是為了讓建材碎成小塊，方便清理。",
+    "最大的挑戰是控制倒塌方向：要讓建築往北倒，就先引爆北側的炸藥；讓建築倒向一側的停車場或空地，是最容易執行、通常也最安全的做法。"
+   ]
+  }
  },
  {
   "id": "z100p1",
@@ -1195,7 +2315,27 @@
   "accuracyRateSource": "大考中心 100 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "but",
+    "This is why",
+    "though",
+    "For this reason"
+   ],
+   "outline": [
+    "松露從希臘羅馬時代起在歐洲當作美食，甚至當作藥材，是世界上最貴的天然食物之一，每磅可達 250 到 450 美元。",
+    "松露其實是蘑菇，(but) 卻很特別：和特定樹木的根共生，子實體長在地下，(This is why) 所以很難找到。",
+    "歐洲人靠母豬或松露犬聞出成熟松露的強烈氣味，(though) 不過豬什麼都吃，用豬有風險，(For this reason) 所以改訓練狗，狗願意用松露換一塊麵包。",
+    "也有商人看到松露蠅在樹根附近盤旋，就自己動手挖；一個地點找到以後，往後幾年都能在同一處採收。",
+    "想享受松露的風味，就要在採收後趁新鮮生吃，因為風味流失得很快；保存的方法是放進密封玻璃罐冷藏，或整顆泡在無味的油裡。"
+   ]
+  }
  },
  {
   "id": "z100p2",
@@ -1217,7 +2357,30 @@
   "accuracyRateSource": "大考中心 100 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "論說文",
+   "genreEn": "Argumentative",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "Yet",
+    "That is why",
+    "Even so",
+    "But",
+    "Now",
+    "In addition",
+    "even if"
+   ],
+   "outline": [
+    "理想的世界不該拿動物試藥，動物受苦，人也耗錢耗時；(Yet) 然而醫學知識還有很大的缺口要靠動物實驗填補，(That is why) 所以全球每年用掉五千萬到一億隻動物。",
+    "歐洲的動物實驗法規全世界最嚴格，(Even so) 但歐洲科學家每年仍用掉約一千二百萬隻動物，多半是小鼠和大鼠。",
+    "美國官方統計每年只用 110 萬隻，(But) 這個數字會誤導人，因為美國不把最常用的小鼠、大鼠算進去；至於日本和中國，資料比美國還不完整。",
+    "(Now) 歐洲正修改規定，限制實驗動物的數量，推薦人體組織、電腦模型等替代方法；(In addition) 也鼓勵公開所有研究結果，免得別人一再重做失敗的實驗。",
+    "作者認為動物實驗救了無數性命，(even if) 即使動物有時會受苦也要繼續做，而歐洲的新措施可望減少動物用量，也改善研究的方式。"
+   ]
+  }
  },
  {
   "id": "z100p3",
@@ -1248,7 +2411,29 @@
    ],
    "source": "大學入學考試中心 100 學年度指定科目考試英文考科"
   },
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "In order to do so",
+    "The first",
+    "The second",
+    "while",
+    "One",
+    "The other"
+   ],
+   "outline": [
+    "蜘蛛網是動物建築最迷人的例子之一，其中以圓網最美、結構最有秩序。",
+    "蜘蛛網的主要功能是攔住飛行的獵物，讓蜘蛛來得及捕捉；(In order to do so) 為了做到這一點，網絲必須承受大型獵物的撞擊和風雨，通常至少要維持一天。",
+    "圓網有兩大特點，(The first) 第一是幾何結構：外框加上從中心向外放射的絲，捕獵螺旋一圈圈從中心繞到外框，整張網再靠固定絲繫在周圍的植物或物體上。",
+    "(The second) 第二點，也可能是最重要的一點，是建材：蜘蛛絲是天然的複合材料，又輕又有和鋼相當的抗拉強度，(while) 同時又很有彈性。",
+    "網上用了兩種絲：(One) 一種彈性高，多半塗有黏液，用在捕獵螺旋；(The other) 另一種比較硬、比較強韌，用在輻射絲、外框和固定絲，讓網承受得了獵物撞擊。"
+   ]
+  }
  },
  {
   "id": "z100p4",
@@ -1270,7 +2455,30 @@
   "accuracyRateSource": "大考中心 100 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "but",
+    "later",
+    "But",
+    "Since then",
+    "while",
+    "After all",
+    "But"
+   ],
+   "outline": [
+    "博士學位最早在 1150 年於巴黎頒發，(but) 到 19 世紀初才有現代的地位；現代博士制度源自德國洪堡大學，(later) 後來美國和加拿大的大學採用，20 世紀普及到世界大部分地區。",
+    "過去連學士學位都是少數有錢人的特權，許多大學教師也沒有博士學位；(But) 二次大戰後高等教育擴張，博士人數也跟著增加。",
+    "美國起步最早，1970 年已經培養全世界一半的理工博士，(Since then) 之後年產量又倍增到六萬四千人；其他國家也急起直追，連年輕人口減少的日本也多培養了約 46%。",
+    "研究人員警告博士供過於求：美國 2005 到 2009 年產生十萬多名博士，(while) 新增的教授職缺只有一萬六千個；奧地利約三分之一的博士從事和學位無關的工作。",
+    "頂尖大學仍積極培養聰明學生讀博士，(After all) 畢竟留住優秀學生對學術界有利；(But) 不過博士已經過剩，有人開始懷疑讀博士對個人是不是好的選擇。"
+   ]
+  }
  },
  {
   "id": "z99p1",
@@ -1292,7 +2500,26 @@
   "accuracyRateSource": "大考中心 99 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "First",
+    "That’s because",
+    "In addition"
+   ],
+   "outline": [
+    "這是 2007 年 2 月的一則新聞報導：2007 年 2 月 15 日，數百人到紐約中央車站，用舊的一元紙鈔換新發行的華盛頓總統一元硬幣。",
+    "這枚金色硬幣是美國鑄幣局紀念歷任總統系列的第一枚，鑄幣局每年發行四枚，一直到 2016 年，依總統任期的順序推出，亞當斯、傑佛遜、麥迪遜的硬幣同一年稍後發行。",
+    "硬幣的設計很特別：1930 年代以來第一次在邊緣刻字，刻上發行年份和格言；正面是總統頭像和姓名，背面是自由女神像。",
+    "(First) 每位總統都有一枚，只有克里夫蘭有兩枚，因為他是唯一任期不連續的總統。",
+    "目前排定的最後一位是福特，(That’s because) 因為總統在世時不能上硬幣，(In addition) 而且必須過世滿兩年才行。"
+   ]
+  }
  },
  {
   "id": "z99p2",
@@ -1315,7 +2542,27 @@
   "accuracyRateSource": "大考中心 99 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "Now",
+    "instead",
+    "rather than",
+    "However"
+   ],
+   "outline": [
+    "報紙用盡方法阻止讀者持續流失，(Now) 現在法國想出新做法：政府推出「我的免費報紙」計畫，18 到 24 歲的年輕人可以免費訂閱自選的報紙一年。",
+    "法國年輕人的讀報率特別低，政府調查顯示，2007 年 15 到 24 歲每天看付費報紙的只有一成，比十年前的兩成少了一半。",
+    "費加洛報前主編 Schwartzenberg 很有保留：廣告大幅衰退時，報社 (instead) 反而應該從讀者身上增加收益，(rather than) 而不是免費送報，否則只會加深報紙應該免費的錯誤觀念。",
+    "法國讀者本來就有許多免費選擇，例如報紙網站和市中心每天發送的免費報；部落客認為這項計畫最能吸引的，恐怕是原本就會買報的少數年輕人。",
+    "政府打算用廣告宣傳這項計畫，(However) 可是問到如何吸引年輕人讀紙本報紙，政府卻說主要的宣傳管道是網路。"
+   ]
+  }
  },
  {
   "id": "z99p3",
@@ -1337,7 +2584,31 @@
   "accuracyRateSource": "大考中心 99 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "Then",
+    "given that",
+    "In fact",
+    "but",
+    "While",
+    "However",
+    "Another possible reason",
+    "though"
+   ],
+   "outline": [
+    "咖啡行家願意花大錢買高級咖啡豆，例如可娜和藍山；(Then) 而世界上最貴的是麝香貓咖啡 Kopi Lowak，每四分之一磅可賣到 50 美元。",
+    "價格高並不奇怪，(given that) 因為全世界一年只有大約 500 磅；(In fact) 稀少的原因不在咖啡樹，而在麝香貓的糞便：咖啡豆要經過麝香貓消化排出，才算是 Kopi Lowak。",
+    "麝香貓是住在樹上、像浣熊的小動物，原產東南亞和印尼群島，愛吃咖啡果實；牠們整顆吞下，(but) 只消化外層果肉，咖啡豆保持完整。",
+    "(While) 咖啡豆雖然沒有消化掉，卻在麝香貓體內起了變化，消化系統裡的化學物質讓豆子產生獨特風味；(However) 不過這不是唯一的解釋，(Another possible reason) 另一個可能原因是麝香貓總能挑到熟度剛好的咖啡果實。",
+    "Kopi Lowak 的口感和其他咖啡都不一樣，帶焦糖底味和泥土味或野味；目前大多賣到日本，(though) 不過美國也有少數市場開始進貨。"
+   ]
+  }
  },
  {
   "id": "z99p4",
@@ -1357,7 +2628,29 @@
   "accuracyRateSource": "大考中心 99 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "not only … but also",
+    "As a result",
+    "Before long",
+    "while",
+    "In this way",
+    "For example"
+   ],
+   "outline": [
+    "葛拉斯是 1999 年諾貝爾文學獎得主，(not only … but also) 不但是小說家、詩人、劇作家，也是知名的畫家和雕塑家；他自己強調，作品和個人身世密切相關。",
+    "他的父親是二次大戰時加入納粹黨的德國人，母親是波蘭人，(As a result) 所以他一直心懷矛盾：既覺得自己是受害的波蘭人，又覺得自己是傷害波蘭人的一方。",
+    "內心的煎熬讓他譴責納粹，一生投入政治運動；他參與和平運動與環保運動，又始終追求正義，所以人稱「國家的良心」。",
+    "(Before long) 1996 年春天他在義大利旅行時，用水彩筆直接在畫上寫詩，不久出版了「水詩」詩集；對他來說，繪畫具體而感性，(while) 寫作則艱難而抽象，找不到字句時，繪畫能幫他找到。",
+    "(In this way) 這樣一來，他畫的瓜果、魚和蘑菇不只是描繪，也成了聯想的象徵，(For example) 例如把鳥和蒼蠅、蘑菇和釘子放進同一幅畫，表達現實的複雜。"
+   ]
+  }
  },
  {
   "id": "zref95p1",
@@ -1377,7 +2670,27 @@
   "accuracyRateSource": "本卷非正式施測，無答對率",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "分類",
+   "orgEn": "Classification",
+   "orgCode": "cls",
+   "transitions": [
+    "Most of the time",
+    "also",
+    "Instead",
+    "thus"
+   ],
+   "outline": [
+    "現代社會的壓力似乎無可避免，(Most of the time) 多半來自日常的問題，一個人怎麼回應壓力，決定他能不能好好管理壓力。",
+    "壓力主要有三個來源：環境、身體和思考過程。",
+    "環境中的壓力源有噪音、擁擠、時間壓力、汙染和安全威脅；身體的變化也會引發壓力，例如青春期、老化、重病、缺乏運動、營養不良和睡眠不足。",
+    "思考過程 (also) 也可能是很大的壓力來源：大腦解讀我們的「自我對話」，決定要不要按下「恐慌按鈕」；我們怎麼看待周遭的事，決定自己放鬆還是緊張。",
+    "許多人不花時間評估自己的「自我對話」和對外界的感受，(Instead) 反而任由未經過濾、引發恐慌的感受主導，(thus) 因此壓力越來越大。"
+   ]
+  }
  },
  {
   "id": "zref95p2",
@@ -1396,7 +2709,30 @@
   "accuracyRateSource": "本卷非正式施測，無答對率",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "but",
+    "although",
+    "However",
+    "in contrast to",
+    "Instead",
+    "whereas",
+    "Recently"
+   ],
+   "outline": [
+    "寵物店常把綠變色蜥當作變色龍賣，好幾代美國孩子也都這樣叫牠；兩者其實是不同的動物，(but) 但有很多共同點：都是蜥蜴，多半住在樹上或灌木叢，主要吃昆蟲。",
+    "兩者都會變色，(although) 不過綠變色蜥的變色能力比變色龍有限得多，而會變色正是兩者成為熱門寵物的原因。",
+    "(However / in contrast to) 不過和變色龍不同的是，綠變色蜥變色和背景的顏色無關，(Instead) 而是取決於光線、溫度，或是驚嚇、勝利、挫敗等情緒。",
+    "變色龍是舊大陸的動物，(whereas) 綠變色蜥則分布在南北美洲比較溫暖的地區；變色龍一次產 2 到 40 個卵，綠變色蜥只產一個。",
+    "(Recently) 最近生物學家發現，綠變色蜥很適合用來研究行為和荷爾蒙的交互作用，因為數量多，而且在適當條件下，在實驗室裡也會建立和野外一樣的社會體系和行為。"
+   ]
+  }
  },
  {
   "id": "zref95p3",
@@ -1417,7 +2753,29 @@
   "accuracyRateSource": "本卷非正式施測，無答對率",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "In 1642",
+    "So",
+    "Soon",
+    "However",
+    "Then",
+    "but"
+   ],
+   "outline": [
+    "銀行業的歷史從英國開始。(In 1642) 1642 年英國國王和國會爆發內戰，倫敦是國會的據點，也最安全，(So) 擔心黃金落入任何一方手中的人，就把黃金交給城裡的金匠保管。",
+    "存戶交出黃金，換到「金匠票據」，這就是最早的鈔票；票據的可信度確立以後，大家都很喜歡，因為黃金又重又不方便。",
+    "(Soon) 不久票據就開始當作貨幣使用，因為每一張都有十足的黃金擔保，人人樂於接受。",
+    "(However) 但問題來了：金匠發現很少人真的拿票據換回黃金，就開始發行超過庫存黃金的票據，再把這些新創造的錢借給別人收利息；這種做法有人質疑，卻從來沒有上法院檢驗。",
+    "(Then) 1694 年英格蘭銀行成立，等於讓這種「憑空造錢」的做法合法化；英格蘭銀行不是第一家銀行，(but) 但它成立的性質，對日後銀行在貨幣供給上扮演的角色十分關鍵。"
+   ]
+  }
  },
  {
   "id": "zref95p4",
@@ -1439,7 +2797,29 @@
   "accuracyRateSource": "本卷非正式施測，無答對率",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "but rather",
+    "Strangely",
+    "In fact",
+    "Toward the end",
+    "Another factor",
+    "Thus"
+   ],
+   "outline": [
+    "馬雅文明涵蓋中美洲三分之一的地區，以文字、藝術、建築和數學、天文知識聞名，在古典期（西元 250 到 900 年）達到高峰，是當時人口最密集、文化最活躍的社會之一。",
+    "馬雅不是單一帝國，(but rather) 而是許多文化背景相同的獨立城邦；(Strangely) 奇怪的是，古典期之後這些城市不再是重要的中心，馬雅文化雖然延續至今，卻只存在鄉間。",
+    "學者想知道這些城市為什麼消失：城市淹沒在熱帶叢林裡，旅人和學者直到最近兩百年左右才重新發現；(In fact) 學者對原因仍有爭論，但有幾個因素似乎可以解釋。",
+    "(Toward the end) 馬雅末期，城邦之間戰爭大規模持續不斷；(Another factor) 另一個因素是人口過多，每平方公里多達 200 人，過度利用熱帶森林這個糧食來源。",
+    "花粉研究顯示熱帶森林幾乎消失殆盡，環境遭到破壞，接著缺水、乾旱；(Thus) 因此戰爭、人口過多、資源過度利用和環境破壞，似乎都是馬雅城市消失的原因。"
+   ]
+  }
  },
  {
   "id": "z98p1",
@@ -1461,7 +2841,26 @@
   "accuracyRateSource": "大考中心 98 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "Now that",
+    "not just",
+    "Perhaps because"
+   ],
+   "outline": [
+    "2010 年 4 月 22 日是第 18 屆「女兒帶去上班日」(TOD)，這是美國全國女性 Ms. 基金會 (NFW) 發起的計畫，目的是讓女孩看到職場上越來越多女性的機會。",
+    "女孩可以親眼看到未來的職業選擇，(Now that) 女性已占美國勞動力的 46%，各行各業都有榜樣；TOD 鼓勵女孩重視自己的能力和機會，(not just) 而不只是外表。",
+    "NFW 十多年前發起這項計畫，是為了解決許多女孩進入青春期後的自尊問題：在學校，男孩在數學、科學、電腦這些通往高薪的科目上常常得到比較多鼓勵。",
+    "女性平均只拿到男性薪資的 73%，在高階主管和科技領域的人數也遠遠偏少；TOD 希望給女孩信心和啟發，尤其鼓勵她們在非傳統領域發展事業。",
+    "(Perhaps because) 也許因為計畫太成功，有人批評 TOD 排除男孩，2003 年起也納入男孩，讓男孩女孩在性別觀念還有彈性的年紀一起探索職業。"
+   ]
+  }
  },
  {
   "id": "z98p2",
@@ -1483,7 +2882,28 @@
   "accuracyRateSource": "大考中心 98 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "However",
+    "thus",
+    "not only … but … also",
+    "also",
+    "To this day"
+   ],
+   "outline": [
+    "在各種文化和整個歷史上，頭髮都有特殊的意義；早在西元前 1500 年的古埃及，外表就代表一個人的身分、社會角色和政治地位，假髮做工精巧，常常撒上金粉。",
+    "西元前 8 世紀，北歐的凱爾特人留長髮，男人的長髮代表力量，女人的長髮代表生育能力。",
+    "聖經裡參孫和大利拉的故事也把長髮當作男性力量的象徵：參孫從不剪髮，長髮給他超人的力量，(However) 但唯一知道祕密的大利拉替敵人當間諜，趁夜剪掉他的頭髮，(thus) 參孫因此失去力量。",
+    "古典希臘時期，捲髮 (not only … but … also) 不只是流行，也代表一種人生態度，象徵變化、自由和生活的樂趣，希臘文的捲髮一詞也和誘惑別人有關。",
+    "頭髮 (also) 也是反抗的象徵：龐克用挑釁的髮型和髮色反對中產階級生活，1960 年代的女性用剪短的直髮表達女性解放；(To this day) 直到今天，頭髮仍象徵權力、青春與健康。"
+   ]
+  }
  },
  {
   "id": "z98p3",
@@ -1506,7 +2926,28 @@
   "accuracyRateSource": "大考中心 98 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "論說文",
+   "genreEn": "Argumentative",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "At the same time",
+    "also",
+    "For example",
+    "on the other hand",
+    "So"
+   ],
+   "outline": [
+    "9 歲的 Camille 這個週末要參加加州 Agoura Hills 的全市清潔活動；(At the same time) 同一時間，黎巴嫩 12 歲的 Wissam 也要到孤兒院演戲、送盆栽到老人中心。",
+    "有些孩子當志工是出於個人原因：10 歲的 Nathan 祖母死於心臟病，他和五個男孩輪流跳繩兩個半小時，替美國心臟協會募到一千二百多美元，支持醫學研究。",
+    "全球每年有數百萬兒童幫助社區，學校和家長 (also) 也推動了這股風氣：(For example) 例如許多學校提供社區服務活動，老師把志工服務結合課堂或列為規定；(on the other hand) 家長則鼓勵孩子當志工，並陪孩子一起做。",
+    "經濟不景氣的時候，社區服務格外重要，因為需要資金和援助的人變多，許多慈善機構收到的捐款卻大幅減少，孩子們每年數千小時的志工服務能補上部分缺口。",
+    "研究顯示，從小當志工的孩子，長大後繼續行善的可能性是別人的兩倍；(So) 所以作者呼籲大家拿起油漆刷或垃圾袋幫助社區，只要是為了好的目的，再髒的工作也能很有趣。"
+   ]
+  }
  },
  {
   "id": "z98p4",
@@ -1528,7 +2969,27 @@
   "accuracyRateSource": "大考中心 98 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "However",
+    "but",
+    "Similarly",
+    "Unfortunately"
+   ],
+   "outline": [
+    "高中生和大學生上網下載音樂很普遍，(However) 但是未經許可下載、分享有版權的音樂就是違法。",
+    "調查發現，青少年和大學生的數位播放器裡，平均每人有八百多首非法複製的歌曲，一半的人分享硬碟裡所有的音樂，讓別人一次就能複製數百首。",
+    "有些學生把部落格隨意連結到音樂網站，讓訪客免費試聽有版權的歌曲，或把歌曲當作部落格的背景音樂；這些做法簡單又免費，(but) 但是會有後果。",
+    "大學生 Sandra 下載 501 個檔案，罰款 7,500 美元，她說之前不知道下載違法；(Similarly) Mike 也付了 4,000 美元和解，他原本以為警告只是嚇唬人。",
+    "專門控告非法下載者的美國唱片業協會 (RIAA) 表示，告學生絕對不是他們的首選，(Unfortunately) 可惜沒有後果的威脅，學生就是不改，光靠教育擋不住非法下載的驚人成長。"
+   ]
+  }
  },
  {
   "id": "z97p1",
@@ -1550,7 +3011,30 @@
   "accuracyRateSource": "大考中心 97 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "Two years later",
+    "In 1947",
+    "At first",
+    "However",
+    "In 1958",
+    "Today",
+    "Though"
+   ],
+   "outline": [
+    "樂高起源於丹麥木匠 Ole Kirk Christiansen 的工作室，他 1932 年開始做木製玩具，(Two years later) 兩年後取丹麥文 Leg Godt（玩得好）兩個字的前兩個字母，取名 Lego。",
+    "(In 1947) 1947 年公司開始生產塑膠玩具，(At first) 起初零售商和消費者不看好塑膠玩具，銷售不佳，許多貨品遭到退回。",
+    "(However) 但是創辦人的兒子 Godtfred 看出樂高積木可以發展成創意遊戲的系統，花了多年改良積木的扣合能力，(In 1958) 1958 年終於研發出現代的互鎖積木，並取得專利。",
+    "(Today) 如今樂高在 130 多個國家販售，每分鐘生產 33,824 塊積木，全世界孩子一年玩樂高的時間有 50 億小時，平均每人擁有 62 塊積木，每秒賣出大約七組。",
+    "今年全球樂迷慶祝積木問世 50 週年，(Though) 雖然已經 50 歲，樂高還是 1950 年代的同一種產品，當年買的積木仍然能和現在的積木相接，這可能就是樂高始終受歡迎的原因。"
+   ]
+  }
  },
  {
   "id": "z97p2",
@@ -1571,7 +3055,31 @@
   "accuracyRateSource": "大考中心 97 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "however",
+    "Not only … but",
+    "Though",
+    "At the time",
+    "Then",
+    "Now",
+    "Instead",
+    "But"
+   ],
+   "outline": [
+    "作者九年級時得了厭食症，光瘦還不夠，一定要最瘦；(however) 如今完全康復，回頭看才明白，她想要的不只是穿得下五號褲子。",
+    "許多潛意識的情緒和父親有關：父親總是工作第一，有時兩週見不到人，(Not only … but) 他不但全心投入工作，也要求女兒一樣，要她一定要上最好的大學。",
+    "(Though) 雖然作者從不覺得有壓力要討父親歡心，卻在父親第一次說她胖之後開始節食；(At the time) 當時她只知道自己要比誰都瘦。",
+    "父親每個月到歐洲出差一週左右，每次他離開，她就充滿悲傷和空虛，(Then) 於是轉而專注於挨餓帶來的虛弱、像孩子一樣無助的感覺，心想自己需要照顧，也許爸爸就會照顧她。",
+    "(Now) 兩年後體重多了 38 磅，她明白無法改變父親不善表達感情，(Instead) 只能接納自己；她用挨餓爭取父親的肯定，(But) 但是最重要的肯定必須來自自己。"
+   ]
+  }
  },
  {
   "id": "z97p3",
@@ -1592,7 +3100,28 @@
   "accuracyRateSource": "大考中心 97 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "but",
+    "Sometimes",
+    "On the other hand",
+    "For example",
+    "therefore"
+   ],
+   "outline": [
+    "非洲有許多族群，(but) 但是歐洲人劃分殖民地時完全不考慮族群的領域，有些邊界把同一族群拆到不同殖民地，有些邊界把不同族群放進同一個殖民地，(Sometimes) 有時放在一起的還是敵對族群。",
+    "殖民地獨立成為國家以後，這些邊界大多保留下來，所以索馬利族至今仍分散在衣索比亞、肯亞、索馬利亞和吉布地。",
+    "(On the other hand) 另一方面，幾乎每個非洲國家都住著不只一個族群，例如奈及利亞就有豪薩、富拉尼、約魯巴、伊博等族群。",
+    "族群拆散與合併引發衝突，(For example) 例如索馬利族希望全族屬於同一國家，索馬利亞因此和衣索比亞打仗；奈及利亞內戰也部分起因於族群衝突。",
+    "(therefore) 因此，今天非洲各國的主要目標之一，是讓國內的眾多族群和平共處。"
+   ]
+  }
  },
  {
   "id": "z96p1",
@@ -1615,7 +3144,32 @@
   "accuracyRateSource": "大考中心 96 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "As a child",
+    "But",
+    "In 1848",
+    "After the Civil War",
+    "By 1900",
+    "However",
+    "then",
+    "instead",
+    "By the time"
+   ],
+   "outline": [
+    "卡內基曾是世界首富，1835 年生於蘇格蘭的織工家庭，(As a child) 小時候家人期望他繼承父業，(But) 但是工業革命毀了手工織布業，全家只好到美國找出路。",
+    "(In 1848) 1848 年全家搬到當時的製鐵中心匹茲堡，卡內基先在棉紡廠打零工，後來當電報送信員，常趁送信留在劇院看戲，閒暇時多半待在一間開放給勞工男孩的小圖書館。",
+    "(After the Civil War) 南北戰爭後，他看好鐵業的潛力，把木橋換成更堅固的鐵橋而致富，又引進新的煉鋼方法把鐵煉成鋼，(By 1900) 到 1900 年，卡內基鋼鐵公司的產量超過整個英國。",
+    "(However) 不過他常說對商人生活感到不安，想多花時間學習、有系統地讀書，認為一心只想在最短時間內賺更多錢，會讓自己墮落到無可挽回；對知識的渴望讓他賣掉公司，64 歲退休。",
+    "他常說「死時富有，死得可恥」，(then) 退休後專心捐出財富；他厭惡施捨，(instead) 寧可幫助別人自助，設立了 2,500 多所公共圖書館，(By the time) 1919 年過世時總共捐出 3 億 5 千萬美元。"
+   ]
+  }
  },
  {
   "id": "z96p2",
@@ -1637,7 +3191,28 @@
   "accuracyRateSource": "大考中心 96 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "定義",
+   "orgEn": "Definition",
+   "orgCode": "def",
+   "transitions": [
+    "If",
+    "not from … but from",
+    "Therefore",
+    "Once",
+    "so that"
+   ],
+   "outline": [
+    "大多數父母都怕學校說孩子的行為「不正常」；(If) 如果孩子因為不專心、坐不住、衝動行事而影響課業和人際，很可能是注意力不足過動症 (AD/HD)。",
+    "AD/HD 是一種神經系統疾病，(not from … but from) 起因不是家庭環境，而是生理和遺傳，症狀通常在幼年出現。",
+    "主要特徵是不專心、過動和衝動：不專心的孩子難以完成工作或學新東西，過動的孩子靜不下來，衝動的孩子做事不經思考，常脫口說出不得體的話。",
+    "多數孩子偶爾也會這樣，要是行為和年齡不相稱、又影響生活各方面，才會診斷為 AD/HD，(Therefore) 所以懷疑孩子有 AD/HD 時，一定要請專業人員評估。",
+    "(Once) 孩子一旦確診，應該告訴學校，(so that) 讓學校提供適當的課業和人際支持；學校應該保密，通常也能在教室裡做些調整，配合孩子的學習需要。"
+   ]
+  }
  },
  {
   "id": "z96p3",
@@ -1661,7 +3236,27 @@
   "twinIds": [
    "zref99p3"
   ],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "but",
+    "In order to",
+    "Furthermore",
+    "So"
+   ],
+   "outline": [
+    "衝突鑽石又稱血鑽石，販售所得用來資助叛軍、軍隊和恐怖組織；獅子山、安哥拉、賴比瑞亞和剛果民主共和國受害最深，控制鑽石交易的團體恐嚇甚至殺害當地人民。",
+    "這些地區的戰爭大多已經結束或減緩，(but) 但是衝突鑽石的問題並未消失，賴比瑞亞等叛軍控制區開採的鑽石，走私到鄰國以後，再當作無衝突鑽石出口。",
+    "(In order to) 為了阻止血鑽石交易，有合法鑽石貿易的南部非洲國家在 2000 年發起追蹤原鑽來源的運動，促成了金伯利進程認證機制 (KPCS) 這個國際組織。",
+    "KPCS 的目標是在原鑽進入參與國時記錄並追蹤來源，運貨商必須把鑽石裝進密封箱，並提供足夠的產地資料，證明鑽石不是來自衝突地區。",
+    "鑽石帶來的苦難難以想像，(Furthermore) 媒體也很少報導鑽石和恐怖活動的關聯，電影《血鑽石》讓更多人注意到這件事；(So) 作者呼籲讀者買鑽石時憑良心選擇。"
+   ]
+  }
  },
  {
   "id": "z95p1",
@@ -1681,7 +3276,27 @@
   "accuracyRateSource": "大考中心 95 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "but",
+    "Moreover",
+    "What’s more",
+    "therefore"
+   ],
+   "outline": [
+    "走進日本便利商店，馬上會注意到商品包裝的種類多、品質好。",
+    "日本企業常受批評過度包裝，(but) 從日本文化來看並非如此：日本人重視新鮮，家裡又缺少儲存空間。",
+    "(Moreover) 日本人認為好的包裝代表品質，(What’s more) 包裝也象徵感謝、愛與關懷。",
+    "(therefore) 包裝在日本經濟中地位重要，市場規模超過 7.4 兆日圓，新包裝推出率全球最高。",
+    "在這樣的環境下，產品除了好看，還要兼具個性和實用價值，便利商店貨架上的商品很快又會換上新面貌。"
+   ]
+  }
  },
  {
   "id": "z95p2",
@@ -1703,7 +3318,27 @@
   "accuracyRateSource": "大考中心 95 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "In 1884",
+    "Moreover",
+    "Finally",
+    "In October 1926"
+   ],
+   "outline": [
+    "美洲原住民無法理解白人對狼的戰爭，他們把狼視為精神上的兄弟，敬佩狼的耐力和狩獵本領。",
+    "白人牧場主人聲稱每年有數千頭牛遭狼咬死，(In 1884) 蒙大拿州開始懸賞，三十五年間領賞的狼屍超過八萬具。",
+    "(Moreover) 政府還免費提供毒藥，(Finally) 1914 年國會撥款在公有地消滅狼。",
+    "連黃石國家公園也不安全，1914 到 1926 年間管理員殺了近 140 隻狼，(In October 1926) 最後兩隻幼狼在 1926 年 10 月落入陷阱。",
+    "牧場主人贏得這場戰爭，只剩北方幾州的樹林還聽得到狼嚎，美國西部失去了最強大的掠食者。"
+   ]
+  }
  },
  {
   "id": "z95p3",
@@ -1727,7 +3362,26 @@
   "accuracyRateSource": "大考中心 95 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "論說文",
+   "genreEn": "Argumentative",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "but",
+    "Despite",
+    "After all"
+   ],
+   "outline": [
+    "倫敦一家私人醫療中心的 Campbell 醫師公布胎兒的超音波影像，胎兒的笑容震驚大眾，在網路上廣為流傳。",
+    "他提供準父母 3D／4D 超音波掃描，每週平均 30 次，許多夫婦看到影像都開心地笑了。",
+    "支持墮胎的評論者 Carp 認為照片誤導大眾，澳洲的 Brodie 則抱怨照片會成為反墮胎團體的工具。",
+    "美國支持墮胎的一方同樣反應敵對，認為新技術模糊了胎兒和新生兒的界線，(but) 早先的 2D 影像就已經讓他們難以接受。",
+    "(Despite) 儘管反對聲浪強烈，作者主張生命權優先於女性的選擇權，(After all) 胎兒的笑臉最有說服力。"
+   ]
+  }
  },
  {
   "id": "z94p1",
@@ -1748,7 +3402,27 @@
   "accuracyRateSource": "大考中心 94 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "though",
+    "Yet",
+    "however",
+    "While"
+   ],
+   "outline": [
+    "近年亞洲工業化國家掀起蓋高樓的熱潮，世界前十高樓有七座在台灣、香港和中國。",
+    "台北 101 是目前最高的建築，(though) 加拿大的 CN Tower 因天線較高而多出 180 英尺；(Yet) 杜拜正在興建更高的大樓。",
+    "杜拜塔的地基已經完成，完工後至少 123 層，(however) 確切高度對競爭對手保密。",
+    "(While) 紐約蓋摩天大樓是因為土地不足，杜拜則是為了讓城市登上世界地圖。",
+    "杜拜塔外觀像即將升空的太空梭，設計師說它將替阿拉伯世界奪回世界最高建築的榮耀。"
+   ]
+  }
  },
  {
   "id": "z94p2",
@@ -1770,7 +3444,30 @@
   "accuracyRateSource": "大考中心 94 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "With this in mind",
+    "Next",
+    "Nevertheless",
+    "Then",
+    "Instead",
+    "Finally",
+    "But"
+   ],
+   "outline": [
+    "湯普森醫師搬到中西部小鎮三個月，受邀在商會演講，(With this in mind) 他認真準備，想展現醫學知識。",
+    "他以「醫學最新進展」為題，先談罕見的腦部疾病，(Next) 再談免疫系統疾病的研究進展。",
+    "講到一半，聽眾開始騷動、竊竊私語，(Nevertheless) 他照樣講下去，引用英國權威醫學期刊的基因研究。",
+    "(Then / Instead) 演講結束，沒有人圍上來祝賀或發問，他獨自站在台上。",
+    "(Finally) 商會會長過來說明，(But) 主題離聽眾的生活太遠，要是談怎麼預防流感，大家一定聽得津津有味。"
+   ]
+  }
  },
  {
   "id": "z94p3",
@@ -1792,7 +3489,28 @@
   "accuracyRateSource": "大考中心 94 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "分類",
+   "orgEn": "Classification",
+   "orgCode": "cls",
+   "transitions": [
+    "for instance",
+    "But",
+    "for example",
+    "Accordingly",
+    "While"
+   ],
+   "outline": [
+    "企業進入新市場會遇到各種問題，大致可分為文化、經濟、地理、政治／法律、宗教、科技六類，要讀者替後面各段的問題分類。",
+    "第一段（政治／法律）：企業在當地是外來者，(for instance) 印度要求可口可樂公開配方，可口可樂選擇撤出，(But) 後來重返印度，又一直受到政治運動人士干擾。",
+    "第二段（經濟）：這類問題會影響產品，企業必須調整產品以符合當地需求，(for example) 評估當地的收入、購買力和基礎建設。",
+    "第三段（文化）：這是研究新市場最大的難題，各方面相似的市場在這一點上往往不同，連同一國家內也有差異。",
+    "(Accordingly) 加拿大的旅遊廣告分英語和法語兩種，(While) 英語版只出現妻子，法語版則是夫妻一起，因為法語族群更重視家庭。"
+   ]
+  }
  },
  {
   "id": "z93bp1",
@@ -1817,7 +3535,25 @@
   "accuracyRateSource": "大考中心未公布本卷逐題數據",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "Thanks to",
+    "as a result of"
+   ],
+   "outline": [
+    "調查顯示，六成英國兒童看過哈利波特電影後，接著讀了前兩集原著。",
+    "這份調查出自書商 Waterstone’s，主題是哈利波特現象對兒童閱讀的影響。",
+    "(Thanks to) 文學編輯 Higgs 指出，電影屬於 PG 級，每部上映都替原著帶來新一代的小讀者。",
+    "第一部電影上映後，哈利波特系列的銷量增加三倍；(as a result of) 魔戒第一部電影帶來的銷量成長更大。",
+    "Higgs 補充，家長發現電影是說服不愛讀書的孩子拿起書本的好機會。"
+   ]
+  }
  },
  {
   "id": "z93bp2",
@@ -1837,7 +3573,27 @@
   "accuracyRateSource": "大考中心未公布本卷逐題數據",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "but",
+    "However",
+    "For instance",
+    "Whereas"
+   ],
+   "outline": [
+    "台灣許多建築經得起地震，(but) 有些卻像玩具一樣倒下，專家認為原因是地基沒打好，或是軟土在地震中液化。",
+    "英國學者 Petley 指出，台灣普遍有不遵守建築法規、在不該開發的地方開發的情形。",
+    "他也指出，台灣發展太快，造成不少違法的建築工程。",
+    "(However) 地震學家和工程師認為，政府實施三套防震建築法規，讓死亡人數比原本可能的少很多。",
+    "(For instance) 美國地質調查局的 Mooney 比較台灣和土耳其，(Whereas) 土耳其約 65% 的建築違法興建，台灣執法則相當成功。"
+   ]
+  }
  },
  {
   "id": "z93bp3",
@@ -1860,7 +3616,28 @@
   "accuracyRateSource": "大考中心未公布本卷逐題數據",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "However",
+    "Today",
+    "in particular",
+    "For example",
+    "And"
+   ],
+   "outline": [
+    "語言教室是語言教學最有名的科技輔助：學生在隔間裡聽錄音帶、錄下自己的回答，老師在旁監聽。",
+    "語言教室剛推出時，大家期待它減輕老師帶反覆練習的負擔，讓學生多練習聽說、按自己的進度學習。",
+    "(However) 幾年內效果就不如預期，原因包括教材設計不佳、課程內容和課堂脫節、老師缺乏訓練、設備難以維護。",
+    "(Today) 現在大家更了解語言教室的優缺點，加上電子設備進步，重新受到重視，(in particular) 互動電腦和影音教材特別受歡迎。",
+    "只要使用得當，語言教室能替語言教學加分，(For example) 提供道地的聽力示範，(And) 也能當作資源中心讓學生自主練習。"
+   ]
+  }
  },
  {
   "id": "z93p1",
@@ -1879,7 +3656,25 @@
   "accuracyRateSource": "大考中心 93 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "for example",
+    "then"
+   ],
+   "outline": [
+    "現在連在樹林裡散步都能變成「極限」運動，(for example) 地理藏寶就是一例。",
+    "登山客把裝著 CD、照片、日記等小東西的「寶藏」藏在世界各地的隱密地點。",
+    "(then) 他們把座標公布在網站上，其他人用座標和 GPS 一起尋寶。",
+    "地理藏寶靠榮譽制度運作：拿走東西的人要留下自己的寶藏。",
+    "度假村也搭上這股風潮，例如猶他州的 Red Mountain Spa 教遊客用 GPS 找出裝著 spa 產品的寶藏。"
+   ]
+  }
  },
  {
   "id": "z93p2",
@@ -1901,7 +3696,29 @@
   "accuracyRateSource": "大考中心 93 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "Even though",
+    "But",
+    "not only … but also",
+    "However",
+    "So",
+    "Then"
+   ],
+   "outline": [
+    "(Even though) 智慧娃娃 Cindy 才五歲，就會說五種語言、閱讀、看時間和做簡單的數學。",
+    "(But) 她外表和一般娃娃一樣，卻是第一個能看、思考並聽從指令的娃娃。",
+    "Cindy 延續 Sony 機器狗 Aibo 的突破，(not only … but also) 不但聽從指令，還能辨認形狀、顏色和文字並記住它們。",
+    "玩具公司花了十年研究，(However) 少了視覺，玩具就缺少生物回應環境最敏銳的能力。",
+    "(So / Then) Cindy 看的方法分幾個步驟：先辨認指令，再用內建相機掃描文字，最後由肚子裡的微處理器跟資料庫比對。"
+   ]
+  }
  },
  {
   "id": "z93p3",
@@ -1923,7 +3740,26 @@
   "accuracyRateSource": "大考中心 93 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "not only … but also",
+    "Still",
+    "On the contrary"
+   ],
+   "outline": [
+    "1943 年 6 月，萊特受託設計新館收藏古根漢的非具象繪畫，過程中和業主、市府、藝術界與輿論多方角力。",
+    "古根漢和萊特都在美術館完工前過世，這座建築 (not only … but also) 不但證明萊特的天才，也展現創辦人的冒險精神。",
+    "萊特不喜歡紐約，認為紐約過度開發、人口過多、建築乏善可陳，(Still) 仍順從業主的意思，最後選定靠近中央公園的第五大道現址。",
+    "萊特的設計融合各種幾何形狀，有人批評建築會壓過館內的藝術品，(On the contrary) 萊特則認為建築和畫作會成為一首完整的交響曲。",
+    "這座建築結合幾何的規律和自然的可塑性，堪稱萊特晚期最有說服力、也最重要的作品。"
+   ]
+  }
  },
  {
   "id": "z92p1",
@@ -1942,7 +3778,25 @@
   "accuracyRateSource": "大考中心 92 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
+   "transitions": [
+    "but",
+    "as well as"
+   ],
+   "outline": [
+    "曼谷雖然有交通、噪音、高溫、淹水和空氣汙染等問題，仍有很多地方可看、很多事可做。",
+    "曼谷高度都市化，(but) 現代外表底下仍保有明顯的泰國特色。",
+    "說曼谷不是泰國，就像說紐約不是美國、巴黎不是法國一樣不合理。",
+    "曼谷能滿足各種興趣：喜歡傳統文化的人有寺廟和博物館，喜歡現代曼谷的人有餐廳、夜店、國際活動，(as well as) 還有多語電影和現代藝術中心。",
+    "引用住在泰國的美國作家 William Warren 的話：曼谷保證讓他永遠不無聊。"
+   ]
+  }
  },
  {
   "id": "z92p2",
@@ -1954,7 +3808,7 @@
    50,
    53
   ],
-  "title": "麥可·傑克遜的育兒爭議（Michael Jackson's Parenting Controversy）",
+  "title": "麥可·傑克森的育兒爭議（Michael Jackson's Parenting Controversy）",
   "paras": [
    "Michael Jackson provoked new concerns for his children’s welfare after he took them to the zoo covered in strange, bright-colored veils “to protect them from kidnappers.”",
    "The pop star was pictured walking through Berlin Zoo with his two elder children, Prince Michael, five, and Paris, four.",
@@ -1966,7 +3820,26 @@
   "accuracyRateSource": "大考中心 92 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "因果關係",
+   "orgEn": "Cause-Effect",
+   "orgCode": "cau",
+   "transitions": [
+    "But",
+    "As",
+    "However"
+   ],
+   "outline": [
+    "麥可·傑克森帶孩子逛柏林動物園時，讓孩子戴上奇特的彩色面紗，引發外界擔心孩子的福祉。",
+    "隨行人員說面紗是為了防止綁架，(But) 這個說法令人難以相信。",
+    "這次露面前 24 小時，他才把九個月大的小兒子懸在飯店四樓陽台外，引起眾怒。",
+    "(As) 世界各地批評他不適任父親，兒童保護團體要求德國警方採取行動。",
+    "(However) 柏林檢察官表示目前沒有調查，必須有人提出告訴才能立案。"
+   ]
+  }
  },
  {
   "id": "z92p3",
@@ -1989,7 +3862,26 @@
   "accuracyRateSource": "大考中心 92 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "論說文",
+   "genreEn": "Argumentative",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
+   "transitions": [
+    "Yet",
+    "Instead",
+    "Yet"
+   ],
+   "outline": [
+    "911 事件後，美國實施數百項新的安全措施，例如飯店查驗證件、禁止攜帶刀片和剪刀上飛機。",
+    "提出既能提升安全又能保護隱私的方法：行李比對，旅客沒登機，託運行李就不上飛機；歐洲和亞洲在 1980 年代已經實施。",
+    "(Yet / Instead) 美國卻忽視行李比對，改用未經充分測試的電子偵測系統；批評者認為原因是航空公司擔心延誤和流失短程旅客。",
+    "(Yet) 航空公司聲稱全面實施會讓它們破產，但 Barnett 1997 年的實驗顯示，延誤平均只有七分鐘，而且只發生在七分之一的航班。",
+    "Barnett 主張行李比對加上爆裂物偵測效果最好，TSA 卻只回了一封感謝函，看不出有採取行動的打算。"
+   ]
+  }
  },
  {
   "id": "z91p1",
@@ -2008,7 +3900,27 @@
   "accuracyRateSource": "大考中心 91 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "說明文",
+   "genreEn": "Expository",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
+   "transitions": [
+    "but",
+    "on the other hand",
+    "In contrast to",
+    "whereas"
+   ],
+   "outline": [
+    "愛斯基摩人和平原印第安人都在住處生火取暖，(but) 結果大不相同。",
+    "愛斯基摩冰屋用冰磚砌成，密不透風，屋內可達華氏 70 到 80 度，熱到要一杯接一杯喝冰水。",
+    "(on the other hand) 平原印第安人的帳篷用長竿和獸皮搭成，入口直接開在牆上。",
+    "(In contrast to) 帳篷不密封，冷風從門口和獸皮縫隙灌進來，印第安人整夜蓋著毯子發抖。",
+    "兩者的差別在於隔熱：冰屋牆壁堅實密封，(whereas) 帳篷則讓大量空氣進入。"
+   ]
+  }
  },
  {
   "id": "z91p2",
@@ -2030,7 +3942,29 @@
   "accuracyRateSource": "大考中心 91 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "but",
+    "Then",
+    "Yet",
+    "Then",
+    "So",
+    "At this moment"
+   ],
+   "outline": [
+    "Soapy 春夏秋三季過得不錯，(but) 冬天難熬，所以每年 11 月都設法犯法入獄，換取溫暖和三餐。",
+    "他先砸破百貨公司的櫥窗，(Yet) 警察不相信是他做的；接著出言調戲一位女士，對方反而向他道謝。",
+    "中午他到高級餐廳白吃一頓，經理卻要他到廚房洗碗，洗了三個小時。",
+    "(Then) 夜裡他走到教堂前，聽到唱詩班的歌聲，(So) 決定改過自新，接受上週的卡車司機工作。",
+    "(At this moment) 警察再度出現，以破壞公物的罪名逮捕他，法官判他坐牢三個月。"
+   ]
+  }
  },
  {
   "id": "z91p3",
@@ -2051,7 +3985,28 @@
   "accuracyRateSource": "大考中心 91 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "舉例說明",
+   "orgEn": "Example/Illustration",
+   "orgCode": "exm",
+   "transitions": [
+    "One reason",
+    "But",
+    "And",
+    "Even before",
+    "also"
+   ],
+   "outline": [
+    "維多利亞女王 1837 年到 1901 年統治英國，這段時期稱為維多利亞時代。",
+    "女王個性嚴肅，(One reason) 原因之一是她深愛的丈夫亞伯特親王在 1861 年過世。",
+    "當時寡婦只穿短期黑衣，(But) 女王穿黑衣穿了四十年，(And) 四十年來信紙也都鑲上黑邊。",
+    "(Even before) 亞伯特過世前，女王就以嚴肅出名，責任感強，工作勤奮，始終保持女王的威儀。",
+    "她的理想和道德標準很高，(also) 也很有自信，總認為自己是對的，期待每個人都同意她。"
+   ]
+  }
  },
  {
   "id": "z91p4",
@@ -2071,6 +4026,26 @@
   "accuracyRateSource": "大考中心 91 學年度指定科目考試統計圖表：英文科答對率及鑑別指數表",
   "flagNote": null,
   "twinIds": [],
-  "internalNote": null
+  "internalNote": null,
+  "structure": {
+   "genre": "記敘文",
+   "genreEn": "Narrative",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
+   "transitions": [
+    "in fact",
+    "Then",
+    "Following",
+    "And"
+   ],
+   "outline": [
+    "曼哈頓計畫的德國科學家 Boll 在原爆五十週年時到紐約一所大學演講，替當年的作為辯護。",
+    "(in fact) 這項科學成就其實讓他的人生停擺，廣島的慘狀一直糾纏他，美夢成了惡夢。",
+    "(Then) 他的妻子是父母死於納粹集中營的奧地利猶太人，她病重時替丈夫安排一趟救贖之旅，讓他和在原爆中毀容的廣島女性 Amai 見面。",
+    "(Following) 演講結束後，臉部經美國外科醫師重建、現為紀錄片導演的 Amai 走向 Boll，想訪問他在製造原子彈時扮演的角色。",
+    "(And) Amai 看穿 Boll 的外表，看到他和戰後日本人一樣絕望疲憊，開始體會他為勝利付出的代價。"
+   ]
+  }
  }
 ]
