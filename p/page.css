@@ -1,0 +1,87 @@
+/* reading-comprehension/p/ 靜態頁樣式。色碼取自站上 index.html，勿自行更動 */
+:root{--paper:#F6F1E4; --paper-card:#FFFDF7; --ink:#221F1A; --ink-soft:#5B5648;
+  --rule:#DCD3BB; --crimson:#AE3626; --sage:#3E6E52; --gold:#A9812E;
+  --shadow:0 1px 0 rgba(34,31,26,.06), 0 8px 24px rgba(34,31,26,.08);}
+*{box-sizing:border-box;}
+html,body{margin:0; padding:0;}
+body{background:var(--paper); color:var(--ink);
+  font-family:'Noto Sans TC',sans-serif; font-size:15px; line-height:1.9;}
+a{color:var(--crimson);}
+a:focus-visible,summary:focus-visible{outline:2px solid var(--crimson); outline-offset:2px;}
+.wrap{max-width:760px; margin:0 auto; padding:22px 16px 60px;}
+.crumb{font-size:12.5px; color:var(--ink-soft); margin-bottom:14px;}
+.card{background:var(--paper-card); border:1px solid var(--rule); border-radius:4px;
+  box-shadow:var(--shadow); padding:18px 20px; margin-bottom:16px; overflow-wrap:anywhere;}
+.card.unofficial{border-left:3px dashed var(--crimson);}
+h1{font-family:'Noto Serif TC',serif; font-size:21px; line-height:1.5; margin:0 0 6px;}
+h2{font-family:'Noto Serif TC',serif; font-size:17px; margin:0 0 12px;
+  padding-bottom:8px; border-bottom:1px dashed var(--rule);}
+.badge{display:inline-block; font-family:'Noto Sans TC',sans-serif; font-size:11px; line-height:1.5;
+  border:1px solid var(--crimson); color:var(--crimson); background:#fff; border-radius:3px;
+  padding:0 6px; margin-left:6px; white-space:nowrap; vertical-align:3px; font-weight:400;}
+.ptitle{font-size:13.5px; color:var(--ink-soft); margin-bottom:10px;}
+.tags{display:flex; flex-wrap:wrap; gap:6px; margin-bottom:12px;}
+.tag{font-size:12px; padding:2px 9px; border-radius:11px; background:#F3EFE0; color:var(--ink-soft);}
+.hint{font-size:12.5px; color:var(--ink-soft); line-height:1.8; margin:0;}
+.flagNote{font-size:13px; line-height:1.85; background:#FFFBEA; border-left:3px solid var(--gold);
+  padding:8px 12px; border-radius:2px; margin-bottom:12px;}
+.twinLinks{display:flex; flex-wrap:wrap; gap:10px; margin-top:6px;}
+.passage p{margin:0 0 14px; font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif','Noto Sans TC',serif;
+  font-size:15.5px; line-height:2.05;}
+figure.fig{margin:0 0 16px; text-align:center;}
+figure.fig img{max-width:100%; height:auto; border:1px solid var(--rule); background:#fff;}
+figure.fig figcaption{font-size:11.5px; color:var(--ink-soft); margin-top:6px; line-height:1.6;}
+.q{border-top:1px solid var(--rule); padding-top:12px; margin-bottom:12px;}
+.passage + .q, .q:first-of-type{border-top:none;}
+.stem{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif','Noto Sans TC',serif;
+  font-size:15px; line-height:1.85; margin:0 0 8px;}
+.stem .qn{font-weight:700; color:var(--crimson); margin-right:6px;}
+.stem .ins{display:block; margin-top:8px; padding:8px 12px; background:#F3EFE0; border-left:3px solid var(--gold); border-radius:2px;}
+.opts{list-style:none; margin:0; padding:0;}
+.opts li{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif','Noto Sans TC',serif;
+  font-size:14.5px; line-height:1.8; padding:6px 11px; margin-bottom:5px;
+  border-left:3px solid var(--rule); border-radius:2px; background:#fff;}
+.opts .k{font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-weight:600; color:var(--crimson); margin-right:7px;}
+.ansBox summary{cursor:pointer; font-weight:700; font-size:15.5px; color:var(--crimson);}
+.ansBox .inner{margin-top:14px;}
+.ansTable{width:100%; border-collapse:collapse; font-size:13.5px; line-height:1.7; margin:0 0 8px;}
+.ansTable th,.ansTable td{border:1px solid var(--rule); padding:5px 8px; text-align:center;}
+.ansTable th{background:#F3EFE0;}
+.ansTable td.n{font-family:'IBM Plex Mono','Noto Sans TC',monospace;}
+.anote{font-size:13px; line-height:1.8; background:#FFFBEA; border-left:3px solid var(--gold); padding:6px 10px; margin:0 0 8px;}
+.src{font-size:12px; color:var(--ink-soft); line-height:1.8; margin:0 0 14px;}
+.pending{font-size:12.5px; color:var(--ink-soft); margin:12px 0 0;}
+/* 文章結構：與互動練習交卷後的區塊相同 */
+.stBox{border:1px solid var(--rule); border-left:3px solid var(--sage); border-radius:3px; background:#F7FAF5; padding:12px 14px;}
+.stHead{font-family:'Noto Serif TC',serif; font-weight:700; font-size:15.5px; margin-bottom:8px;}
+.stRow{display:flex; gap:10px; font-size:13.5px; line-height:1.8; padding:4px 0; border-bottom:1px dotted var(--rule);}
+.stRow .k{flex:0 0 76px; font-weight:700; color:var(--sage);}
+.stRow .v{min-width:0;}
+.stRow .en{font-size:12px; color:var(--ink-soft);}
+.trList{display:flex; flex-wrap:wrap; gap:5px;}
+.trw{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:13.5px; background:#fff;
+  border:1px solid var(--rule); border-radius:3px; padding:0 6px; line-height:1.7;}
+.stSub{font-weight:700; font-size:13.5px; color:var(--sage); margin:10px 0 4px;}
+.stOutline{margin:0; padding-left:22px; font-size:14px; line-height:1.9;}
+.stOutline li{margin-bottom:5px;}
+.tw{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; color:var(--crimson);}
+.stNote{font-size:12px; color:var(--ink-soft); line-height:1.7; margin-top:8px;}
+.nav{display:flex; justify-content:space-between; gap:10px; font-size:14px;}
+.cta{display:block; text-align:center; font-weight:700;}
+/* 篇目一覽 */
+.lead{font-size:14px; line-height:1.9; margin:0 0 12px;}
+.toc{display:flex; flex-wrap:wrap; gap:6px 14px; font-size:13.5px;}
+.def{font-size:13px; color:var(--ink-soft); margin:0 0 10px;}
+.plist{list-style:none; margin:0; padding:0;}
+.plist li{padding:6px 0 6px 2px; border-bottom:1px dashed var(--rule); font-size:14px; line-height:1.7;}
+.plist li:last-child{border-bottom:none;}
+.plist li.unofficial{border-left:3px dashed var(--crimson); padding-left:9px;}
+.plist .meta{display:block; font-size:12px; color:var(--ink-soft);}
+footer{font-size:12px; line-height:1.9; color:var(--ink-soft); text-align:center; margin-top:24px;}
+footer .fl{font-size:13px; margin-bottom:12px; font-weight:700;}
+@media (max-width:560px){
+  .card{padding:15px 14px;}
+  h1{font-size:19px;}
+  .stRow{flex-direction:column; gap:0;} .stRow .k{flex:none;}
+}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto !important; transition:none !important;}}
