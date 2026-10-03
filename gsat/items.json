@@ -18250,7 +18250,28 @@
   "answer": "D",
   "accuracyRate": 62,
   "discrimination": 44,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段介紹這對雙胞胎兄弟先後接受心臟移植，創下紀錄；第 2 段是 Alfred 拿新心臟開的玩笑；第 3 段說兩人心臟出問題的原因；第 4、5 段說兩人復原的情形和兄弟感情。全文寫的是這對接受心臟移植的雙胞胎兄弟，所以是 (D)。(B) 換了心臟變年輕，只是第 2 段 Alfred 開的玩笑，過於狹隘；(C) 遺傳對心臟的影響，只在第 3 段提到一句，也過於狹隘；(A) 文章沒有談心臟移植手術的危險，偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   }
+  }
  },
  {
   "id": "Rg93_42",
@@ -18269,7 +18290,29 @@
   "answer": "C",
   "accuracyRate": 65,
   "discrimination": 39,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "A sense of humor is just one of the many things shared by Alfred and Anthony Melillo"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段第一句就說幽默感（sense of humor）是兩兄弟許多共同點（shared by）當中的一個，所以是 (C)；第 2 段 Alfred 對記者開玩笑、記者頻頻大笑，也是例證。(B) 照抄第 5 段的 goal，那是 Alfred 希望自己覺得比兄弟更好，不是職業目標；(D) 第 4 段說騎腳踏車的是 Anthony 的運動計畫，不是兩人的共同點；(A) 壽命，文章沒有提到。",
+  "map": [
+   [
+    "sense of humor",
+    "sense of humor"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "goal",
+    "p": 5
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg93_43",
@@ -18288,7 +18331,29 @@
   "answer": "B",
   "accuracyRate": 55,
   "discrimination": 71,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "they recognized that their eating habits might have also contributed to their heart problems."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說兩兄弟承認飲食習慣（eating habits）可能也是心臟出問題的原因，還說在牛排上抹半磅奶油、好吃的東西都吃過了頭，選項換成 Diet，所以是 (B)。同一句前面提到的遺傳（genetics）不在選項裡。(A) 照抄第 4 段的 exercise，運動是 Anthony 移植後復原的方法，不是心臟出問題的原因；(C) 手術、(D) 藥物，都是心臟出問題以後的事。",
+  "map": [
+   [
+    "eating habits",
+    "Diet"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "exercise",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg93_44",
@@ -18307,7 +18372,32 @@
   "answer": "D",
   "accuracyRate": 66,
   "discrimination": 69,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Anthony had a heart transplant from a 21-year-old donor."
+   },
+   {
+    "p": 1,
+    "t": "Alfred received a 19-year-old heart"
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 1 段說 Anthony 移植的心臟來自 21 歲的捐贈者，Alfred 移植的是 19 歲的心臟。Alfred 雖然早出生 15 分鐘，換上的心臟卻比 Anthony 的年輕兩歲，所以開玩笑說自己現在比較年輕，答案是 (D)。(B) 照抄第 4 段的 recovery，原文說 Alfred 才剛進入復原初期、吃的藥比 Anthony 多，正好相反；(C) 照抄 exercise program，那是 Anthony 的運動計畫；(A) 哪一次手術比較成功，文章沒有比較。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "recovery",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "exercise program",
+    "p": 4
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg93_45",
@@ -18326,7 +18416,39 @@
   "answer": "A",
   "accuracyRate": 31,
   "discrimination": 42,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "They say people all over the world have only been able to fully appreciate ancient civilizations because these museums have provided access to these artistic objects."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說這些博物館的理由是：全世界的人能充分欣賞（fully appreciate）古代文明，只因為（only…because）博物館讓大家看得到這些藝術品。選項把 only 移到句首、改成倒裝句 Only in the leading museums can…，主詞也從人換成文物，句型變了，意思相同，所以是 (A)。(D) 照抄 admired，原文說的是文物在各大博物館展出，古代文明才這麼受推崇，沒有說非得離開原屬國才能受推崇；(C) 照抄 well-known，well-known 在原文是說埃及文化因此出名，不是博物館需要有名的文物來吸引人；(B) 照抄第 2 段的 remain，那是大英博物館館長說雕塑要留在館裡才能達成宗旨，不是說文物留在一處比搬來搬去好。",
+  "map": [
+   [
+    "fully appreciate",
+    "fully appreciated"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "remain",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "well-known",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "admired",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg93_46",
@@ -18345,7 +18467,25 @@
   "answer": "B",
   "accuracyRate": 48,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "handed over 363 pieces of gold, silver, precious stones, paintings, and sculptures back to Turkey"
+   },
+   {
+    "p": 1,
+    "t": "Egyptian culture would not have become so well-known if the museums had not put Egyptian mummies on show."
+   },
+   {
+    "p": 2,
+    "t": "sculptures taken from the Parthenon in Athens, Greece, in the 19th century."
+   }
+  ],
+  "qtype": "未提及",
+  "note": "countries of origin 是文物原本所屬的國家。第 1 段大都會藝術博物館把文物歸還給 (A) 土耳其；埃及木乃伊來自 (C) 埃及；第 2 段埃爾金石雕是從 (D) 希臘雅典的帕德嫩神殿拿走的。英國只以大英博物館的身分出現，是收藏文物的一方，不是文物的原屬國，所以選 (B)。",
+  "cat": "細節題",
+  "sub": "未提及"
  },
  {
   "id": "Rg93_47",
@@ -18364,7 +18504,32 @@
   "answer": "C",
   "accuracyRate": 56,
   "discrimination": 59,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "which is to show the world to the world,"
+   },
+   {
+    "p": 1,
+    "t": "They say people all over the world have only been able to fully appreciate ancient civilizations because these museums have provided access to these artistic objects."
+   }
+  ],
+  "qtype": "字義",
+  "note": "show A to B 是把 A 展示給 B 看。第 1 段說博物館讓全世界的人（people all over the world）看得到這些藝術品，因而能欣賞古代文明。展示出來的第一個 the world，是各地的古代文明，所以是 (C)；展示的對象，也就是第二個 the world，才是全世界的人。(D) 照抄第 1 段的 international public，那是第二個 the world 的意思，把兩個 the world 弄反了；(B) 照抄 leading museums，博物館是做展示的一方；(A) 地球村，原文沒有提到。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "leading museums",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "international public",
+    "p": 1
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rg93_48",
@@ -18383,7 +18548,25 @@
   "answer": "C",
   "accuracyRate": 46,
   "discrimination": 31,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "標題",
+  "note": "第 1 段總說有些動物會發光，用光傳遞訊號、引誘獵物或逃離捕食者；第 2 段舉海裡的燈眼魚，第 3、4 段舉陸地上的螢火蟲，說明牠們怎麼用光和同伴、獵物、敵人溝通。全文講的是生物發光和動物之間的溝通，所以是 (C)。(A) 交配只出現在第 3 段螢火蟲的部分，燈眼魚發光不是為了交配，過於狹隘；(B) 黑暗與光、(D) 陸地和海裡的生物，範圍都比文章大得多，太過廣泛。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   },
+   "B": {
+    "k": "太過廣泛"
+   },
+   "D": {
+    "k": "太過廣泛"
+   }
+  }
  },
  {
   "id": "Rg93_49",
@@ -18402,7 +18585,34 @@
   "answer": "A",
   "accuracyRate": 67,
   "discrimination": 62,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "tiny flashlight fish rise to the surface for food,"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說夜幕籠罩紅海時，燈眼魚游到海面上覓食（rise to the surface for food），選項換成 come out for food，所以是 (A)。(D) 照抄 close to，原文說燈眼魚用光溝通，是為了避免彼此靠得太近（too close to each other），方向正好相反；(C) 照抄 bacteria，光就是住在眼睛下方的細菌發出的，不是要擺脫細菌；(B) 原文說的是和同伴保持距離，不是尋找同伴。",
+  "map": [
+   [
+    "for food",
+    "for food"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "bacteria",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "close to",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg93_50",
@@ -18421,7 +18631,25 @@
   "answer": "D",
   "accuracyRate": 50,
   "discrimination": 63,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "use light to attract a mate."
+   },
+   {
+    "p": 4,
+    "t": "some female fireflies lure the males of other species to them."
+   },
+   {
+    "p": 2,
+    "t": "flashing its light on and off very quickly to confuse the animal pursuing it."
+   }
+  ],
+  "qtype": "未提及",
+  "note": "題目問燈眼魚和螢火蟲都不會為了什麼發光。第 3 段螢火蟲用光吸引配偶，是 (A)；第 4 段雌螢火蟲用假訊號引誘其他種類的雄蟲來吃，是 (B) 引誘獵物；第 2 段燈眼魚受到威脅時快速閃光，讓追趕的動物摸不著方向，是 (C) 逃離敵人。文章沒有提到用光找路回家，所以選 (D)。",
+  "cat": "細節題",
+  "sub": "未提及"
  },
  {
   "id": "Rg93_51",
@@ -18440,7 +18668,48 @@
   "answer": "D",
   "accuracyRate": 44,
   "discrimination": 44,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "female fireflies gather on the ground."
+   },
+   {
+    "p": 3,
+    "t": "a female signals back to the male,"
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 3 段說雌螢火蟲聚集在地面上（on the ground），認出同種的閃光密碼，就發出訊號回應（signals back）雄蟲，選項換成 respond from the ground，所以是 (D)。(C) 照抄第 4 段的 false，發假訊號騙人的是雌螢火蟲，上當的是雄蟲，選項把兩者弄反了；(A) 照抄 signal，原文說每一種的雄蟲都發出自己特有的訊號，不是都一樣；(B) 照抄第 2 段的 headlamps，「頭燈」是燈眼魚眼睛下方的發光器官，螢火蟲是從身體下方發光。",
+  "map": [
+   [
+    "signals back",
+    "respond"
+   ],
+   [
+    "on the ground",
+    "from the ground"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "signal",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "headlamps",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "false",
+    "p": 4
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg93_52",
@@ -18459,7 +18728,16 @@
   "answer": "B",
   "accuracyRate": 52,
   "discrimination": 31,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "180 pages."
+   }
+  ],
+  "qtype": "細節",
+  "note": "書最厚，就是頁數最多。四本書的書目資料最後都列了頁數：《Everywhere》70 頁、《Tuck Everlasting》180 頁、《The Table Where Rich People Sit》52 頁、《Beyond the Ridge》32 頁，最多的是 (B)。這一題要看懂書目的寫法：作者、書名、出版社、出版年、ISBN、頁數，依序排列。",
+  "cat": "細節題"
  },
  {
   "id": "Rg93_53",
@@ -18478,7 +18756,22 @@
   "answer": "A",
   "accuracyRate": 83,
   "discrimination": 42,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Brooks, Bruce. Everywhere. HarperCollins, 1990."
+   }
+  ],
+  "qtype": "細節",
+  "note": "書目資料裡，出版社後面接的是出版年。第 1 段《Everywhere》由 HarperCollins 在 1990 年出版，所以是 (A)。其他三本的出版年分別是 1975、1994、1989 年。",
+  "map": [
+   [
+    "Everywhere",
+    "Everywhere"
+   ]
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg93_54",
@@ -18497,7 +18790,30 @@
   "answer": "D",
   "accuracyRate": 73,
   "discrimination": 53,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 7,
+    "t": "Goble, Paul. Beyond the Ridge."
+   },
+   {
+    "p": 8,
+    "t": "based on the customs of the Plains Indians in America."
+   },
+   {
+    "p": 8,
+    "t": "expressing specific beliefs about dying."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 8 段說《Beyond the Ridge》根據美洲平原印第安人（the Plains Indians in America）的習俗，表達對死亡的信念（beliefs about dying）；題目換成 Native Americans’ view of death。這本書的作者是第 7 段的 Paul Goble，所以是 (D)。書目資料把姓放在前面、名放在後面，Goble, Paul 就是 Paul Goble。(B) Natalie Babbitt 的《Tuck Everlasting》寫的是喝了泉水長生不死，不是印第安人怎麼看死亡。",
+  "map": [
+   [
+    "Goble",
+    "Goble"
+   ]
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg93_55",
@@ -18516,7 +18832,26 @@
   "answer": "C",
   "accuracyRate": 77,
   "discrimination": 47,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 5,
+    "t": "Baylor, Byrd. The Table Where Rich People Sit."
+   },
+   {
+    "p": 6,
+    "t": "Soon, she realizes that her poor family is rich in things that matter in life."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 6 段說小女孩原本要爸媽多賺錢，後來明白自己貧窮的家，在人生真正重要的東西上很富有（rich in things that matter in life）；題目換成錢不是衡量財富的唯一方式。這本《The Table Where Rich People Sit》的作者是第 5 段的 Byrd Baylor，所以是 (C)。",
+  "map": [
+   [
+    "Baylor",
+    "Baylor"
+   ]
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg92b_41",
@@ -18535,7 +18870,32 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段 Amy 和朋友 Laura 道別，不知道還會不會回來；第 2 段媽媽催她出門，她們只能帶拿得動的東西；第 3 段母女最後一次看看屋子和花園，Amy 覺得孤單。全文寫的是一場令人難過的離別，所以是 (C)。(A) 金手鍊只是第 1、2 段的細節，過於狹隘；(B) 空蕩蕩的屋子只在第 3 段出現，也過於狹隘；(D) 第 3 段 Amy 想起爸爸送花給媽媽，那只是一段回憶，而且回想之後的心情是孤單，不是甜蜜，過於狹隘。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     1,
+     2
+    ]
+   },
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   }
+  }
  },
  {
   "id": "Rg92b_42",
@@ -18554,7 +18914,35 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "They could take only what they could carry, and her two suitcases were already full."
+   }
+  ],
+  "qtype": "是非",
+  "note": "題幹問的是原文明白寫出來的（explicitly mentioned）。第 2 段說她們只能帶自己拿得動的東西，Amy 的兩個行李箱已經裝滿了，選項換成只帶了幾個行李箱，所以是 (D)。(A) 照抄第 3 段的 carnations，原文只說要是爸爸在，會摘康乃馨送媽媽，沒有說花是爸爸種的；(C) 照抄 furniture，原文說 Amy 回想房間擺滿家具時的樣子，沒有說家具都賣掉了；(B) 原文只寫到 Laura 來道別，沒有說所有朋友都知道。",
+  "map": [
+   [
+    "suitcases",
+    "suitcases"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "carnations",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "furniture",
+    "p": 3
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg92b_43",
@@ -18573,7 +18961,16 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "She watched as Laura walked down the block, turning and waving and walking backwards until she got to the corner."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說 Amy 看著 Laura 沿著街道走去，一邊轉身揮手，一邊倒退著走。倒退著走的是 Laura，不是 Amy，所以和原文不符的是 (B)。其他三個選項都和原文相符：Amy 一看就愛上手鍊，出門前還確定手鍊牢牢戴好，是 (A)；第 3 段說要是爸爸在這裡，可見爸爸不在，是 (C)；第 1 段 Amy 答應會回來看 Laura，卻不知道還會不會回來，是 (D)。",
+  "cat": "細節題"
  },
  {
   "id": "Rg92b_44",
@@ -18592,7 +18989,31 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段說西方世界重新發現了黃豆；第 2 段說黃豆幾乎是完美的蛋白質來源，對健康有種種好處；第 3 段說美國培育出好品種，黃豆成了健康食品的代表。全文的重點是黃豆有益健康，在西方世界流行起來，所以是 (D)。(A) 亞洲人用了黃豆幾千年、(C) 黃豆能為世界人口提供糧食，都只是第 1 段的細節，過於狹隘；(B) 美國人吃更多豆腐，只是第 3 段的例子，也過於狹隘。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   },
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   }
+  }
  },
  {
   "id": "Rg92b_45",
@@ -18611,7 +19032,39 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Since it is cheap to produce and rich in protein, and has many uses,"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說黃豆生產成本低（cheap to produce）、富含蛋白質、用途又多，所以是 (B)。另外三個選項都是對的東西放錯地方：(A) 照抄第 2 段的 free of，不含的是膽固醇，第 3 段還說美國培育出含油量高的品種；(C) 照抄 protein，原文說富含（rich in）蛋白質，選項卻說含量低；(D) 照抄第 2 段的 cholesterol，原文說黃豆不含膽固醇，還能降低膽固醇。",
+  "map": [
+   [
+    "cheap to produce",
+    "cheap to produce"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "free of",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "protein",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "cholesterol",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg92b_46",
@@ -18630,7 +19083,34 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "the soy oil contains some special substances, called Omega 3 fatty acids, which reduce cholesterol"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說黃豆油含有 Omega 3 脂肪酸（fatty acids），可以降低膽固醇（reduce cholesterol），所以是 (C)。(D) 照抄 high fiber content，高纖維說的是預防消化方面的疾病，和膽固醇無關；(A) 照抄 protein，第 2 段最後一句雖然說每天吃 25 公克黃豆蛋白能降低膽固醇，但題幹問的是主要原因（mainly because），原文直接說明能降低膽固醇的成分是脂肪酸；(B) 維生素，原文沒有提到。",
+  "map": [
+   [
+    "fatty acids",
+    "fatty acids"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "protein",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "high fiber content",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg92b_47",
@@ -18649,7 +19129,38 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The soybean is an almost perfect source of protein."
+   },
+   {
+    "p": 3,
+    "t": "tofu, the most popular soybean product,"
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 2 段說黃豆幾乎是完美的蛋白質來源；第 3 段說豆腐是最受歡迎的黃豆製品。把兩句合起來，豆腐是豐富的蛋白質來源，所以是 (A)。(B) 照抄 digestive，能預防消化疾病的是黃豆的纖維，不是蛋白質；(C) 照抄第 3 段的 Canada，加拿大是和美國一起做研究的國家，原文沒有說美國把黃豆出口到加拿大；(D) 照抄 25 grams，原文說的是膽固醇過高的人每天至少（a minimum of）吃 25 公克，不是吃素的人要少於 25 公克。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "digestive",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "Canada",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "25 grams",
+    "p": 2
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg92b_48",
@@ -18668,7 +19179,28 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段寫哥哥姊姊的個性傾向，第 2 段用 By contrast 轉到後來出生的孩子，兩段對照出生順序和個性的關係，所以是 (D)。(A) 只講年紀大的孩子，是第 1 段的內容，過於狹隘；(B) 只講年紀小的孩子，是第 2 段的內容，也過於狹隘；(C) 文章雖然提到老大傾向教書、從政，後來出生的孩子可能是好的推銷員，但說的是個性適合哪些工作，沒有談工作成不成功，偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   },
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   },
+   "C": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rg92b_49",
@@ -18687,7 +19219,34 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Research also suggests that firstborn children generally become more conservative than other children"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說研究指出老大一般比其他孩子保守（more conservative），所以是 (D)。(A) 照抄第 2 段的 creative、(B) 照抄 sociable，第 2 段說傾向創作領域、善於交際的是後來出生的孩子，第 1 段反而說老大比較不善交際；(C) 第 2 段說說服是後來出生的孩子面對哥哥姊姊的工具，也不是老大的特質。",
+  "map": [
+   [
+    "conservative",
+    "conservative"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "creative",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "sociable",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg92b_50",
@@ -18706,7 +19265,29 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "This may help explain why younger children tend to favor the creative fields such as music, art, and writing."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 2 段說年紀小的孩子傾向選擇音樂、藝術、寫作（writing）這類創作領域，從事寫作就是作家（writer），所以是 (C)。(D) 照抄第 1 段的 teaching，傾向教書、從政的是習慣照顧別人的老大；(A) 圖書館員、(B) 醫生，原文都沒有提到。",
+  "map": [
+   [
+    "writing",
+    "writer"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "teach",
+    "p": 1
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg92b_51",
@@ -18725,7 +19306,34 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "may be uncomfortable making decisions for others."
+   },
+   {
+    "p": 2,
+    "t": "This may help explain why younger children tend to favor the creative fields such as music, art, and writing."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 2 段說後來出生的孩子替別人做決定（making decisions for others）時可能會不自在，接著用 This may help explain why 說明，這也許就是他們傾向音樂、藝術、寫作這類創作領域的原因。也就是說，從事藝術的人通常不喜歡替別人做決定，所以是 (B)。(A) 照抄第 1 段的 parental，原文說父母的期望和管教有影響，選項卻說個性完全（entirely）取決於父母的態度，說得太過頭；(C) 習慣照顧別人的是老大，大家喜歡相處（enjoyable to be around）的卻是第 2 段年紀小的孩子，選項把兩者接在一起；(D) 當眾演講，原文沒有提到。",
+  "map": [
+   [
+    "making decisions for others",
+    "make decisions for other people"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "parental",
+    "p": 1
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg92b_52",
@@ -18744,7 +19352,22 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段說醫院大量使用的 PVC 塑膠燃燒後產生戴奧辛，散布到全世界，每個人都不斷接觸到；第 2 段說醫療廢棄物裡的塑膠愈來愈多，最後呼籲醫師和護理師帶頭減少醫院裡的塑膠用量。作者要傳達的是大家，尤其是醫院裡的人，應該少用塑膠，所以是 (A)。三個錯誤選項都偏離主題：(B) 原文沒有要美國領導全世界，也沒有說人類快要滅亡；(C) 原文說的是戴奧辛透過飼料進入肉類和乳製品，沒有建議多吃蔬菜；(D) 第 1 段雖然說嬰兒最容易受害，卻沒有叫大家不要餵母奶。",
+  "cat": "主旨題",
+  "scope": {
+   "B": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rg92b_53",
@@ -18763,7 +19386,39 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Dioxin is an unwanted byproduct that is created when PVC is burned."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說戴奧辛是燃燒 PVC 時（when PVC is burned）產生的副產品，PVC 就是一種塑膠，所以是 (A)。(B) 照抄 blood bags，血袋是用 PVC 做的，製造血袋時不會產生戴奧辛，燒掉時才會；(D) 照抄 medical waste，醫療廢棄物是戴奧辛的主要來源，原因是裡面的塑膠拿去燒，不是處理任何醫療廢棄物都會產生；(C) 照抄第 2 段的 reusables，可重複使用的用品是作者希望恢復使用的，方向正好相反。",
+  "map": [
+   [
+    "PVC is burned",
+    "plastics are burned"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "blood bags",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "reusables",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "medical waste",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg92b_54",
@@ -18782,7 +19437,40 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "After all, they can’t be treating cancer on the inside of hospitals and contributing to it on the outside."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "最後一句把醫院裡和醫院外對照：在醫院裡治療癌症（treating cancer on the inside），在醫院外又助長它（contributing to it on the outside）。治療和助長的是同一樣東西，it 指的就是前面的 cancer，所以是 (B)。另外三個選項都在第 2 段出現過，但醫院裡治療的是病，不是戴奧辛、醫療廢棄物或塑膠的使用；它們是在醫院外助長癌症的原因，填進 it 的位置，前後的對照就接不上。",
+  "map": [
+   [
+    "cancer",
+    "Cancer"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Dioxin",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "medical waste",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "use of plastics",
+    "p": 2
+   }
+  ],
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rg92b_55",
@@ -18801,7 +19489,33 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Plastics used to account for as little as 10% of medical waste in the late 1970s, before disposables began rapidly replacing reusables."
+   },
+   {
+    "p": 1,
+    "t": "Dioxin is an unwanted byproduct that is created when PVC is burned."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 2 段說 1970 年代末期拋棄式用品開始取代可重複使用的用品（reusables）之前，塑膠只占醫療廢棄物的 10% 左右，現在多達 30%；第 1 段說戴奧辛是燃燒 PVC 塑膠產生的。塑膠廢棄物變多，是因為改用拋棄式用品，像以前一樣用可重複使用的東西，就能減少戴奧辛汙染，所以是 (C)。(D) 照抄 fat，原文說戴奧辛儲存在脂肪裡，沒有說減重能解決問題；(A) 第 1 段說戴奧辛散布到全世界，每個人都不斷接觸到，住在鄉下也一樣；(B) 喝水能排出戴奧辛，原文沒有提到。",
+  "map": [
+   [
+    "reusables",
+    "reusables"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "fat",
+    "p": 1
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg92_41",
@@ -18820,7 +19534,31 @@
   "answer": "C",
   "accuracyRate": 46,
   "discrimination": 52,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段依時間順序寫作者一天的作息：幾點到公司、換制服、值班、吃午餐、休息、下班；第 2 段寫上班時做些什麼、遇到哪些人。全文描述的是作者典型的一天，所以是 (C)。(A) 照鏡子確定自己看起來整齊，只是第 1 段的細節，過於狹隘；(B)「上上下下」的生活只在第 2 段最後一句出現，也過於狹隘；(D) 各式各樣的乘客只是第 2 段的內容，也過於狹隘。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   },
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   }
+  }
  },
  {
   "id": "Rg92_42",
@@ -18839,7 +19577,31 @@
   "answer": "D",
   "accuracyRate": 41,
   "discrimination": 27,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "I always call out floors very clearly"
+   },
+   {
+    "p": 2,
+    "t": "Most men take off their hats in my car,"
+   },
+   {
+    "p": 2,
+    "t": "my life can be described as consisting of a series of “ups” and “downs.”"
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 2 段有三個線索：作者總是把樓層報得很清楚（call out floors）、男士進了他的車廂（car）會脫帽、他的生活是一連串的「上上下下」。報樓層、有車廂、整天上上下下，作者是電梯操作員，所以是 (D)。這裡的 car 指電梯車廂，不是汽車，所以不是 (B) 司機。(C) 照抄 floor，floor cleaner 是清潔地板的人，原文的 floors 是樓層；(A) 警察，原文沒有線索。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "floor",
+    "p": 2
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg92_43",
@@ -18858,7 +19620,34 @@
   "answer": "B",
   "accuracyRate": 44,
   "discrimination": 59,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "I always call out floors very clearly, and I am constantly on the move."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "on the move 是一直在移動。電梯操作員整天跟著電梯上上下下，很少在一個地方停留很久，所以是 (B)。(A) 照抄同一句前半的 floors very clearly，那是 and 前面的另一件事；(C) 照抄 all kinds of people，那是他喜歡這份工作的原因；(D) 照抄 move，move their baggage 是搬行李，原文沒有說作者幫乘客搬東西。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "floors very clearly",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "all kinds of people",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "move",
+    "p": 2
+   }
+  ],
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rg92_44",
@@ -18877,7 +19666,32 @@
   "answer": "D",
   "accuracyRate": 76,
   "discrimination": 57,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "標題",
+  "note": "第 1 段從西元前 1700 年的埃及說起，第 2 段寫古希臘和羅馬，第 3 段寫 1800 年代以前、19 世紀到今天。全文依時間順序介紹魔術的發展，所以是 (D)。(A) 戲法只是第 1、2 段舉的例子，過於狹隘；(B) 偉大的魔術師只講到第 3 段的 Robert Houdin，也過於狹隘；(C) 魔術成為娛樂只是第 3 段最後一句，也過於狹隘。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     1,
+     2
+    ]
+   },
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   }
+  }
  },
  {
   "id": "Rg92_45",
@@ -18896,7 +19710,47 @@
   "answer": "D",
   "accuracyRate": 58,
   "discrimination": 53,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "This explains why at that time the priests even built magic devices into their temples."
+   },
+   {
+    "p": 2,
+    "t": "These devices made it possible for doors to open by themselves"
+   },
+   {
+    "p": 2,
+    "t": "This was done mainly to convince people that the priests were powerful."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說祭司在神殿裡裝了魔法機關，能讓門自己打開（open by themselves），這麼做主要是要讓人們相信祭司的法力強大，所以是 (D)。(A) 照抄第 1 段的 entertain，表演給人看的是埃及的魔術師 Dedi，不是希臘的祭司；(C) 照抄 statues’ mouths，原文說酒從雕像嘴裡流出來，是用來顯示法力，不是請人喝酒；(B) 照抄 statues，原文是酒從雕像裡流出來，不是讓雕像喝酒，方向弄反了。",
+  "map": [
+   [
+    "open by themselves",
+    "open by themselves"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "entertain",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "statues",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "statues’ mouths",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg92_46",
@@ -18915,7 +19769,39 @@
   "answer": "B",
   "accuracyRate": 72,
   "discrimination": 54,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Magicians were thought of as freaks and were only allowed to perform in a circus."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說 1800 年代以前，魔術師只准在馬戲團表演（only allowed to perform in a circus），所以是 (B)。(C) 照抄 freaks，同一句說魔術師給人看成怪胎，但魔術師能加上 Dr. 或 MD 的頭銜，是 19 世紀 Robert Houdin 出現以後的事；(A) 照抄第 2 段的 temples，在神殿裡裝機關是古希臘、羅馬祭司的做法，不是只能在神殿用；(D) 照抄第 1 段的 pharaoh，原文只說 Dedi 曾為法老表演。",
+  "map": [
+   [
+    "perform in a circus",
+    "performed in a circus"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "temples",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "freaks",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "pharaoh",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg92_47",
@@ -18934,7 +19820,29 @@
   "answer": "A",
   "accuracyRate": 50,
   "discrimination": 72,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Magic is believed to have begun with the Egyptians, in 1700 BC."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 1 段說魔術起源於西元前 1700 年。從西元前 1700 年到這份考卷的年代，大約是 1700＋2000＝3,700 年，所以是 (A)。(D) 把西元前 1700 年當成 1,700 年前，「杯與球」是 Dedi 擅長的戲法，也有大約 3,700 年了；(B) 照抄 king，原文說 Dedi 也表演給建造金字塔的奴隸看，不是只為國王表演；(C) 照抄第 3 段的 Robert Houdin，他是改變大家看法的魔術師，最早的魔術師是第 1 段的 Dedi。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "king",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "Robert Houdin",
+    "p": 3
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg92_48",
@@ -18953,7 +19861,38 @@
   "answer": "C",
   "accuracyRate": 55,
   "discrimination": 47,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Scientific doctors try to observe sicknesses, look for logical patterns, and then find out how the human body works."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說科學派的醫生觀察（observe）疾病、尋找合乎邏輯（logical）的規律，再推敲出哪些療法可能有效，選項換成名詞 observation and logic，所以是 (C)。(D) 照抄 successful，原文說這種醫學今天很成功，在古代治好的病人卻不多；(A) 照抄第 2 段的 folk medicine，原文說民俗醫學在科學醫學之前很久就很興盛，歷史比較長的是民俗醫學；(B) 原文說始於西元前 4 世紀，到今天大約 2,300 多年，不是 1,600 年。",
+  "map": [
+   [
+    "observe",
+    "observation"
+   ],
+   [
+    "logical",
+    "logic"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "folk medicine",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "successful",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg92_49",
@@ -18972,7 +19911,24 @@
   "answer": "B",
   "accuracyRate": 47,
   "discrimination": 58,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Other times, a magician may make you a magic charm, or say a spell, to cure you."
+   },
+   {
+    "p": 3,
+    "t": "Some religious groups organize special healing shrines for the sick."
+   },
+   {
+    "p": 3,
+    "t": "In these places people rest, get plenty of sleep, eat healthy food, drink water instead of wine, and exercise in various ways."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段介紹健康療養所：魔法師做護身符、唸咒語，是 (A) 魔法；宗教團體設立療養聖所、向神明祈禱，是 (C) 宗教信仰；在那裡休息、睡飽、吃健康的食物、運動，是 (D) 健康的生活方式。各種草藥是第 2 段民俗醫學用的方法，不屬於健康療養所，所以選 (B)。",
+  "cat": "細節題"
  },
  {
   "id": "Rg92_50",
@@ -18991,7 +19947,35 @@
   "answer": "D",
   "accuracyRate": 52,
   "discrimination": 64,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "was more successful in ancient times than doctor medicine."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 2 段說民俗醫學在古代比醫生醫學更成功（more successful），自然療法就是民俗醫學，醫生醫學就是科學醫學，選項換成 worked better，所以是 (D)。(A) 照抄 herbs，原文說民俗療者也運用觀察和邏輯，試到有效才一直用，不是毫無根據；(C) 照抄 development，原文只說民俗醫學在科學醫學發展之前就很興盛，沒有說前者促成了後者；(B) 原文說用草藥治病的是教育程度比較低的人，正好相反。",
+  "map": [
+   [
+    "more successful",
+    "worked better"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "herbs",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "development",
+    "p": 2
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg92_51",
@@ -19010,7 +19994,25 @@
   "answer": "A",
   "accuracyRate": 51,
   "discrimination": 69,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "目的",
+  "note": "第 1 段開頭說醫學有三個分支，接著第 1、2、3 段依序介紹醫生醫學、民俗醫學和信仰治療。作者寫這篇文章是要說明不同種類的醫學，所以是 (A)。(C) 宗教只出現在第 3 段的信仰治療，過於狹隘；(B) 文章只是說明，沒有主張醫學在保健上有多重要，偏離主題；(D) 文章比較的是三種醫學，提到教育程度的是第 2 段的民俗療者，不是病人，也偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "B": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rg92_52",
@@ -19029,7 +20031,28 @@
   "answer": "B",
   "accuracyRate": 62,
   "discrimination": 61,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "標題",
+  "note": "第 1 段說行銷人員利用青少年文化推銷產品，第 2 段說饒舌音樂和瑪丹娜的例子，正好說明青少年文化影響力多大，第 3 段說 Tommy Hilfiger 非常清楚青少年文化的力量。三段都在講青少年文化的影響力，所以是 (B)。(C) 嘻哈服飾只是第 1 段的例子，過於狹隘；(D) Tommy Hilfiger 的成功只是第 3 段的例子，也過於狹隘；(A) 行銷的重要性，範圍比文章大得多，太過廣泛。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "太過廣泛"
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   }
+  }
  },
  {
   "id": "Rg92_53",
@@ -19048,7 +20071,27 @@
   "answer": "A",
   "accuracyRate": 24,
   "discrimination": 37,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "It is reported that hip-hop fashion alone generates $750 million to $1 billion annually."
+   },
+   {
+    "p": 1,
+    "t": "Sales of rap music and videos each exceed that amount."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題要分清楚兩句話各在說什麼。第 1 段說光是嘻哈服飾（hip-hop fashion alone）每年就有 7.5 億到 10 億美元；下一句說饒舌音樂和音樂錄影帶的銷售額各自（each）都超過這個數字（that amount）。題目問的是饒舌音樂和音樂錄影帶加起來（together）的金額：兩樣各自超過 7.5 億，加起來至少超過 15 億，一定超過 10 億美元，所以是 (A)。(B) 照抄 $750 million to $1 billion，那是嘻哈服飾的營收，不是音樂和錄影帶的。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "$750 million",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg92_54",
@@ -19067,7 +20110,35 @@
   "answer": "C",
   "accuracyRate": 48,
   "discrimination": 54,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Soon after that, adolescent girls around the world began wearing their underwear outside their clothes."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 2 段說瑪丹娜露出胸罩登上排行榜，不久之後（Soon after that）世界各地的少女開始把內衣穿在衣服外面，可見這股風潮是瑪丹娜帶起來的，所以是 (C)。(D) 照抄第 1 段的 hip-hop culture，原文說嘻哈文化是青少年文化的一個例子，選項卻反過來說青少年文化是嘻哈文化的一部分；(B) 照抄 profit，原文說獲利最高的是青少年消費市場，賺錢的是做生意的人，不是青少年；(A) 原文說青少年市場是有史以來獲利最高的，購買力並沒有下降。",
+  "map": [
+   [
+    "wearing their underwear outside their clothes",
+    "wearing underwear outside clothes"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "profit",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "hip-hop culture",
+    "p": 1
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg92_55",
@@ -19086,7 +20157,37 @@
   "answer": "A",
   "accuracyRate": 41,
   "discrimination": 37,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Fashion designer Tommy Hilfiger was fully aware of the power of youth culture."
+   },
+   {
+    "p": 3,
+    "t": "He marketed his brand by giving clothes to famous MTV stars and featuring teen stars in his print ads."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 3 段說 Hilfiger 非常清楚青少年文化的力量，所以送衣服給有名的 MTV 明星，請青少年明星拍廣告。他這樣做，可見他相信 MTV 明星能帶動青少年的時尚潮流，所以是 (A)。(C) 照抄 computer games，喜歡電玩的是青少年，不是 Hilfiger 自己；(B) 照抄 Nintendo terminals，遊戲機是裝在店裡吸引青少年的，原文沒有說拿來賣；(D) 照抄 2000，2000 年的調查是青少年把 Hilfiger 牛仔褲評為第一名的品牌，評分的只有青少年，也不是全世界最好的設計師。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "Nintendo terminals",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "computer games",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "2000",
+    "p": 3
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg91b_41",
@@ -19105,7 +20206,29 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "They often concern very strong or clever people who come from humble backgrounds."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說民間故事的主角常常是出身卑微（come from humble backgrounds）的人；第 2 段也說民間故事能把平凡的小人物（humble people）變成英雄。選項換成 ordinary people，所以是 (D)。(C) 照抄 folk，folk tales 的 folk 是「民間的」，原文沒有說故事寫的是貪心的人；(A) 有學問的學者、(B) 勇敢的王子，原文都沒有提到，而且王子正好不是出身卑微的人。",
+  "map": [
+   [
+    "humble backgrounds",
+    "ordinary people"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "folk",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91b_42",
@@ -19124,7 +20247,20 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Many folk tales are also tall tales—stories of unbelievable events told with perfect seriousness."
+   },
+   {
+    "p": 2,
+    "t": "A tall tale, in other words, is a story in which the truth has been exaggerated."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說誇張故事講的是令人難以置信的事件，換句話說，是把事實誇大了（the truth has been exaggerated）的故事。民間故事原本也許有事實根據，但說成誇張故事以後，已經不是照事實講的故事，所以和原文不符的是 (A)。其他三個選項都和原文相符：同一段說靠著想像的力量，民間故事能把小人物變成英雄，是 (B)；事實誇大了，就是 (C) 把人的能力說得太過頭；用一本正經的口氣講（told with perfect seriousness），是 (D)。",
+  "cat": "細節題"
  },
  {
   "id": "Rg91b_43",
@@ -19143,7 +20279,29 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "By reading and listening to folk tales, we may gain a better understanding of the true values, beliefs, and goals of a people."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說閱讀和聆聽民間故事，能讓我們更了解一個民族真正的價值觀、信仰和目標（values, beliefs, and goals），選項換成 ideas about life，所以是 (C)。(B) 照抄 literature，原文說民間故事是一個文化的文學裡重要的部分，沒有說它說明了世界文學的起源；(A) 第 1 段說民間故事是口耳相傳的，不是由當地作家寫成的；(D) 教人怎麼活下去，原文沒有提到。",
+  "map": [
+   [
+    "values, beliefs, and goals",
+    "ideas about life"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "literature",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91b_44",
@@ -19162,7 +20320,22 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "It used to be that athletes and VIPs gave away their signatures for free,"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說以前（It used to be that）運動員和名人都是免費（for free）送簽名的，選項換成 cost nothing，所以是 (B)。(A) 價錢很高、(D) 公開販售，都是 But nowadays 之後第 2 段說的現在的情形，把時間弄反了；(C) 原文說以前簽名的東西只是擺在架子上積灰塵，並沒有受到很大的注意。",
+  "map": [
+   [
+    "for free",
+    "cost nothing"
+   ]
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91b_45",
@@ -19181,7 +20354,22 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "To connect with someone famous, or maybe even to imagine themselves as the hero they admire."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段問收藏家想要簽名真正的原因是什麼，接著回答：為了和名人有所連結（connect with someone famous），選項換成 to be associated with famous people，所以是 (D)。(C) 歷史文件容易聯想到第 3 段愛因斯坦的手稿和達文西的筆記，但那是說簽名的東西能賣到多少錢，不是收藏的原因；(A) 藝術價值、(B) 向朋友炫耀，原文都沒有提到。",
+  "map": [
+   [
+    "connect with someone famous",
+    "associated with famous people"
+   ]
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91b_46",
@@ -19200,7 +20388,11 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "語氣",
+  "note": "第 1 段對比以前和現在，第 2、3 段列出簽名的價錢和實例：愛因斯坦手稿賣 398,500 美元、比爾蓋茲花 3,080 萬美元買達文西的筆記，第 4 段說明收藏的原因。全文用事實和數字說明簽名成了大生意，作者沒有加上自己的褒貶，所以語氣是 (A) 就事論事。作者沒有嘲諷收藏家，不是 (B)；沒有批評，不是 (C)；也沒有熱烈鼓吹大家去收藏，不是 (D)。",
+  "cat": "推論題"
  },
  {
   "id": "Rg91b_47",
@@ -19219,7 +20411,29 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "More than 2,000 adults took part in the survey to find out about their knowledge of diet, healthcare, disease control, and medication."
+   }
+  ],
+  "qtype": "細節",
+  "note": "原文說超過 2,000 名成年人參加調查，目的是了解他們在飲食、保健、疾病防治和用藥方面的知識（their knowledge），選項換成 what people know about health，所以是 (C)。(B) 照抄 health education，健康教育的前景是調查結果帶出來的看法，不是調查要了解什麼時候教；(A) 開頭說大家忽略健康，是因為忙著讀書和工作，這是作者的說明，不是調查的目的；(D) 調查問的是知識，不是誰比較容易生病。",
+  "map": [
+   [
+    "knowledge",
+    "know"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "health education",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91b_48",
@@ -19238,7 +20452,33 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The problem is made worse by doctors who give their patients large doses of useless drugs."
+   }
+  ],
+  "qtype": "細節",
+  "note": "原文說感冒吃藥完全沒有用，有些醫生卻給病人開大量沒有用的藥，讓問題更嚴重。醫生開了大量的感冒藥，可見很多人吃了太多感冒藥，所以是 (B)。(A) 照抄 cure，原文說的是感冒沒有藥能治好（has no cure），正好相反；(C) 照抄 doctors，原文說醫生開大量的藥，不是拒絕賣藥；(D) 照抄 51 percent，51% 是知道感冒沒有藥能治好的受訪者，不是吃感冒藥的病人。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "cure",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "Doctors",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "51 percent",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91b_49",
@@ -19257,7 +20497,39 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "More than two-thirds believe that it is only the nicotine in cigarettes rather than the other chemicals that cause cancer."
+   }
+  ],
+  "qtype": "細節",
+  "note": "原文說超過三分之二的人相信，香菸裡只有尼古丁（only the nicotine）會致癌，選項換成 nicotine alone，所以是 (A)。(D) 照抄 other chemicals，原文說這些人相信致癌的不是其他化學物質，正好相反；(C) 照抄 cigarettes，他們以為抽尼古丁比較少的「淡菸」不會得癌症，說的是菸的種類，不是抽的數量；(B) 照抄 percent，26% 是台灣成年人抽菸的比例，不是抽菸的人得癌症的比例。",
+  "map": [
+   [
+    "only the nicotine",
+    "nicotine alone"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "percent",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "cigarettes",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "other chemicals",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91b_50",
@@ -19276,7 +20548,33 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "But the outlook for health education in Taiwan is not all negative."
+   },
+   {
+    "p": 1,
+    "t": "The survey concludes that younger Taiwanese have a better understanding of health concerns than their parents,"
+   }
+  ],
+  "qtype": "細節",
+  "note": "原文說台灣健康教育的前景並不全然悲觀（not all negative），調查的結論是年輕一代對健康問題的了解比父母好，選項換成年輕一代還有改善的希望（hope），所以是 (B)。(A) 照抄 neglected，原文說遭到忽略的是健康問題，不是健康統計數字；(D) 開頭說大家忙著讀書和工作而忽略健康，這是作者的說明，不是調查的結果，題幹問的是調查顯示什麼；(C) 原文說年紀最大的人了解得最少，沒有說他們依賴醫療體系。",
+  "map": [
+   [
+    "not all negative",
+    "hope"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "neglected",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91b_51",
@@ -19295,7 +20593,34 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Although there are extra costs involved in going digital"
+   },
+   {
+    "p": 2,
+    "t": "And there are plenty of models from which to choose"
+   },
+   {
+    "p": 1,
+    "t": "With digital cameras, you aren’t spending money on film for wasted pictures,"
+   },
+   {
+    "p": 3,
+    "t": "or sent by e-mail."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說改用數位相機會有額外的花費（extra costs），像是記憶卡和特殊相紙，這是數位相機的缺點，不是優點，所以選 (A)。其他三個都是原文說的優點：第 2 段可以選擇的機型很多，是 (B)；第 1 段不必把錢花在白費照片的底片上，是 (C)；第 3 段照片可以用電子郵件寄出去，是 (D)。",
+  "map": [
+   [
+    "extra costs",
+    "additional money"
+   ]
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91b_52",
@@ -19314,7 +20639,34 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "as manufacturers introduce more and more cameras whose quality is as good as film cameras."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段說隨著（as）製造商推出愈來愈多畫質（quality）和底片相機一樣好的機種，使用數位相機的家庭一定會增加，選項換成品質不斷提升，所以是 (D)。(B) 照抄第 2 段的 simple，簡單相機只是各種機型當中的一種，原文沒有說操作變簡單就會增加；(C) 照抄第 5 段的 salesmen，業務員只是預期數位相機會是熱門禮物；(A) 原文說的是製造商推出好的機種，不是投資更多錢。",
+  "map": [
+   [
+    "quality",
+    "quality"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "simple",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "salesmen",
+    "p": 5
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91b_53",
@@ -19333,7 +20685,16 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Digital cameras offer more than just the instant previewing of pictures on small color screens."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說數位相機能在小螢幕上立即預覽（instant previewing）照片，這是數位相機才有的功能；底片相機的照片要沖洗出來才看得到，所以和事實不符的是 (C)。(A) 在相片沖印店印照片、(B) 照片可以放大、(D) 照片可以保存很久，文章雖然沒有提到，卻都是底片相機做得到的事，和原文也不衝突。",
+  "cat": "細節題"
  },
  {
   "id": "Rg91b_54",
@@ -19352,7 +20713,27 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "to $1,000 wonders with all the features that any advanced amateur could want."
+   },
+   {
+    "p": 4,
+    "t": "Soon, even professionals will use them."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說最高檔的機種具備進階業餘玩家（advanced amateur）想要的所有功能；第 4 段說不久之後，連（even）專業攝影師也會用數位相機。不久之後才會用，表示專業攝影師現在還不太用，目前使用數位相機的主要是業餘的人，所以是 (B)。(A) 照抄第 4 段的 professionals，那是將來的事；(C) 家庭主婦、(D) 學生，原文都沒有提到。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "professionals",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91b_55",
@@ -19371,7 +20752,38 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "the cost of memory cards for storage"
+   },
+   {
+    "p": 5,
+    "t": "With a large memory card to store pictures,"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說改用數位相機要多花錢買儲存用的記憶卡（memory cards）；第 5 段也說有了大容量的記憶卡，就能一直拍照。用數位相機一定要有記憶卡，所以是 (C)。(A) 照抄第 5 段的 film，帶 30 捲底片旅行是底片相機的麻煩；(B) 照抄 print，第 3 段說數位相機的照片在家裡就能輕鬆印出來，不必到相片沖印店；(D) 花更多時間使用，原文沒有提到。",
+  "map": [
+   [
+    "memory card",
+    "memory card"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "film",
+    "p": 5
+   },
+   {
+    "o": "B",
+    "t": "print",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91_41",
@@ -19390,7 +20802,20 @@
   "answer": "D",
   "accuracyRate": 81,
   "discrimination": 43,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "They set out from Japan on May 17, 2001."
+   },
+   {
+    "p": 2,
+    "t": "their boat was hit by a fishing ship on September 17, 2001."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說他們 5 月 17 日從日本出發，9 月 17 日遭漁船撞上。從 5 月 17 日到 9 月 17 日，剛好是 6、7、8、9 四個月，所以是 (D)。",
+  "cat": "細節題"
  },
  {
   "id": "Rg91_42",
@@ -19409,7 +20834,22 @@
   "answer": "B",
   "accuracyRate": 66,
   "discrimination": 46,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "A fishing ship came towards us with nobody on the bridge and ran us down."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段 Dom 說漁船朝他們開過來時，駕駛台（bridge）上一個人都沒有（nobody），就這樣把他們撞翻了；後來漁船上的人出現了，才看到他在水裡。駕駛台上沒有人，所以沒有人看到他們，答案是 (B)。這裡的 bridge 是船上的駕駛台，不是橋。(C) 原文說一切發生得太快（It all happened so quickly），說的是事情發生得很突然，不是漁船開得太快；(A) 兩人太粗心、(D) 划艇不夠堅固，Dom 都沒有這樣說。",
+  "map": [
+   [
+    "nobody",
+    "nobody"
+   ]
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91_43",
@@ -19428,7 +20868,38 @@
   "answer": "A",
   "accuracyRate": 75,
   "discrimination": 66,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "But we are alive."
+   },
+   {
+    "p": 4,
+    "t": "That above everything is the most important."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段最後 Dom 說：我們還活著（we are alive），這比什麼都重要，選項換成兩人都活了下來（survived），所以是 (A)。(D) 照抄 San Francisco，沒能抵達舊金山是讓他們失望的事，不是最重要的事；(C) 照抄第 2 段的 damaged，原文說船嚴重損壞，正好相反；(B) 原文沒有說他們很享受這趟航程。",
+  "map": [
+   [
+    "alive",
+    "survived"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "damaged",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "San Francisco",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91_44",
@@ -19447,7 +20918,25 @@
   "answer": "A",
   "accuracyRate": 49,
   "discrimination": 73,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "It is not always fair or kind."
+   },
+   {
+    "p": 1,
+    "t": "And in the real world there are not always happy endings."
+   },
+   {
+    "p": 1,
+    "t": "a place where things always go our way and there is always a happy ending."
+   }
+  ],
+  "qtype": "未提及",
+  "note": "第 1 段說現實世界不一定公平、也不一定友善，是 (B) 現實世界常令人失望；奇幻世界總是有快樂的結局（happy ending），是 (C)；事情總是順著我們的意（go our way），是 (D) 願望總能實現。文章沒有說奇幻世界讓人害怕，而且人們是想逃進去，不會因為害怕而進去，所以選 (A)。",
+  "cat": "細節題",
+  "sub": "未提及"
  },
  {
   "id": "Rg91_45",
@@ -19466,7 +20955,37 @@
   "answer": "D",
   "accuracyRate": 50,
   "discrimination": 35,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "allow us to find some magical solutions to our problems."
+   },
+   {
+    "p": 3,
+    "t": "For example, Superman always arrives in the nick of time to prevent a disaster from happening, Peter Pan can fly at will to tease the bad guy Captain Hook, and Harry Potter has his magic power to take revenge on his uncle, aunt and cousin, who always ill-treat him."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說這些故事讓我們為問題找到神奇的解決方法，接著用 For example 舉例：超人及時阻止災難、彼得潘想飛就飛、哈利波特有魔法。三個主角都有一般人沒有的能力，所以是 (D)。(C) 照抄 magical，原文說解決方法很神奇，anything but magical 是「一點都不神奇」，正好相反；(A) 照抄 bad guy，原文是彼得潘捉弄壞人，占上風的不是壞人；(B) 照抄第 2 段的 beautiful princess，贏得公主芳心是第 2 段說我們幻想的事，不是這三個主角的故事。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "bad guy",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "beautiful princess",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "magical",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91_46",
@@ -19485,7 +21004,25 @@
   "answer": "C",
   "accuracyRate": 69,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "目的",
+  "note": "第 1 段用 That is why 說明我們為什麼想逃進奇幻世界；第 2 段說我們想相信哪些奇幻的事；第 3 段用 The main reason is that 說明超人、彼得潘、哈利波特吸引人的原因。全文在解釋人們為什麼喜歡奇幻文學，所以是 (C)。(D) 阻止災難只是第 3 段超人的例子，過於狹隘；(A) 批評、(B) 嘲笑，文章對奇幻文學和讀者都沒有負面的評價，偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   }
+  }
  },
  {
   "id": "Rg91_47",
@@ -19504,7 +21041,39 @@
   "answer": "B",
   "accuracyRate": 56,
   "discrimination": 72,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Unable to attend music school, she began her career as a singer for church gatherings."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說她 1917 年申請音樂學校遭到拒絕，沒辦法上音樂學校，就開始在教會的聚會（church gatherings）中擔任歌手；1929 年才到歐洲。所以 1917 到 1929 年之間，她在宗教活動中唱歌，是 (B)。(A) 照抄 music school，她正是上不了音樂學校；(D) 照抄 Europe，到歐洲學聲樂是 1929 年以後的事；(C) 照抄 Town Hall，在紐約 Town Hall 演出是 1935 年回到美國以後的事。",
+  "map": [
+   [
+    "church gatherings",
+    "religious activities"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "music school",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "Town Hall",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "Europe",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91_48",
@@ -19523,7 +21092,34 @@
   "answer": "A",
   "accuracyRate": 57,
   "discrimination": 63,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The famous conductor Toscanini praised her voice as “heard only once in a hundred years.”"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說托斯卡尼尼稱讚她的歌聲一百年才聽得到一次（heard only once in a hundred years），也就是說這樣的歌聲非常少見，選項換成 a very rare voice，所以是 (A)。(C) 照抄 only once，原文說的是這樣的歌聲一百年才出現一次，不是她多年才唱一次；(D) 照抄 heard，原文是稱讚，不是說很少人聽過她唱歌；(B) 偶爾公開演唱，原文沒有提到。",
+  "map": [
+   [
+    "once in a hundred years",
+    "rare"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "only once",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "heard",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91_49",
@@ -19542,7 +21138,39 @@
   "answer": "C",
   "accuracyRate": 60,
   "discrimination": 56,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Her voice was widely praised throughout Europe."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說她 1929 年到歐洲學聲樂、演出，歌聲在歐洲各地（throughout Europe）廣受讚揚；1935 年回到美國以後，才成為頂尖的音樂會歌手。她的歌聲最早受到肯定是在歐洲，所以是 (C)。另外三個選項都照抄第 2 段：(B) 華盛頓特區、(A) 林肯紀念堂都是 1939 年的事，(D) 聯合國是 1958 年以後的事，都比歐洲晚。",
+  "map": [
+   [
+    "Europe",
+    "Europe"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Lincoln Memorial",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "Washington, D.C.",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "United Nations",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91_50",
@@ -19561,7 +21189,31 @@
   "answer": "D",
   "accuracyRate": 40,
   "discrimination": 43,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "In 1929, she went to Europe to study voice and spent several years performing there."
+   },
+   {
+    "p": 2,
+    "t": "In 1955, Anderson became the first black soloist to sing with the Metropolitan Opera of New York City."
+   },
+   {
+    "p": 2,
+    "t": "Anderson eventually triumphed over racism."
+   }
+  ],
+  "qtype": "推論",
+  "note": "文章列出她每一次遇到種族歧視時的做法：上不了音樂學校，就到教會唱歌，再到歐洲學聲樂；不能在憲法大廳演唱，就改在林肯紀念堂唱給 75,000 人聽。她靠的是繼續學習、繼續演唱，最後成為第一位和大都會歌劇院同台的黑人獨唱家，所以是 (D)。(B) 照抄 United Nations，擔任聯合國代表、得到聯合國和平獎，是她成功之後得到的肯定，不是向聯合國申訴；(A) 向政府抗議、(C) 上街示威，原文都沒有提到。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "United Nations",
+    "p": 2
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg91_51",
@@ -19580,7 +21232,28 @@
   "answer": "C",
   "accuracyRate": 59,
   "discrimination": 56,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "I used to carry a fresh suit to work with me so I could change if my clothes got wrinkled."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段 David 說他以前上班都會多帶一套乾淨的西裝，衣服皺了就換。他連衣服皺了都受不了，可見他要衣服隨時看起來整齊，所以是 (C)。(A) 照抄 khaki pants and a sports shirt，那是他現在的穿著，不是以前；(D) 照抄第 3 段的 money，省錢是支持休閒服的人說的理由，David 以前每天穿昂貴的西裝，正好相反；(B) 受不了整潔的外表，和原文正好相反。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "khaki pants and a sports shirt",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "money",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91_52",
@@ -19599,7 +21272,29 @@
   "answer": "A",
   "accuracyRate": 74,
   "discrimination": 62,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "and I need to feel comfortable."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段 David 說他工作比以前更賣力，所以需要穿得舒服（feel comfortable），選項換成 feel at ease，所以是 (A)。(B) 照抄 expensive，原文說他以前每天穿昂貴的西裝，沒有說他現在買不起；(D) 他現在還是穿休閒服到辦公室上班；(C) 穿休閒服比較帥，原文沒有提到。",
+  "map": [
+   [
+    "feel comfortable",
+    "feel at ease"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "expensive",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg91_53",
@@ -19618,7 +21313,20 @@
   "answer": "D",
   "accuracyRate": 58,
   "discrimination": 71,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "In a study conducted by Levi Strauss and Company, 85 percent of employers said that they believe that casual dress improves employee morale."
+   },
+   {
+    "p": 3,
+    "t": "Only 4 percent of employers said that casual dress has a negative impact on productivity."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段的研究說 85% 的雇主相信休閒服裝能提振士氣，另有 4% 的雇主說休閒服裝對生產力有負面影響。既然有雇主不贊成，就不是所有（All）雇主都支持，所以和原文不符的是 (D)。其他三個選項都和原文相符：軟體公司老闆說服裝規定保守就很難請到人，是 (A)、(C)；人穿著舒服的衣服時工作效率比較高，是 (B)。",
+  "cat": "細節題"
  },
  {
   "id": "Rg91_54",
@@ -19637,7 +21345,30 @@
   "answer": "C",
   "accuracyRate": 58,
   "discrimination": 42,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "What started out as an extra one-day-a-week benefit for employees has really become an everyday thing,"
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 2 段 Maisly Jones 說，「便服星期五」一開始只是每週多給員工一天的福利（benefit），選項換成雇主給的恩惠（favor），所以是 (C)。(B) 照抄 everyday，1990 年代初只限星期五，每天都穿休閒服是後來才變成的；(A) 1990 年代初開始，到這份考卷的年代只有十年左右，不是二十年；(D) 原文說員工想穿得舒服，不是想讓人留下好印象。",
+  "map": [
+   [
+    "benefit",
+    "favor"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "everyday",
+    "p": 2
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg91_55",
@@ -19656,7 +21387,25 @@
   "answer": "B",
   "accuracyRate": 48,
   "discrimination": 42,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Supporters of casual office wear also argue that a casual dress code helps them save money."
+   },
+   {
+    "p": 3,
+    "t": "85 percent of employers said that they believe that casual dress improves employee morale."
+   },
+   {
+    "p": 3,
+    "t": "Another reason is that people seem happier and more productive when they are wearing comfortable clothes."
+   }
+  ],
+  "qtype": "未提及",
+  "note": "第 3 段提到的好處在選項裡都換了說法：休閒的服裝規定能幫他們省錢（save money），是 (A)；能提振員工士氣（morale），是 (C) 提高員工的幹勁；穿舒服的衣服時比較快樂（happier），是 (D)。同一段的 attract 說的是公司容易吸引新員工，不是員工變得更有吸引力，所以選 (B)。",
+  "cat": "細節題",
+  "sub": "未提及"
  },
  {
   "id": "Rg90_41",
@@ -19675,7 +21424,34 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "In the 1920s a mechanical potato peeler was invented and soon there were potato chips in abundance."
+   }
+  ],
+  "qtype": "細節",
+  "note": "原文說因為馬鈴薯得用手削皮，洋芋片常常缺貨；1920 年代發明了削皮機（a mechanical potato peeler），很快洋芋片就多得是了（in abundance）。能夠大量生產，是因為馬鈴薯可以用機器削皮，所以是 (A)。(B) 照抄 peeled，原文說用手削皮很費時，正是缺貨的原因，找再多廚師也沒有解決；(D) 照抄 Saratoga，洋芋片最早出現在薩拉托加的餐廳，那時還在用手削皮；(C) 需求愈來愈大，造成的是缺貨，不是大量生產。",
+  "map": [
+   [
+    "mechanical potato peeler",
+    "peeled by machines"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "peeled",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "Saratoga",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg90_42",
@@ -19694,7 +21470,34 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The cook’s plan to stop the dinner guest from complaining did not turn out as he had planned."
+   }
+  ],
+  "qtype": "細節",
+  "note": "原文說廚師火大了，想把馬鈴薯切得薄到客人沒辦法用叉子吃，計畫是要讓客人別再抱怨（stop the dinner guest from complaining），選項換成 silence a complaining diner，所以是 (C)。(D) 照抄 pleased，感到滿意的是那位客人，不是廚師；(B) 照抄 sell，原文說的是餐廳後來開始賣小包裝，不是廚師一開始就打算到處賣；(A) 原文說廚師是在火大之下做出洋芋片的，不是很喜歡做。",
+  "map": [
+   [
+    "stop the dinner guest from complaining",
+    "silence a complaining diner"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "sell",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "pleased",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg90_43",
@@ -19713,7 +21516,27 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Picture an elegant restaurant in Saratoga Springs, New York, in 1853."
+   },
+   {
+    "p": 1,
+    "t": "A few years later, they were selling all over the United States."
+   }
+  ],
+  "qtype": "細節",
+  "note": "原文說洋芋片是 1853 年在紐約州的餐廳做出來的，幾年後就在美國各地都買得到，所以洋芋片從 19 世紀就在美國流行，是 (D)。(B) 照抄 1920，1920 年代是發明削皮機、洋芋片開始大量生產的時候，不是開始流行的時候；從 1853 年到這份考卷的年代，大約是 150 年，所以 (A) 超過 200 年、(C) 不到 100 年都不對。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "1920",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg90_44",
@@ -19732,7 +21555,16 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "But Dumas overcame poverty, the lack of formal education, and the hardship of racism to become one of the world’s most popular writers."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說大仲馬克服了貧窮、沒有受過正規教育（the lack of formal education）和種族歧視，才成為最受歡迎的作家之一。他沒有受過正規教育，所以和原文不符的是 (B)。其他三個選項都在第 3 段：同一句說他克服了種族歧視，是 (A)；他的父親當上將軍，是 (C)；他是海地奴隸的孫子，是 (D)。",
+  "cat": "細節題"
  },
  {
   "id": "Rg90_45",
@@ -19751,7 +21583,34 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Even though they were written 150 years ago, Alexander Dumas’ action novels still excite millions of readers around the world, in close to a hundred languages."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說大仲馬的小說雖然是 150 年前寫的，至今仍讓（still excite）全世界數百萬的讀者看得興奮不已，選項換成多年來一直吸引讀者（have fascinated readers for many years），所以是 (D)。(B) 照抄 languages，原文說將近（close to）一百種語言，不是超過一百種；(C) 照抄第 2 段的 recently，最近拍成電影的是《鐵面人》，小說一直都受歡迎；(A) 原文說是 150 年前寫的，不是不到 100 年。",
+  "map": [
+   [
+    "still excite",
+    "fascinated"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "languages",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "recently",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg90_46",
@@ -19770,7 +21629,23 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "After making a fortune by writing novels, he built a mansion outside Paris and kept it open to starving artists, friends, and even strangers."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 4 段說大仲馬寫小說發了財，在巴黎郊外蓋了一棟豪宅，開放給挨餓的藝術家、朋友，甚至陌生人。願意把自己的房子讓窮藝術家和陌生人來住，可見他慷慨又好心，所以是 (C)。(B) 照抄 kept，原文是 kept it open，讓豪宅一直開放給別人，選項卻說他把錢留給自己，正好相反；(A) 同一段說他的人生就像他的動作小說，參加過三次革命，生活一點都不平淡；(D) 他參加革命、受到侮辱就跟人打架，不是愛好和平的人。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "kept",
+    "p": 4
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg90_47",
@@ -19789,7 +21664,33 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Zoe was just 2 weeks old"
+   },
+   {
+    "p": 1,
+    "t": "Zoe’s mother had died and the baby was left alone."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說 Zoe 才出生兩週，媽媽就死了（mother had died），留下牠孤零零的，於是送到孤兒院，選項換成 she lost her mother，所以是 (C)。(A) 照抄 Tsavo National Park，察沃國家公園只是發現 Zoe 的地點附近，原文沒有說公園需要小象；(B) 原文說牠在市集裡四處遊蕩，送到孤兒院是因為失去了媽媽，不是找不到路回家；(D) 原文沒有說 Daphne 想把牠當寵物養，最終目標反而是把牠放回野外。",
+  "map": [
+   [
+    "mother had died",
+    "lost her mother"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Tsavo National Park",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg90_48",
@@ -19808,7 +21709,29 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "the orphanage, which depends on private contributions,"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說這家孤兒院靠私人捐款（private contributions）維持，選項換成 personal funds，所以是 (D)。(B) 照抄 Tsavo National Park，察沃國家公園是 Daphne 的丈夫創立的，孤兒院設在她奈洛比的家裡；(A) 靠私人捐款，就不是政府資助；(C) 原文說的是大象孤兒院，沒有說收容許多種動物。",
+  "map": [
+   [
+    "private contributions",
+    "personal funds"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "Tsavo National Park",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg90_49",
@@ -19827,7 +21750,34 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "There her keepers have gradually introduced her to the ways of the wild, helping her to find food and water."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說在察沃國家公園的保護區，飼養員逐步帶 Zoe 認識野外的生活方式（the ways of the wild），幫牠找食物和水，選項換成學著適應野外的生活，所以是 (B)。(A) 照抄 wild herd，放回野生象群是最終目標，可能還要好幾年，現在還沒有做到；(C) 照抄第 1 段的 village market，在村莊市集遊蕩是 Zoe 剛找到時的事；(D) 原文說和人類家人朝夕相處是在孤兒院的那一年，到了保護區是逐步學習獨立。",
+  "map": [
+   [
+    "ways of the wild",
+    "life in the wild"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "wild herd",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "village market",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg90_50",
@@ -19846,7 +21796,34 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "the final aim is to release all of them to a wild herd."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說最終的目標是把小象全部放回野生的象群（a wild herd），讓大象和自己的同類生活在一起，選項換成 live in their own groups，所以是 (A)。(C) 照抄第 4 段的 ivory，Daphne 的夢想是禁止象牙、銷毀庫存的象牙，正好相反；(B) 照抄第 2 段的 orphanage，原文沒有說她想開更多孤兒院；(D) 把 Zoe 送到歐美的動物園，原文沒有提到。",
+  "map": [
+   [
+    "wild herd",
+    "their own groups"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "orphanage",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "ivory",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg90_51",
@@ -19865,7 +21842,26 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "But what is unique about this shoe is where it was found."
+   },
+   {
+    "p": 1,
+    "t": "It was discovered on the Chilkoot Pass, the famous trail used by the people seeking gold in Alaska."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說這隻鞋特別（unique）的地方，在於它是在哪裡找到的：在奇爾庫特山徑，一條有名的山路（the famous trail），所以是 (B)。(D) 原文說這隻鞋是 1890 年代流行的款式，流行正是它普通的地方，不是特別的原因；(C) 原文說沒有人知道鞋子是誰的，看不出主人是重要人物；(A) 舊物品能讓人想像過去的生活，是第 1 段開頭講的一般道理，這隻鞋特別是因為發現的地點。",
+  "map": [
+   [
+    "famous trail",
+    "famous trail"
+   ]
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg90_52",
@@ -19884,7 +21880,34 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Unprepared for such a dangerous journey, many died of starvation and exposure to the cold weather."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說許多人對這麼危險的旅程毫無準備（Unprepared），死於飢餓和寒冷，選項換成 not properly equipped，所以是 (D)。(A) 照抄 millionaires，原文說他們希望（hoping）成為百萬富翁，沒有說後來真的發財；(B) 照抄第 1 段的 shoe，博物館裡只有一隻鞋，原文沒有說淘金客帶了很多鞋；(C) 和愛斯基摩人起衝突，原文沒有提到。",
+  "map": [
+   [
+    "Unprepared",
+    "not properly equipped"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "millionaires",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "shoe",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg90_53",
@@ -19903,7 +21926,37 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Unprepared for such a dangerous journey, many died of starvation and exposure to the cold weather."
+   },
+   {
+    "p": 2,
+    "t": "The Canadian government finally started requiring the gold seekers to bring one ton of supplies with them."
+   },
+   {
+    "p": 2,
+    "t": "This was thought to be enough for a person to survive for one year."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段先說許多人毫無準備，死於飢餓和寒冷（starvation and exposure to the cold weather），接著用 finally 說加拿大政府最後規定要帶一噸的補給品，足夠一個人活一年（survive for one year）。規定帶補給品，是為了讓淘金客不再餓死、凍死，選項換成 die of hunger and cold，所以是 (A)。(D) 照抄 Alaska，阿拉斯加是淘金客要去的地方，補給是給人活命用的，不是要讓阿拉斯加繁榮；(B) 軍隊打仗、(C) 和愛斯基摩人交易，原文都沒有提到。",
+  "map": [
+   [
+    "starvation",
+    "hunger"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "Alaska",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg90_54",
@@ -19922,7 +21975,27 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Whoever dropped the shoe must have been a brave and determined woman."
+   },
+   {
+    "p": 2,
+    "t": "No one will ever know for sure, but what we do know is that she took part in one of the greatest adventures in the 19th century."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 2 段說掉了這隻鞋的人，一定是個勇敢又堅決（brave and determined）的女人；不管她最後成功還是折返，我們確實知道她參與了 19 世紀最偉大的冒險之一。題幹的 No matter what happened 對應原文的 Perhaps…Perhaps…No one will ever know，作者肯定的是她勇於冒險的精神，所以是 (C)。(B) 照抄第 1 段的 dropped，原文用兩個問句猜測鞋子是不小心掉的還是故意丟的，沒有確定（certainly）；(A) 原文說她可能失望地折返，看不出一定過得快樂；(D) 她的其他鞋子，原文沒有提到。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "dropped",
+    "p": 1
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg90_55",
@@ -19941,7 +22014,22 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段開頭就說每件物品都在訴說一個故事，即使最普通的物品也能帶給我們強烈的意象；接著以一隻舊皮鞋為例，作者從鞋子發現的地點，想像鞋子的主人怎麼掉了鞋、淘金客走過怎樣的旅程、她最後是成功還是折返。作者要我們記得的是，簡單的物品能激發我們的想像力，所以是 (B)。三個錯誤選項都偏離主題：(A) 第 2 段雖然說許多人死於飢餓和寒冷，但作者沒有評論淘金值不值得；(C) 文章沒有說遺失的鞋子應該送到博物館展覽；(D) 文章談的是淘金的旅程，沒有說阿拉斯加不適合謀生。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rg89_41",
