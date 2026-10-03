@@ -22048,7 +22048,27 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "While your pot was staying with me, it had a baby."
+   },
+   {
+    "p": 2,
+    "t": "you believed me when I told you that your pot had a baby"
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 1 段 Nasreddin 多還了一個小鍋，說是大鍋生的寶寶；第 2 段他再借走大鍋，就說大鍋死了，還反問 Ali 當初不是相信鍋子會生寶寶嗎。一開始多給小鍋，是要讓 Ali 相信鍋子會生寶寶，之後才能用鍋子死了的說法騙走大鍋，所以是 (D)。(C) 照抄 baby，鍋子生寶寶是 Nasreddin 編出來騙 Ali 的說法，他並不是想要更多小鍋；(A) 兩人的交情，原文沒有提到，從結局看 Nasreddin 是在騙鄰居；(B) 原文沒有說他家裡的鍋子太多。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "baby",
+    "p": 1
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg89_42",
@@ -22067,7 +22087,27 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "“That's not mine,” said Ali."
+   },
+   {
+    "p": 2,
+    "t": "Ali gladly agreed and waited to see if Nasreddin would again give him back two pots."
+   }
+  ],
+  "qtype": "推論",
+  "note": "Ali 在第 1 段先說小鍋不是他的；到了第 2 段 Nasreddin 再借鍋時，他很樂意地答應，還等著看會不會又拿回兩個鍋子。可見 Ali 接受鍋子生寶寶的說法，是因為想留下那個小鍋，所以是 (B)。(D) 照抄 believed，Nasreddin 最後說的是 Ali 相信了鍋子生寶寶這件事，原文沒有說 Ali 什麼話都相信；(A) Ali 一開始就說小鍋不是他的，他其實有理由懷疑；(C) 鍋子不會生寶寶，Ali 不可能看過。",
+  "trap": [
+   {
+    "o": "D",
+    "t": "believed",
+    "p": 2
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg89_43",
@@ -22086,7 +22126,27 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The next day he returned the pot with a small one inside."
+   },
+   {
+    "p": 2,
+    "t": "your pot has died"
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 1 段 Ali 拿回了大鍋，也多拿到一個小鍋；第 2 段 Nasreddin 再借走大鍋，最後說大鍋死了，不還了。Ali 手上只剩第一次多拿到的小鍋，所以是 (C)。(B) 照抄 big pot，大鍋第二次借出去以後，Nasreddin 就說它死了，沒有還給 Ali；(D) 兩個鍋子都在 Ali 手上，是第 1 段結束時的情形，不是故事的結局；(A) 小鍋第一次就留在 Ali 那裡，所以他不是什麼都沒有。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "big pot",
+    "p": 1
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg89_44",
@@ -22105,7 +22165,16 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The post office cannot just throw the mail away"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說郵局不能把郵件直接丟掉（cannot just throw the mail away），所以處理死信的方法不包括 (B)。其他三個選項都在第 2 段：找線索（look for clues），是 (A)；打開包裹，是 (C)；登錄在電腦上，是 (D)。",
+  "cat": "細節題"
  },
  {
   "id": "Rg89_45",
@@ -22124,7 +22193,34 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "they open packages in the hope that something inside will show where the package came from or is going to."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說員工打開包裹，是希望裡面有東西能看出包裹從哪裡寄來、要寄到哪裡（where the package came from or is going to），也就是寄件人或收件人的地址，所以是 (C)。(B) 照抄 missing，原文的 missing item 是民眾打電話來查的遺失物品，不是員工拆包裹要找的東西；(D) 照抄 computer，電腦是用來登錄死信、方便民眾查詢的；(A) 錢，原文沒有提到。",
+  "map": [
+   [
+    "where the package came from or is going to",
+    "an address"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "missing",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "computer",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg89_46",
@@ -22143,7 +22239,16 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Every three months, the public is invited to the offices"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說每三個月（Every three months）舉行一次拍賣，一年有 12 個月，所以一年舉行四次，是 (D)。(C) 把「每三個月」看成「一年三次」；(A)、(B) 的次數都太少。",
+  "cat": "細節題"
  },
  {
   "id": "Rg89_47",
@@ -22162,7 +22267,29 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "標題",
+  "note": "第 1 段說明什麼是死信、死信送到哪裡，第 2 段寫員工怎麼處理死信，第 3 段寫死信太多時的拍賣，每一段都圍繞著死信，所以最好的標題是 (A)。(B) 拍賣只在第 3 段，過於狹隘；(D) 死信辦公室是死信送去處理的地方，標題只談辦公室，等於只講第 2、3 段辦公室怎麼處理死信，沒有涵蓋第 1 段死信是怎麼來的，過於狹隘；(C) 文章談的是沒辦法投遞的郵件，不是來歷不明的郵件，偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   },
+   "C": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     2,
+     3
+    ]
+   }
+  }
  },
  {
   "id": "Rg89_48",
@@ -22181,7 +22308,31 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "That floats on high o'er vales and hills,"
+   },
+   {
+    "p": 1,
+    "t": "Beside the lake, beneath the trees,"
+   },
+   {
+    "p": 2,
+    "t": "Along the margin of a bay:"
+   }
+  ],
+  "qtype": "細節",
+  "note": "詩人說自己飄過山谷和丘陵（vales and hills），在湖邊、樹下看到水仙花，第 2 段又寫到海灣，這些都是野外的景色，所以是 (C)。(B) 照抄第 2 段的 dance，跳舞的是隨風搖動的水仙花，詩人不在舞廳裡；(D) 銀河和星星是用來比喻水仙花連綿不斷，詩人不在太空船上；(A) 上萬朵水仙花沿著湖邊、海灣生長，不是庭院花園裡的景象。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "dance",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg89_49",
@@ -22200,7 +22351,32 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "When all at once I saw a crowd,"
+   },
+   {
+    "p": 2,
+    "t": "Ten thousand saw I at a glance,"
+   }
+  ],
+  "qtype": "推論",
+  "note": "詩人獨自在山谷丘陵間漫遊，看到湖邊上萬朵水仙花隨風起舞，還用星星、跳舞來描寫這些花，看得出他喜歡親近大自然，所以是 (B)。(D) 照抄 lonely，lonely as a cloud 是詩人形容自己像雲一樣獨自漫遊，只說那時候他一個人，看不出他是個很孤單的人；(A) 照抄 dance，跳舞的是水仙花，不是詩人；(C) 詩裡的 a crowd 指的是一大群水仙花，不是人群。",
+  "trap": [
+   {
+    "o": "D",
+    "t": "lonely",
+    "p": 1
+   },
+   {
+    "o": "A",
+    "t": "dance",
+    "p": 2
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg89_50",
@@ -22219,7 +22395,32 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "I explained that all I wanted was for them to count from one to twenty."
+   },
+   {
+    "p": 3,
+    "t": "The participants, having seen the visible tape-recorder turned off, paid no more attention to the microphones"
+   }
+  ],
+  "qtype": "推論",
+  "note": "作者真正要錄的是朋友們自然的閒聊。第 1 段他說只要大家從一數到二十，數完就喝酒放鬆；第 3 段說朋友們看到錄音機關了，就不再注意麥克風。要大家數數，是要讓他們以為要錄的只有這些，所以是 (A)。(D) 照抄第 2 段的 best accent，大家拿出最標準的口音數數，是因為以為作者要錄口音，作者並不是要比誰的口音最好；(C) 照抄 tape-recorder，數數不是在測試錄音機；(B) 作者說對口音有興趣只是藉口，他要的不是數字的發音。",
+  "trap": [
+   {
+    "o": "D",
+    "t": "best accent",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "tape-recorder",
+    "p": 1
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg89_51",
@@ -22238,7 +22439,28 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "And my lengthy absence meant that I was able to obtain as natural a piece of conversation as it would be possible to find."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 2 段作者說他得到另一個房間接電話，第 3 段馬上說「至少表面上看起來是這樣」，接著說他離開很久，才能錄到最自然的對話。作者離開，是要讓朋友們在他不在的時候自在地聊天，所以是 (D)。(A) 照抄 phone call，接電話只是藉口，而且原文是接電話，不是打電話訂飲料；(B) 照抄 idiotic，朋友們批評他的工作很蠢，但他離開不是因為不想聽批評；(C) 廚房裡的錄音機要一直錄，作者不會去關掉它。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "phone call",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "idiotic",
+    "p": 2
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg89_52",
@@ -22257,7 +22479,39 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "but to another one, which was turning happily away in the kitchen."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說麥克風根本沒有接到房間中間那台錄音機，而是接到另一台在廚房裡（in the kitchen）運轉的錄音機，選項換成 in another room，所以是 (C)。(A) 照抄 middle of the floor，地板中間那台錄音機是給朋友們看的，早就關掉了；(B) 照抄 microphones，麥克風就擺在椅子前面，朋友們都看得到，並沒有藏起來；(D) 照抄 studio，客廳只是布置得像錄音室。",
+  "map": [
+   [
+    "in the kitchen",
+    "in another room"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "middle of the floor",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "microphones",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "studio",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg89_53",
@@ -22276,7 +22530,23 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "None of them wanted to"
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 4 段說作者事後讓朋友們選擇要不要銷毀錄音帶，結果沒有人要銷毀（None of them wanted to），可見他們並不真的覺得受到冒犯，所以是 (B)。(A) 照抄 destroy，朋友們可以選擇銷毀，卻沒有人這麼做；(D) 原文說後來每次買酒總是輪到作者請客，這是朋友們要他還的人情，不是要他付錄音的錢；(C) 原文沒有說朋友們覺得受騙而生氣。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "destroy",
+    "p": 4
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg89_54",
@@ -22295,7 +22565,28 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Bring a friend (if you have one)."
+   }
+  ],
+  "qtype": "推論",
+  "note": "卡片上寫「帶一位朋友來（如果你有的話）」，括號裡的話是在暗諷邱吉爾可能根本沒有朋友，所以是 (D)。(B) 照抄 bring，蕭伯納只說帶一位朋友，和帶太多人無關；(C) 照抄 two tickets，蕭伯納沒有說票會浪費掉；(A) 叫邱吉爾帶朋友來只是字面上的意思，蕭伯納真正要說的是括號裡的話。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "bring",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "two tickets",
+    "p": 1
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg89_55",
@@ -22314,7 +22605,37 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Churchill, however, managed to get the better of this exchange."
+   },
+   {
+    "p": 2,
+    "t": "Please send me two tickets for the second night (if there is one)."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 2 段用 however 說這一回合邱吉爾占了上風（get the better of），他退回首演的票，反過來暗諷蕭伯納的戲可能演不到第二晚。可見他退票是不肯白白接受蕭伯納的嘲諷，還回敬了一句，所以是 (A)。(C) 照抄 busy，「那天晚上我很忙」只是他退票的說法，括號裡的「如果有第二晚的話」才是重點；(B) 照抄 second night，邱吉爾要第二晚的票，是在暗諷這齣戲可能演不到第二晚，和戲院擠不擠無關；(D) 照抄第 1 段的 friend，邱吉爾沒有說找不到朋友。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "busy",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "second night",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "friend",
+    "p": 1
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg88_41",
@@ -22333,7 +22654,28 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "標題",
+  "note": "第 1 段說作者寫作的理由不只一種，可以是娛樂讀者，也可以是提供資訊；第 2 段說下面兩段是這兩類的例子。全文談的是寫作的不同目的，所以最好的標題是 (D)。(A) 只講第 3 段 Nelson 和 Adam 的故事，過於狹隘；(B) 只講第 4 段的貝殼，過於狹隘；(C) 文章談的是寫作的目的，不是哪些題材適合寫，偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   },
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     4
+    ]
+   },
+   "C": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rg88_42",
@@ -22352,7 +22694,16 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Later in the afternoon, Nelson came to Adam’s office with Peter for their biology project."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說 Nelson 和 Peter 下午到 Adam 的辦公室做生物科的專題，看得出他們是一起做作業的學生；原文的 office 只是辦公室，沒有說他們是軍官，所以和原文不符的是 (B)。其他三個選項都和原文相符：Nelson 沒時間把空箱子拿去垃圾場，就丟在 Adam 的辦公室，是 (C)，這樣做也很不負責任，是 (A)；掉下來的除了空箱子，還有籃球和玩具青蛙，可見 Adam 故意把東西堆在門後捉弄 Nelson，是 (D)。",
+  "cat": "細節題"
  },
  {
   "id": "Rg88_43",
@@ -22371,7 +22722,28 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "The empty boxes and many other things fell all over them the minute he opened the door."
+   },
+   {
+    "p": 3,
+    "t": "This is no way to treat a friend!"
+   }
+  ],
+  "qtype": "是非",
+  "note": "Nelson 把空箱子丟在 Adam 的辦公室，下午他一打開門，空箱子和許多其他東西就砸在他身上，他大叫「怎麼可以這樣對待朋友」。Adam 用同樣的方法回敬 Nelson，給了他一個教訓，所以是 (D)。(C) 照抄 Peter，Peter 只是和 Nelson 一起去做專題，大叫抱怨的是 Nelson；(A) Nelson 說 Adam 是朋友，看不出兩人一直合不來；(B) 東西又堆回門後砸下來，可見 Adam 知道 Nelson 放了什麼。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "Peter",
+    "p": 3
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg88_44",
@@ -22390,7 +22762,33 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Authors also write about these things to inform by giving facts or ideas."
+   },
+   {
+    "p": 2,
+    "t": "The following two paragraphs are examples of these two kinds."
+   }
+  ],
+  "qtype": "段落功能",
+  "note": "第 1 段說作者寫作，有時是為了娛樂讀者，有時是為了提供事實或想法（giving facts or ideas）；第 4 段的第二個例子介紹貝殼的種類、形狀和軟體動物，屬於提供資訊的一類，選項換成 present facts，所以是 (B)。(D) 照抄 shape，貝殼的形狀只是第 4 段提供的事實之一，不是整段的目的；(A) 這一段沒有發表對貝殼的看法；(C) 這一段也沒有讚美貝殼有多美。",
+  "map": [
+   [
+    "giving facts",
+    "present facts"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "shape",
+    "p": 4
+   }
+  ],
+  "cat": "主旨題"
  },
  {
   "id": "Rg88_45",
@@ -22409,7 +22807,25 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "全文介紹考艾島：第 1 段寫河流、懸崖和峽谷，第 2 段寫山和雨量，第 3 段寫颶風過後的復原，第 4 段寫適合在島上從事的戶外活動，都是這個地方的地理資訊，所以是 (D)。(B) 文章只在第 3 段提到 1992 年的颶風，沒有談這個地區的歷史背景，過於狹隘；(A) 文章沒有介紹當地的文化，偏離主題；(C) 颶風是天災，文章也沒有討論環境問題，偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   },
+   "C": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rg88_46",
@@ -22428,7 +22844,29 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "has some of the state’s most stunning scenery"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說考艾島有夏威夷州幾處最令人驚嘆的景色（most stunning scenery），接著介紹叢林、懸崖和峽谷，選項換成 Natural beauty，所以是 (B)。(C) 照抄 volcano，第 2 段說懷亞萊阿萊山是死火山（extinct volcano），不是活火山；(A) 原文沒有談到天氣冷；(D) 第 4 段說主要的吸引力在戶外，原文沒有提到遊樂園。",
+  "map": [
+   [
+    "stunning scenery",
+    "Natural beauty"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "volcano",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg88_47",
@@ -22447,7 +22885,26 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Yet this amount of rain is surprisingly localized."
+   },
+   {
+    "p": 2,
+    "t": "Just a few miles west, there’s a dry region that receives a mere 6 inches of rain annually."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說懷亞萊阿萊山每年降雨將近 500 英寸，接著用 Yet 說這麼多的雨出乎意料地集中在小範圍裡（surprisingly localized），往西幾英里一年只下 6 英寸，選項換成 concentrates in some spots，所以是 (A)。(B) 正好相反，雨下得最多的就是山區的懷亞萊阿萊山；(C) 原文說西邊有乾燥地區，不是到處都多雨；(D) 原文沒有談雨量隨季節變化。",
+  "map": [
+   [
+    "localized",
+    "concentrates in some spots"
+   ]
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg88_48",
@@ -22466,7 +22923,16 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "its main attractions lie outdoors"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段說考艾島不適合喜歡人潮或夜生活的人，主要的吸引力在戶外（lie outdoors），所以和原文不符的是 (C)。其他三個選項都和原文相符：第 2 段說這座島近乎圓形（nearly round），是 (A)；第 3 段說 1992 年的颶風過後，飯店到現在還在重建，可見破壞嚴重，是 (B)；第 2 段說島的中央矗立著 5,000 多英尺高的懷亞萊阿萊山，是 (D)。",
+  "cat": "細節題"
  },
  {
   "id": "Rg88_49",
@@ -22485,7 +22951,16 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The decomposers are a vital link in the natural cycle of life and death."
+   }
+  ],
+  "qtype": "細節",
+  "note": "原文最後說分解者是大自然生死循環中不可或缺的一環（a vital link），不是次要的角色，所以和原文不符的是 (D)。其他三個選項都和原文相符：細菌這類分解者把化學物質釋放出來，讓其他生物可以利用，是 (A)；分解的過程會釋放二氧化碳，是 (B)；沒有植物提供的氧氣和食物，動物都會餓死，是 (C)。",
+  "cat": "細節題"
  },
  {
   "id": "Rg88_50",
@@ -22504,7 +22979,37 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The dead material and waste matter form the diet of a group of living organisms called decomposers."
+   },
+   {
+    "p": 1,
+    "t": "making them available to other living things"
+   }
+  ],
+  "qtype": "推論",
+  "note": "原文說死去的生物是分解者的食物，分解者再把化學物質釋放到空氣、土壤和水中，讓其他生物利用（available to other living things）；植物靠二氧化碳生長，動物又靠植物的氧氣和食物活下去。死亡養活了許多生命，所以是 (A)。(B) 照抄 borrow，原文說生物身上的化學物質是向地球借來的，死的時候是還回去，不是借；(C) 照抄 bacteria，細菌是分解者，原文沒有說細菌變成化學物質；(D) 照抄 soil，土壤是化學物質釋放的地方之一，原文沒有說死亡控制土壤的多寡。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "borrow",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "bacteria",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "soil",
+    "p": 1
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg88_51",
@@ -22523,7 +23028,28 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "這篇報導從第 1 段 Glenn 第二次參加紐約英雄谷的遊行寫起，接著拿兩次遊行比較，寫觀眾少了、熱情也少了，全篇報導的是 Glenn 第二次在紐約接受歡迎的情形，所以是 (C)。(A) 1962 年水星計畫的飛行和第一次遊行，只在第 2 段當作對照，過於狹隘；(D) 第 7 段說 Glenn 下個月才要從參議院退休，報導寫的不是他退休以後的事，過於狹隘；(B) Glenn 是第一位環繞地球軌道飛行的美國人，不是第一位登陸月球的人，偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     7
+    ]
+   }
+  }
  },
  {
   "id": "Rg88_52",
@@ -22542,7 +23068,34 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 6,
+    "t": "I remember just a blizzard of paper."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 6 段 Glenn 回憶 1962 年的遊行，說他記得紙片多得像暴風雪一樣（a blizzard of paper），一抬頭眼睛就會有東西掉進去，選項換成 the huge amount of paper，所以是 (B)。(C) 照抄 Christmas tree，替洛克斐勒中心的聖誕樹裝飾是這一次的行程，不是 1962 年的事；(A) 照抄第 3 段的 crowd，那裡說的是這次遊行華爾街的午餐人潮，Glenn 回憶 1962 年時說的是紙片；(D) 市長送他城市的鑰匙，原文沒有提到。",
+  "map": [
+   [
+    "a blizzard of paper",
+    "The huge amount of paper"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "Christmas tree",
+    "p": 6
+   },
+   {
+    "o": "A",
+    "t": "crowd",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg88_53",
@@ -22561,7 +23114,30 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 5,
+    "t": "too many Americans take the achievements of the space program for granted"
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 5 段一位觀眾說，太多美國人把太空計畫的成就視為理所當然（take … for granted），已經沒有人在乎了，選項換成美國人不再對太空成就感到興奮，所以是 (C)。(B) 照抄第 7 段的 more than，原文說 Glenn 加入了許多獲得不只一次紙花遊行的個人和隊伍，不是只有他一個人；(D) 第 3、4 段說第二次遊行人少、路線短，第一次比較熱烈；(A) Glenn 是環繞地球軌道飛行，原文沒有說他上過月球。",
+  "map": [
+   [
+    "take the achievements of the space program for granted",
+    "no longer excited about space achievements"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "more than",
+    "p": 7
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg88_54",
@@ -22580,7 +23156,20 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "saluting his return to space 36 years after he became America’s first man in orbit."
+   },
+   {
+    "p": 2,
+    "t": "Glenn’s first ticker-tape parade on March 1, 1962, after his Mercury flight"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說這次遊行是慶祝 Glenn 在成為美國第一位環繞地球軌道飛行的人 36 年以後重返太空（his return to space），第 2 段說第一次飛行是 1962 年水星計畫的飛行。1962 年一次，36 年後再一次，所以是 (B)。(A) 只算到 1962 年那一次；他參加了兩次遊行，每次都是在太空飛行之後，所以 (C)、(D) 的次數都太多。",
+  "cat": "細節題"
  },
  {
   "id": "Rg88_55",
@@ -22599,7 +23188,33 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "the turnout Monday was sparse by New York standards"
+   },
+   {
+    "p": 3,
+    "t": "a figure that appeared generously inflated."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說週一出來看遊行的人以紐約的標準來說稀稀落落（sparse），警方卻說有 50 萬人，記者認為這個數字誇大了不少（generously inflated）。實際人數看起來遠少於 50 萬，所以是 (C)。(D) 照抄第 4 段的 enthusiastic，比較熱烈的是 1962 年那一次；(A) 正好相反，第二次的人比第一次少；(B) 原文只提到一位兩次都參加的觀眾，記者說數字誇大，和有沒有人參加兩次無關。",
+  "map": [
+   [
+    "sparse",
+    "far less"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "enthusiastic",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg87_41",
@@ -22618,7 +23233,37 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段說機器人當畢業演講者非常不尋常，第 4 段說選機器人當演講者引起不少爭議（controversy），有人覺得不妥，有人覺得有創意，第 5 段再用畢業生的話收尾。這場演講會寫成報導，主要是因為它引起爭議，所以是 (C)。(D) 照抄 insensitive，那只是第 4 段部分學生的看法，過於狹隘；(A) 照抄 political，第 5 段的畢業生只是拿政治領袖和機器人比較，演講內容和政治無關，偏離主題；(B) 文章沒有談到心理學，偏離主題。",
+  "trap": [
+   {
+    "o": "D",
+    "t": "insensitive",
+    "p": 4
+   },
+   {
+    "o": "A",
+    "t": "political",
+    "p": 5
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     4
+    ]
+   }
+  }
  },
  {
   "id": "Rg87_42",
@@ -22637,7 +23282,16 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "a robot who delivered the commencement address at a community college in suburban Maryland."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說 Robot Redford 是在馬里蘭州一所社區大學的畢業典禮上致詞（delivered the commencement address），它是演講者，不是畢業生，所以和原文不符的是 (D)。其他三個選項都和原文相符：第 2 段說這個機器人可以設定程式說話，是 (A)；它靠自己的動力走上講台（under its own power），是 (B)；第 1 段說這是 1983 年的畢業典禮季，是 (C)。",
+  "cat": "細節題"
  },
  {
   "id": "Rg87_43",
@@ -22656,7 +23310,23 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "he had created Robot Redford"
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 3 段說 Bakaleinikoff 製造了 Robot Redford（he had created Robot Redford），選項的 brainchild 指的是某人構想出來的心血結晶，所以是 (B)。(A) 第 2 段說機器人能幫助人類完成更多工作，不是降低生產力；(C) 第 4 段說這個安排引起爭議，有學生覺得不妥，不是每個人都滿意；(D) 原文沒有說演講太難懂。",
+  "map": [
+   [
+    "created",
+    "brainchild"
+   ]
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg87_44",
@@ -22675,7 +23345,32 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "part of which consisted of tying several knots in a given time limit"
+   },
+   {
+    "p": 1,
+    "t": "I was required to formally plot our course, using the tide table"
+   }
+  ],
+  "qtype": "字義",
+  "note": "原文說航海課要在規定時間內打好幾種繩結，接著搭父親的船出海過夜，還要用潮汐表規劃航線。這些都是駕船出海的本事，所以 navigation 指的是駕駛船隻，是 (B)。(D) 照抄 formal examination，飯廳裡的正式考試只是航海課的一部分；(A) 照抄 summer school，夏季學校是父親辦的整套課程，航海只是其中一門；(C) 文中出海用的是船，和開飛機無關。",
+  "trap": [
+   {
+    "o": "D",
+    "t": "formal examination",
+    "p": 1
+   },
+   {
+    "o": "A",
+    "t": "summer school",
+    "p": 1
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rg87_45",
@@ -22694,7 +23389,16 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "There never seemed to be enough time to go to church"
+   }
+  ],
+  "qtype": "細節",
+  "note": "原文說夏天的活動太多，好像從來沒有時間上教堂（never…enough time to go to church），親友還因此指責父親，所以不在父親安排的活動裡的是 (A)。其他三個選項都在父親的安排裡：開頭列出的夏天活動有健行、游泳，是 (B)、(C)；暑期課程包括古代史，是 (D)。",
+  "cat": "細節題"
  },
  {
   "id": "Rg87_46",
@@ -22713,7 +23417,34 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "His summer course included ancient history, which Papa felt our schools neglected"
+   }
+  ],
+  "qtype": "細節",
+  "note": "原文說父親的暑期課程包括古代史，因為他覺得學校忽略了這門課（our schools neglected），選項換成補足一般課堂上缺少的東西（things missing in a regular classroom），所以是 (D)。(B) 照抄 night on board，在船上過夜只是航海課的一部分，不是辦夏季學校的主要原因；(C) 照抄 summer school，原文沒有說要獎勵孩子；(A) 有人指責父親忽略了宗教教育，但他辦的課程裡沒有宗教。",
+  "map": [
+   [
+    "neglected",
+    "missing"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "night on board",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "summer school",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg87_47",
@@ -22732,7 +23463,34 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "presenting a program of celebration for the year 2,000"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說巴黎要蓋一座木造的新艾菲爾鐵塔來迎接千禧年，市長同時提出 2000 年的慶祝計畫（a program of celebration for the year 2,000），所以是 (D)。(C) 照抄 Seville exhibition，第 3 段說建築師負責過塞維亞博覽會的歐洲區，蓋塔不是為了慶祝那次博覽會；(B) 照抄 wood，新塔用木頭蓋，但舊的鑄鐵鐵塔並沒有要改建；(A) 原文沒有說舊鐵塔要拆掉。",
+  "map": [
+   [
+    "celebration for the year 2,000",
+    "celebrate the coming of the year 2,000"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "Seville exhibition",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "wood",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg87_48",
@@ -22751,7 +23509,43 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "which would transform the “city of light” into the “capital of light.”"
+   },
+   {
+    "p": 8,
+    "t": "The mayor said new buildings would be illuminated"
+   }
+  ],
+  "qtype": "細節",
+  "note": "市長要把巴黎從「光之城」變成「光之首都」（capital of light），第 8 段說新建築和塞納河兩岸要打燈、聖母院從內部點燈，第 9 段還要在凱旋門上裝雷射時鐘，裝飾巴黎的主要是燈光，所以是 (B)。(A) 照抄第 4 段的 flower，花是新塔塔頂的造型；(C) 照抄第 8 段的 new buildings，新建築是打燈的對象，裝飾靠的是燈光；(D) 照抄 tower，新塔只有一座。",
+  "map": [
+   [
+    "light",
+    "lights"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "flower",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "new buildings",
+    "p": 8
+   },
+   {
+    "o": "D",
+    "t": "tower",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg87_49",
@@ -22770,7 +23564,16 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 8,
+    "t": "notably along the banks of the Seine, which would become a luminous strip"
+   }
+  ],
+  "qtype": "字義",
+  "note": "第 8 段說 the banks of the Seine，bank 是河岸，塞納河兩岸要打上燈光，整條變成一條發光的帶子，所以塞納河是一條河，是 (C)。(B) 新塔的名稱，原文沒有提到；(A) 高聳的紀念碑、(D) 擁擠的街道，都不會有兩岸（banks）。",
+  "cat": "詞義題"
  },
  {
   "id": "Rg87_50",
@@ -22789,7 +23592,29 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "It will be made of timber as an ecological symbol of"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說用木材蓋塔，是作為生態的象徵（an ecological symbol），選項換成 symbol of environmental concerns，所以是 (A)。(D) 照抄第 2 段的 iron，第 2 段拿舊鐵塔比的是高度，原文沒有說要和鑄鐵形成對比；(B) 減輕重量、(C) 預算有限，原文都沒有提到。",
+  "map": [
+   [
+    "ecological symbol",
+    "symbol of environmental concerns"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "iron",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg86_41",
@@ -22808,7 +23633,16 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "wondered how to dispose of the old items"
+   }
+  ],
+  "qtype": "字義",
+  "note": "第 1 段說家裡買了新家具、新窗簾，就煩惱舊東西要怎麼 dispose of；第 2 段接著說這家店收集多餘的物品，再重新分送出去。可見 dispose of 是把不要的東西處理掉，和 get rid of 意思相同，所以是 (B)。(A) put up with 是忍受，(C) look down upon 是看不起，(D) take notice of 是注意，放進句子都說不通。",
+  "cat": "詞義題"
  },
  {
   "id": "Rg86_42",
@@ -22827,7 +23661,32 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "until they can be redistributed to the people who are needing those particular things"
+   },
+   {
+    "p": 3,
+    "t": "Many have been helped through the scheme"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說這家店收集多餘、品質良好的物品，再分送給需要的人；第 3 段說受到幫助的有單親家長、身心障礙者、老人和遭遇火災的人。開這家店，是要幫助缺少家用物品、自己又買不起的人，所以是 (A)。(B) 照抄 church volunteers，教會志工是經營這家店的人，這家店也不是家具行；(D) 照抄第 3 段的 disabled people，身心障礙者是受到幫助的人之一，而且物品是分送，不是賣；(C) 原文沒有說要教人銷毀家具。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "church volunteers",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "disabled people",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg86_43",
@@ -22846,7 +23705,23 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "Participation costs the donor nothing and can make such a difference to others."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 4 段作者稱讚這項計畫，要讀者查查家鄉有沒有類似的計畫，還說捐贈者（the donor）不必花錢，卻能讓別人的生活大不相同。作者認為用不到的東西應該捐出去，所以是 (B)。(C) 照抄 admirable project，作者稱讚的是這項計畫，不是那件物品；(A) 第 1 段說舊東西還能用很久，作者沒有說它們過時；(D) 第 2 段說收集的是品質良好的物品，不是有問題的東西。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "admirable project",
+    "p": 4
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg86_44",
@@ -22865,7 +23740,26 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "who would recover the lost information for you"
+   },
+   {
+    "p": 2,
+    "t": "It would be difficult to put a value on the things rescued by the Disk Doctor."
+   }
+  ],
+  "qtype": "字義",
+  "note": "第 1 段說找專家把遺失的資料救回來（recover the lost information），第 2 段的 the things rescued by the Disk Doctor 指的就是 Disk Doctor 救回來的資料，所以 rescued 和 recovered 意思相同，是 (A)。(B) prescribed 是開處方，第 3 段的處方是資料救回來以後附上的建議；(C) examined 是檢查，(D) discovered 是發現，都不是把遺失的資料救回來。",
+  "map": [
+   [
+    "recover",
+    "recovered"
+   ]
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rg86_45",
@@ -22884,7 +23778,32 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Some people, however, are so grateful that they send extra money to Jack or to the charities his company supports."
+   },
+   {
+    "p": 2,
+    "t": "It would be difficult to put a value on the things rescued by the Disk Doctor."
+   }
+  ],
+  "qtype": "推論",
+  "note": "空白支票讓收款人自己填金額。第 1 段說有些客戶感激到額外寄錢，第 2 段又說 Disk Doctor 救回來的東西價值很難估算（difficult to put a value on），建築師寄空白支票，是覺得 Jack 的服務無價，所以是 (D)。(B) 照抄第 2 段的 security reasons，基於安全理由親自跑一趟的，是處理柴契爾夫人行程那一次；(C) 照抄第 3 段的 doctor's advice，Jack 說大部分的人都不理會建議，原文也沒有說建築師照著做；(A) 建築師願意讓 Jack 自己填金額，不是沒有錢。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "security reasons",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "doctor's advice",
+    "p": 3
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg86_46",
@@ -22903,7 +23822,16 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "They work from home and give all the money they earn to charity."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說 Jack 和朋友把賺來的錢全部捐給慈善團體（give all the money they earn to charity），他們沒有靠這項服務發財，所以和原文不符的是 (B)。其他三個選項都和原文相符：第 1 段說收費都一樣，是 (A)；處理柴契爾夫人的行程要基於安全理由親自到她的辦公室，可見她是重要人物，是 (C)；客戶有石油公司、建築師、律師、作家，還有電視、廣播節目，各行各業都有，是 (D)。",
+  "cat": "細節題"
  },
  {
   "id": "Rg86_47",
@@ -22922,7 +23850,20 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "the disk is returned to the sender with a diagnosis and a prescription for avoiding the problem in the future"
+   },
+   {
+    "p": 3,
+    "t": "most people don’t take any notice of the doctor’s advice"
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 3 段說磁碟寄還時，附上診斷和避免同樣問題的處方（a prescription for avoiding the problem in the future），Jack 卻說大部分的人都不理會這些建議。不照建議做，資料就可能再出問題，所以很多客戶不只一次找他幫忙，是 (C)。這裡的 doctor 是 Jack 的 Disk Doctor，處方是保護資料的建議，(A) 吃藥、(B) 病人再生病，都把比喻當成真的醫生；(D) 原文說的是不理會 Jack 的建議，不是不看電腦的使用說明。",
+  "cat": "推論題"
  },
  {
   "id": "Rg86_48",
@@ -22941,7 +23882,42 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "目的",
+  "note": "第 1 段解釋什麼是關係，說想要愛人、也想要別人愛的人，都會想建立長久的關係；第 2 段接著提出四個建議，幫助讀者建立持久的關係。作者寫這篇文章，是要幫助讀者建立良好的關係，所以是 (C)。(B) 第 1 段說世界上的事都是透過關係發生的，選項換成透過感受（feelings），既改錯了字，也只講第 1 段，過於狹隘；(A) 第 2 段說信任是建立持久關係的基石（building block），選項卻拿來和親密連在一起，偏離主題；(D) 跳舞只是比喻，作者沒有要讀者成為舞蹈高手，偏離主題。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "intimacy",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "feelings",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "dance",
+    "p": 2
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rg86_49",
@@ -22960,7 +23936,17 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Here are a few tips to help us create enduring relationships."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "第 2 段說 Here are a few tips to help us create enduring relationships，接著用 First、Second、Third、Lastly 列出四點做法，可見 tips 指的是幫助我們建立持久關係的建議，所以是 (D)。tip 也有「小費」的意思，(A) 費用就是從這個意思來的，放在這裡說不通；(B) 服務、(C) 限制，都不是接下來列出的四點。",
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rg86_50",
@@ -22979,7 +23965,44 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "trust is a bond that evolves as two persons get to know each other and experience safety in opening their hearts"
+   },
+   {
+    "p": 2,
+    "t": "We need to be seen and known by another person."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 2 段說兩個人逐漸了解彼此、敞開心胸（opening their hearts）時覺得安心，信任就會發展；談親密時又說我們需要另一個人看見、了解我們。敞開心胸，讓別人了解自己的內心，是持久關係不可少的，所以是 (D)。(A) 照抄 limited to the sexual bond，原文說一般人常把親密只當成性方面的連結，接著用 While 轉折，說不涉及性也可以很親密；(B) 照抄 block，原文說信任是建立持久關係的基石（building block），不是阻礙；(C) 照抄 dance，跳舞是比喻，意思是要先了解自己，不是說不會跳舞就建立不了關係。",
+  "map": [
+   [
+    "opening their hearts",
+    "Exposure of one’s inner thoughts"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "limited to the sexual bond",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "block",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "dance",
+    "p": 2
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg86_51",
@@ -22998,7 +24021,20 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "We human beings need to love and be loved, and this will come from our relationship with others."
+   },
+   {
+    "p": 2,
+    "t": "A new relationship is like an embryo that requires time, care and attention to grow into whatever may evolve."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說新的關係就像胚胎（like an embryo），需要時間、照顧和關注才能成長；胚胎是用來比喻新的關係，作者沒有說喜歡胚胎能帶來愛，所以選 (A)。其他三個選項都是原文說的愛的來源：第 1 段說愛來自我們和他人的關係，也就是人與人的互動，是 (B)；第 2 段的信任，是 (C)；心與心交流的親密，是 (D)。",
+  "cat": "細節題"
  },
  {
   "id": "Rg86_52",
@@ -23017,7 +24053,34 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "to begin an ambitious around-the-world cruise"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說父子倆從俄羅斯出航，是要展開一趟環球航行（an around-the-world cruise），所以是 (A)。(B) 照抄 Penghu，他們是帆船故障、漂流到澎湖附近才獲救，澎湖不是目的地；(D) 照抄第 4 段的 inboard engine，發動引擎是主帆打碎以後的應變；(C) 原文沒有提到尋找失散的家人。",
+  "map": [
+   [
+    "around-the-world",
+    "around the world"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "Penghu",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "inboard engine",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg86_53",
@@ -23036,7 +24099,32 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "down the coastline of northeastern mainland China"
+   },
+   {
+    "p": 3,
+    "t": "then down the Taiwan Strait and into the South China Sea"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說他們沿著中國大陸東北部的海岸線南下（down），穿過東海，再南下台灣海峽，一路往南走，所以是 (C)。(A) 照抄 East，East China Sea 是東海的名稱，不是航行的方向；(D) 照抄 north，northeastern 說的是中國大陸東北部的海岸，他們是從那裡往南走；(B) 往西航行，原文沒有提到。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "East",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "north",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg86_54",
@@ -23055,7 +24143,41 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Nov.24"
+   },
+   {
+    "p": 2,
+    "t": "sailed from an unnamed eastern Russian seaport on August 18"
+   },
+   {
+    "p": 3,
+    "t": "had been smooth until four days ago"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說他們 8 月 18 日出航，第 1 段的電訊日期是 11 月 24 日，第 3 段說航程一直很順利，直到四天前主帆打碎，也就是 11 月 20 日前後才第一次出問題，這時已經出航三個多月，所以是 (C)。(A) 照抄第 4 段的 less than two days，那是發動引擎以後不到兩天引擎就故障，不是出航以後兩天；(B) 照抄 four days，四天前是主帆打碎的時間，主帆打碎以後才發動引擎，選項把先後弄反了；(D) 照抄第 6 段的 Paisha，漂到澎湖以前，帆和舵早就壞了。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "less than two days",
+    "p": 4
+   },
+   {
+    "o": "B",
+    "t": "four days",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "Paisha",
+    "p": 6
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg86_55",
@@ -23074,7 +24196,34 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 7,
+    "t": "It is not immediately known whether the “Kawasaki” can be repaired"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 7 段說「Kawasaki」能不能在澎湖修好、父子倆什麼時候能再出發繼續環球航行，目前都還不知道（It is not immediately known），也就是還沒有任何決定，所以是 (D)。(C) 照抄 repair，原文說的是能不能修好還不知道，而且他們要繼續的是環球航行，不是開回俄羅斯；(A) 照抄 fishing，fishing island 是說澎湖是漁業島嶼，不是他們要留下來捕魚；(B) 原文沒有提到賣船。",
+  "map": [
+   [
+    "not immediately known",
+    "had not made any decision yet"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "repair",
+    "p": 7
+   },
+   {
+    "o": "A",
+    "t": "fishing",
+    "p": 7
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg85_41",
@@ -23093,7 +24242,25 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "A word of congratulation just doesn't seem enough"
+   },
+   {
+    "p": 5,
+    "t": "Mom and Dad are coming here for a weekend next month."
+   },
+   {
+    "p": 5,
+    "t": "Please try to take a few days off and come to join us."
+   }
+  ],
+  "qtype": "未提及",
+  "note": "Sally 寫信的理由有三個：第 4 段恭喜 Tom 考上大學，是 (A)；第 5 段告訴他爸媽下個月要來過週末，是 (B)；請他空出幾天來和大家聚一聚，是 (C)。Sally 說爸媽要來的是「這裡」（coming here），請 Tom 過來一起聚，不是叫他回家，所以選 (D)。",
+  "cat": "細節題",
+  "sub": "未提及"
  },
  {
   "id": "Rg85_42",
@@ -23112,7 +24279,33 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "a great argument-saver when playing Scrabble with your friends"
+   }
+  ],
+  "qtype": "字義",
+  "note": "第 4 段說辭典是 a great argument-saver when playing Scrabble with your friends。Scrabble 是要「玩」（playing）的，還要和朋友一起玩，玩的時候查辭典可以避免爭吵，可見 Scrabble 是一種拼字遊戲，所以是 (C)。(A) 照抄 argument-saver，(B) 照抄 dictionary，(D) 照抄 gift，這三個選項說的都是那本大辭典。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "argument-saver",
+    "p": 4
+   },
+   {
+    "o": "B",
+    "t": "dictionary",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "gift",
+    "p": 4
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rg85_43",
@@ -23131,7 +24324,20 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Jack and I were helping you learn your ABC"
+   },
+   {
+    "p": 5,
+    "t": "Mom and Dad are coming here for a weekend next month."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 5 段 Sally 寫信給 Tom，說 Mom and Dad 下個月要來，要 Tom 一起來聚；她對 Tom 直接稱 Mom and Dad，說的就是兩人共同的爸媽。第 3 段又說 Sally 和 Jack 在 Tom 小時候教他學 ABC，可見 Sally 是 Tom 的姊姊，所以是 (B)。如果是 (A) 母子，Mom and Dad 就成了 Tom 的祖父母，Sally 寫給兒子時不會這樣稱呼；(C) 祖孫也一樣說不通；(D) niece 和 nephew 是同一位長輩的姪女和姪子，兩人不會有同一對爸媽。",
+  "cat": "推論題"
  },
  {
   "id": "Rg85_44",
@@ -23150,7 +24356,34 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "passport good for at least six months"
+   }
+  ],
+  "qtype": "細節",
+  "note": "美國在第 2 段的 15 國名單裡，停留一星期不到 14 天，可以免簽證入境，條件之一是護照效期至少六個月（good for at least six months），所以是 (D)。(A) 照抄第 3 段的 landing-visa，停留超過 14 天才要申請落地簽證；(C) 照抄 May 1, 1995，那是免簽證開始實施的日期，和護照什麼時候核發無關；(B) 美國國民免簽證，不必出發前先辦簽證。",
+  "map": [
+   [
+    "good for at least six months",
+    "valid for more than six months"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "landing-visa",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "May 1, 1995",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg85_45",
@@ -23169,7 +24402,32 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "If it is necessary to stay more than 14 days and less than 30 days"
+   },
+   {
+    "p": 3,
+    "t": "should in the meantime apply for a landing-visa with the authorized office in the CKS airport"
+   }
+  ],
+  "qtype": "細節",
+  "note": "英國在第 2 段的免簽證名單裡，但是三週大約 21 天，超過 14 天、不到 30 天。第 3 段說這種情況要向設在中正機場的辦事處申請落地簽證，所以是 (C)。(D) 照抄 non-visa entry，免簽證入境最多只能停留 14 天；(A) 照抄 entry into the Republic of China，第 2 段說的是英國國民入境中華民國免辦簽證，不必出發前先辦；(B) 和其他國家的朋友同行，原文沒有提到。",
+  "trap": [
+   {
+    "o": "D",
+    "t": "non-visa entry",
+    "p": 2
+   },
+   {
+    "o": "A",
+    "t": "entry into the Republic of China",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg85_46",
@@ -23188,7 +24446,24 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "passport good for at least six months"
+   },
+   {
+    "p": 3,
+    "t": "nationals of the specific countries holding a 14-day non-visa entry"
+   },
+   {
+    "p": 3,
+    "t": "The landing-visa fee is NT$1,500."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說申請落地簽證的，是持 14 天免簽證入境的國民，所以要有 (B)；免簽證入境本來就要護照效期至少六個月，所以 (A) 也是條件；落地簽證的費用是新台幣 1,500 元，所以還要繳 (C)。三項都需要，所以是 (D)。",
+  "cat": "細節題"
  },
  {
   "id": "Rg85_47",
@@ -23207,7 +24482,20 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "In contrast, the right hemisphere deals with feelings, colors, and long-term memory."
+   },
+   {
+    "p": 3,
+    "t": "They use logic, definition, and repetition to learn."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說左腦型學習者專注於背規則和清單，用邏輯、定義和反覆練習來學習；第 2 段說處理感受、色彩的是右半球。富有藝術氣息又浪漫，靠的是感受和色彩，比較像右腦型，所以不符合 Mary 的是 (B)。其他三個選項都符合左腦型：思考很有邏輯，是 (A)；句子合併測驗要照規則組合句子，常拿 A，是 (C)；擅長數學要靠邏輯，是 (D)。",
+  "cat": "細節題"
  },
  {
   "id": "Rg85_48",
@@ -23226,7 +24514,33 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "If teachers know whether their students are left-brained or right-brained, they can help them learn better."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 3 段最後說，如果老師知道學生是左腦型還是右腦型，就能幫助他們學得更好。老師要先找出每個學生適合的學習方式，所以是 (D)。(A) 照抄 rules，背規則是左腦型學習者的方法；(B) 照抄 logic，用邏輯也是左腦型的方法；(C) 照抄 new information to what they already know，連結新舊資訊是右腦型的方法。這三個選項都只適合其中一型的學生。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "rules",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "logic",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "new information to what they already know",
+    "p": 3
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg85_49",
@@ -23245,7 +24559,34 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Scientists recognize the importance of both hemispheres in the learning of all sorts, including language learning."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 2 段說兩個半球對各種學習都很重要，語言學習也包括在內。語言既然不只靠一個半球，一邊受損時，另一邊還能發揮作用，不一定會完全失去說話能力，所以是 (A)。(C) 照抄 language learning，原文說的正好相反，語言學習要靠兩個半球；(B) 照抄 short-term memory，回家的路要長久記住，屬於長期記憶；(D) 照抄第 1 段的 mysteries，原文說科學家還沒解開所有謎團。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "language learning",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "short-term memory",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "mysteries",
+    "p": 1
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg85_50",
@@ -23264,7 +24605,29 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "標題",
+  "note": "第 1 段說大腦也許是身體裡最複雜的器官，稱它為 amazing organ，接著第 2、3 段介紹左右半球的分工，以及左右腦和學語言方式的關係，全文談的都是人類的大腦，所以是 (D)。(A) 短期和長期記憶只在第 2 段提到一句，過於狹隘；(B) 左右半球的研究發現是第 2、3 段的內容，沒有涵蓋第 1 段，過於狹隘；(C) 只說是一項最新的科學發現，沒有點出大腦，太過廣泛。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   },
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     2,
+     3
+    ]
+   },
+   "C": {
+    "k": "太過廣泛"
+   }
+  }
  },
  {
   "id": "Rg84_41",
@@ -23283,7 +24646,34 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Breaking into the computer codes (known as 'hacking')"
+   }
+  ],
+  "qtype": "字義",
+  "note": "第 1 段開頭就用括號說明，破解電腦密碼就是所謂的 hacking（Breaking into the computer codes (known as 'hacking')），所以是 (C)。(A) 照抄 climbing Mount Everest，爬聖母峰是年輕駭客拿來比喻非做不可的事；(B) 照抄 game，原文說駭客入侵是青少年的遊戲，這是在說它的性質，不是 hacking 這個字的意思；(D) 把實體物品拆開，原文沒有提到。",
+  "map": [
+   [
+    "Breaking into the computer codes",
+    "breaking into computer codes"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "climbing Mount Everest",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "game",
+    "p": 1
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rg84_42",
@@ -23302,7 +24692,38 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "is the latest game for super-intelligent teenagers"
+   },
+   {
+    "p": 1,
+    "t": "but you must understand everything about all kinds of computers"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說破解電腦密碼是超級聰明的青少年（super-intelligent teenagers）最新的遊戲，而且要了解各種電腦，選項換成 a game for computer literate individuals，所以是 (B)。(C) 照抄第 2 段的 Mafia，原文是在問黑手黨這類犯罪集團多久以後會找電腦專家幫忙，不是說他們在研究好玩；(D) 照抄 bank safes，原文說未來的搶匪不需要炸開銀行金庫，和破解電腦密碼取代金庫無關；(A) 第 2 段說目前大多只是年輕人的消遣，還不是普遍的犯罪手法。",
+  "map": [
+   [
+    "super-intelligent teenagers",
+    "computer literate individuals"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "Mafia",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "bank safes",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg84_43",
@@ -23321,7 +24742,34 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "but you must understand everything about all kinds of computers"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段的年輕駭客說，一定要了解各種電腦的一切（understand everything about all kinds of computers），選項換成 a thorough understanding of a variety of computers，所以是 (D)。(A) 照抄 expensive，原文說的正好相反，不需要很貴的電腦；(C) 照抄第 2 段的 Mafia，黑手黨是可能找電腦專家幫忙的犯罪集團，不是駭客需要的支援；(B) 原文沒有提到一群念電腦科學的學生。",
+  "map": [
+   [
+    "all kinds of computers",
+    "a variety of computers"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "expensive",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "Mafia",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg84_44",
@@ -23340,7 +24788,34 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Those unnecessary deaths are attributable in part to the woman's choice of a large automobile."
+   }
+  ],
+  "qtype": "細節",
+  "note": "原文說這些原本可以避免的死亡，部分要歸咎於這位女士選擇了大型車（a large automobile），也就是她開的那輛旅行車，所以是 (A)。(C) 照抄 heart attack，心臟病發是車禍的起因，但作者怪的是車子太大；(D) 照抄 highway-dividing fence，作者說換成小車大概就不會衝破護欄，問題在車子，不在護欄；(B) 作者主張的是這位女士該選小車，不是路上小車太少。",
+  "map": [
+   [
+    "large automobile",
+    "large heavy station wagon"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "heart attack",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "highway-dividing fence",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg84_45",
@@ -23364,7 +24839,19 @@
    "B",
    "C"
   ],
-  "answerNote": "大考中心公布的答案為「B或C」，兩個選項都給分。"
+  "answerNote": "大考中心公布的答案為「B或C」，兩個選項都給分。",
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "文章開頭說大型車造成的事故比小型車多，接著用一場車禍說明大型車比較危險，最後說大型車還造成石油枯竭、環境汙染和交通擁擠。作者的主要論點是大型車比小型車不安全、也不經濟，所以是 (B)。大考中心公布的答案是 (B) 或 (C)，選 (C) 小型車對乘客比大型車安全，也算答對。(D) 這位女士心臟病發只是作者舉的例子，作者要怪的是她開的大型車，過於狹隘；(A) 文章沒有說政府應該禁止大型車，偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "過於狹隘"
+   }
+  }
  },
  {
   "id": "Rg84_46",
@@ -23383,7 +24870,27 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "A lighter and smaller car probably wouldn't have gone through the fence"
+   },
+   {
+    "p": 1,
+    "t": "it might have missed the other car completely"
+   }
+  ],
+  "qtype": "事實意見",
+  "note": "作者說換成輕一點、小一點的車，「大概」（probably）就不會衝破護欄，下一句又用 might have missed，這些都是作者自己的推測，所以是 (A)。(B) 照抄 scientific evidence，開頭的科學證據說的是大型車造成的事故比較多，不是小車能不能擋在護欄內；(C) 小車會不會衝破護欄並沒有真的發生，不是事實；(D) 原文沒有說這種說法永遠無法證實。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "scientific evidence",
+    "p": 1
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rg84_47",
@@ -23402,7 +24909,29 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Scientists are still trying to find out why whales have this self-destructive behavior."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說多達 60 隻領航鯨游上岸，科學家還在設法找出鯨魚為什麼會有這種自我毀滅的行為（still trying to find out why），也就是原因目前還不清楚，所以是 (B)。(C) 照抄 whale experts，鯨魚專家是發現三隻小鯨魚還活著的人，原文沒有說他們在研究遺傳現象；(A) 擱淺發生在 12 月，但原文沒有提到暴風雨；(D) 原文沒有說鱈魚角是鯨魚每年產卵的地方。",
+  "map": [
+   [
+    "still trying to find out why",
+    "currently unknown"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "whale experts",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg84_48",
@@ -23421,7 +24950,29 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Many of the whales died on the beach—crushed by their own weight."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說很多鯨魚死在海灘上，是自己的體重把自己壓死的（crushed by their own weight）。鯨魚離開了水，身體承受不了自己的重量，選項換成 unable to support their body weight out of water，所以是 (C)。(B) 照抄 weight，原文說的是體重壓死了自己，不是缺乏營養；(D) 科學家還不清楚的，是鯨魚為什麼游上岸，不是牠們為什麼死；(A) 原文沒有提到海水和呼吸。",
+  "map": [
+   [
+    "their own weight",
+    "their body weight"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "weight",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg84_49",
@@ -23440,7 +24991,29 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Whale experts found Tag, Notch, Baby alive."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說鯨魚專家發現 Tag、Notch 和 Baby 還活著（alive），這三隻才送到水族館照顧，所以是 (C)。(A) 照抄 young，原文說這三隻年紀太小，沒辦法自己活下去，正好和選項說年紀小比較容易活下去相反；(B) 原文沒有說牠們是最健康的三隻；(D) 原文沒有說救援人員特別喜歡牠們。",
+  "map": [
+   [
+    "alive",
+    "alive"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "young",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg84_50",
@@ -23459,7 +25032,16 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "A month after their release, the whales were spotted."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段說野放一個月後，有人看到了牠們（the whales were spotted），牠們和一群 50 隻鯨魚在一起，所以和原文不符的是 (D)。其他三個選項都和原文相符：第 2 段說科學家還在研究鯨魚自我毀滅的行為，是 (A)；三隻鯨魚年紀太小，沒辦法自己活下去，是 (B)；第 3 段說只讓少數人照顧，以免牠們太習慣人類，可見鯨魚是會習慣人類的，是 (C)。",
+  "cat": "細節題"
  },
  {
   "id": "Rg83_31",
@@ -23478,7 +25060,38 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "It is given to people who act bravely and face danger to save the lives of others."
+   },
+   {
+    "p": 4,
+    "t": "They put someone else's safety ahead of their own."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說卡內基獎章頒給勇敢行動（act bravely）、冒著危險救人性命的人；第 4 段說這些英雄都把別人的安全放在自己的安全之前。勇敢又無私，選項換成 unselfish and courageous，所以是 (D)。(C) 照抄第 3 段的 young，William Hunter 是年輕人，但獎章並不限年輕人；(B) 照抄 rich，有錢的是設立獎章的 Carnegie；(A) 第 3 段說英雄如果生活困難或受了傷，還會另外得到錢，生病、貧窮不是頒獎的條件。",
+  "map": [
+   [
+    "act bravely",
+    "courageous"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "young",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "rich",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg83_32",
@@ -23497,7 +25110,28 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段說英雄是在緊急時刻勇敢出手的人，第 2 段說英雄有時候會因為勇敢的行為得到獎勵，接著第 3、4 段介紹卡內基獎章的由來和得獎的人。全文的主旨是有些英雄因為勇敢得到表揚，所以是 (C)。(A) William Hunter 的故事只在第 3 段，是獎章的由來，過於狹隘；(D) Carnegie 是富有的商人，也只在第 3 段，過於狹隘；(B) 原文說 Hunter 是為了救兩個男孩而死，不是救了 Carnegie，偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   }
+  }
  },
  {
   "id": "Rg83_33",
@@ -23516,7 +25150,16 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Carnegie heard about a young man by the name of William Hunter"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說 Carnegie 是「聽說」（heard about）William Hunter 的事，看不出他認識 Hunter 本人，所以和原文不符的是 (A)。其他三個選項都和原文相符：第 4 段說有人從水裡、火場救人，有人把人從火車前拉開，英勇的行為有很多種形式，是 (B)；已經有 6,000 多人獲得獎章，是 (C)；第 3 段說生活困難或受傷的英雄，除了獎章還會得到一筆錢，是 (D)。",
+  "cat": "細節題"
  },
  {
   "id": "Rg83_34",
@@ -23535,7 +25178,16 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "His climb, which began at 6:30 a.m., took three and a half hours to finish."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說 Willig 早上 6 點 30 分（6:30 a.m.）開始爬，花了三個半小時才爬完。6 點 30 分加上三個半小時是 10 點，所以他在早上 10 點到達頂端，是 (C)。(A) 6 點 30 分是他開始爬的時間；(B)、(D) 是晚上，原文寫的是 a.m.，指的是上午。",
+  "cat": "細節題"
  },
  {
   "id": "Rg83_35",
@@ -23554,7 +25206,39 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段說 Willig 不搭電梯，貼著 110 層樓的外牆爬上世界貿易中心，第 3 段說市政府把他當成敢於挑戰不可能的英雄。這是一個喜歡冒險、不怕危險的人的故事，所以是 (A)。三個錯誤選項都偏離主題：(B) 照抄 fly，human fly 是形容他像蒼蠅一樣爬牆，他並不會飛；(D) 也照抄 fly，故事的主角是人，不是蒼蠅；(C) 照抄 jail，第 2 段說警方想把他關進監獄，但他沒有坐牢，更沒有越獄。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "fly",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "fly",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "jail",
+    "p": 2
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "B": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rg83_36",
@@ -23573,7 +25257,27 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "a ceremony in George Willig's honor"
+   },
+   {
+    "p": 3,
+    "t": "Instead, he would be fined a penny for each of the 110 floors he had climbed."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 3 段說市長舉行的記者會變成了表揚 Willig 的典禮（a ceremony in George Willig's honor），而且只照他爬的 110 層樓，每層罰一美分。110 美分就是 1.10 美元，所以是 (C)。(A) 25 萬美元是市政府原本打算向他求償的金額，第二天就改了；(B) 警方原本想把他關進監獄，但原文沒有說他坐了一年牢；(D) 第 2 段說他是未經許可（without a permit）攀爬大樓。",
+  "map": [
+   [
+    "honor",
+    "honored"
+   ]
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rg83_37",
@@ -23592,7 +25296,39 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Without it you would not now be reading this passage."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說要是沒有印刷，你現在就不會在讀這篇文章（would not now be reading this passage），也就是印刷讓閱讀成為可能，所以是 (B)。(C) 照抄 radio and television，原文說即使有了廣播和電視，印刷的重要性也沒有減少，沒有說印刷幫助了廣播、電視的發展；(D) 照抄第 4 段的 William Caxton，他印書是印刷發展的一段歷史，不是印刷重要的原因；(A) 照抄第 3 段的 Chinese，中國人發明的是活字，這也不是印刷重要的原因。",
+  "map": [
+   [
+    "reading",
+    "reading"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "radio and television",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "William Caxton",
+    "p": 4
+   },
+   {
+    "o": "A",
+    "t": "Chinese",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg83_38",
@@ -23611,7 +25347,39 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "The Chinese discovered this in the 11th century, but it was not known in Europe until about 1440."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說中國人在 11 世紀就發明了活字（The Chinese discovered this），歐洲一直到 1440 年左右才知道，所以最早使用活字的是中國人，是 (D)。(B) 照抄 Europe，歐洲知道活字比中國晚了大約四百年；(C) 照抄第 4 段的 Gutenberg，古騰堡的聖經是歐洲最早用活字印刷的書之一；(A) 照抄第 4 段的 Caxton，他印的是第一本用活字印刷的英文書，時間更晚。",
+  "map": [
+   [
+    "The Chinese",
+    "The Chinese"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "Europe",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "Gutenberg",
+    "p": 4
+   },
+   {
+    "o": "A",
+    "t": "Caxton",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg83_39",
@@ -23630,7 +25398,39 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "the letters could be taken apart and rearranged to print something else."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說用活字印完以後，字母可以拆開來重新排列，印別的東西（rearranged to print something else），選項換成 could be reused，所以是 (C)。(D) 照抄第 2 段的 every page of every book，每一頁都得分開來刻，是木板印刷的缺點；(B) 照抄 skill and patience，需要很多技巧和耐心的也是木板印刷，原文沒有比較活字需要的技巧；(A) 照抄 wood，木板是舊的印刷方法，原文沒有說活字的好處是省木材。",
+  "map": [
+   [
+    "rearranged to print something else",
+    "reused"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "every page of every book",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "skill and patience",
+    "p": 2
+   },
+   {
+    "o": "A",
+    "t": "wood",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rg83_40",
@@ -23649,6 +25449,38 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "The first book to be printed likewise in English was about the history of Troy."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段說第一本同樣用活字印刷的英文書，內容是特洛伊的歷史（about the history of Troy），所以是 (D)。(C) 照抄 Gutenberg，古騰堡的聖經是歐洲最早的活字印刷書之一，不是英文書；(B) 照抄 Westminster，那本書 1474 年在法蘭德斯印製，Caxton 1476 年回英國以後，才在西敏設立印刷廠；(A) 照抄第 2 段的 wood blocks，用木板一個字母一個字母刻，是活字出現以前的方法。",
+  "map": [
+   [
+    "about the history of Troy",
+    "about the history of Troy"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "Gutenberg",
+    "p": 4
+   },
+   {
+    "o": "B",
+    "t": "Westminster",
+    "p": 4
+   },
+   {
+    "o": "A",
+    "t": "wood blocks",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  }
 ]

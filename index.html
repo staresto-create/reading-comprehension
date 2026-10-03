@@ -270,6 +270,7 @@
   .anNote{margin-top:4px;}
   .qtTag{display:inline-block; font-size:12px; color:var(--sage); border:1px solid var(--sage); border-radius:3px; padding:1px 7px; line-height:1.6;}
   .qtTag [lang="en"]{font-size:11px; opacity:.85;}
+  .optRow .optBody{min-width:0;}
   .scopeTag{display:inline-block; font-size:11px; color:var(--gold); border:1px dashed var(--gold); border-radius:3px; padding:0 5px; margin-left:8px; line-height:1.6; white-space:nowrap;}
   .citeBox{margin-top:8px; padding-top:6px; border-top:1px dashed var(--rule); font-size:13px; color:var(--ink-soft);}
   .citeH{display:inline-block; font-size:11.5px; font-weight:700; color:var(--sage); border:1px solid var(--sage); border-radius:3px; padding:0 5px; margin-right:6px;}
@@ -288,7 +289,7 @@
   <main id="homeView">
     <div class="card">
       <div class="home-lead">開始練習前</div>
-      <p class="home-desc">本題庫收錄學測 83 年至 115 年、指考 91 年至 110 年的閱讀測驗歷屆試題，含補考、參考試卷與試辦考試，共 <b>959 題、246 篇</b>。每一題都附大考中心公布的官方答案；91 年起的正式考試，另外附上官方的答對率和鑑別度。交卷之後，每一篇另外附上<b>文章結構</b>：文體、組織方式、關鍵轉折詞和綱要。目前有 <b>129 篇</b>交卷後另外附上<b>逐段中譯</b>和<b>答案依據句</b>：學測 90 年到 115 年的每一篇都附有中譯和依據句，範圍包括這段期間的正式考試、91 和 92 年的補考、參考試卷（含 98 年施測的 95 課綱參考試卷）和試辦考試；指考目前只有 108 年一篇附有中譯和依據句，這一篇和學測 111 年參考試卷是同一篇文章。學測 83 到 89 年和指考其他年份的中譯和依據句，會陸續補上。每個選項為什麼對、為什麼錯的完整解析，之後再寫。</p>
+      <p class="home-desc">本題庫收錄學測 83 年至 115 年、指考 91 年至 110 年的閱讀測驗歷屆試題，含補考、參考試卷與試辦考試，共 <b>959 題、246 篇</b>。每一題都附大考中心公布的官方答案；91 年起的正式考試，另外附上官方的答對率和鑑別度。交卷之後，每一篇另外附上<b>文章結構</b>：文體、組織方式、關鍵轉折詞和綱要。目前有 <b>154 篇</b>交卷後另外附上<b>逐段中譯</b>和<b>答案依據句</b>：本站收錄的學測閱讀測驗，每一篇都附有中譯和依據句，範圍包括 83 年到 115 年的正式考試、91 和 92 年的補考、參考試卷（含 98 年施測的 95 課綱參考試卷）和試辦考試；指考目前只有 108 年一篇附有中譯和依據句，這一篇和學測 111 年參考試卷是同一篇文章。指考其他年份的中譯和依據句，會陸續補上。每個選項為什麼對、為什麼錯的完整解析，之後再寫。</p>
 
       <details class="sk-box">
         <summary><div class="sk-title">依據句和逐段中譯怎麼看</div></summary>
@@ -812,7 +813,7 @@ function renderQuestion(it, inline){
     }else if(pk === ltr) cls += ' pick';
     const act = graded ? ' disabled' : ` onclick="choose('${it.id}','${ltr}')"`;
     h += `<button type="button" class="${cls}" data-q="${it.id}" data-l="${ltr}" aria-pressed="${pk === ltr ? 'true' : 'false'}"${act}>
-        <span class="ltr">(${ltr})</span><span lang="en">${graded ? optMarked(it, ltr, txt) : esc(txt)}</span>${graded ? trapTag(it, ltr) + scopeTag(it, ltr) : ''}</button>`;
+        <span class="ltr">(${ltr})</span><span class="optBody"><span lang="en">${graded ? optMarked(it, ltr, txt) : esc(txt)}</span>${graded ? trapTag(it, ltr) + scopeTag(it, ltr) : ''}</span></button>`;
   });
   h += `</div>`;
   if(graded){
