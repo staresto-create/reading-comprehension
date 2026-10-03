@@ -13158,7 +13158,7 @@
    }
   ],
   "qtype": "細節",
-  "note": "這一題答對率只有 54%，(D) 的 make a good living 原文沒有，要從前因推。判斷步驟：[1] 第 1 段說卡內基家是織布工人的家庭；[2] 工業革命摧毀了織布工人的手藝（destroyed the weavers’ craft），全家只好（had to）離開，到美國尋找新的機會；[3] 父親靠織布維生，手藝沒用了，在家鄉就沒辦法好好過日子，所以是 (D)。(B) 照抄 father’s profession，原文說家人期望他繼承父親的職業，沒有說他不想繼承；(A) 照抄第 2 段的 Pittsburgh，原文沒有說父親在匹茲堡找到好工作；(C) 原文說的是工業革命，不是政治問題。",
+  "note": "這一題答對率只有 54%，判斷步驟：[1] 第 1 段說卡內基家是織布工，工業革命摧毀了織布工的手藝（destroyed the weavers’ craft）；[2] 家裡賴以為生的行業沒了，在家鄉就難以維持生計，所以全家只好到美國找新的機會；[3] 選項換成在家鄉無法好好過活，所以是 (D)。(B) 照抄 father’s profession，原文說大家期待他繼承父親的行業，沒有說他不想，搬家是因為這個行業沒落了；(A) 照抄第 2 段的 Pittsburgh，原文說的是到美國尋找新的機會，沒有說父親在匹茲堡找到好工作；(C) 照抄 Scotland，原文說的是工業革命，不是政治問題。",
   "trap": [
    {
     "o": "A",
@@ -13168,6 +13168,11 @@
    {
     "o": "B",
     "t": "father’s profession",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "Scotland",
     "p": 1
    }
   ],
@@ -13194,7 +13199,11 @@
   "ev": [
    {
     "p": 2,
-    "t": "where he would stay to watch plays by great playwrights."
+    "t": "later worked as a messenger boy in the telegraph office."
+   },
+   {
+    "p": 2,
+    "t": "He was often asked to deliver messages to the city theater, where he would stay to watch plays by great playwrights."
    },
    {
     "p": 2,
@@ -13202,7 +13211,13 @@
    }
   ],
   "qtype": "細節",
-  "note": "這一題答對率只有 37%，題幹問的是什麼時候開始（begin to show），很多人選了退休。判斷步驟：[1] 題幹的 artistic 對到看戲，intellectual 對到讀書；[2] 第 2 段說卡內基在電報局當送信童的時候，送電報到劇院就留下來看偉大劇作家的戲，閒暇時間大多待在圖書館；[3] 這是原文最早出現他喜歡藝術和知識的地方，所以是 (D)。(A) 照抄第 4 段的 retire，追求知識的渴望讓他退休，表示這份渴望在退休以前早就有了，退休是他實現渴望的時候，不是開始；(C) 照抄第 3 段的 fortune，第 4 段說他在商場上一直覺得不安，興趣不是發財以後才開始；(B) 照抄第 1 段的 Scotland，原文只說他在蘇格蘭時家人期望他當織布工人。",
+  "note": "這一題答對率只有 37%，最多人選的陷阱是 (A)。判斷步驟：[1] 題目問他什麼時候「開始」展現對藝術和求知的興趣；[2] 第 2 段說他在匹茲堡當送信童（messenger boy）的時候，常常把電報送到劇院，送完就留下來看大劇作家的戲（藝術），空閒時間大多待在圖書館（求知），所以是 (D)；[3] (A) 照抄第 4 段的 retire，原文說強烈的求知慾讓他賣掉公司退休，求知慾是退休的原因，早在退休以前就有了，不是退休以後才開始。(C) 照抄第 3 段的 fortune，賺大錢是在南北戰爭以後，比當送信童晚得多；(B) 照抄 Scotland，原文只說他在蘇格蘭時大家期待他繼承父親的行業，沒有提到他的興趣。",
+  "map": [
+   [
+    "messenger boy",
+    "messenger boy"
+   ]
+  ],
   "trap": [
    {
     "o": "A",
@@ -13251,11 +13266,17 @@
    }
   ],
   "qtype": "推論",
-  "note": "這一題答對率只有 44%，要從卡內基做過的事情歸納他經營事業的特點。判斷步驟：[1] 第 3 段說他用鐵橋取代（replacement）木橋，賺了一大筆錢；[2] 接著又引進（introduced）新的煉鋼方法，把鐵轉變（convert）成鋼；[3] 換掉舊的、引進新的，都是願意做出改變，所以是 (A)。(C) 照抄第 4 段的 shortest time，卡內基說心思全放在怎麼在最短的時間內賺更多錢，會讓他墮落，他對此感到不安，不是樂在其中；(B) 原文提到卡內基鋼鐵公司的產量比整個英國還多，但沒有說他一心要打敗所有對手；(D) 原文沒有說他在家鄉投資。",
+  "note": "這一題答對率只有 44%，題目問的是怎麼經營事業，要從第 3 段他做了哪些事去推。判斷步驟：[1] 他用更堅固的鐵橋取代木橋（replacement），又引進新的煉鋼方法（introduced a new … process），把鐵煉成鋼；[2] 取代舊的、引進新的，都是願意做新的改變；[3] 所以是 (A)。(C) 照抄第 4 段的 make more money in the shortest time，原文說他對滿腦子想著用最短時間賺更多錢感到不安，怕自己墮落，選項說他樂在其中，方向相反；(B) 原文沒有說他要打敗其他競爭對手，只說他的產量超過全英國；(D) 他投資的是美國的鋼鐵業，原文沒有提到在家鄉蘇格蘭投資。",
+  "map": [
+   [
+    "new",
+    "new"
+   ]
+  ],
   "trap": [
    {
     "o": "C",
-    "t": "shortest time",
+    "t": "make more money in the shortest time",
     "p": 4
    }
   ],
@@ -13282,15 +13303,11 @@
   "ev": [
    {
     "p": 5,
-    "t": "He abhorred charity; instead, he used his money to help others help themselves."
-   },
-   {
-    "p": 5,
-    "t": "He established over 2,500 public libraries, and sponsored numerous cultural, educational and scientific institutions."
+    "t": "He abhorred charity; instead, he used his money to help others help themselves. He established over 2,500 public libraries, and sponsored numerous cultural, educational and scientific institutions."
    }
   ],
   "qtype": "細節",
-  "note": "這一題答對率只有 35%，(B) 照抄 charity，但原文說的正好相反。判斷步驟：[1] 第 5 段說卡內基 abhorred charity，abhor 是憎惡的意思（Cambridge Dictionary），他厭惡慈善施捨，所以 (B) 不對；[2] 接著說他用錢幫助別人自助，設立了 2,500 多座公共圖書館，也贊助許多文化、教育和科學機構（institutions）；[3] 教育和科學機構就是選項說的高等學術機構（organizations of higher learning），所以是 (C)。(A) 照抄 died，原文說他去世前已經捐出 3 億 5,000 萬美元，沒有說把財富留給家人和朋友；(D) 照抄第 3 段的 refining，引進煉鋼方法是他經營事業時的事情，不是退休後處理財富的方式。",
+  "note": "這一題答對率只有 35%，最多人選的陷阱是 (B)。判斷步驟：[1] 第 5 段說他憎惡施捨（abhorred charity），abhor 是憎惡的意思，所以他不是把錢直接施捨給窮人和慈善機構，(B) 照抄 charity，意思正好相反；[2] 原文接著用 instead 說他用錢幫助別人自助：設立超過 2,500 座公共圖書館，資助無數文化、教育和科學機構（institutions）；[3] 選項把教育和科學機構換成高等學術機構（organizations of higher learning），所以是 (C)。(A) 照抄 died，原文說他過世時已經捐出 3 億 5,000 萬美元，沒有說留給家人朋友；(D) 照抄第 3 段的 steel refining，那是他經營事業時引進的煉鋼方法，退休後他已經賣掉公司。",
   "map": [
    [
     "institutions",
@@ -13299,19 +13316,19 @@
   ],
   "trap": [
    {
-    "o": "A",
-    "t": "died",
-    "p": 5
-   },
-   {
     "o": "B",
     "t": "charity",
     "p": 5
    },
    {
     "o": "D",
-    "t": "refin",
+    "t": "steel refin",
     "p": 3
+   },
+   {
+    "o": "A",
+    "t": "died",
+    "p": 5
    }
   ],
   "cat": "細節題"
@@ -13341,7 +13358,7 @@
    }
   ],
   "qtype": "細節",
-  "note": "第 2 段說注意力不足過動症的原因不是家庭環境，而是生理和遺傳（genetic）的因素，選項換成基因問題（Gene problem），所以是 (A)。(D) 照抄 home environment，原文用 not from 否定了家庭環境；(C) 照抄 childhood，原文說症狀通常在幼兒期出現，這是發病的時間，不是原因；(B) 照抄第 1 段的 academic，課業表現受到影響是症狀造成的結果，不是原因。",
+  "note": "第 2 段說注意力不足過動症的原因不在家庭環境，而在生理和遺傳（genetic causes），選項把 genetic 換成 gene，所以是 (A)。(D) 照抄 home environment，原文用 not … but … 說得很清楚，原因不是家庭環境，選項說反了；(B) 照抄第 1 段的 academic，學業表現出問題是症狀造成的結果，不是原因；(C) 照抄 childhood，原文說症狀通常在幼年時期出現，是說出現的時間，不是說幼年生病造成的。",
   "map": [
    [
     "genetic",
@@ -13350,18 +13367,18 @@
   ],
   "trap": [
    {
+    "o": "D",
+    "t": "home environment",
+    "p": 2
+   },
+   {
     "o": "B",
-    "t": "academic",
+    "t": "Academic",
     "p": 1
    },
    {
     "o": "C",
     "t": "childhood",
-    "p": 2
-   },
-   {
-    "o": "D",
-    "t": "home environment",
     "p": 2
    }
   ],
@@ -13387,16 +13404,12 @@
   "explanation": null,
   "ev": [
    {
-    "p": 2,
-    "t": "Inattentive children have difficulty focusing on completing a task or learning something new."
-   },
-   {
     "p": 3,
     "t": "Depression, anxiety, and learning disabilities may co-exist with AD/HD."
    }
   ],
   "qtype": "推論",
-  "note": "這一題答對率只有 53%，要從症狀判斷哪一種孩子最可能有這種疾患。判斷步驟：[1] 第 2 段說注意力不足的孩子，很難專心學習新的東西；[2] 第 3 段說學習障礙（learning disabilities）可能和注意力不足過動症同時出現；[3] 選項把 disabilities 換成 difficulties，有學習困難的孩子最可能是患者，所以是 (D)。(B) 照抄 Inattentive 裡的 attentive，原文說患者注意力不足，選項說反了；(A) 原文說過動的孩子總是靜不下來，需要一直忙著，和懶惰相反；(C) 原文說衝動的孩子常常不加思考就行動，和過度謹慎相反。",
+  "note": "這一題答對率只有 53%，題目問 most likely，要找原文和選項最接近的一句。判斷步驟：[1] 第 3 段說學習障礙（learning disabilities）可能和注意力不足過動症同時存在；[2] 第 1 段也說，有這種疾患的孩子學業表現會出問題，第 2 段說他們很難專心學習新的東西；[3] 有學習困難的孩子最可能是患者，所以是 (D)。(B) 照抄 attentive，原文說的是 inattentive（注意力不足），選項的 very attentive 說反了；(C) 過度小心，和原文說的衝動、不經思考相反；(A) 原文沒有說患者很懶，過動的孩子反而總是靜不下來。",
   "map": [
    [
     "learning disabilities",
@@ -13407,7 +13420,7 @@
    {
     "o": "B",
     "t": "attentive",
-    "p": 2
+    "p": 3
    }
   ],
   "cat": "推論題"
@@ -13433,11 +13446,11 @@
   "ev": [
    {
     "p": 3,
-    "t": "Therefore, if a child is suspected of AD/HD, it is very important that he or she be evaluated by a professional."
+    "t": "if a child is suspected of AD/HD, it is very important that he or she be evaluated by a professional."
    }
   ],
   "qtype": "細節",
-  "note": "這一題答對率只有 43%，要分清楚「懷疑」和「確診」是兩個階段。判斷步驟：[1] 題幹說的是懷疑（suspected）孩子有這種疾患；[2] 第 3 段說懷疑孩子有注意力不足過動症時，請專業人員（a professional）評估非常重要，選項換成去請教專業人員，所以是 (B)；[3] 第 4 段開頭是 Once your child is diagnosed，確診以後才讓學校知道，所以 (A) 照抄 school，順序錯了。(D) 照抄 school，原文說學校通常能在課堂上做調整，沒有說要把孩子送到特殊學校；(C) 第 3 段說要等到行為和年齡不相稱才會診斷，但懷疑時要做的是請人評估，不是等孩子長大。",
+  "note": "這一題答對率只有 43%，最多人選的陷阱是 (A)，要分清楚兩件事的先後。判斷步驟：[1] 題目問的是懷疑（suspected）孩子有這種疾患時，第一件事做什麼；[2] 第 3 段說，如果懷疑孩子有注意力不足過動症，請專業人員（a professional）評估非常重要，選項換成諮詢專業人員，所以是 (B)；[3] (A) 照抄第 4 段的 school，原文說的是孩子一旦確診（Once your child is diagnosed）以後，才要讓學校知道，那是評估之後的事。(C) 等孩子長大，原文沒有這樣說；(D) 原文說學校會在課堂上做調整，沒有說要送孩子去特殊學校。",
   "map": [
    [
     "professional",
@@ -13447,11 +13460,6 @@
   "trap": [
    {
     "o": "A",
-    "t": "school",
-    "p": 4
-   },
-   {
-    "o": "D",
     "t": "school",
     "p": 4
    }
@@ -13479,15 +13487,11 @@
   "ev": [
    {
     "p": 1,
-    "t": "are diamonds that are sold to fund the unlawful and illegal operations of rebel, military and terrorist groups."
-   },
-   {
-    "p": 1,
-    "t": "citizens have been terrorized or even killed by groups in control of the local diamond trade."
+    "t": "They are places where citizens have been terrorized or even killed by groups in control of the local diamond trade."
    }
   ],
   "qtype": "細節",
-  "note": "第 1 段說販賣血鑽石的錢，用來資助叛軍、軍隊和恐怖組織；控制鑽石交易的團體恐嚇人民，甚至殺害（killed）人民。這些鑽石沾著人命，所以叫做血鑽石，答案是 (B)。(A) 把 blood 照字面解釋成顏色像血；(C) 愛和熱情是一般人對鑽石的印象，和血鑽石的由來無關；(D) 原文沒有談到鑽石的品質。",
+  "note": "第 1 段說販賣衝突鑽石的錢用來資助叛軍和恐怖組織，在這些國家，控制鑽石交易的團體恐嚇人民，甚至殺害（killed）人民。這些鑽石造成人命損失，所以叫血鑽石，是 (B)。(A) 血鑽石的「血」是比喻流血和死亡，原文沒有說鑽石的顏色像血；(C) 愛情和熱情，是一般人對鑽石的印象，和原文說的恐嚇、殺害無關；(D) 原文沒有提到鑽石的品質。",
   "map": [
    [
     "killed",
@@ -13517,11 +13521,15 @@
   "ev": [
    {
     "p": 2,
+    "t": "the problem of conflict diamonds hasn’t gone away."
+   },
+   {
+    "p": 2,
     "t": "Diamonds mined in some rebel-held areas, such as Liberia, are being smuggled into neighboring countries and exported as conflict-free diamonds."
    }
   ],
   "qtype": "推論",
-  "note": "這一題答對率只有 36%，(A) 照抄第 2 段的 conflict-free，很容易選錯。判斷步驟：[1] 第 2 段說賴比瑞亞是叛軍控制的地區（rebel-held areas），那裡開採的鑽石走私到鄰國；[2] 這些鑽石出口時當作（exported as）無衝突的鑽石，as 表示只是冒充，實際上是衝突鑽石；[3] 叛軍控制的地區走私鑽石，錢仍然流向叛軍，同一段開頭也說衝突鑽石的問題並沒有消失，所以是 (C)。(A) 照抄 conflict-free，那是冒充的名義；(B) 冒充無衝突鑽石出口，標示就是錯的；(D) 照抄第 3 段的 KPCS，題目只問第二段，而且這些鑽石是走私出去的，沒有經過 KPCS 的仔細查核。",
+  "note": "這一題答對率只有 36%，判斷步驟：[1] 第 2 段第一句說，戰爭大多已經結束或減緩，但衝突鑽石的問題並沒有消失；[2] 接著說賴比瑞亞等叛軍控制的地區，開採出來的鑽石走私到鄰國，再當作無衝突的鑽石出口；[3] 叛軍控制的地區還在賣鑽石，可見賴比瑞亞的鑽石仍然在交易，用來支持戰爭，所以是 (C)。(A) 照抄 conflict-free，原文說這些鑽石是「當作」無衝突的鑽石出口，實際上是衝突鑽石，選項把偽裝當成事實；(B) 鑽石走私出境、冒充無衝突的鑽石，標示並不正確；(D) 照抄第 3 段的 KPCS，題目問的是第 2 段，而且原文沒有說 KPCS 仔細調查過賴比瑞亞的鑽石。",
   "trap": [
    {
     "o": "A",
@@ -13561,19 +13569,15 @@
    },
    {
     "p": 3,
-    "t": "provide enough detailed information about their origins"
+    "t": "provide enough detailed information about their origins to prove they did not originate in a conflict zone."
    }
   ],
   "qtype": "細節",
-  "note": "這一題答對率只有 41%，題幹的 task 對到原文的 goals。判斷步驟：[1] 第 3 段說 KPCS 的目標（The goals），是記錄（document）並追蹤所有原鑽；[2] 運貨的人要提供足夠的詳細產地（origins）資料，證明鑽石不是來自衝突地區；[3] 選項把產地換成鑽石在哪裡開採，所以是 (D)。(A) 照抄 rough diamonds，KPCS 追蹤原鑽是為了阻止血鑽石交易，不是促銷；(B) 照抄第 4 段的 Blood Diamond，電影是演員主演的，和 KPCS 無關；(C) 照抄第 1 段的 blood diamonds，原文只說 KPCS 記錄和追蹤鑽石，沒有提到處罰賣血鑽石的人。",
+  "note": "這一題答對率只有 41%，判斷步驟：[1] 第 3 段說 KPCS 的目標，是在原鑽進入參與國時記錄（document）並追蹤；[2] 運貨的人要提供詳細的產地資料（origins），證明鑽石不是來自衝突地區；[3] 記錄並證明產地，就是選項的記錄鑽石是在哪裡開採的，所以是 (D)。(A) 照抄 rough diamonds，KPCS 追蹤原鑽是為了阻止血鑽石交易，不是推銷原鑽；(B) 照抄第 4 段的 Blood Diamond，那是 2006 年的電影，和 KPCS 無關；(C) 原文只說要記錄、追蹤、提供產地證明，沒有提到懲罰賣血鑽石的人。",
   "map": [
    [
     "document",
     "document"
-   ],
-   [
-    "their origins",
-    "where the diamonds were mined"
    ]
   ],
   "trap": [
@@ -13586,11 +13590,6 @@
     "o": "B",
     "t": "Blood Diamond",
     "p": 4
-   },
-   {
-    "o": "C",
-    "t": "blood diamonds",
-    "p": 1
    }
   ],
   "cat": "細節題"
@@ -13615,7 +13614,7 @@
   "explanation": null,
   "ev": "all",
   "qtype": "態度",
-  "note": "這一題答對率只有 29%，很多人選了 (C) Sympathetic。判斷步驟：[1] 題幹問的是作者對血鑽石（towards blood diamonds）的態度，不是對受害者的態度；[2] 作者在第 1 段說血鑽石的錢資助叛軍和恐怖組織，害得人民受到恐嚇甚至喪命；第 2 段說問題還沒消失；第 4 段說鑽石帶來動亂和苦難，最後呼籲讀者多了解衝突鑽石造成的問題，買鑽石時憑良心選擇；[3] 作者反對血鑽石，所以是 (D)。(C) 作者同情的是受害的人民，對血鑽石本身是反對的；(A) 作者特別寫文章呼籲讀者，不是漠不關心；(B) 作者是在提醒讀者，不是威脅。",
+  "note": "這一題答對率只有 29%，最多人選的陷阱是 (C)，要分清楚態度的對象。判斷步驟：[1] 題目問的是作者對血鑽石（blood diamonds）的態度；[2] 第 1 段說販賣血鑽石的錢用來資助不法活動，害人民遭到恐嚇、殺害；第 3 段說南部非洲國家想辦法阻止血鑽石交易；第 4 段呼籲讀者多了解衝突鑽石造成的問題，買鑽石時憑良心做選擇。作者不贊成血鑽石，所以是 (D) Disapproving；[3] (C) Sympathetic 是同情，作者同情的是第 4 段受動亂和苦難折磨的人民，不是血鑽石本身。(A) 漠不關心，和作者呼籲讀者了解問題不符；(B) 作者是在提醒讀者，沒有威脅誰。",
   "cat": "推論題"
  },
  {
@@ -13638,7 +13637,7 @@
   "explanation": null,
   "ev": "all",
   "qtype": "出處",
-  "note": "第 1 段從消費者走進便利商店的角度，描述包裝的種類和品質；第 2 段分析日本人為什麼用比較多的包裝、包裝市場的規模，以及商品要怎麼打動消費者的需求（consumer’s needs）。這些都是談消費市場的內容，最可能出自消費者報告，所以是 (C)。(A) 食譜會教人怎麼做菜，文章提到飯糰只是包裝的例子，偏離主題；(B) 使用手冊會說明產品怎麼操作，偏離主題；(D) 時尚雜誌談的是服裝和流行，文章談的是商品包裝，偏離主題。",
+  "note": "第 1 段從便利商店的商品包裝說起；第 2 段說明日本人為什麼用比較多的包裝、包裝市場的規模、新包裝推出的速度，以及產品要怎麼滿足消費者的需求。全文是從消費的角度分析商品包裝，最可能出自消費報導，所以是 (C)。(A) 食譜、(B) 使用手冊，文章沒有教人怎麼做菜或怎麼使用產品，偏離主題；(D) 時尚雜誌談的是穿著打扮，文章談的是商品包裝，偏離主題。",
   "cat": "主旨題",
   "scope": {
    "A": {
@@ -13673,11 +13672,11 @@
   "ev": [
    {
     "p": 2,
-    "t": "The Japanese tend to use more packaging because of a cultural emphasis on freshness and a lack of storage space at home."
+    "t": "a cultural emphasis on freshness"
    },
    {
     "p": 2,
-    "t": "Moreover, they believe nice packaging adds value because it’s a strong signal of quality."
+    "t": "they believe nice packaging adds value because it’s a strong signal of quality."
    },
    {
     "p": 2,
@@ -13685,7 +13684,7 @@
    }
   ],
   "qtype": "未提及",
-  "note": "這一題答對率只有 51%，(D) 照抄 Westerners 和 economy 兩個原文的字，看起來很像原文。判斷步驟：[1] 第 2 段列出日本人用比較多包裝的原因，三個有提到的選項：(A) 重視新鮮（emphasis on freshness）換成包裝有助於保持食物新鮮；(C) 包裝是品質的有力指標（a strong signal of quality）換成把包裝看作品質的象徵；(B) 包裝是感謝的象徵（a symbol of appreciation）換成包裝幫助日本人表達感謝；[2] 原文提到西方人（Westerners），只是拿來和日本人比較，提到經濟（economy），是說包裝在日本經濟中很重要，原文沒有說用包裝和西方人競爭，所以是 (D)。",
+  "note": "這一題答對率只有 51%，題目問哪一個不是日本人多用包裝的原因，要逐項回第 2 段核對。判斷步驟：[1] (A) 對上 a cultural emphasis on freshness，文化上重視新鮮；[2] (C) 對上 a strong signal of quality，包裝是品質的訊號；[3] (B) 對上 a symbol of appreciation，包裝象徵感謝。剩下 (D)：原文的 compared with Westerners 是說日本人比西方人更重視包裝的象徵意義，是一個比較，並沒有說日本人用包裝在經濟上和西方人競爭，所以是 (D)。(D) 拿原文出現過的 Westerners 和 economy 拼在一起，看起來像原文提過。",
   "cat": "細節題",
   "sub": "未提及"
  },
@@ -13714,16 +13713,22 @@
    }
   ],
   "qtype": "指涉",
-  "note": "這一題答對率只有 31%，shelf-mates 是自己造的複合字，要拆開來看。判斷步驟：[1] shelf 是貨架，mate 是同伴，shelf-mates 就是同一個貨架上的同伴；[2] 這一句說商品光有漂亮的平面設計，還不足以和 its shelf-mates 區隔開來（differentiate it from），it 指商品，要和商品區隔的，是同一個貨架上的其他商品；[3] 前一句也說日本商店的貨架上每年有大量新包裝推出，所以是 (B) 店裡的其他商品。(D) 照抄 graphic design，平面設計是商品用來區隔的方法，不是區隔的對象；(C) 照抄下一句的 needs，消費者的需求是商品要打動的東西；(A) 把 mates 照字面解釋成同事。",
+  "note": "這一題答對率只有 31%，shelf-mates 是作者自己組合的字，要拆開來看。判斷步驟：[1] shelf 是貨架，mate 是同伴，像 classmate 是同班的人，shelf-mate 就是擺在同一個貨架上的東西；[2] 這一句說一項產品（a product）要和它的 shelf-mates 區別開來，能拿來和產品比較、擺在同一個貨架上的，是店裡的其他產品；[3] 所以是 (B)。(D) 照抄同一句的 graphic design，平面設計是用來區別產品的方法，不是拿來比較的對象；(C) 照抄後一句的 needs，消費者的需求不會擺在貨架上；(A) mate 有同事的意思，但這裡和 shelf 組合，說的是貨架上的商品，不是工作上的同事。",
+  "map": [
+   [
+    "product",
+    "products"
+   ]
+  ],
   "trap": [
-   {
-    "o": "C",
-    "t": "need",
-    "p": 2
-   },
    {
     "o": "D",
     "t": "graphic design",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "need",
     "p": 2
    }
   ],
@@ -13755,7 +13760,7 @@
    }
   ],
   "qtype": "細節",
-  "note": "這一題答對率只有 42%，(D) 的 livestock 是 cattle 的上位詞，要認得出來。判斷步驟：[1] 第 2 段說西部的牧場主人不斷聲稱，每年都有數千頭牛（cattle）遭到狼咬死；[2] 牛是牧場主人養的牲畜（livestock），選項換成狼威脅到他的牲畜的生命，所以是 (D)。(C) 照抄第 1 段的 Indians，印第安人敬佩狼，但原文沒有說白人因此要殺狼；(A) 原文說的是狼咬死牛，沒有說狼攻擊人；(B) 原文沒有提到農作物。",
+  "note": "這一題答對率只有 42%，關鍵是 livestock 這個字。判斷步驟：[1] 第 2 段說西部的牧場主人宣稱，每年有好幾千頭牛（cattle）遭到狼咬死；[2] livestock 是家畜、牲口，牛就是牧場主人的家畜；[3] 選項換成狼威脅到家畜的生命，所以是 (D)。(C) 照抄第 1 段的 Indians，印第安人敬重狼，但原文沒有說白人是因為這樣才殺狼；(A) 原文說狼咬死的是牛，沒有說狼攻擊人；(B) 原文沒有提到農作物。",
   "map": [
    [
     "cattle",
@@ -13800,16 +13805,16 @@
    }
   ],
   "qtype": "推論",
-  "note": "第 3 段說美國西部最後一批狼死得很艱難，連國家公園也不安全；第 4 段說西部廣大的土地陷入一片寂靜，國家失去了最強大的掠食者。作者用寂靜、失去這些字，對狼的消失感到惋惜，最可能是主張保護灰狼的人，所以是 (C)。(A) 照抄第 1 段的 hunting，作者惋惜狼遭到獵殺，不會是喜歡獵殺野生動物的人；(D) 照抄 hunting，敬佩狼的狩獵本領的是第 1 段的印第安人，不是作者寫這篇文章的立場；(B) 制定法律對付灰狼的是國會和蒙大拿州，作者在文章裡對這些做法並不認同。",
+  "note": "作者沒有直接表明身分，要從用字推。第 2 段把殺狼稱為戰爭（war），第 3 段說最後的狼死得很慘，連國家公園都不安全；第 4 段說西部的土地陷入一片寂靜，這個國家失去了它最偉大的掠食者（its greatest predator）。作者對狼的消失感到惋惜，最可能是主張保護灰狼的人，所以是 (C)。(D) 照抄第 1 段的 hunting skills，敬佩狼的狩獵本領的是印第安人，作者是在介紹他們的看法；(A) 照抄第 1 段的 hunt，作者對殺狼感到惋惜，不像喜歡打獵的人；(B) 立法對付灰狼的是國會和蒙大拿，作者的語氣是惋惜，不是站在他們那一邊。",
   "trap": [
    {
     "o": "A",
-    "t": "hunting",
+    "t": "hunt",
     "p": 1
    },
    {
     "o": "D",
-    "t": "hunting",
+    "t": "hunting skills",
     "p": 1
    }
   ],
@@ -13848,7 +13853,13 @@
    }
   ],
   "qtype": "細節",
-  "note": "這一題答對率只有 49%，(C) 的數字在原文裡，但比一比就知道不是主因。判斷步驟：[1] 第 2 段說蒙大拿州設立獵狼賞金，三十五年間有超過八萬具狼屍送去領賞金；政府還免費提供毒藥；國會也撥款消滅狼。這些都是政府鼓勵殺狼的做法；[2] 第 3 段說黃石公園的管理員 12 年間殺了將近 140 隻狼，和八萬隻比起來少得多；[3] 所以狼很快消失的重要原因，是政府鼓勵殺狼，答案是 (D)。(C) 照抄 park rangers，管理員殺的狼只占一小部分；(A) 照抄 cattle，原文說牧場主人聲稱狼咬死牛，不是狼吃不到牛；(B) 照抄第 1 段的 skins，印第安人披狼皮是為了學狼的本領，原文沒有說他們為了狼皮殺狼。",
+  "note": "這一題答對率只有 49%，判斷步驟：[1] 第 2 段說蒙大拿祭出懸賞，殺一隻狼賞一美元，後來提高到八美元；[2] 政府還免費提供毒藥，國會也撥款在公有土地上消滅狼；[3] 懸賞、毒藥、撥款都是政府在鼓勵殺狼，所以是 (D)。(C) 照抄第 3 段的 park rangers，黃石公園的巡山員殺了將近 140 隻狼，但蒙大拿三十五年間領賞的狼屍超過八萬具，巡山員殺的不是大多數；(A) 照抄 cattle，原文說的是狼吃牛，不是狼吃不到牛；(B) 照抄第 1 段的 skins，印第安人披狼皮是為了得到狼的本領，原文沒有說他們為了狼皮殺狼。",
+  "map": [
+   [
+    "government",
+    "government"
+   ]
+  ],
   "trap": [
    {
     "o": "A",
@@ -13893,7 +13904,7 @@
    }
   ],
   "qtype": "細節",
-  "note": "這一題答對率只有 50%，三個錯誤選項都照抄第 1 段的字，要看清楚是誰做的事情。判斷步驟：[1] 第 1 段說印第安人敬佩（respected）狼的耐力和狩獵能力（hunting ability），選項換成狼很會狩獵（good at hunting），所以是 (A)；[2] 後面說他們披著狼皮和狼爪、穿狼皮偽裝，是為了學到狼的狩獵本領，這些是印第安人做的事情，不是他們敬佩狼的原因。(B) 照抄 disguises，偽裝的是印第安人，不是狼；(C) 照抄 skins and paws，原文沒有說狼皮狼爪很漂亮；(D) 照抄 white man，原文說印第安人無法理解白人為什麼要和狼作戰，沒有說狼是白人的敵人。",
+  "note": "這一題答對率只有 50%，三個錯誤選項都照抄第 1 段的字，要分清楚原因和做法。判斷步驟：[1] 第 1 段說印第安人敬佩（respected）狼的耐力和狩獵能力（hunting ability），選項換成狼很會狩獵，所以是 (A)；[2] (B) 照抄 disguises，偽裝是印第安人披上狼皮去突襲，是人在偽裝，不是狼擅長偽裝；[3] (C) 照抄 skins and paws，他們披狼皮狼爪，是希望得到狼的狩獵本領，不是因為狼皮漂亮；[4] (D) 照抄 white man，原文說印第安人不理解白人對狼的戰爭，沒有說狼是白人的敵人，所以敬重牠。",
   "map": [
    [
     "hunting ability",
@@ -13939,7 +13950,7 @@
   "explanation": null,
   "ev": "all",
   "qtype": "態度",
-  "note": "這一題答對率只有 28%，文章引用了很多支持墮胎的人士的話，容易誤以為作者也支持。判斷步驟：[1] 第 4、5 段引用的 Anne Carp、Geoff Brodie 和《美國展望》的作者，都是作者要反駁的對象，作者形容他們的反應有敵意（hostile）、驚駭不已（aghast）；[2] 第 2 段作者稱超音波是一項美好（blessed）的科技；[3] 第 6 段作者直接表明立場：儘管支持墮胎的人士反應強烈，生命權仍然優先於女性的選擇權，沒有什麼比胎兒燦爛的笑臉更有說服力。作者反對墮胎，所以是 (B)。(A) 引用別人的話不等於作者的立場；(C)、(D) 作者在最後一段明確表態，不是中立，也不是漠不關心。",
+  "note": "這一題答對率只有 28%，作者的立場要看用字和最後一段。判斷步驟：[1] 第 2 段作者稱超音波是美好的科技（blessed technology），說醫師的熱情讓人耳目一新；[2] 第 4、5 段引述支持墮胎的人的批評，用的是 hostile（敵意）、aghast（驚駭）這類字眼，作者站在他們的對面；[3] 第 6 段直接表態：生命權優先於女性的選擇權，沒有什麼比胎兒的笑臉更有說服力。作者反對墮胎，所以是 (B) Against it。(A) 支持墮胎，是第 4、5 段受訪者的立場，不是作者的；(C) 中立，作者在最後一段明確表態，並不中立；(D) 漠不關心，作者用整篇文章論述，不是不在意。",
   "cat": "推論題"
  },
  {
@@ -13967,11 +13978,11 @@
    },
    {
     "p": 5,
-    "t": "In America, the pro-abortion lobby is having the same hostile reaction."
+    "t": "the pro-abortion lobby is having the same hostile reaction."
    }
   ],
   "qtype": "細節",
-  "note": "這一題答對率只有 18%。判斷步驟：[1] 先分清楚誰是支持墮胎的人士：第 3 段提出問題以後，第 4、5 段回答，提到的是 Anne Carp、Geoff Brodie、美國支持墮胎的團體和《美國展望》的作者；第 2 段開心笑出來的是準父母，不是支持墮胎的人士；[2] Carp 說照片根本是誤導（misleading），等於不相信照片；她還嘲笑（ridicules）反墮胎團體；Brodie 抱怨照片會讓反墮胎團體利用；第 5 段說美國支持墮胎的團體也有同樣的敵意反應（the same hostile reaction）；[3] 每一個人的反應都是負面的，選項用 All 和不相信（disbelief）、輕蔑（scorn），所以是 (A)。(C)、(D) 用 Some，表示有人反應正面，但原文提到的支持墮胎人士沒有一個是正面的；(B) 拍手叫好的是第 2 段的準父母和 Campbell 醫師。",
+  "note": "這一題答對率只有 18%，選項的 All 和 Some 是關鍵。判斷步驟：[1] 第 4 段的 Anne Carp 說照片根本是在誤導（misleading），等於不相信照片（disbelief），還嘲笑（ridicules）反墮胎團體，嘲笑就是 scorn；Geoff Brodie 也抱怨這些照片會讓反墮胎團體利用；[2] 第 5 段說美國支持墮胎的團體也有同樣的敵意（the same hostile reaction）；[3] 原文引述的支持墮胎的人，反應全都是不信和嘲笑，沒有一個例外，所以是 (A)。(C) 和 (D) 用 Some 把反應分成兩種，原文沒有任何一位支持墮胎的人表示尊重或讚賞；(B) 第 2 段說喜歡這些照片的是準爸媽，不是支持墮胎的人。",
   "map": [
    [
     "ridicules",
@@ -14004,12 +14015,12 @@
     "t": "His outspoken enthusiasm for this blessed technology is refreshing."
    },
    {
-    "p": 6,
-    "t": "After all, nothing can be more persuasive than an unborn child’s beaming face."
+    "p": 2,
+    "t": "I hear so many couples laughing when they see the pictures—it’s wonderful."
    }
   ],
   "qtype": "推論",
-  "note": "這一題答對率只有 24%，原文沒有直接說 Campbell 的立場，要用刪去法加推論。判斷步驟：[1] 第 3 段問支持墮胎的人士有什麼反應，第 4、5 段回答時舉了 Anne Carp、Geoff Brodie 和《美國展望》的作者，三人都是支持墮胎的人士，(A)、(B)、(D) 可以先刪去；[2] 第 2 段說 Campbell 醫師對這項科技充滿熱情，作者稱這是美好的科技，還說他的熱情令人耳目一新；[3] 第 6 段作者說胎兒燦爛的笑臉最有說服力，正是 Campbell 拍出來的照片。作者站在反墮胎的立場稱讚 Campbell，所以 Campbell 最可能是反墮胎的人，答案是 (C)。",
+  "note": "這一題答對率只有 24%，要先把文章裡的人分成兩邊。判斷步驟：[1] 第 4、5 段的 Anne Carp、Geoff Brodie 和《美國展望》的作者，都在批評這些照片，第 3 段已經點明他們是支持墮胎的運動人士，(A)、(B)、(D) 排除；[2] 公布照片的 Stuart Campbell 醫師，對這項科技充滿熱情，說爸媽都很喜歡，看到照片都笑了；[3] 作者稱讚他的熱情讓人耳目一新，而作者本身反對墮胎；在四個人當中，Campbell 最可能是反對墮胎的人，所以是 (C)。原文沒有直接說 Campbell 反對墮胎，這是從他的態度和作者的立場推出來的。",
   "trap": [
    {
     "o": "A",
@@ -14058,7 +14069,7 @@
    }
   ],
   "qtype": "推論",
-  "note": "這一題答對率只有 28%，要從支持墮胎的人士嘲笑的話，反推反墮胎人士的反應。判斷步驟：[1] 第 4 段 Anne Carp 嘲笑反墮胎團體陶醉（intoxicated）在胎兒具有人性的證據裡，intoxicated 在這裡是興奮、陶醉的意思（Cambridge Dictionary）；[2] Brodie 說反墮胎團體會把這些照片拿去利用；[3] 對反墮胎人士來說，照片是胎兒具有人性的證據，他們很高興，所以是 (D)。(B) 照抄 fetus，反墮胎人士正是把胎兒看作有人性的生命，選項說反了；(C) 照抄第 6 段的 woman，文章就是在談對女性選擇權的爭議，不是每個人都同意；(A) 照抄第 1 段的 published，作者稱讚 Campbell 醫師，沒有說醫師發表照片是錯的。",
+  "note": "這一題答對率只有 28%，判斷步驟：[1] 第 4 段 Anne Carp 嘲笑反墮胎團體「陶醉於胎兒具有人性的證據」，可見反墮胎團體把這些照片當成證據，看了很高興；[2] Geoff Brodie 也說這些照片會讓不擇手段阻止墮胎的團體拿去利用；[3] 反墮胎的人樂見這些超音波照片，所以是 (D)。(B) 照抄第 5 段的 fetus，反墮胎的人正是認為胎兒具有人性，和新生兒一樣是生命，選項說反了；(A) 照抄第 1 段的 published，原文沒有說醫生公布胎兒照片是錯的，作者還稱讚這位醫師；(C) 第 6 段作者主張生命權優先於選擇權，可見並不是每個人都同意女性可以自己決定。",
   "trap": [
    {
     "o": "A",
@@ -14068,12 +14079,7 @@
    {
     "o": "B",
     "t": "fetus",
-    "p": 4
-   },
-   {
-    "o": "C",
-    "t": "woman",
-    "p": 6
+    "p": 5
    }
   ],
   "cat": "推論題"
