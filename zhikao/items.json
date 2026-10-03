@@ -16,7 +16,17 @@
   "answer": "A",
   "accuracyRate": 71,
   "discrimination": 67,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "a dam that would control floods, provide irrigation water, and produce hydroelectric power"
+   }
+  ],
+  "qtype": "未提及",
+  "note": "題目問當初興建水壩的理由，哪一個沒有提到。第 2 段說當初評估興建水壩，是為了防洪（control floods），是 (D) 防止天然災害；提供灌溉用水（provide irrigation water），是 (B) 支援農業；水力發電（produce hydroelectric power），是 (C) 發電。第 4 段雖然說胡佛水壩每年吸引一百多萬名遊客，但那是今天的情況，不是當初興建的理由，所以選 (A)。",
+  "cat": "細節題",
+  "sub": "未提及"
  },
  {
   "id": "Rz110_37",
@@ -35,7 +45,35 @@
   "answer": "C",
   "accuracyRate": 58,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Located in Black Canyon straddling the border between Nevada and Arizona"
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 1 段說胡佛水壩所在的黑峽谷橫跨內華達州和亞利桑那州的州界（straddling the border between Nevada and Arizona），選項換成 stretches over two states，所以是 (C)。(D) 照抄 Black Canyon，原文沒有說水壩讓人發現了黑峽谷，第 2 段說早在 1900 年左右就有人在評估黑峽谷；(B) 照抄第 3 段的 plain，太平淡的是最初的設計，後來已經請建築師重新設計；(A) 水壩在 1931 年到 1936 年興建，只花了五年左右，不到十年。",
+  "map": [
+   [
+    "straddling the border between Nevada and Arizona",
+    "stretches over two states"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "Black Canyon",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "plain",
+    "p": 3
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz110_38",
@@ -54,7 +92,27 @@
   "answer": "B",
   "accuracyRate": 48,
   "discrimination": 53,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "cost over one hundred lives"
+   },
+   {
+    "p": 2,
+    "t": "The winning bid to build the dam was submitted by Six Companies, Inc."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題要把兩段合起來看。第 1 段說興建工程有超過一百人喪命（cost over one hundred lives），第 2 段說得標興建水壩的就是 Six Companies，所以 Six Companies 在興建過程中失去了一些工人，是 (B)。(A) 第 2 段雖然說夏天酷熱、工地缺乏設施，但接著用 Nevertheless 轉折，說 Six Companies 還是完工了，可見並沒有因為困難而放棄；(C) 原文說這麼大的混凝土結構以前沒有人蓋過，所以不可能有類似規模的經驗；(D) 照抄 authorized，國會核准的工程 Six Companies 並沒有放棄，反而提早兩年多完工。",
+  "trap": [
+   {
+    "o": "D",
+    "t": "authorized",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz110_39",
@@ -73,7 +131,34 @@
   "answer": "A",
   "accuracyRate": 57,
   "discrimination": 73,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "the architect who was brought in to redesign the exterior"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說最初的設計太平淡，所以請建築師 Kaufmann 重新設計外觀（redesign the exterior），選項換成 improved the outer appearance，所以是 (A)。(D) 照抄 walls、(C) 照抄 floor，負責牆面和地板裝飾、融入美洲原住民圖像的是插畫家 Allen Tupper True，不是 Kaufmann；(B) 原文說最初的設計太重視功能，Kaufmann 改的是外觀，不是實用功能。",
+  "map": [
+   [
+    "redesign the exterior",
+    "improved the outer appearance"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "walls",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "floor",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz110_40",
@@ -92,7 +177,38 @@
   "answer": "B",
   "accuracyRate": 31,
   "discrimination": 48,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "the merchant class of Paris developed a taste for healthy clear broths which were considered restorative; hence the term"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說 1760 年代巴黎的商人愛上了健康的清湯（clear broths），大家認為這種湯能恢復元氣（restorative），hence（因此）restaurant 這個字就是這樣來的。hence 表示這個字是從前面那句來的，前面那句講的是大家都愛喝的清湯，broth 就是湯，選項換成 popular soups，所以是 (B)。restorative 和 restaurant 拼法相近，也看得出兩個字的關係。(C) 照抄 dining halls，1780 年代出現的有名餐廳，是清湯熱潮帶來的結果，不是這個字的來源；(A) 照抄 chefs，中世紀有私人廚師的是貴族，和這個字的來源無關；(D) 原文沒有提到菜單。",
+  "map": [
+   [
+    "developed a taste for",
+    "Popular"
+   ],
+   [
+    "clear broths",
+    "soups"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "dining halls",
+    "p": 2
+   },
+   {
+    "o": "A",
+    "t": "chefs",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz110_41",
@@ -111,7 +227,32 @@
   "answer": "A",
   "accuracyRate": 66,
   "discrimination": 71,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "the majority of the French population could not afford bread"
+   },
+   {
+    "p": 3,
+    "t": "By 1789, the starving French masses could no longer be controlled."
+   }
+  ],
+  "qtype": "字義",
+  "note": "take a toll on 是「對……造成嚴重的不良影響」，kitchen tables 指每戶人家的餐桌，也就是一般人家吃的東西。前一句說大多數法國人連麵包都買不起（could not afford bread），後面又說飢餓的群眾（the starving French masses）失控，可見嚴冬和苛稅讓人民沒有足夠的食物，所以是 (A)。(C) 照抄 kitchen tables，toll 雖然也有「通行費」的意思，但這裡不是說使用餐桌要收費；(D) 照抄 chefs，第 3 段的廚師是貴族留下來的，和這句話無關；(B) 原文沒有提到營養。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "kitchen tables",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "chefs",
+    "p": 3
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rz110_42",
@@ -130,7 +271,44 @@
   "answer": "C",
   "accuracyRate": 55,
   "discrimination": 62,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The only commercial diners for the masses were dusty, shabby roadside inns"
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 2 段說中世紀時，一般大眾唯一能去的營業用餐處所，是塵土滿布（dusty）、破舊簡陋（shabby）的路邊旅店，選項換成 run-down and dirty，所以是 (C)。(B) 照抄 Reputable dining halls，有名的餐廳是 1780 年代才出現的，1760 年代巴黎商人才剛愛上清湯；(D) 照抄 1780s，原文說那時候的餐廳可以從許多菜色中挑選，菜色不是有限；(A) 照抄第 3 段的 highly skilled chefs，技術高超的廚師原本替貴族工作，大革命以後才流向城裡的餐館，原文也沒有說餐廳是廚師開的。",
+  "map": [
+   [
+    "shabby",
+    "run-down"
+   ],
+   [
+    "dusty",
+    "dirty"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "Reputable dining halls",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "1780s",
+    "p": 2
+   },
+   {
+    "o": "A",
+    "t": "highly skilled chefs",
+    "p": 3
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz110_43",
@@ -149,7 +327,34 @@
   "answer": "D",
   "accuracyRate": 61,
   "discrimination": 57,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "as he reasoned that people who were focused on champagne and fine food probably would not conspire against him"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段說拿破崙給公民「享樂的自由」，因為他認為一心想著香檳和美食的人，大概不會密謀推翻他（would not conspire against him）。沒有人密謀推翻他，政權就穩定，所以是 (D)。(A) 讓公民享樂看起來像是為人民著想，但原文用 as 點出真正的理由是保住自己的政權；(B) 照抄第 3 段的 unemployed，失業的廚師進城開店是大革命時期的事，在拿破崙掌權以前；(C) 照抄 travel，旅遊指南只是用來說明餐廳的數量增加，原文沒有提到餐廳減少會影響旅遊業。",
+  "map": [
+   [
+    "would not conspire against him",
+    "political stability"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "unemployed",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "travel",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz110_44",
@@ -168,7 +373,38 @@
   "answer": "D",
   "accuracyRate": 56,
   "discrimination": 71,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "they can be trained to deliver their prey, without killing it first."
+   },
+   {
+    "p": 3,
+    "t": "animals used for food must still be alive"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說獵鷹經過訓練，可以把獵物帶回來，不先殺死（without killing it first），這在伊斯蘭文化很重要，因為當作食物的動物必須還活著，肉才是清真的。選項換成 keep their prey alive，所以是 (D)。(C) 照抄 vision，獵鷹的視力是人類的 2.6 倍，但這和伊斯蘭文化的規定無關；(B) 照抄第 2 段的 strong，緊密的關係是鷹獵者日夜和獵鷹住在一起建立的，原文沒有說很快就能建立；(A) 第 2 段說先不給食物，是讓獵鷹比較容易馴服，原文沒有說獵鷹本來就比較好訓練，也和伊斯蘭文化無關。",
+  "map": [
+   [
+    "without killing it first",
+    "keep their prey alive"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "vision",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "strong",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz110_45",
@@ -187,7 +423,43 @@
   "answer": "B",
   "accuracyRate": 63,
   "discrimination": 57,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "But now, it has become the favorite sport and pastime in the Arabian Peninsula."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說鷹獵過去是為了補充食物，But now（不過現在）已經成為阿拉伯半島最受歡迎的運動（sport）和休閒活動（pastime），選項換成 entertainment and exercise，所以是 (B)。(A) 照抄 supplement，補充食物是過去的目的，題目問的是今天（today）；(C) 照抄第 4 段的 national bird，有些國家把獵鷹定為國鳥，原文沒有說打獵是為了崇拜國鳥；(D) 照抄 dogs，「天空獵犬」（hunting dogs of the skies）是比喻獵鷹的說法，原文沒有說用獵鷹取代獵犬。",
+  "map": [
+   [
+    "pastime",
+    "entertainment"
+   ],
+   [
+    "sport",
+    "exercise"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "supplement",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "national bird",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "dogs",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz110_46",
@@ -206,7 +478,34 @@
   "answer": "D",
   "accuracyRate": 42,
   "discrimination": 41,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "specialist hospitals have been established to take care of these magnificent birds"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段說鷹獵越來越受歡迎，甚至有專門照顧獵鷹的醫院（specialist hospitals），選項換成 specialized medical care，所以是 (D)。最容易選錯的是 (B)，這個選項照抄 Passports，但原文只說獵鷹還能領到自己的護照（are even issued their own passports），沒有說護照是誰發的，選項加上的 by the King，原文沒有這個資訊。(C) 照抄第 3 段的 halal，清真講的是獵鷹抓回來、要給人吃的獵物，不是獵鷹自己吃的餐點；(A) 原文說獵鷹可以合法搭飛機、待在機艙裡，沒有說機票免費。",
+  "map": [
+   [
+    "specialist hospitals",
+    "specialized medical care"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "Passports",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "halal",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz110_47",
@@ -225,7 +524,44 @@
   "answer": "D",
   "accuracyRate": 60,
   "discrimination": 62,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The best birds to catch are the ones with naturally nurtured hunting skills, aged one or two years."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 2 段說最適合捕捉的（The best birds to catch）是一、兩歲、天生就有狩獵本領（naturally nurtured hunting skills）的獵鷹，選項換成 most ideal for falconers to catch，所以是 (D)。(A) 照抄 of food，不給食物是捉到以後的訓練步驟，目的是讓獵鷹容易馴服，不是為了捕捉；(C) 照抄 imprint，原文的 imprint 是獵鷹把第一眼看到的人認作主人，不是把名字印在頭罩上；(B) 照抄 master，原文說鷹獵者日夜和獵鷹住在一起，訓練時並沒有不讓獵鷹看到主人。",
+  "map": [
+   [
+    "naturally nurtured hunting skills",
+    "natural hunting skills"
+   ],
+   [
+    "The best birds to catch",
+    "most ideal for falconers to catch"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "of food",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "imprint",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "master",
+    "p": 2
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz110_48",
@@ -244,7 +580,29 @@
   "answer": "C",
   "accuracyRate": 65,
   "discrimination": 52,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "many advances have occurred in the game, including significant changes to the golf ball."
+   }
+  ],
+  "qtype": "段落功能",
+  "note": "第 1 段第一句說高爾夫球這項運動有了許多進步，其中包括球本身的重大改變（significant changes to the golf ball），接著依時間順序介紹木球、羽毛球、古塔膠球、Haskell 球、有凹洞的球，一直到現在的球。一代一代累積的改良，改變了球的製作方式，所以是 (C)。(D) 照抄第 2 段的 aerodynamics，空氣動力是第 2 段的內容，第 1 段沒有談；(A) 科學和科技影響高爾夫球運動，說得太籠統，第 1 段只談球的演進；(B) 價格、耐用度只是用來比較各代的球，第 1 段沒有說這些條件決定球的品質。",
+  "map": [
+   [
+    "significant changes to the golf ball",
+    "changes in how golf balls are made"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "aerodynamics",
+    "p": 2
+   }
+  ],
+  "cat": "主旨題"
  },
  {
   "id": "Rz110_49",
@@ -263,7 +621,44 @@
   "answer": "D",
   "accuracyRate": 59,
   "discrimination": 67,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The Haskell traveled up to 20 yards farther than the Gutta Percha ball and was more durable."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 1 段說 Haskell 球比之前的古塔膠球多飛 20 碼（traveled up to 20 yards farther），也更耐用（more durable），選項換成 lasted longer and traveled farther than its predecessor，所以是 (D)。(A) 照抄 rubber，第一顆有橡膠核心的是 Haskell 球，William Taylor 推出的是第一顆有凹洞的球；(B) 照抄 feathers，塞羽毛的是羽毛球，古塔膠球的原料是古塔樹葉子的汁液；(C) 照抄 Featherie，羽毛球之前已經有圓形木球，羽毛球不是最早的高爾夫球。",
+  "map": [
+   [
+    "more durable",
+    "lasted longer"
+   ],
+   [
+    "traveled up to 20 yards farther",
+    "traveled farther"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "rubber",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "feathers",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "Featherie",
+    "p": 1
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz110_50",
@@ -282,7 +677,29 @@
   "answer": "A",
   "accuracyRate": 56,
   "discrimination": 73,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "With dimples added to the ball, the force that pulls back on the ball is minimized, allowing it to travel faster and longer."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說球加上凹洞以後，往後拉的力量減到最小，讓球飛得更快、更遠（travel faster and longer），選項換成 travel farther，所以是 (A)。(C) 照抄 drag，往後拉的力量就是阻力（drag），凹洞把阻力減到最小，選項說增加阻力，剛好相反；(B) 保持形狀、(D) 承受更強的撞擊，原文都沒有提到。",
+  "map": [
+   [
+    "travel faster and longer",
+    "travel farther"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "drag",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz110_51",
@@ -301,7 +718,39 @@
   "answer": "A",
   "accuracyRate": 63,
   "discrimination": 58,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "whereas those with deeper dimples have a higher flight path."
+   }
+  ],
+  "qtype": "推論",
+  "note": "球掉進很深的沙坑，要讓球飛得高，才打得出來。第 2 段說凹洞比較深的球（deeper dimples），飛行路徑比較高，所以是 (A)。(B) 照抄第 1 段的 Gutta、(C) 照抄 leather sack，古塔膠球和塞羽毛的皮囊球都是舊式的球，原文沒有說它們適合打沙坑；(D) 照抄 outer cover，Haskell 球有外殼，但原文說凹洞才影響飛行高度，表面光滑的球沒有凹洞的好處。",
+  "map": [
+   [
+    "deeper dimples",
+    "deep dimples"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "Gutta",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "leather sack",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "outer cover",
+    "p": 1
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz109b_36",
@@ -320,7 +769,27 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "In selecting the films for this year, Chaz Ebert and I looked to women filmmakers for our inspiration."
+   },
+   {
+    "p": 4,
+    "t": "We would like to thank our sponsors, volunteers, festival pass holders, and individual ticket holders"
+   }
+  ],
+  "qtype": "推論",
+  "note": "作者在第 2 段說今年選片時，Chaz Ebert 和我（Chaz Ebert and I）以女性電影人作為靈感，可見作者負責挑選影片；第 4 段又代表影展感謝贊助者、志工和觀眾，全文也一直用 our festival、we 這樣的說法。會選片、會代表影展致謝的，最可能是影展籌備委員會的成員，所以是 (C)。(A) 照抄第 4 段的 University of Illinois，作者是在感謝伊利諾大學，不是代表大學說話；(D) 記者是報導影展的外人，不會說「我們的影展」；(B) 作者說能和伊伯特夫婦合作是一種榮幸，是合作的關係，原文沒有說作者是影評人。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "University of Illinois",
+    "p": 4
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz109b_37",
@@ -339,7 +808,34 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "to make a festival that celebrated overlooked films, formats and genres, and the women and men who made those films"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說 1999 年重新打造影展，是要表揚受到忽略的電影（overlooked films），以及拍出這些電影的人。受到忽略的電影，就是票房不好、沒有受到注意的片子，所以是 (D)。這一句是倒裝：Little did we think（我們萬萬沒想到）後面接的，是當初沒有料到的結果，不是目的。(C) 照抄 annual event，成為社區的年度盛事，(B) 幫忙修復 Virginia 戲院，都是當時沒有料到的結果；(A) 照抄 University of Illinois，伊利諾大學媒體學院是合作單位，原文沒有說合作是重新打造影展的目的。",
+  "map": [
+   [
+    "overlooked films",
+    "not box-office hits"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "annual event",
+    "p": 1
+   },
+   {
+    "o": "A",
+    "t": "University of Illinois",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz109b_38",
@@ -358,7 +854,43 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Chaz Ebert and I looked to women filmmakers for our inspiration."
+   },
+   {
+    "p": 2,
+    "t": "Fully half of our films are either directed or co-directed by women, and several others have women in powerful producing roles."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說今年選片以女性電影人（women filmmakers）作為靈感，一半的影片由女性執導或共同執導，還有好幾部由女性擔任製片，所以是 (A)。(C) 照抄 roles，原文的 producing roles 是幕後的製片工作，不是片中的女主角；(B) 照抄第 3 段的 Hollywood，好萊塢傳奇人物 Jeff Dowd 是嘉賓，不是選片重點；(D) 照抄第 1 段的 formats and genres，那是 1999 年重新打造影展時要表揚的對象，不是今年選片的重點。",
+  "map": [
+   [
+    "women filmmakers",
+    "produced or directed by women"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "roles",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "Hollywood",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "formats and genres",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz109b_39",
@@ -377,7 +909,21 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "We would like to thank our sponsors, volunteers, festival pass holders, and individual ticket holders"
+   },
+   {
+    "p": 5,
+    "t": "for that we thank him and his wife Chaz."
+   }
+  ],
+  "qtype": "未提及",
+  "note": "作者在第 4、5 段致謝。感謝贊助者（sponsors），是 (D) 出錢支持影展的公司；感謝影展通行證持有人（festival pass holders），買了通行證的學生也在其中，是 (B)；第 5 段感謝羅傑·伊伯特，影展是他送給家鄉的禮物，他就是 (A) 影展的創辦人。第 2 段雖然提到幾位女性製片，但那是介紹今年的選片，不是致謝，原文也沒有提到哪一部片子得獎，所以選 (C)。",
+  "cat": "細節題",
+  "sub": "未提及"
  },
  {
   "id": "Rz109b_40",
@@ -396,7 +942,27 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Chasing often involves driving thousands of miles in order to witness a relatively short window of time of severe weather."
+   },
+   {
+    "p": 2,
+    "t": "The amount of equipment used for storm chasing also varies."
+   }
+  ],
+  "qtype": "段落功能",
+  "note": "第 2 段講了好幾件追風暴的一般情況：常要開幾千英里的車，空手而回並不少見；大部分人不是專業的氣象學家；使用的裝備多寡也各不相同。這一段介紹的是追風暴的一般事實，所以是 (A)。(B) 照抄 equipment，裝備只是這一段的其中一件事；(D) 氣象學也只占一句，原文是說很多人花時間自學，不是在介紹氣象知識；(C) 這一段反而一再說各人不同，有人只帶攝影器材，有人什麼都用上，講的不是共同點。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "equipment",
+    "p": 2
+   }
+  ],
+  "cat": "主旨題"
  },
  {
   "id": "Rz109b_41",
@@ -415,7 +981,40 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Tornadoes affect a relatively small area and are predictable enough to be avoided if a safe distance is maintained."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 3 段說龍捲風影響的範圍相對小，也相當可以預測，只要保持安全距離，就能避開（to be avoided），所以是 (A)。(D) 照抄 Core punching，原文說這種做法極度危險，沒有說是追風暴非做不可的部分；(C) 照抄第 2 段的 equipment，原文說裝備多寡各不相同，沒有標準配備；(B) 照抄第 1 段的 reason，原文說追風暴的原因從好奇、冒險到媒體報導都有，不是只有一種。",
+  "map": [
+   [
+    "to be avoided",
+    "can be avoided"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "Core punching",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "equipment",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "reason",
+    "p": 1
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz109b_42",
@@ -434,7 +1033,39 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "and this is causing a growing safety threat."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段說如今追風暴越來越熱門，業餘玩家和想在 YouTube 成名的人搶拍風暴畫面，帶來越來越大的安全威脅（safety threat），所以是 (B)。(D) 照抄第 1 段的 media coverage，媒體報導是追風暴的原因之一；(A) 照抄第 1 段的 weather condition，惡劣天氣是追逐的對象，不是熱潮帶來的新問題；(C) 照抄第 2 段的 Equipment，原文只說裝備多寡不同，沒有談到費用。",
+  "map": [
+   [
+    "safety threat",
+    "Safety issues"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "media coverage",
+    "p": 1
+   },
+   {
+    "o": "A",
+    "t": "weather condition",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "Equipment",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz109b_43",
@@ -453,7 +1084,39 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "A group of storm-chase veterans has advocated the adoption of a code of ethics emphasizing safety, courtesy, and objectivity."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 4 段說一群資深的追風暴者提倡採用倫理守則（a code of ethics），而且這套守則強調安全。他們提倡守則，又特別強調安全，可見他們認為守則能降低追風暴的危險，所以是 (D)。(C) 照抄 ethics，原文最後一句說參與其他危險休閒活動的人，往往也反對自我約束，意思正好相反；(B) 照抄第 2 段的 meteorologists，原文說大部分追風暴的人不是氣象學家，沒有說大部分氣象學家追過龍捲風；(A) 照抄第 1 段的 media，媒體報導本來就是追風暴的原因之一，第 4 段又說有人想在 YouTube 成名，不能推論追風暴還沒有引起媒體注意。",
+  "map": [
+   [
+    "code of ethics",
+    "rules of conduct"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "ethics",
+    "p": 4
+   },
+   {
+    "o": "B",
+    "t": "meteorologists",
+    "p": 2
+   },
+   {
+    "o": "A",
+    "t": "media",
+    "p": 1
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz109b_44",
@@ -472,7 +1135,39 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "the largest collection of signs from places around the world"
+   },
+   {
+    "p": 2,
+    "t": "Others followed suit, and the trend caught on."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "第 1 段介紹路標森林，說這裡是全世界蒐集各地路標最多的地方（the largest collection of signs from places around the world）。第 2 段一開頭說 The tradition began…，接著講 Lindley 加上指向家鄉的牌子，其他人跟著做，這股風氣就流行起來。所以 The tradition 指的是從世界各地帶牌子來路標森林的做法，是 (D)。(C) 照抄 directional signposts，修理、豎立指示方向的路標是指揮官交給 Lindley 的工作，不是後來大家跟著做的傳統；(A) 照抄第 1 段的 count，統計路標數量只是用來說明森林的規模；(B) 原文說這片土地看不到樹冠，但沒有說有人砍掉森林、換成牌子。",
+  "map": [
+   [
+    "signs from places around the world",
+    "signs to the Signpost Forest from around the world"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "directional signposts",
+    "p": 2
+   },
+   {
+    "o": "A",
+    "t": "count",
+    "p": 1
+   }
+  ],
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rz109b_45",
@@ -491,7 +1186,44 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "U.S. soldier Carl K. Lindley spent time in Watson Lake recovering from an injury."
+   },
+   {
+    "p": 2,
+    "t": "the homesick soldier added a sign that indicated the direction and mileage to his hometown"
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 2 段說路標森林的第一塊牌子，是美國士兵（U.S. soldier）Carl K. Lindley 在 Watson Lake 養傷、修理路標的時候加上的，選項換成 American soldier，所以是 (B)。(A) 照抄 1992，原來的牌子早就遺失了，1992 年放的是 Lindley 回去補上的複製品；(D) 照抄 hometown，那塊牌子標的是往他家鄉的方向和里程，不是從家鄉帶來的，從家鄉拔路牌來的是第 3 段說的其他人；(C) 照抄 Alaska Highway，阿拉斯加公路工程是當時進行中的工程，原文說牌子是在 Watson Lake 加上的，沒有說先放在公路上。",
+  "map": [
+   [
+    "U.S. soldier",
+    "American soldier"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "1992",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "hometown",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "Alaska Highway",
+    "p": 2
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz109b_46",
@@ -510,7 +1242,32 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "original sign has since been lost to time."
+   },
+   {
+    "p": 2,
+    "t": "to place a replica, which is still there."
+   }
+  ],
+  "qtype": "字義",
+  "note": "第 2 段先說 Lindley 原來的那塊牌子（original sign）已經遺失了，接著說五十年後他和妻子回到 Watson Lake，放上一塊 replica，到現在還在那裡。原來的牌子不見了，回去補放的就是照原樣做的仿製品，所以 replica 最接近 (C) Copy。(A) 照抄第 3 段的 list，那是遊客中心不再詳細記錄的清單；(D) 照抄第 1 段的 border，是美加邊界；(B) 樹幹，和放回去的牌子無關。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "List",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "Border",
+    "p": 1
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rz109b_47",
@@ -529,7 +1286,27 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "There are street signs, welcome signs, signatures on dinner plates, and license plates from around the world."
+   },
+   {
+    "p": 3,
+    "t": "The forest has grown so vast that the visitor center no longer tries to keep a detailed list of the signs."
+   }
+  ],
+  "qtype": "段落功能",
+  "note": "最後一段先說路標森林占地好幾英畝，接著列出路牌、歡迎牌、簽名餐盤、各地車牌、家族的牌子等各種牌子，最後說森林已經大到遊客中心不再詳細記錄。這一段講的是牌子的數量多、種類多，所以是 (B)。(D) 照抄 nailing，違法拔路牌來釘，只是這一段的一個細節；(C) 原文說不再記錄，是因為牌子太多，不是因為很難分類；(A) 這一段沒有談牌子的大小，牌子的由來是第 2 段的內容。",
+  "trap": [
+   {
+    "o": "D",
+    "t": "nailing",
+    "p": 3
+   }
+  ],
+  "cat": "主旨題"
  },
  {
   "id": "Rz109b_48",
@@ -548,7 +1325,33 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "paper currency issued by a government represented a real amount of gold held by that government."
+   },
+   {
+    "p": 1,
+    "t": "The difference in the price of gold became the exchange rate for the two currencies"
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 1 段說在金本位之下，政府發行的紙幣代表政府實際持有的黃金，兩國黃金價格的差異，就成了兩種貨幣的匯率。匯率是由黃金決定的，可見黃金對貨幣兌換非常重要，所以是 (A)。(D) 照抄 1930s，原文算出 1 英鎊值 8.25 美元，英鎊比美元值錢，不是比較不值錢；(B) 照抄 U.S.，原文說英國政府擁有的黃金大約是美國的 8 倍，看不出美國經濟獨霸世界；(C) 原文說匯率依黃金決定，沒有提到富國操縱匯率。",
+  "trap": [
+   {
+    "o": "D",
+    "t": "1930s",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "U.S.",
+    "p": 1
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz109b_49",
@@ -567,7 +1370,43 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "After World War II, the Bretton Woods System was established."
+   },
+   {
+    "p": 2,
+    "t": "they based the value of their currencies on the USD."
+   }
+  ],
+  "qtype": "段落功能",
+  "note": "第 2 段第一句說金本位在二戰期間開始瓦解，接著說二戰以後建立了布列敦森林體系（the Bretton Woods System was established），各國以美元訂定本國貨幣的價值，維持固定匯率。這一段的重點是新的貨幣兌換體系出現，所以是 (D)。(B) 照抄 European powers，歐洲列強印鈔票只是金本位瓦解的原因；(A) 照抄 recession，經濟衰退只是可以調整匯率的特殊時期的例子；(C) 照抄 World War II，原文沒有提到金價下跌。",
+  "map": [
+   [
+    "was established",
+    "The rise"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "European powers",
+    "p": 2
+   },
+   {
+    "o": "A",
+    "t": "recession",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "World War II",
+    "p": 2
+   }
+  ],
+  "cat": "主旨題"
  },
  {
   "id": "Rz109b_50",
@@ -586,7 +1425,29 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "it no longer held gold reserves necessary to cover the volume of USD circulation around the world."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說 1960 年代美國持有的黃金儲備，已經不足以支應（no longer held gold reserves necessary to cover）全世界流通的美元，其他貨幣因此比美元更穩定，布列敦森林體系終於廢除。選項換成 did not have enough gold to cover，所以是 (B)。(D) 照抄第 2 段的 than they had in gold reserves，歐洲列強印出超過黃金儲備的鈔票，是二戰期間金本位瓦解的原因，不是布列敦森林體系失敗的原因；(A) 原文沒有說世界強權陷入經濟蕭條；(C) 原文說的是這個體系跟不上快速變化的全球經濟，不是體系太複雜。",
+  "map": [
+   [
+    "no longer held gold reserves necessary to cover",
+    "did not have enough gold to cover"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "than they had in gold reserves",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz109b_51",
@@ -605,7 +1466,40 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "may vary according to the supply and demand of the foreign exchange market."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 4 段說牙買加協定確立了浮動匯率制度，一國貨幣的價值隨外匯市場的供需（supply and demand of the foreign exchange market）變動，選項換成 Supply and demand in the currency market，所以是 (D)。(A) 照抄 their own exchange rate，原文說各國可以讓中央銀行決定自己的匯率，選項加上 not，意思相反；(B) 照抄第 2 段的 fixed exchange rate，固定匯率是布列敦森林體系的做法；(C) 照抄第 1 段的 Gold，金本位在二戰期間就開始瓦解，牙買加協定沒有恢復金本位。",
+  "map": [
+   [
+    "supply and demand of the foreign exchange market",
+    "Supply and demand in the currency market"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "their own exchange rate",
+    "p": 4
+   },
+   {
+    "o": "B",
+    "t": "fixed exchange rate",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "Gold",
+    "p": 1
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz109_36",
@@ -624,7 +1518,40 @@
   "answer": "B",
   "accuracyRate": 74,
   "discrimination": 51,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段說明為什麼需要更有效率的汙水處理，第 2 段從篩除大型物品、初級池、二級池、沙過濾一直講到加氯消毒，一步一步介紹現代的廢水處理，所以是 (B)。(C) 排水系統的歷史只在第 1 段，是全文的引子，過於狹隘；(A) 照抄第 2 段的 elements，汙水裡的有害成分只是第 2 段第一句下定義時提到的，過於狹隘；(D) 照抄第 1 段的 manufacturing waste，製造業的廢棄物只是需要處理汙水的原因之一，全文沒有談怎麼控制這些廢棄物，偏離主題。",
+  "trap": [
+   {
+    "o": "D",
+    "t": "manufacturing waste",
+    "p": 1
+   },
+   {
+    "o": "A",
+    "t": "elements",
+    "p": 2
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rz109_37",
@@ -643,7 +1570,21 @@
   "answer": "D",
   "accuracyRate": 78,
   "discrimination": 52,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "as the population of the cities grew, the old drainage systems became overloaded."
+   },
+   {
+    "p": 1,
+    "t": "manufacturing waste was added to sewage, which increased the need for more efficient sewage treatment."
+   }
+  ],
+  "qtype": "未提及",
+  "note": "第 1 段說城市人口增加（the population of the cities grew），是 (A)；舊的排水系統不堪負荷（became overloaded），是 (C)；工業革命時期製造業的廢棄物加進汙水，更需要有效率的處理方法，是 (B)。第 1 段雖然提到早期排水系統是用來處理暴風雨時的雨水，但全文沒有提到氣候變遷帶來大雨，所以選 (D)。",
+  "cat": "細節題",
+  "sub": "未提及"
  },
  {
   "id": "Rz109_38",
@@ -662,7 +1603,39 @@
   "answer": "C",
   "accuracyRate": 50,
   "discrimination": 58,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "oils and grease float to the top, where they are collected."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題要照處理的步驟一步一步對。第 1 步，汙水還沒進池子以前，先篩掉紙張、木頭（wood）等大型物品，去除泥土等重物（heavy materials）；第 2 步才進初級池（primary tanks），這時汙泥沉到池底，油和油脂（grease）浮到上面，收集起來（collected），也就是在初級池去除了，所以是 (C)。(A) 照抄 wood、(B) 照抄 heavy material，都是在第 1 步、進初級池以前就去除了；(D) 照抄 organic matter，有機物在初級池只是分解成比較小的物質，還留在汙水裡，跟著進入二級池。",
+  "map": [
+   [
+    "grease",
+    "Grease"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "wood",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "heavy material",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "organic matter",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz109_39",
@@ -681,7 +1654,39 @@
   "answer": "A",
   "accuracyRate": 69,
   "discrimination": 57,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "This filtering process gets rid of almost all bacteria"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說液態汙水用沙過濾，這道程序可以去除（gets rid of）幾乎所有的細菌，選項換成 eliminate，所以是 (A)。(C) 照抄 solid particles，沙過濾也去除殘留的固體微粒，但是去除，不是溶解；(D) 照抄 oil，油和油脂是在初級池浮上來收集的；(B) 照抄第 1 段的 drain，排水系統是早期處理雨水的方法，和沙過濾無關。",
+  "map": [
+   [
+    "gets rid of",
+    "eliminate"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "solid particles",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "oil",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "drain",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz109_40",
@@ -700,7 +1705,45 @@
   "answer": "C",
   "accuracyRate": 72,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段說即使在地球最深的馬里亞納海溝，生物也逃不過汙染；第 2 段說海溝深處的生物體內有濃度極高的有毒化學物質；第 3 段說這些都是會在環境中留存很久的持久性有機汙染物；第 4、5 段說明這些汙染物怎麼沿著食物鏈、長距離傳到深海。全文講的是持久性有毒化學物質汙染深海，所以是 (C)。(B) 照抄第 2 段的 remote，遙控載具只是研究用的工具，過於狹隘；(D) 照抄第 3 段的 industrial applications，化學物質的種類和用途只是第 3 段的內容，過於狹隘；(A) 照抄第 4 段的 food chain，原文說汙染物沿著食物鏈傳下去，沒有說受汙染的生物變少，偏離主題。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "remote",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "industrial applications",
+    "p": 3
+   },
+   {
+    "o": "A",
+    "t": "food chain",
+    "p": 4
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   }
+  }
  },
  {
   "id": "Rz109_41",
@@ -719,7 +1762,23 @@
   "answer": "B",
   "accuracyRate": 73,
   "discrimination": 62,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "causing the POPs to build up in their bodies, lurking in their fat tissues."
+   }
+  ],
+  "qtype": "字義",
+  "note": "第 4 段先說生物誤吃了沾著 POPs 的塑膠，POPs 就在牠們體內累積（build up in their bodies），潛藏在脂肪組織裡；接著說這些生物死後，POP-riddled 的屍體沉到海底。體內累積了大量 POPs 的屍體，就是充滿 POPs 的屍體，所以是 (B)。be riddled with 是「充滿（不好的東西）」。(A) 照抄第 2 段的 operated，遙控操作的是研究用的載具；(C) 完成、(D) 丟棄，都接不上前一句說的累積。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "Operated",
+    "p": 2
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rz109_42",
@@ -738,7 +1797,40 @@
   "answer": "D",
   "accuracyRate": 64,
   "discrimination": 66,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "A team of researchers recently sent a remotely operated vehicle into the depths of the Mariana Trench."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 2 段說研究團隊派了一具遙控載具（remotely operated vehicle）潛入馬里亞納海溝，後面也稱它為 robotic submarine，選項換成 A robotic vehicle was used，所以是 (D)。(A) 照抄第 3 段的 electronic，用在電子產品上的是 PBDEs，不是 PCBs；(B) 照抄第 4 段的 surface，化合物附著在塑膠的表面，生物死後還會沉到海底，不是一直留在海面；(C) 照抄第 1 段的 deepest point，原文說即使在最深的地方，生物也逃不過汙染。",
+  "map": [
+   [
+    "remotely operated vehicle",
+    "robotic vehicle"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "electronic",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "surface",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "deepest point",
+    "p": 1
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz109_43",
@@ -757,7 +1849,38 @@
   "answer": "A",
   "accuracyRate": 50,
   "discrimination": 39,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "were outlawed in the United States in the 1970s after being linked to cancer."
+   },
+   {
+    "p": 4,
+    "t": "POPs are therefore transferred to other creatures along the food chain."
+   }
+  ],
+  "qtype": "推論",
+  "note": "這一題要把兩段合起來推論。第 3 段說 PCBs 發現和癌症有關（linked to cancer）以後，美國就禁用了；第 4 段說 POPs 會沿著食物鏈傳到其他生物身上。人吃海裡的魚貝，也在這條食物鏈上，海洋裡的這些汙染物就可能進到人體，所以可以推論海洋汙染威脅人類健康，是 (A)。(C) 照抄 PCBs and PBDEs，原文說這兩種化學物質都不會在環境中分解，時間久了也不會變得比較無害；(D) 照抄第 2 段的 rivers，原文是拿汙染最嚴重的河川來比較海溝生物體內的毒素濃度，沒有比較河川和工業區；(B) 第 5 段說這些汙染物幾十年前就已經禁用，沒有提到正在制定新的法規。",
+  "map": [
+   [
+    "linked to cancer",
+    "threat to human health"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "PCBs and PBDEs",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "rivers",
+    "p": 2
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz109_44",
@@ -776,7 +1899,11 @@
   "answer": "D",
   "accuracyRate": 64,
   "discrimination": 53,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "語氣",
+  "note": "作者介紹哈卡的意義、來源和現在的用途，用的都是正面的說法：第 1 段說全黑隊賽前的哈卡場面壯觀（a sight to behold），沒有其他隊伍的賽前儀式這麼有氣勢；第 4 段說毛利人和歐洲裔的紐西蘭人都以跳哈卡為榮，哈卡已經成為紐西蘭人最具代表性的象徵。作者對這項傳統抱著尊重的態度，所以是 (D)。全文沒有嘲諷，(A) 憤世嫉俗不對；也沒有開玩笑，(B) 幽默不對；更沒有擔心哈卡會消失，(C) 悲觀不對。",
+  "cat": "推論題"
  },
  {
   "id": "Rz109_45",
@@ -795,7 +1922,29 @@
   "answer": "C",
   "accuracyRate": 56,
   "discrimination": 51,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "which is intended to heighten their morale and intimidate opponents"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說全黑隊賽前的表演，目的是提振自己的士氣（heighten their morale），並且震懾對手，選項換成 boost their own spirits，所以是 (C)。(A) 照抄 opponents，原文的 intimidate 是讓對手害怕，不是激怒對手，兩者意思不同；(B) 第 1 段說全黑隊把哈卡帶上世界舞台，這是表演帶來的結果，不是表演的目的；(D) 第 2 段說哈卡的吟唱會講述古老的故事，但原文沒有說全黑隊表演哈卡是為了向祖先致敬。",
+  "map": [
+   [
+    "heighten their morale",
+    "boost their own spirits"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "opponents",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz109_46",
@@ -814,7 +1963,27 @@
   "answer": "B",
   "accuracyRate": 78,
   "discrimination": 51,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "different varieties of haka are performed on various ceremonial occasions"
+   },
+   {
+    "p": 4,
+    "t": "Though the practice had traditionally been limited to"
+   }
+  ],
+  "qtype": "字義",
+  "note": "最後一段第一句說各種哈卡在許多典禮場合表演（are performed），下一句的 the practice 接著談同一件事：表演哈卡傳統上只限於毛利社群，現在已經普及。the practice 指的就是表演哈卡這個做法，最接近 (B) Performance。(A) 照抄第 1 段的 sporting，運動是全黑隊從事的項目，但哈卡在婚禮、葬禮上也跳，不是運動；(C) 比賽、(D) 職業，都接不上前一句說的表演。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "Sport",
+    "p": 1
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rz109_47",
@@ -833,7 +2002,48 @@
   "answer": "D",
   "accuracyRate": 56,
   "discrimination": 60,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "different varieties of haka are performed on various ceremonial occasions"
+   },
+   {
+    "p": 4,
+    "t": "and New Zealanders of European heritage alike view doing the haka with a sense of pride"
+   }
+  ],
+  "qtype": "是非",
+  "note": "最後一段說現在哈卡在迎接貴賓、婚禮、葬禮等典禮場合（ceremonial occasions）表演，而且毛利人和歐洲裔的紐西蘭人（New Zealanders of European heritage）都以跳哈卡為榮。選項把典禮場合換成 important events，把歐洲裔的紐西蘭人換成 non-Māori New Zealanders，所以是 (D)。(A) 照抄最後一段的 limited to，傳統上只限於毛利社群，不是只限男性戰士，第 2 段還說有些哈卡男女都能跳，甚至有只限女性的；(B) 照抄第 2 段的 war dance，那是一般人的看法，接著 But 一轉，說在毛利語中 haka 只是「舞蹈」的意思；(C) 照抄第 3 段的 1906，1906 年全黑隊第一次表演的是 Ka Mate，Kapa o Pango 是 2005 年才寫的，不可能從 1906 年起就輪流表演。",
+  "map": [
+   [
+    "ceremonial occasions",
+    "important events"
+   ],
+   [
+    "New Zealanders of European heritage",
+    "non-Māori New Zealanders"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "limited to",
+    "p": 4
+   },
+   {
+    "o": "B",
+    "t": "war dance",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "1906",
+    "p": 3
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz109_48",
@@ -852,7 +2062,37 @@
   "answer": "D",
   "accuracyRate": 30,
   "discrimination": 9,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "標題",
+  "note": "第 1 段先說 ESSA 取代了 NCLB，讓各州在課程、教學、評量上有更多決定權，最後一句說 Below are some big-picture ideas influencing many states as they approach the assessment task，點出後面要談的是各州規劃評量（assessment）的方向；第 2 到 5 段依序談彈性、多科目測驗、重視學習過程、評量的目的，四段都在講評量。標題要同時涵蓋從 NCLB 換成 ESSA，以及談的重點是評量，所以是 (D)。最容易選錯的是 (B)：後面四段是影響各州的四個大方向（ideas influencing many states），不是 ESSA 這個法案的四個組成部分，偏離主題。(C) 照抄第 2 段的 student-centered，全文談的是評量，不是課程和教學，偏離主題；(A) 照抄第 2 段的 computer，電腦適性測驗只是第 2 段舉的例子，過於狹隘。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "computer",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "student-centered",
+    "p": 2
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rz109_49",
@@ -871,7 +2111,44 @@
   "answer": "C",
   "accuracyRate": 64,
   "discrimination": 60,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Thus, states are rethinking one-size-fits-all standardized assessments and are instead considering personalized, student-centered assessments in schools."
+   },
+   {
+    "p": 2,
+    "t": "Obviously, the task is difficult and time-consuming."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "第 2 段先說標準化評量容易使用，卻無法完整呈現學生的進展，所以各州考慮改用以學生為中心的評量（student-centered assessments）；接著說這項工作既困難又費時。一邊是比較完整的評量，一邊是做起來很難，要不要採用以學生為中心的評量，就是這裡的 dilemma（難題），所以是 (C)。(A) 照抄 SAT and ACT，那是拿來比喻標準化評量的例子，不是要在兩者之間做選擇；(D) 照抄 computer，電腦適性測驗是解決難題的方法，不是難題本身；(B) 照抄第 1 段的 NCLB，2015 年 ESSA 就已經取代了 NCLB，這是已經決定的事。",
+  "map": [
+   [
+    "student-centered assessments",
+    "student-centered assessment"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "SAT and ACT",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "computer",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "NCLB",
+    "p": 1
+   }
+  ],
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rz109_50",
@@ -890,7 +2167,39 @@
   "answer": "D",
   "accuracyRate": 50,
   "discrimination": 48,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "some are now starting to include social studies, government, or economics."
+   }
+  ],
+  "qtype": "細節",
+  "note": "題目問的是新興（emerging）的科目，要把第 3 段提到的科目分成舊的和新的。第 3 段說數學和閱讀是傳統（traditional）科目，(A)、(B) 都不是新的；自然科學是全部 50 個州都已經至少考兩次的科目，(C) 也不是新的；接著說有些州現在才開始（now starting to）加考社會、公民或經濟，所以新興的科目是 (D) Economics。(A) 照抄 math、(B) 照抄 reading、(C) 照抄 science，三個字都在第 3 段，但都是已經在考的科目。",
+  "map": [
+   [
+    "economics",
+    "Economics"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "math",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "reading",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "science",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz109_51",
@@ -909,7 +2218,20 @@
   "answer": "C",
   "accuracyRate": 56,
   "discrimination": 51,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "Teachers are encouraged to accumulate data at different points in their students"
+   },
+   {
+    "p": 4,
+    "t": "These data together present a more complete picture of a student"
+   }
+  ],
+  "qtype": "插入句",
+  "note": "要插入的兩句說，現在很多老師要學生建立學習歷程檔案，蒐集學期中不同時間點（at different points of time）的作品，呈現學生的努力、進步和成就。第 4 段說各州重視學習過程，老師在學生學習過程的不同時間點（at different points）累積資料，這些資料合起來，能更完整地呈現學生的學習。學習歷程檔案正是第 4 段這個做法的例子，所以插入句開頭說 One good example，放在第 4 段，是 (C)。(A) 第 2 段講的是彈性和電腦適性測驗；(B) 第 3 段講的是多科目測驗；(D) 第 5 段講的是評量的目的，都和不同時間點蒐集作品接不上。",
+  "cat": "文章段落組織"
  },
  {
   "id": "Rz108_36",
@@ -1129,7 +2451,16 @@
   "answer": "B",
   "accuracyRate": 64,
   "discrimination": 62,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "When Dr. David Spiegel emerged from a three-hour shoulder surgery in 1972"
+   }
+  ],
+  "qtype": "寫作手法",
+  "note": "第 1 段一開頭講一件事：1972 年 Spiegel 醫師動完肩部手術，沒有用止痛藥，而是替自己催眠，結果真的有效。作者用一件實際發生的事開場，引出催眠這個主題，所以是 (B)。(A) 催眠的定義在第 2 段才出現；(C) 第 4 段才有止痛藥用量減半的研究結果，開頭沒有統計數字；(D) 比較兩組人的反應是第 3 段的研究。",
+  "cat": "文章段落組織"
  },
  {
   "id": "Rz108_41",
@@ -1148,7 +2479,38 @@
   "answer": "C",
   "accuracyRate": 73,
   "discrimination": 50,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "This trance-like state can be an effective tool to control pain, ease anxiety, and deal with stress."
+   },
+   {
+    "p": 4,
+    "t": "Spiegel hopes that the practice can be used to replace painkillers."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說催眠是控制疼痛、緩解焦慮、應付壓力的有效工具；第 4 段說 Spiegel 希望催眠可以用來取代止痛藥（replace painkillers），還研究了自我催眠能讓病人少用一半的止痛藥。他研究的是催眠怎麼當作醫療方法，所以是 (C)。(A) 照抄 pain，他研究的是用催眠減輕疼痛，不是找出疼痛的原因；(D) 照抄第 3 段的 brain，研究人員只是觀察到催眠時大腦的變化，沒有說要強化大腦的功能；(B) 第 2 段的專注是說明催眠時的狀態，不是要幫人專心工作。",
+  "map": [
+   [
+    "replace painkillers",
+    "medical treatment"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "pain",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "brain",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz108_42",
@@ -1167,7 +2529,34 @@
   "answer": "B",
   "accuracyRate": 46,
   "discrimination": 49,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "You focus intently on the subject at hand, to the near exclusion of any other thought."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段先說一般人的誤解（is often misunderstood as），再用 But according to Dr. Spiegel 帶出他的看法。題目問的是 According to Dr. Spiegel，答案要在 But 後面找：催眠時你會全神貫注在眼前的事情上（focus intently on the subject at hand），幾乎不去想別的事，選項換成 Their mind is fixed only on what they are doing，所以是 (B)。(C) 照抄 whatever，別人叫你做什麼就做什麼，是 But 前面一般人的誤解；(D) 照抄 around，原文說催眠時會把周遭（around you）大部分的刺激屏除在外，選項說更能察覺周遭的事物，意思正好相反；(A) 第 3 段的回想記憶，是研究中掃描大腦的其中一種情況，不是催眠時的狀態，原文也沒有提到快樂的記憶。",
+  "map": [
+   [
+    "focus intently on the subject at hand",
+    "fixed only on what they are doing"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "whatever",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "around",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz108_43",
@@ -1186,7 +2575,34 @@
   "answer": "C",
   "accuracyRate": 37,
   "discrimination": 28,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "more likely to get caught up in a good movie."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 3 段說容易催眠的人，看到一部好電影，比較容易沉浸其中（get caught up in a good movie）。看電影容易入戲，就是容易把自己投入片中角色的處境，電影也是虛構的故事，選項換成 identify themselves with characters in fictions，所以是 (C)。最容易選錯的是 (D)，這個選項照抄 trust：原文說的是容易催眠的人比較信任別人（more trusting of others），trusting 是「信任別人」，選項的 trustworthy 是「值得別人信任」，兩個字意思不同。(B) 照抄第 2 段的 sleep，把催眠當成睡著，正是 Spiegel 說的誤解；(A) 容易催眠的人比較信任別人，看不出他們和社會隔絕。",
+  "map": [
+   [
+    "caught up in a good movie",
+    "characters in fictions"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "trust",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "sleep",
+    "p": 2
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz108_44",
@@ -1205,7 +2621,37 @@
   "answer": "D",
   "accuracyRate": 60,
   "discrimination": 65,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "目的",
+  "note": "第 1、2 段比較英語和 Maniq 語、Jahai 語描述氣味的詞彙；第 3 段說英語的困難和鼻子的能力無關，研究人員認為是環境的關係；第 4 段說明兩種生活環境的差異，最後說這個差異或許能解釋這個語言現象。全文要指出的是語言使用和環境之間的關係，所以是 (D)。(C) 照抄第 2 段的 terms，介紹各種語言有多少氣味詞彙，只是第 2 段的內容，全文還要解釋原因，過於狹隘；(A) 照抄第 4 段的 ethnic groups，原文沒有評價哪一種語言比較好，偏離主題；(B) 原文說英語使用者不必靠氣味生存，沒有說文明讓語言發展變慢，偏離主題。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "ethnic groups",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "terms",
+    "p": 2
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   }
+  }
  },
  {
   "id": "Rz108_45",
@@ -1224,7 +2670,16 @@
   "answer": "A",
   "accuracyRate": 52,
   "discrimination": 64,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "For want of dedicated odor terminology, English speakers are often forced to use odor-sources"
+   }
+  ],
+  "qtype": "字義",
+  "note": "for want of 是固定片語，意思是「因為缺少」，want 在這裡當名詞用。從上下文也推得出來：第 1 段第一句說英語沒有直截了當談論氣味的方法，後面說英語使用者只好（are forced to）借用氣味的來源和比喻。只好借用別的說法，是因為缺少專門的氣味詞彙，所以 want 最接近 (A) Lack。(C) Loss 是「失去」，表示原本有、後來沒了，原文沒有說英語曾經有這些詞彙；(B) 成長、(D) 尋找，都接不上後面的「只好借用」。",
+  "cat": "詞義題"
  },
  {
   "id": "Rz108_46",
@@ -1243,7 +2698,39 @@
   "answer": "D",
   "accuracyRate": 59,
   "discrimination": 63,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "Maniq and Jahai speakers live in tropical rainforest regions with a hunting-gathering lifestyle"
+   },
+   {
+    "p": 4,
+    "t": "In an environment that is still largely untouched by humans"
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 4 段說 Maniq 人住在熱帶雨林，過著狩獵採集的生活，而且環境大部分仍未經人類開發（still largely untouched by humans）。以打獵、採集維生，住在沒有開發的大自然裡，和人類早期的生活環境相似，所以是 (D)。(B) 照抄 smell，原文說兩個族群都靠嗅覺生存，沒有比較誰的嗅覺比較好；(C) 照抄 food，腐壞的食物是他們要用嗅覺察覺的危險，第 2 段也說這些氣味詞只用來表達氣味，不能用在其他感官上，不會拿來描述食物的外觀和味道；(A) 兩個族群是鄰居，第 4 段說兩者都住在熱帶雨林，氣候帶相同。",
+  "map": [
+   [
+    "still largely untouched by humans",
+    "similar to that in earlier human history"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "smell",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "food",
+    "p": 4
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz108_47",
@@ -1262,7 +2749,29 @@
   "answer": "B",
   "accuracyRate": 61,
   "discrimination": 61,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "do not rely on smells to survive in their environment."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段說很多說英語的人住在後工業化的西方，不必靠氣味（do not rely on smells）就能在環境中生存，這個差異或許能解釋英語缺少氣味詞彙的現象。選項換成 The sense of smell is not critical for their survival，所以是 (B)。(D) 照抄第 3 段的 surroundings，研究人員說的是環境扮演重要的角色，原因在於要不要靠氣味生存，不是環境裡的氣味來源少；(A) 第 3 段說說英語的人能分辨超過一兆種氣味，所以不是分辨不出來；(C) 原文沒有說談論氣味不文明。",
+  "map": [
+   [
+    "do not rely on smells to survive",
+    "not critical for their survival"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "surroundings",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz108_48",
@@ -1290,7 +2799,21 @@
     185
    ],
    "source": "大學入學考試中心 108 學年度指定科目考試英文考科"
-  }
+  },
+  "ev": [
+   {
+    "p": 2,
+    "t": "The coat is a chocolate to reddish brown, much in contrast with the white horizontal stripes and rings on the legs and white ankles."
+   },
+   {
+    "p": 3,
+    "t": "the fleeting view of the striped backside"
+   }
+  ],
+  "qtype": "圖表",
+  "note": "第 2 段說霍加狓身上的毛是巧克力色到紅棕色，白色的橫紋和環紋長在腿上，腳踝是白色的；第 3 段也說探險家瞥見的是牠帶條紋的臀部。條紋在腿和臀部、身體是深色的毛、腳踝是白色，四張圖裡只有 (B) 符合。(A)、(C) 的條紋畫在身體前半部的軀幹上，不在腿上；(D) 雖然後腿有條紋，身體中段卻是淺色，不是巧克力色到紅棕色，頭上還長著像鹿一樣分岔的大角，原文說霍加狓只是外觀像鹿，沒有說牠有這種角，(A) 也一樣。",
+  "cat": "細節題",
+  "sub": "圖片題"
  },
  {
   "id": "Rz108_49",
@@ -1309,7 +2832,38 @@
   "answer": "A",
   "accuracyRate": 62,
   "discrimination": 66,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Yet its image is prevalent in the Democratic Republic of Congo"
+   },
+   {
+    "p": 1,
+    "t": "The okapi is to Congo what the giant panda is to China or the kangaroo to Australia."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 1 段說在剛果，霍加狓的形象隨處可見（its image is prevalent），又說霍加狓之於剛果，就像大貓熊之於中國、袋鼠之於澳洲。大貓熊、袋鼠都是代表一個國家的動物，所以霍加狓是剛果重要的象徵，是 (A)。(B) 照抄 Greek legend，原文用 as if 說「好像」希臘神話裡的生物，是比喻，霍加狓是真實存在的動物；(C) 照抄第 4 段的 1987，那一年設立了保護區，但後來政治動盪，霍加狓的數量減少了一半，不能說一直受到很好的保護；(D) 照抄第 2 段的 zebra，原文說霍加狓的條紋像斑馬，親緣關係卻和長頸鹿最近，選項說反了。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "Greek legend",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "1987",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "zebra",
+    "p": 2
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz108_50",
@@ -1328,7 +2882,20 @@
   "answer": "C",
   "accuracyRate": 52,
   "discrimination": 42,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "The West got its first whiff of the okapi in 1890 when Welsh journalist Henry Morton Stanley had puzzled over a strange"
+   },
+   {
+    "p": 3,
+    "t": "Explorers may have seen the fleeting view of the striped backside"
+   }
+  ],
+  "qtype": "字義",
+  "note": "whiff 原本是「一陣氣味」，引申為一點點跡象或風聲。從上下文也推得出來：第 3 段說 1890 年 Stanley 只是在書裡提到一種讓他百思不解的「非洲驢」，連那是什麼動物都不知道；探險家可能也只瞥見一閃而過的條紋臀部。西方第一次得到的，只是一點點線索，所以 whiff 最接近 (C) Slight trace。(A) 堅定的信念，和 Stanley 的百思不解正好相反；(B) 善意、(D) 強烈的厭惡，都和認識霍加狓這件事接不上。",
+  "cat": "詞義題"
  },
  {
   "id": "Rz108_51",
@@ -1347,7 +2914,33 @@
   "answer": "C",
   "accuracyRate": 65,
   "discrimination": 58,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Henry Morton Stanley had puzzled over a strange"
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 3 段說 Stanley 在書裡提到一種讓他百思不解（had puzzled over）的奇怪「非洲驢」。他對這種動物感到困惑，可見他並不知道那就是霍加狓，所以是 (C)。(A) 照抄 skeleton，分析骨骸的是後來的博物學家；(D) 照抄 backside，瞥見條紋臀部的是探險家，而且原文用 may have seen，只是推測；(B) 照抄 new species，有人以為霍加狓是新的斑馬，原文沒有說 Stanley 在非洲發現了很多新物種。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "skeleton",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "backside",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "new species",
+    "p": 3
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rzref107_36",
@@ -1366,7 +2959,37 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "標題",
+  "note": "第 1 段用英國樂團 SVM 的例子，帶出 MMC 用群眾募資替藝人籌錢；第 2 段說明運作方式；第 3 段說 MMC 和一般群眾募資有什麼不同；第 4 段說唱片公司不敢冒險，群眾募資能分散風險，讓更多唱片製作出來。全文講的是音樂產業的群眾募資，所以是 (D)。最容易選錯的是 (B)，這個選項照抄第 4 段的 music companies：原文說募來的錢用來替旗下的藝人（its acts）錄音，籌錢的對象是藝人，不是唱片公司，第 4 段還說唱片公司變得不敢冒險，偏離主題。(A) 照抄第 1 段的 Web-based，網路是募資的管道，全文談的是籌錢，不是用網路製作音樂，偏離主題；(C) 投資人拿到高額回報，只是第 2 段的一個例子，過於狹隘。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "music companies",
+    "p": 4
+   },
+   {
+    "o": "A",
+    "t": "Web-based",
+    "p": 1
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   }
+  }
  },
  {
   "id": "Rzref107_37",
@@ -1385,7 +3008,39 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Once an act reaches £100,000, the financing process is completed, and the money is used to pay for recording"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說一組藝人募到 10 萬英鎊（£100,000），籌資程序就完成了，這筆錢用來支付錄音的費用，第 1 段 SVM 的例子也是 10 萬英鎊，所以是 (D)。(A) 照抄 £10、(B) 照抄 £1,000，10 到 1,000 英鎊是每位用戶可以投資的金額；(C) 照抄 £4,250，那是一位法國歌迷投資的金額。",
+  "map": [
+   [
+    "£100,000",
+    "£100,000"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "£10",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "£1,000",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "£4,250",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rzref107_38",
@@ -1404,7 +3059,34 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "users are invited to invest from £10 to £1,000 in the ones they most enjoy"
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 2 段說 MMC 邀請用戶投資（invest）他們最喜歡的藝人（the ones they most enjoy），選項換成 provide financial support to the musicians they like，所以是 (C)。(A) 照抄第 4 段的 Top 200，只有 14 組自己動手做的藝人擠進前 200 名，那是 2009 年美國的整體情況，原文沒有說和 MMC 有關；(B) MMC 網站上放的是 10 組藝人，14 是擠進前 200 名的組數；(D) 收益分配是投資人和 MMC 各 40%，藝人只拿 20%，藝人拿得最少。",
+  "map": [
+   [
+    "invest",
+    "financial support"
+   ],
+   [
+    "the ones they most enjoy",
+    "the musicians they like"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Top 200",
+    "p": 4
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rzref107_39",
@@ -1423,7 +3105,28 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "Out of the 20,000 records released in the U.S. in 2009, only 14 DIY acts made it to the Top 200."
+   }
+  ],
+  "qtype": "字義",
+  "note": "a long shot 是「希望渺茫的事」。這一句用 While 對比：雖然數位科技讓音樂人掀起自己動手做的風潮，要成功仍然……；下一句接著說，2009 年美國發行的兩萬張唱片中，只有 14 組自己動手做的藝人擠進前 200 名。成功的比例這麼低，可見成功並不容易，所以是 (B)。(C) 照抄 shot、(D) 照抄 long，都是把片語拆開來照字面解釋；(A) 成功的效果持久，和下一句的數字接不上。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "shot",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "long",
+    "p": 4
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rzref107_40",
@@ -1442,7 +3145,43 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "whose beautiful creations had caught Maria"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說沙皇向年輕的珠寶師 Peter Carl Fabergé 訂製，因為他美麗的作品（beautiful creations）先前就吸引了（had caught）瑪麗亞的目光，選項換成 Empress Maria was impressed by Peter Fabergé’s work，所以是 (B)。(A) 照抄第 3 段的 goldsmith，法貝熱是在第一顆彩蛋讓皇后滿意以後，才獲得皇室特約金匠的頭銜；(C) 照抄 order，下訂單的是沙皇，選項說沙皇接到皇后的訂單，說反了；(D) 照抄第 1 段的 famous Russian，法貝熱公司是後來才成為著名的珠寶商，沙皇訂製時，第 2 段說他還是年輕的珠寶師。",
+  "map": [
+   [
+    "beautiful creations",
+    "work"
+   ],
+   [
+    "caught",
+    "impressed"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "goldsmith",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "order",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "famous Russian",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rzref107_41",
@@ -1461,7 +3200,47 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "concealed within the hen was a diamond miniature of the royal crown and a tiny ruby egg."
+   },
+   {
+    "p": 2,
+    "t": "Unfortunately, the last two surprises are now lost to history."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段依序說蛋打開來是金蛋黃，蛋黃裡有金母雞，母雞裡藏著鑽石小皇冠（a diamond miniature of the royal crown）和紅寶石小蛋（a tiny ruby egg），接著說最後兩樣驚喜（the last two surprises）已經失傳。最後兩樣就是鑽石皇冠和紅寶石蛋，所以是 (C)。(A) 照抄 golden hen、(B) 和 (D) 照抄 golden yolk，金母雞和金蛋黃是前面兩樣，沒有失傳。",
+  "map": [
+   [
+    "ruby egg",
+    "ruby egg"
+   ],
+   [
+    "diamond miniature of the royal crown",
+    "diamond crown"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "golden hen",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "golden yolk",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "golden yolk",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rzref107_42",
@@ -1480,7 +3259,32 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "The requirements were straightforward: Each egg must be unique, and each must contain a pleasant surprise."
+   },
+   {
+    "p": 3,
+    "t": "Peter Fabergé and his successors repeatedly met the challenge."
+   }
+  ],
+  "qtype": "字義",
+  "note": "這裡的 meet 不是「遇到」，而是「達成、符合」，meet the challenge 是成功應付挑戰。the challenge 指的是前一句沙皇的要求（The requirements）：每一顆彩蛋都必須獨一無二，而且要藏著驚喜；repeatedly 是每年一次又一次。合起來就是法貝熱和繼承人每一次都做到了沙皇的要求，所以是 (B)。(D) 把 meet 當成「遇到」，又把 challenge 當成困難，照字面解釋；(C) 照抄 challenge，挑戰是沙皇給法貝熱的，選項說法貝熱挑戰沙皇，主客顛倒；(A) 照抄 repeated，原文要求每顆彩蛋都獨一無二，不可能重複同樣的設計。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "repeated",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "challenge",
+    "p": 3
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rzref107_43",
@@ -1499,7 +3303,33 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "for Tsar Alexander III and his son Nicholas II until 1917, when the Russian revolution broke out."
+   },
+   {
+    "p": 4,
+    "t": "they serve as reminders of the last Russian imperial family."
+   }
+  ],
+  "qtype": "是非",
+  "note": "這一題要把兩段合起來看。第 3 段說法貝熱公司替沙皇亞歷山大三世和他的兒子尼古拉二世做彩蛋，一直到 1917 年俄國革命爆發為止；第 4 段說這些彩蛋讓人想起俄國最後的皇室。革命以後俄國就沒有沙皇了，所以這兩位是俄國最後兩位皇帝，彩蛋又是送給皇后等家人的禮物，所以是 (D)。(A) 照抄 Peter Fabergé，第 3 段說彩蛋是他和他的繼承人（his successors）做的，不全是他本人的作品；(C) 照抄 Easter，彩蛋是復活節送給皇后的禮物，原文沒有說是為宮廷的復活節派對做的；(B) 讓人想起俄國最後的皇室，是彩蛋今天的意義，彩蛋當初是沙皇送皇后的禮物，不是為了代表皇帝和王朝而做。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "Peter Fabergé",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "Easter",
+    "p": 3
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rzref107_44",
@@ -1518,7 +3348,32 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段說圓網是最美、結構最有秩序的蜘蛛網，並說明網的功能；第 2 段介紹圓網的兩大特點：幾何結構和建造的材料。全文講的是圓網怎麼構成，所以是 (B)。(D) 照抄第 1 段的 environmental，網要承受風雨，只是第 1 段說明網絲需要多強韌，過於狹隘；(A) 蜘蛛網的功能是捕捉獵物，但全文沒有談自然界的食物網，偏離主題；(C) 第 2 段的幾何結構是在描述網的形狀，不是談幾何學的研究，偏離主題。",
+  "trap": [
+   {
+    "o": "D",
+    "t": "environmental",
+    "p": 1
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   }
+  }
  },
  {
   "id": "Rzref107_45",
@@ -1537,7 +3392,35 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The main function of the web is to intercept and hold flying prey"
+   }
+  ],
+  "qtype": "指涉",
+  "note": "In order to do so 的 do so 指的是前一句說的事：蜘蛛網的主要功能是攔住並困住（intercept and hold）蒼蠅、蜜蜂等飛行的獵物，讓蜘蛛有時間抓住。選項把飛行的獵物換成 small creatures，所以是 (A)。(D) 照抄 architecture，動物建築是第 1 段第一句的開場；(B) 照抄第 2 段的 material，網的材料是後面才談的特點；(C) 原文沒有提到觀察蜘蛛的行為。",
+  "map": [
+   [
+    "intercept and hold flying prey",
+    "catch and keep small creatures"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "architecture",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "material",
+    "p": 2
+   }
+  ],
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rzref107_46",
@@ -1556,7 +3439,39 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The whole web is in tension and held in place by anchor threads, which connect the frame to the surrounding vegetation or objects."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說整張網靠固定絲（anchor threads）固定在原位，固定絲把外框繫在周圍的植物或物體上；後面也說比較強韌的那種絲用在固定絲上。讓整張網維持在原位的是固定絲，所以是 (C)。(D) 照抄 capture spiral，捕獵螺旋是用來捕捉並困住獵物的；(B) 照抄 glue，黏液塗在捕獵螺旋的絲上，作用也是黏住獵物；(A) 照抄 center，網的中心是放射絲的起點，原文沒有說網靠中心固定。",
+  "map": [
+   [
+    "anchor threads",
+    "anchor threads"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "capture spiral",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "glue",
+    "p": 2
+   },
+   {
+    "o": "A",
+    "t": "center",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rzref107_47",
@@ -1575,7 +3490,27 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "the threads of the web have to withstand the impact forces from large and heavy prey as well as environmental forces from wind and rain for at least a day in most cases."
+   }
+  ],
+  "qtype": "是非",
+  "note": "題目問的是網絲（silk threads），答案在第 1 段：網絲必須承受獵物撞擊和風雨的力量，大多數情況下（in most cases）至少要維持一天（for at least a day）。選項把 in most cases 換成 usually，把承受得住、維持一天換成 strong enough to last for a day，所以是 (B)。(A) 的 all 是陷阱：第 2 段說蜘蛛網用了兩種絲，只有捕獵螺旋那一種有彈性、塗了黏液，另一種比較硬，不是全部的絲都會黏、都能拉長；(D) 第 2 段的植物（vegetation）是固定絲繫住的地方，蜘蛛絲是天然的複合材料，原文沒有說是用稀有植物做的；(C) 原文沒有提到去除昆蟲身上的化學物質。",
+  "map": [
+   [
+    "in most cases",
+    "usually"
+   ],
+   [
+    "for at least a day",
+    "last for a day"
+   ]
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rzref107_48",
@@ -1594,7 +3529,45 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "先看全文怎麼安排：第 1 段說瘧疾每年造成大約一百萬人死亡，還沒有有效的疫苗；第 2 段說科學家改造蚊子體內的細菌，讓蚊子無法傳播瘧疾；第 3、4 段說還有兩個挑戰，包括基因改造生物的長期影響還不清楚。主旨要同時說出這個方法有希望，也還有隱憂，所以是 (D)。最容易選錯的是 (A)，這個選項照抄第 1 段的 effective：原文只談瘧疾，不是全世界所有由蚊蟲傳播的疾病，而且第 3、4 段說還有很多挑戰，說已經找到有效的方法，說得太絕對，太過廣泛。(B) 照抄 environment、(C) 照抄 public，環保人士的疑慮和爭取大眾認同，都只是第 4 段的內容，過於狹隘。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "effective",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "environment",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "public",
+    "p": 4
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "太過廣泛"
+   },
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     4
+    ]
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     4
+    ]
+   }
+  }
  },
  {
   "id": "Rzref107_49",
@@ -1613,7 +3586,11 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "組織方式",
+  "note": "第 1 段說瘧疾每年造成大約一百萬人死亡，又沒有有效的疫苗，這是問題（Problem）；第 2 段說科學家改造蚊子體內的細菌，殺死瘧疾寄生蟲，這是解決方法（Solution）；第 3 段用 Despite this achievement 帶出第一個挑戰，第 4 段用 Another challenge 帶出第二個挑戰，這是可能遇到的困難（Potential difficulties）。所以是 (B)。(A) 全文沒有比較和對照；(C) 原文沒有正反兩方的辯論，第 4 段環保人士的疑慮是挑戰之一；(D) 第 1 段不是在下定義，最後也沒有暫時的結論。",
+  "cat": "文章段落組織"
  },
  {
   "id": "Rzref107_50",
@@ -1632,7 +3609,40 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The malaria parasite is carried by the female Anopheles mosquito."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 1 段說瘧疾寄生蟲由雌性（female）瘧蚊（Anopheles mosquito）攜帶。female 是一種性別（one gender），Anopheles 是蚊子裡的一類（a class of mosquitoes），所以只有一種性別的某一類蚊子身上有瘧疾寄生蟲，是 (C)。(B) 照抄 liver，寄生蟲先到肝臟，接著進入血液，在血液裡繁殖；(D) 照抄 one million，每年大約一百萬人死於瘧疾，其中很多是兒童，不是每年傳給一百萬名兒童；(A) 照抄第 3 段的 resistant，原文說下一代寄生蟲可能會對改造的機制產生抗性，這是還沒發生的情況，沒有疫苗也不表示寄生蟲對疫苗有抗性。",
+  "map": [
+   [
+    "female",
+    "one gender"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "liver",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "one million",
+    "p": 1
+   },
+   {
+    "o": "A",
+    "t": "resistant",
+    "p": 3
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rzref107_51",
@@ -1651,7 +3661,35 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "If some of the parasites slip through the mechanism, then the next generation will likely become resistant to it."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "that 指前一句說的情況：要是有寄生蟲從這個機制漏網，下一代寄生蟲很可能對它產生抗性（become resistant to it）。句中的 it 指 the mechanism，也就是第 2 段說的方法，改造蚊子體內的細菌來殺死寄生蟲。選項把 resistant 換成 immune，把這個機制換成 the engineered bacterium，所以是 (B)。(C) 照抄 competitive，讓改造蚊子更有競爭力是科學家要達成的目標，如果做到了，不會「從頭來過」；(A) 照抄第 4 段的 ecosystems，生態系是環保人士擔心的事情，而且原文說的是寄生蟲從機制中漏網，不是從生態系逃走；(D) 阻斷瘧疾從蚊子傳給人，是第 2 段的成果，也不會讓科學家從頭來過。",
+  "map": [
+   [
+    "resistant",
+    "immune"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "competitive",
+    "p": 3
+   },
+   {
+    "o": "A",
+    "t": "ecosystems",
+    "p": 4
+   }
+  ],
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rz107_36",
@@ -1670,7 +3708,37 @@
   "answer": "D",
   "accuracyRate": 74,
   "discrimination": 56,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "to find a muscle-powered replacement for the horses"
+   },
+   {
+    "p": 2,
+    "t": "The machine, he believed, would allow large numbers of people faster movement than walking or riding in a coach."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說德萊斯的構想是讓一般大眾受益（big democratic idea）：找一種靠人力的交通工具取代昂貴的馬，讓許多人（large numbers of people）移動得比走路或坐馬車更快。選項換成 give the general public a better means of transportation，所以是 (D)。(B) 照抄 horses，原文說要取代馬，是因為馬很貴、很會吃，不是為了保護馬不受虐待；(A) 第 1 段說他是很有創意的發明家，但那是作者的介紹，不是他發明滑行車的理由；(C) 原文說的是讓大眾受益，不是替貴族做新玩意兒。",
+  "map": [
+   [
+    "large numbers of people",
+    "the general public"
+   ],
+   [
+    "faster movement",
+    "better means of transportation"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "horses",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz107_37",
@@ -1689,7 +3757,20 @@
   "answer": "D",
   "accuracyRate": 52,
   "discrimination": 64,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Though not a bike in the modern sense of the word"
+   },
+   {
+    "p": 2,
+    "t": "It was the first vehicle with two wheels placed in line."
+   }
+  ],
+  "qtype": "字義",
+  "note": "big bang 原本指宇宙的大霹靂，也就是宇宙的起點；mark 是「標誌著」。這一句用 Though 讓步：雖然滑行車不是現代意義上的自行車，卻標誌著自行車發展的 big bang。下一句接著說，滑行車是第一輛兩個輪子前後排成一直線的車。這是開創性的成就，所以是 (D)。(A) 把 bang 照字面當成巨響；(B) 第 4 段滑行車常撞上行人，那是後來的事，不是這一句的意思；(C) 滑行車在巴黎流行是第 3 段的事，big bang 說的是開創，不是受歡迎。",
+  "cat": "詞義題"
  },
  {
   "id": "Rz107_38",
@@ -1708,7 +3789,40 @@
   "answer": "D",
   "accuracyRate": 73,
   "discrimination": 56,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "the steering already resembled a modern handlebar."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 2 段說滑行車的轉向裝置已經很像（resembled）現代的把手，選項換成 was similar to the handlebar of a modern bike，所以是 (D)。(A) 照抄第 4 段的 cranks and pedals、(C) 照抄 brake，第 4 段說滑行車沒有煞車，也沒有曲柄和踏板（lacked），選項說反了；(B) 照抄 frame，第 2 段說車架和輪子都是木頭做的，不是鐵。",
+  "map": [
+   [
+    "resembled",
+    "similar to"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "cranks and pedals",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "brake",
+    "p": 4
+   },
+   {
+    "o": "B",
+    "t": "frame",
+    "p": 2
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz107_39",
@@ -1727,7 +3841,38 @@
   "answer": "C",
   "accuracyRate": 80,
   "discrimination": 48,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "They were heavy and difficult to ride."
+   },
+   {
+    "p": 4,
+    "t": "There were frequent collisions with unsuspecting pedestrians"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段說滑行車很重，也很難騎（difficult to ride），而且沒有煞車，常常撞上行人，安全是問題，所以許多城市禁止使用。選項換成 hard to control and dangerous to ride on the road，所以是 (C)。(A) 照抄第 2 段的 expensive，昂貴的是馬，滑行車是要取代馬的交通工具；(D) 照抄 European，歐洲城市禁止使用，是因為太危險，不是沒人注意，第 3 段還說滑行車在巴黎很快流行起來；(B) 第 3 段說德萊斯四個小時騎了 60 公里，轟動一時，原文沒有說速度不如預期。",
+  "map": [
+   [
+    "difficult to ride",
+    "hard to control"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "expensive",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "European",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz107_40",
@@ -1746,7 +3891,42 @@
   "answer": "B",
   "accuracyRate": 44,
   "discrimination": 57,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段說燈光每秒閃爍幾百萬次，就能用來傳輸資料，這就是 Li-Fi；第 2 段說 Li-Fi 比 Wi-Fi 安全、快速；第 3 段說 Li-Fi 在日常生活中的應用；第 4 段展望未來。Li-Fi 就是用照明的燈光（illumination）來無線傳輸資料，所以是 (B)。最容易選錯的是 (A)，這個選項照抄第 3 段的 lighting：原文用的是已經越來越普遍的 LED 燈，重點是用燈光傳資料，不是新的照明設計，偏離主題。(C) 照抄第 1 段的 public areas，不干擾無線電訊號只是第 2 段說的優勢之一，過於狹隘；(D) 照抄第 3 段的 applications，原文舉的應用是路燈、紅綠燈、觀光和家庭，沒有提到軍事用途，偏離主題。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "lighting",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "public areas",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "applications",
+    "p": 3
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rz107_41",
@@ -1765,7 +3945,40 @@
   "answer": "B",
   "accuracyRate": 65,
   "discrimination": 63,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "then it might be harnessed to do something useful, like transmitting data."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "This is the idea behind Li-Fi 的 This，指的是前一句說的構想：如果燈一秒鐘閃爍幾百萬次，就能用來做有用的事，例如傳輸資料（transmitting data）。選項換成 Light flashes can deliver messages，所以是 (B)。(A) 照抄 Flickering，閃爍的燈讓人頭痛是第一句，接著用 But 轉到 Li-Fi 的構想；(C) 照抄 brain、(D) 照抄 eye，原文說閃爍的速度快過眼睛看得到、大腦處理得了的範圍，正好是說眼睛和大腦察覺不到。",
+  "map": [
+   [
+    "transmitting data",
+    "deliver messages"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Flickering",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "brain",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "eye",
+    "p": 1
+   }
+  ],
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rz107_42",
@@ -1784,7 +3997,16 @@
   "answer": "A",
   "accuracyRate": 70,
   "discrimination": 60,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "light cannot penetrate walls or doors"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說光線穿不透牆壁或門（light cannot penetrate walls or doors），Li-Fi 才比較安全，所以說 Li-Fi 能穿過水泥牆，和原文不符，選 (A)。其他三個選項都和原文相符：第 1 段說 Li-Fi 這個名詞是 2011 年在 TED 演講中提出的，是 (B)；第 2 段說 Li-Fi 最大的優勢是速度，是 (C)；第 3 段說家長只要關燈，孩子就上不了網，是 (D)。",
+  "cat": "細節題"
  },
  {
   "id": "Rz107_43",
@@ -1803,7 +4025,34 @@
   "answer": "D",
   "accuracyRate": 59,
   "discrimination": 62,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Li-Fi can operate in electromagnetic sensitive areas such as aircraft cabins, hospitals, and nuclear power plants, for light does not interfere with radio signals."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說 Li-Fi 可以在機艙、醫院、核電廠等對電磁敏感的地方運作，因為光線不會干擾無線電訊號（does not interfere with radio signals）；Wi-Fi 用的是無線電波，就可能造成干擾。選項說 Li-Fi 可以用在 Wi-Fi 可能干擾雷達訊號的地方，所以是 (D)。(A) 照抄 radio，原文說 Li-Fi 用的是 LED 燈的光，無線電波是 Wi-Fi 用的；(C) 照抄第 3 段的 safer，那是說路燈讓人夜間走路更安全，而且 Li-Fi 要靠燈光，停電時燈不亮，就無法傳輸；(B) 第 3 段說路燈讓手機上網、夜間走路更安全，沒有說 Li-Fi 能替行人引路。",
+  "map": [
+   [
+    "interfere with radio signals",
+    "interfere with radar signals"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "radio",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "safer",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz107_44",
@@ -1822,7 +4071,42 @@
   "answer": "A",
   "accuracyRate": 41,
   "discrimination": 36,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "標題",
+  "note": "第 1 段第一句就點出主旨：世界上一些最大型的甲蟲正在變小，因為棲地變暖；第 2 段從實驗室研究的文獻、第 3 段從野外採集的標本找證據；第 4 段介紹其他學者的看法。標題要說出大型甲蟲因為氣候變遷而縮小，所以是 (A)，標題的 Thanks to 是「由於」。要注意的是「大型」：第 3 段說比較小的甲蟲沒有受到影響。(D) 照抄第 1 段的 Animal Ecology，那是刊登研究的期刊名稱，動物生態學的過去和現在，範圍太大，太過廣泛；(C) 照抄第 2 段的 Evolutionary，演化生態學是 Tseng 的專業領域，談這門學問也太過廣泛；(B) 照抄第 4 段的 fish，魚類縮小只是 Baudron 的研究，第 4 段拿來對照，過於狹隘。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "fish",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "Evolutionary",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "Animal Ecology",
+    "p": 1
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     4
+    ]
+   },
+   "C": {
+    "k": "太過廣泛"
+   },
+   "D": {
+    "k": "太過廣泛"
+   }
+  }
  },
  {
   "id": "Rz107_45",
@@ -1841,7 +4125,20 @@
   "answer": "C",
   "accuracyRate": 37,
   "discrimination": 36,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The study began with a deep dive into the scientific literature."
+   },
+   {
+    "p": 2,
+    "t": "combed through all the articles they could find"
+   }
+  ],
+  "qtype": "字義",
+  "note": "dive 是潛水，deep dive 是潛到深處，比喻深入研究。從下一句也推得出來：Tseng 和學生把找得到的論文全部（all the articles they could find）仔細看過一遍，comb through 原本是用梳子梳過，比喻仔細翻查。全部論文都仔細翻查，就是徹底的檢視，所以是 (C)。(B) 重要的發現是查閱之後才找到的 19 篇研究，a deep dive 說的是查閱的過程；(A) 明確的跡象、(D) 有見地的評論，都和下一句的仔細翻查接不上。",
+  "cat": "詞義題"
  },
  {
   "id": "Rz107_46",
@@ -1860,7 +4157,40 @@
   "answer": "C",
   "accuracyRate": 55,
   "discrimination": 42,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Sorting the beetles into size categories"
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 3 段說研究人員把甲蟲依體型分類（Sorting the beetles into size categories），選項換成 divided the beetles into different size groups，所以是 (C)。(A) 照抄第 2 段的 laboratory，團隊是查閱別人做的實驗室研究，自己沒有做實驗；(B) 照抄 600,000，60 萬件是學校收藏的昆蟲標本總數，研究人員拍了照片的是 6,500 多隻甲蟲；(D) 照抄 since the late 1800s，1800 年代末以來採集的是昆蟲標本，記錄水中氧氣濃度的是第 4 段 Baudron 對魚類的研究。",
+  "map": [
+   [
+    "Sorting the beetles into size categories",
+    "divided the beetles into different size groups"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "laboratory",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "600,000",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "since the late 1800s",
+    "p": 3
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz107_47",
@@ -1879,7 +4209,34 @@
   "answer": "B",
   "accuracyRate": 65,
   "discrimination": 66,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "In contrast, smaller beetles were unaffected or even slightly increased in size."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說相反地，比較小的甲蟲沒有受到影響（unaffected），甚至體型還稍微變大，選項換成 Some beetles were not affected by temperature change，所以是 (B)。(A) 照抄 eight species，原文說 8 種中有 5 種縮小，不是 8 種都縮小；(D) 照抄第 4 段的 fish，魚類縮小是 Baudron 的研究，原文沒有說甲蟲和魚會縮到一樣大；(C) 原文談的是體型，沒有提到壽命。",
+  "map": [
+   [
+    "unaffected",
+    "not affected"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "eight species",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "fish",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz107_48",
@@ -1898,7 +4255,42 @@
   "answer": "C",
   "accuracyRate": 61,
   "discrimination": 61,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段介紹斯瓦巴全球種子庫和它的目的；第 2 段用 however 一轉，說越來越多人認為世界對種子庫的信心放錯了地方；第 3 段說明爭議的焦點，以及種子庫做不到的事。全文談的是用種子庫保存作物多樣性這個做法有爭議，所以是 (C)。(A) 照抄第 1 段的 improve，幫助改良作物只是第 1 段說的設立目的，後面兩段正是在質疑這一點，過於狹隘；(D) 照抄 climate change，第 3 段反而說這種做法可能沒辦法幫助農民因應氣候變遷，偏離主題；(B) 照抄 global，Global 是種子庫名稱的一部分，原文沒有談全球合作，偏離主題。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "improve",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "global",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "climate change",
+    "p": 1
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rz107_49",
@@ -1917,7 +4309,40 @@
   "answer": "A",
   "accuracyRate": 46,
   "discrimination": 71,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Now the isolated Svalbard seed vault is sucking up available funding."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 3 段先說經費非常難找，很難兩邊都做，接著說斯瓦巴種子庫正吸走（sucking up）可用的經費。suck up 是「吸光、吸走」，經費本來就少，種子庫又把錢都吸走，選項換成 is using up a lot of the funding，所以是 (A)。(D) 照抄 75 percent，75% 的作物多樣性是在大型機構的種子庫之外，掌握在農民手中，選項說反了；(B) 照抄第 1 段的 Norway，種子庫在挪威和北極點之間的島上，不在挪威中部；(C) 照抄 gene，種子庫是要幫人找到改良作物的基因，原文沒有提到對抗基因改造作物。",
+  "map": [
+   [
+    "sucking up available funding",
+    "using up a lot of the funding"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "Norway",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "75 percent",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "gene",
+    "p": 1
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz107_50",
@@ -1936,7 +4361,29 @@
   "answer": "B",
   "accuracyRate": 42,
   "discrimination": 35,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "seed banks can neither make up for the practical knowledge of farmers on the ground, nor compete with their ingenuity."
+   }
+  ],
+  "qtype": "細節",
+  "note": "最後一句用 neither…nor 句型，主詞是種子庫（seed banks）：種子庫既無法取代（make up for）第一線農民的實務知識（practical knowledge），也比不上（compete with）農民的巧思。可見在保存作物多樣性這件事上，農民提供的是種子庫取代不了的實務知識，所以是 (B)。(A) 原文的 compete with 是說種子庫比不上農民，主詞是種子庫，選項把主詞換成農民，說成農民和種子庫競爭；(D) 照抄第 1 段的 population growth，因應人口成長是種子庫希望培育新品種的目的之一；(C) 第 2 段說多樣性沒辦法裝箱保存，原文沒有說農民替研究包裝種子。",
+  "map": [
+   [
+    "practical knowledge",
+    "practical knowledge"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "population growth",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz107_51",
@@ -1955,7 +4402,39 @@
   "answer": "A",
   "accuracyRate": 27,
   "discrimination": 24,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "centers on whether we should work with communities in the fields or with institutions"
+   },
+   {
+    "p": 3,
+    "t": "Now the isolated Svalbard seed vault is sucking up available funding."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "第 3 段第一句先說爭議在兩種做法之間：和田間的社群合作，或和機構合作（with institutions）。接著說斯瓦巴種子庫正吸走經費，種子庫就是第 2 段說的，把全世界的種子集中存放在單一容器裡的機構。下一句說 the highly centralized approach（高度集中的做法）可能幫不了農民，指的就是這種把種子集中在機構保存的做法，也就是和機構合作，所以是 (A)。再下一句說 75% 的作物多樣性在大型機構的種子庫之外，對照的也是機構。(B) 和田間的農民合作，種子分散在各地，正好是不集中的做法；(C) 照抄 crop diversity，保存作物多樣性是兩種做法共同的目標，不是其中一種做法；(D) 照抄 funding 的 fund，經費難找是爭議的原因，不是做法。",
+  "map": [
+   [
+    "with institutions",
+    "Working with institutions"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "crop diversity",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "fund",
+    "p": 3
+   }
+  ],
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rz106_36",
@@ -2582,7 +5061,43 @@
   "answer": "B",
   "accuracyRate": 70,
   "discrimination": 66,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "whose beautiful creations had caught Maria"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說沙皇向年輕的珠寶師 Peter Carl Fabergé 訂製，因為他美麗的作品（beautiful creations）先前就吸引了（had caught）瑪麗亞的目光，選項換成 Empress Maria was impressed by Peter Fabergé’s work，所以是 (B)。(A) 照抄第 3 段的 goldsmith，法貝熱是在第一顆彩蛋讓皇后滿意以後，才獲得皇室特約金匠的頭銜；(C) 照抄 order，下訂單的是沙皇，選項說沙皇接到皇后的訂單，說反了；(D) 照抄第 1 段的 famous Russian，法貝熱公司是後來才成為著名的珠寶商，沙皇訂製時，第 2 段說他還是年輕的珠寶師。",
+  "map": [
+   [
+    "beautiful creations",
+    "work"
+   ],
+   [
+    "caught",
+    "impressed"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "goldsmith",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "order",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "famous Russian",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz104_37",
@@ -2601,7 +5116,47 @@
   "answer": "C",
   "accuracyRate": 66,
   "discrimination": 64,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "concealed within the hen was a diamond miniature of the royal crown and a tiny ruby egg."
+   },
+   {
+    "p": 2,
+    "t": "Unfortunately, the last two surprises are now lost to history."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段依序說蛋打開來是金蛋黃，蛋黃裡有金母雞，母雞裡藏著鑽石小皇冠（a diamond miniature of the royal crown）和紅寶石小蛋（a tiny ruby egg），接著說最後兩樣驚喜（the last two surprises）已經失傳。最後兩樣就是鑽石皇冠和紅寶石蛋，所以是 (C)。(A) 照抄 golden hen、(B) 和 (D) 照抄 golden yolk，金母雞和金蛋黃是前面兩樣，沒有失傳。",
+  "map": [
+   [
+    "ruby egg",
+    "ruby egg"
+   ],
+   [
+    "diamond miniature of the royal crown",
+    "diamond crown"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "golden hen",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "golden yolk",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "golden yolk",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz104_38",
@@ -2620,7 +5175,32 @@
   "answer": "B",
   "accuracyRate": 40,
   "discrimination": 49,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "The requirements were straightforward: Each egg must be unique, and each must contain a pleasant surprise."
+   },
+   {
+    "p": 3,
+    "t": "Peter Fabergé and his successors repeatedly met the challenge."
+   }
+  ],
+  "qtype": "字義",
+  "note": "這裡的 meet 不是「遇到」，而是「達成、符合」，meet the challenge 是成功應付挑戰。the challenge 指的是前一句沙皇的要求（The requirements）：每一顆彩蛋都必須獨一無二，而且要藏著驚喜；repeatedly 是每年一次又一次。合起來就是法貝熱和繼承人每一次都做到了沙皇的要求，所以是 (B)。(D) 把 meet 當成「遇到」，又把 challenge 當成困難，照字面解釋；(C) 照抄 challenge，挑戰是沙皇給法貝熱的，選項說法貝熱挑戰沙皇，主客顛倒；(A) 照抄 repeated，原文要求每顆彩蛋都獨一無二，不可能重複同樣的設計。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "repeated",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "challenge",
+    "p": 3
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rz104_39",
@@ -2639,7 +5219,33 @@
   "answer": "D",
   "accuracyRate": 47,
   "discrimination": 52,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "for Tsar Alexander III and his son Nicholas II until 1917, when the Russian revolution broke out."
+   },
+   {
+    "p": 4,
+    "t": "they serve as reminders of the last Russian imperial family."
+   }
+  ],
+  "qtype": "是非",
+  "note": "這一題要把兩段合起來看。第 3 段說法貝熱公司替沙皇亞歷山大三世和他的兒子尼古拉二世做彩蛋，一直到 1917 年俄國革命爆發為止；第 4 段說這些彩蛋讓人想起俄國最後的皇室。革命以後俄國就沒有沙皇了，所以這兩位是俄國最後兩位皇帝，彩蛋又是送給皇后等家人的禮物，所以是 (D)。(A) 照抄 Peter Fabergé，第 3 段說彩蛋是他和他的繼承人（his successors）做的，不全是他本人的作品；(C) 照抄 Easter，彩蛋是復活節送給皇后的禮物，原文沒有說是為宮廷的復活節派對做的；(B) 讓人想起俄國最後的皇室，是彩蛋今天的意義，彩蛋當初是沙皇送皇后的禮物，不是為了代表皇帝和王朝而做。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "Peter Fabergé",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "Easter",
+    "p": 3
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz104_40",
@@ -3114,7 +5720,45 @@
   "answer": "D",
   "accuracyRate": 41,
   "discrimination": 53,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "先看全文怎麼安排：第 1 段說瘧疾每年造成大約一百萬人死亡，還沒有有效的疫苗；第 2 段說科學家改造蚊子體內的細菌，讓蚊子無法傳播瘧疾；第 3、4 段說還有兩個挑戰，包括基因改造生物的長期影響還不清楚。主旨要同時說出這個方法有希望，也還有隱憂，所以是 (D)。最容易選錯的是 (A)，這個選項照抄第 1 段的 effective：原文只談瘧疾，不是全世界所有由蚊蟲傳播的疾病，而且第 3、4 段說還有很多挑戰，說已經找到有效的方法，說得太絕對，太過廣泛。(B) 照抄 environment、(C) 照抄 public，環保人士的疑慮和爭取大眾認同，都只是第 4 段的內容，過於狹隘。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "effective",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "environment",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "public",
+    "p": 4
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "太過廣泛"
+   },
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     4
+    ]
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     4
+    ]
+   }
+  }
  },
  {
   "id": "Rz103_49",
@@ -3133,7 +5777,11 @@
   "answer": "B",
   "accuracyRate": 69,
   "discrimination": 48,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "組織方式",
+  "note": "第 1 段說瘧疾每年造成大約一百萬人死亡，又沒有有效的疫苗，這是問題（Problem）；第 2 段說科學家改造蚊子體內的細菌，殺死瘧疾寄生蟲，這是解決方法（Solution）；第 3 段用 Despite this achievement 帶出第一個挑戰，第 4 段用 Another challenge 帶出第二個挑戰，這是可能遇到的困難（Potential difficulties）。所以是 (B)。(A) 全文沒有比較和對照；(C) 原文沒有正反兩方的辯論，第 4 段環保人士的疑慮是挑戰之一；(D) 第 1 段不是在下定義，最後也沒有暫時的結論。",
+  "cat": "文章段落組織"
  },
  {
   "id": "Rz103_50",
@@ -3152,7 +5800,40 @@
   "answer": "C",
   "accuracyRate": 48,
   "discrimination": 56,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The malaria parasite is carried by the female Anopheles mosquito."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 1 段說瘧疾寄生蟲由雌性（female）瘧蚊（Anopheles mosquito）攜帶。female 是一種性別（one gender），Anopheles 是蚊子裡的一類（a class of mosquitoes），所以只有一種性別的某一類蚊子身上有瘧疾寄生蟲，是 (C)。(B) 照抄 liver，寄生蟲先到肝臟，接著進入血液，在血液裡繁殖；(D) 照抄 one million，每年大約一百萬人死於瘧疾，其中很多是兒童，不是每年傳給一百萬名兒童；(A) 照抄第 3 段的 resistant，原文說下一代寄生蟲可能會對改造的機制產生抗性，這是還沒發生的情況，沒有疫苗也不表示寄生蟲對疫苗有抗性。",
+  "map": [
+   [
+    "female",
+    "one gender"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "liver",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "one million",
+    "p": 1
+   },
+   {
+    "o": "A",
+    "t": "resistant",
+    "p": 3
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz103_51",
@@ -3171,7 +5852,35 @@
   "answer": "B",
   "accuracyRate": 51,
   "discrimination": 56,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "If some of the parasites slip through the mechanism, then the next generation will likely become resistant to it."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "that 指前一句說的情況：要是有寄生蟲從這個機制漏網，下一代寄生蟲很可能對它產生抗性（become resistant to it）。句中的 it 指 the mechanism，也就是第 2 段說的方法，改造蚊子體內的細菌來殺死寄生蟲。選項把 resistant 換成 immune，把這個機制換成 the engineered bacterium，所以是 (B)。(C) 照抄 competitive，讓改造蚊子更有競爭力是科學家要達成的目標，如果做到了，不會「從頭來過」；(A) 照抄第 4 段的 ecosystems，生態系是環保人士擔心的事情，而且原文說的是寄生蟲從機制中漏網，不是從生態系逃走；(D) 阻斷瘧疾從蚊子傳給人，是第 2 段的成果，也不會讓科學家從頭來過。",
+  "map": [
+   [
+    "resistant",
+    "immune"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "competitive",
+    "p": 3
+   },
+   {
+    "o": "A",
+    "t": "ecosystems",
+    "p": 4
+   }
+  ],
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rzref99_36",
@@ -3494,7 +6203,37 @@
   "answer": "D",
   "accuracyRate": 49,
   "discrimination": 60,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "標題",
+  "note": "第 1 段用英國樂團 SVM 的例子，帶出 MMC 用群眾募資替藝人籌錢；第 2 段說明運作方式；第 3 段說 MMC 和一般群眾募資有什麼不同；第 4 段說唱片公司不敢冒險，群眾募資能分散風險，讓更多唱片製作出來。全文講的是音樂產業的群眾募資，所以是 (D)。最容易選錯的是 (B)，這個選項照抄第 4 段的 music companies：原文說募來的錢用來替旗下的藝人（its acts）錄音，籌錢的對象是藝人，不是唱片公司，第 4 段還說唱片公司變得不敢冒險，偏離主題。(A) 照抄第 1 段的 Web-based，網路是募資的管道，全文談的是籌錢，不是用網路製作音樂，偏離主題；(C) 投資人拿到高額回報，只是第 2 段的一個例子，過於狹隘。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "music companies",
+    "p": 4
+   },
+   {
+    "o": "A",
+    "t": "Web-based",
+    "p": 1
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   }
+  }
  },
  {
   "id": "Rz102_37",
@@ -3513,7 +6252,39 @@
   "answer": "D",
   "accuracyRate": 81,
   "discrimination": 45,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Once an act reaches £100,000, the financing process is completed, and the money is used to pay for recording"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說一組藝人募到 10 萬英鎊（£100,000），籌資程序就完成了，這筆錢用來支付錄音的費用，第 1 段 SVM 的例子也是 10 萬英鎊，所以是 (D)。(A) 照抄 £10、(B) 照抄 £1,000，10 到 1,000 英鎊是每位用戶可以投資的金額；(C) 照抄 £4,250，那是一位法國歌迷投資的金額。",
+  "map": [
+   [
+    "£100,000",
+    "£100,000"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "£10",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "£1,000",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "£4,250",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz102_38",
@@ -3532,7 +6303,34 @@
   "answer": "C",
   "accuracyRate": 75,
   "discrimination": 54,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "users are invited to invest from £10 to £1,000 in the ones they most enjoy"
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 2 段說 MMC 邀請用戶投資（invest）他們最喜歡的藝人（the ones they most enjoy），選項換成 provide financial support to the musicians they like，所以是 (C)。(A) 照抄第 4 段的 Top 200，只有 14 組自己動手做的藝人擠進前 200 名，那是 2009 年美國的整體情況，原文沒有說和 MMC 有關；(B) MMC 網站上放的是 10 組藝人，14 是擠進前 200 名的組數；(D) 收益分配是投資人和 MMC 各 40%，藝人只拿 20%，藝人拿得最少。",
+  "map": [
+   [
+    "invest",
+    "financial support"
+   ],
+   [
+    "the ones they most enjoy",
+    "the musicians they like"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Top 200",
+    "p": 4
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz102_39",
@@ -3551,7 +6349,28 @@
   "answer": "B",
   "accuracyRate": 71,
   "discrimination": 48,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "Out of the 20,000 records released in the U.S. in 2009, only 14 DIY acts made it to the Top 200."
+   }
+  ],
+  "qtype": "字義",
+  "note": "a long shot 是「希望渺茫的事」。這一句用 While 對比：雖然數位科技讓音樂人掀起自己動手做的風潮，要成功仍然……；下一句接著說，2009 年美國發行的兩萬張唱片中，只有 14 組自己動手做的藝人擠進前 200 名。成功的比例這麼低，可見成功並不容易，所以是 (B)。(C) 照抄 shot、(D) 照抄 long，都是把片語拆開來照字面解釋；(A) 成功的效果持久，和下一句的數字接不上。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "shot",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "long",
+    "p": 4
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rz102_40",
@@ -4263,7 +7082,32 @@
   "answer": "B",
   "accuracyRate": 74,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段說圓網是最美、結構最有秩序的蜘蛛網，並說明網的功能；第 2 段介紹圓網的兩大特點：幾何結構和建造的材料。全文講的是圓網怎麼構成，所以是 (B)。(D) 照抄第 1 段的 environmental，網要承受風雨，只是第 1 段說明網絲需要多強韌，過於狹隘；(A) 蜘蛛網的功能是捕捉獵物，但全文沒有談自然界的食物網，偏離主題；(C) 第 2 段的幾何結構是在描述網的形狀，不是談幾何學的研究，偏離主題。",
+  "trap": [
+   {
+    "o": "D",
+    "t": "environmental",
+    "p": 1
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   }
+  }
  },
  {
   "id": "Rz100_45",
@@ -4282,7 +7126,35 @@
   "answer": "A",
   "accuracyRate": 74,
   "discrimination": 58,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The main function of the web is to intercept and hold flying prey"
+   }
+  ],
+  "qtype": "指涉",
+  "note": "In order to do so 的 do so 指的是前一句說的事：蜘蛛網的主要功能是攔住並困住（intercept and hold）蒼蠅、蜜蜂等飛行的獵物，讓蜘蛛有時間抓住。選項把飛行的獵物換成 small creatures，所以是 (A)。(D) 照抄 architecture，動物建築是第 1 段第一句的開場；(B) 照抄第 2 段的 material，網的材料是後面才談的特點；(C) 原文沒有提到觀察蜘蛛的行為。",
+  "map": [
+   [
+    "intercept and hold flying prey",
+    "catch and keep small creatures"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "architecture",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "material",
+    "p": 2
+   }
+  ],
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rz100_46",
@@ -4301,7 +7173,39 @@
   "answer": "C",
   "accuracyRate": 66,
   "discrimination": 56,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The whole web is in tension and held in place by anchor threads, which connect the frame to the surrounding vegetation or objects."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說整張網靠固定絲（anchor threads）固定在原位，固定絲把外框繫在周圍的植物或物體上；後面也說比較強韌的那種絲用在固定絲上。讓整張網維持在原位的是固定絲，所以是 (C)。(D) 照抄 capture spiral，捕獵螺旋是用來捕捉並困住獵物的；(B) 照抄 glue，黏液塗在捕獵螺旋的絲上，作用也是黏住獵物；(A) 照抄 center，網的中心是放射絲的起點，原文沒有說網靠中心固定。",
+  "map": [
+   [
+    "anchor threads",
+    "anchor threads"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "capture spiral",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "glue",
+    "p": 2
+   },
+   {
+    "o": "A",
+    "t": "center",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz100_47",
@@ -4320,7 +7224,27 @@
   "answer": "B",
   "accuracyRate": 43,
   "discrimination": 33,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "the threads of the web have to withstand the impact forces from large and heavy prey as well as environmental forces from wind and rain for at least a day in most cases."
+   }
+  ],
+  "qtype": "是非",
+  "note": "題目問的是網絲（silk threads），答案在第 1 段：網絲必須承受獵物撞擊和風雨的力量，大多數情況下（in most cases）至少要維持一天（for at least a day）。選項把 in most cases 換成 usually，把承受得住、維持一天換成 strong enough to last for a day，所以是 (B)。(A) 的 all 是陷阱：第 2 段說蜘蛛網用了兩種絲，只有捕獵螺旋那一種有彈性、塗了黏液，另一種比較硬，不是全部的絲都會黏、都能拉長；(D) 第 2 段的植物（vegetation）是固定絲繫住的地方，蜘蛛絲是天然的複合材料，原文沒有說是用稀有植物做的；(C) 原文沒有提到去除昆蟲身上的化學物質。",
+  "map": [
+   [
+    "in most cases",
+    "usually"
+   ],
+   [
+    "for at least a day",
+    "last for a day"
+   ]
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz100_48",
