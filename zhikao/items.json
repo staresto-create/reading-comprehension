@@ -14101,7 +14101,43 @@
   "answer": "C",
   "accuracyRate": 50,
   "discrimination": 58,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The current tallest, at 101 floors, is the Taipei 101 in Taiwan"
+   },
+   {
+    "p": 1,
+    "t": "visitors will swoon over this city from 123 stories high, if not more."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 50%，要算一下樓層數。判斷步驟：[1] 第 1 段說目前最高的台北 101 有 101 層；[2] 杜拜塔完工後是 123 層，甚至更高（if not more）；[3] 123 減 101 是 22，再加上 if not more，杜拜塔至少比台北 101 高 22 層，所以是 (C)。(B) 照抄 180 feet，那是 CN Tower 比台北 101 高出的高度；(D) 照抄 160 feet，那是杜拜塔地基樁深入地下的深度，不是比台北 101 高出多少；(A) 照抄第 3 段的 43，那是大金字塔稱霸的世紀數，不是樓層數。",
+  "map": [
+   [
+    "if not more",
+    "At least"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "180 feet",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "160 feet",
+    "p": 1
+   },
+   {
+    "o": "A",
+    "t": "43",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz94_47",
@@ -14120,7 +14156,43 @@
   "answer": "D",
   "accuracyRate": 37,
   "discrimination": 45,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "While New York built skyscrapers because land was scarce, Dubai is doing it to get on the world map."
+   },
+   {
+    "p": 2,
+    "t": "It’s image, clearly"
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 37%，判斷步驟：[1] 第 2 段先拿紐約對照：紐約蓋摩天大樓是因為土地不足，杜拜蓋摩天大樓是為了登上世界地圖（get on the world map）；[2] 營造公司總裁也說，就是為了形象（image）；[3] 登上世界地圖、打響形象，就是讓杜拜聞名全世界，所以是 (D)。(A) 照抄 work on the top floor，總裁說怕高的人別想在頂樓上班，是一句玩笑話，不是蓋大樓的目的；(B) 照抄 construction，原文提到營造公司，是為了引用總裁的話，沒有說蓋大樓是為了讓營造公司維持生意；(C) 照抄第 3 段的 honor，第 3 段說的是替阿拉伯世界奪回擁有最高建築的榮耀，選項卻說成表揚阿拉伯世界的工業化，而且第 1 段說正在工業化的是亞洲國家。",
+  "map": [
+   [
+    "get on the world map",
+    "gain world fame"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "work on the top floor",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "construction",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "honor",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz94_48",
@@ -14139,7 +14211,40 @@
   "answer": "B",
   "accuracyRate": 38,
   "discrimination": 43,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "On paper, the Dubai Tower looks something like a giant space shuttle about to be launched into the clouds."
+   }
+  ],
+  "qtype": "是非",
+  "note": "這一題答對率只有 38%，三個錯誤選項都拿原文的字詞套到杜拜塔上，要逐項確認說的是哪一棟建築。判斷步驟：[1] 第 3 段說，從設計圖上看（on paper），杜拜塔有點像（looks something like）一架巨型太空梭；[2] 大樓還沒蓋好，只能說可能蓋成太空梭的樣子，所以是 (B)；[3] (A) 照抄第 1 段的 antenna，有巨大天線的是 CN Tower，160 英尺則是杜拜塔地基樁的深度；(D) 照抄第 1 段的 180 feet，那是 CN Tower 比台北 101 高出的高度，而且第 1 段說杜拜塔目前只打好地基樁；(C) 照抄第 3 段的 silvery，silvery 說的是建築的顏色，建材是鋼骨和玻璃（steel-and-glass），不是銀。",
+  "map": [
+   [
+    "looks something like",
+    "may be built in the shape of"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "antenna",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "180 feet",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "silver",
+    "p": 3
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz94_49",
@@ -14158,7 +14263,16 @@
   "answer": "C",
   "accuracyRate": 42,
   "discrimination": 35,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "a title lost in 1889 when the Eiffel Tower upset the 43-century reign of Egypt’s Great Pyramid of Giza."
+   }
+  ],
+  "qtype": "字義",
+  "note": "這一題答對率只有 42%，upset 最常見的意思是讓人難過、生氣，這一題考的是另一個意思。判斷步驟：[1] 同一句說，最高建築的頭銜（a title）在 1889 年失去（lost）；[2] 艾菲爾鐵塔 upset 大金字塔長達 43 個世紀的稱霸（reign），從此最高建築的頭銜換了主人；[3] 讓長年稱霸的對手失去頭銜，upset 就是擊敗強勁的對手，所以是 (C)。(D) 是 upset 最常見的意思，放回句子裡語意不通；(B) 是 upset 打翻的意思，鐵塔並沒有真的撞倒金字塔；(A) 扭曲事實，跟頭銜換人無關。",
+  "cat": "詞義題"
  },
  {
   "id": "Rz94_50",
@@ -14177,7 +14291,22 @@
   "answer": "D",
   "accuracyRate": 61,
   "discrimination": 66,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "湯普森醫師準備得很充分，講的又是最新的醫學研究，聽眾卻坐不住；會長點出原因：庫賈氏病跟聽眾的日常生活沾不上邊，要是談怎麼預防流感，大家就會全神貫注。演講要成功，內容要對聽眾有意義、跟他們切身相關，所以是 (D)。(A) 偏離主題，湯普森醫師準備得非常用心，卻因為沒有考慮聽眾而失敗，文章要說的正好相反；(B) 偏離主題，向聽眾展現學問正是湯普森醫師做的事，結果聽眾並不感興趣；(C) 偏離主題，文章談的是內容要切合聽眾，不是越想討好聽眾就越容易成功。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rz94_51",
@@ -14196,7 +14325,38 @@
   "answer": "A",
   "accuracyRate": 50,
   "discrimination": 79,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "People were murmuring and shuffling their feet."
+   },
+   {
+    "p": 4,
+    "t": "Creutzfeldt-Jakob disease is not exactly a factor in these people’s everyday experience."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 50%，聽眾的反應要把兩段合起來看。判斷步驟：[1] 第 3 段說聽眾竊竊私語、腳動來動去，還有人在看報紙，這是聽得不耐煩、覺得無聊的樣子；[2] 第 4 段會長點出原因：庫賈氏病跟這些人的日常生活（everyday experience）沾不上邊；[3] 選項把日常生活換成 daily concern，所以是 (A)。(C) 照抄第 3 段的 impressed，以為聽眾會佩服他的，是湯普森醫師自己的想法，不是聽眾的反應；(D) 照抄第 4 段的 congratulating，那是湯普森醫師原本以為會發生的事，實際上沒有人上前道賀；(B) 原文沒有說聽眾聽不懂，竊竊私語是因為沒興趣。",
+  "map": [
+   [
+    "everyday experience",
+    "daily concern"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "impressed",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "congratulat",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz94_52",
@@ -14215,7 +14375,25 @@
   "answer": "B",
   "accuracyRate": 57,
   "discrimination": 63,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "He began with a detailed discussion of Creutzfeldt-Jakob disease"
+   },
+   {
+    "p": 2,
+    "t": "Next he outlined the progress that had been made in studying immune system disorders."
+   },
+   {
+    "p": 3,
+    "t": "He quoted extensively from an article in the Lancet about genetic research"
+   }
+  ],
+  "qtype": "未提及",
+  "note": "演講裡談到的三個題目，原文依序是：第 2 段先談 Creutzfeldt-Jakob disease，就是 (D)；接著談 immune system disorders，就是 (C)；第 3 段引用《刺胳針》上 genetic research 的文章，就是 (A)。流感（flu）出現在第 4 段，是會長說他可以談的題目，湯普森醫師並沒有講，所以是 (B)。",
+  "cat": "細節題",
+  "sub": "未提及"
  },
  {
   "id": "Rz94_53",
@@ -14234,7 +14412,16 @@
   "answer": "C",
   "accuracyRate": 59,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "If you’d talked about ways to avoid getting the flu, you’d have had them on the edge of their seats!"
+   }
+  ],
+  "qtype": "字義",
+  "note": "會長拿湯普森醫師的演講來對照：聽眾對庫賈氏病沒興趣，要是談怎麼預防流感，就會 on the edge of their seats。人坐到椅子邊緣、身體往前傾，是聽得入神、想知道接下來說什麼的樣子，所以是 (C) 吸引他們全部的注意力。(A) 站起來，是照字面想成離開座位；(B) 讓他們嚇一跳，原文沒有出乎意料的意思；(D) 引起懷疑，跟會長的意思相反。",
+  "cat": "詞義題"
  },
  {
   "id": "Rz94_54",
@@ -14254,7 +14441,26 @@
   "accuracyRate": 49,
   "discrimination": 56,
   "explanation": null,
-  "afterParagraph": 2
+  "afterParagraph": 2,
+  "ev": [
+   {
+    "p": 2,
+    "t": "it was given a choice of either to reveal its secret formula or leave the country."
+   },
+   {
+    "p": 2,
+    "t": "it was subjected to harassment and constant interference from the political activists."
+   }
+  ],
+  "qtype": "段落功能",
+  "note": "這一題答對率只有 49%，要找出這一段裡判斷類別的關鍵字。判斷步驟：[1] 印度要可口可樂公開祕密配方，否則就得離開印度，這是當地國家的規定，屬於法律方面的問題；[2] 可口可樂重返印度以後，又受到政治運動人士（political activists）的騷擾與干預，這是政治方面的問題；[3] 兩件事合起來就是政治／法律問題，所以是 (D)。(B) 經濟問題是下一段的內容，這一段沒有談收入或購買力；(A) 宗教因素、(C) 地理因素，這一段都沒有提到。",
+  "map": [
+   [
+    "political activists",
+    "political"
+   ]
+  ],
+  "cat": "主旨題"
  },
  {
   "id": "Rz94_55",
@@ -14274,7 +14480,26 @@
   "accuracyRate": 55,
   "discrimination": 42,
   "explanation": null,
-  "afterParagraph": 3
+  "afterParagraph": 3,
+  "ev": [
+   {
+    "p": 3,
+    "t": "the level of economic development in a market should be assessed"
+   },
+   {
+    "p": 3,
+    "t": "by the level of revenue, buying power of local consumers"
+   }
+  ],
+  "qtype": "段落功能",
+  "note": "這一題答對率只有 55%，判斷步驟：[1] 這一段說要評估市場的經濟發展程度（economic development）；[2] 評估的指標是收入水準、消費者的購買力和基礎建設，都是經濟方面的數據；[3] 所以是 (B)。(D) 科技問題：基礎建設（infrastructure）容易讓人聯想到科技，但這一段是把基礎建設當作衡量經濟發展的指標之一；(A) 文化因素是下一段的內容；(C) 地理因素，這一段沒有提到。",
+  "map": [
+   [
+    "economic development",
+    "economic"
+   ]
+  ],
+  "cat": "主旨題"
  },
  {
   "id": "Rz94_56",
@@ -14294,7 +14519,20 @@
   "accuracyRate": 62,
   "discrimination": 62,
   "explanation": null,
-  "afterParagraph": 4
+  "afterParagraph": 4,
+  "ev": [
+   {
+    "p": 4,
+    "t": "markets that can be classified as similar on various grounds tend to be dissimilar when it comes to this particular aspect"
+   },
+   {
+    "p": 4,
+    "t": "This is done because the French are more bound by family ties."
+   }
+  ],
+  "qtype": "段落功能",
+  "note": "這一段用加拿大的旅遊廣告舉例：給說英語和說法語的觀眾看的廣告圖片不同，原因是說法語的人比較重視家庭的連結。重視家庭的程度是價值觀、生活習慣的差異，屬於文化因素，所以是 (A)。(C) 地理因素：這一段提到同一個國家裡也有差異，但兩種觀眾的差別在語言和價值觀，不在地理位置；(B) 經濟問題是上一段的內容；(D) 政治／法律問題是第 2 段的內容。",
+  "cat": "主旨題"
  },
  {
   "id": "Rz93b_46",
@@ -14313,7 +14551,25 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "全文從調查結果說起：六成英國兒童看了哈利波特電影以後去讀原著；接著用書店的銷量說明，《哈利波特》和《魔戒》的電影上映都帶動了原著的銷量；最後引述 Higgs 的話，電影是說服孩子讀書的好機會。全文講的是孩子看了電影以後對讀原著產生興趣，所以是 (C)。(A) 偏離主題，文章談的是電影帶動書的銷量，不是電影本身賣得好；(B) 偏離主題，原文沒有提到送書；(D) 過於狹隘，只講第 1 段的六成兒童，而且把順序說反了，原文是先看電影、再讀書（seen a Harry Potter film and then read）。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   }
+  }
  },
  {
   "id": "Rz93b_47",
@@ -14332,7 +14588,43 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 5,
+    "t": "is expecting another surge of interest after the release this month"
+   },
+   {
+    "p": 6,
+    "t": "An even greater rise in book sales"
+   }
+  ],
+  "qtype": "字義",
+  "note": "第 5 段先說第一部電影上映後，哈利波特系列的銷量成長了 300%，接著說這個月第二部電影上映後，預期又會有一波 surge of interest；第 6 段開頭再說，《魔戒》帶來的是 an even greater rise in book sales，成長得更多。前後講的都是銷量和興趣大幅增加，surge 的意思最接近 rise，所以是 (A)。(B) 照抄第 6 段的 a repeat of interest，句型和 a surge of interest 很像，但 repeat 是重複，說的是讀者再一次產生興趣，沒有大幅增加的意思；(D) 照抄同一句的 release，是電影上映；(C) 照抄第 6 段的 as a result of，result 是結果。",
+  "map": [
+   [
+    "rise",
+    "Rise"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "repeat",
+    "p": 6
+   },
+   {
+    "o": "D",
+    "t": "release",
+    "p": 5
+   },
+   {
+    "o": "C",
+    "t": "result",
+    "p": 6
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rz93b_48",
@@ -14351,7 +14643,34 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Martin Higgs, Waterstone’s literary editor"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說 Martin Higgs 是書商 Waterstone’s 的文學編輯（literary editor）。編輯的工作是在書出版以前整理、修改稿子，選項換成替書付印做準備的人，所以是 (B)。(A) 照抄第 3 段的 Harry Potter films，Higgs 是在談電影對賣書的影響，不是電影製作人；(C) 照抄第 1 段的 young wizard，寫小巫師故事的是 J.K. Rowling；(D) 鼓勵孩子讀書的是第 7 段說的家長，Higgs 也不是老師。",
+  "map": [
+   [
+    "literary editor",
+    "prepares books for printing"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Harry Potter films",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "young wizard",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz93b_49",
@@ -14370,7 +14689,29 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 7,
+    "t": "Parents are recognizing that films are a chance to persuade a reluctant reader to pick up a book and give it a try."
+   }
+  ],
+  "qtype": "推論",
+  "note": "Higgs 說，家長發現電影是說服不愛讀書的孩子（a reluctant reader）拿起書來讀的好機會。孩子看了電影，就願意去讀改編成電影的原著，選項把說服換成激勵（motivate），所以是 (D)。(B) 照抄 Parents，Higgs 說的是家長發現電影能帶孩子讀書，不是家長懂得替孩子挑電影；(A) 原文沒有評論改編成電影的書值不值得讀；(C) 原文沒有比較讀書和看電影哪一個比較有用，電影在這裡是帶孩子讀書的機會。",
+  "map": [
+   [
+    "persuade a reluctant reader to pick up a book",
+    "motivate children to read"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "Parents",
+    "p": 7
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz93b_50",
@@ -14389,7 +14730,28 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "目的",
+  "note": "第 1 段說明台灣有些建築在地震中倒塌的原因：地基沒打好、軟土液化、不遵守建築法規、蓋在不該蓋的地方；第 2 段說政府的防震法規讓死亡人數少了很多，和土耳其相比，台灣執法相當成功。全文討論的是台灣建築在地震中的安全問題，所以是 (C)。(A) 過於狹隘，發展太快只是第 1 段 Petley 提到的原因之一，而且文章不是在警告居民；(D) 過於狹隘，只講第 2 段，而且第 2 段比較的是違法建築的比例，不是死亡人數；(B) 偏離主題，文章分析問題、說明政府已有的法規，並沒有提出解決方法。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   }
+  }
  },
  {
   "id": "Rz93b_51",
@@ -14408,7 +14770,34 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "development has occurred in locations where it should not have been allowed."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段 Petley 博士指出兩件事：台灣普遍不遵守建築法規，而且開發案出現在不該核准開發的地點（locations where it should not have been allowed）。選項把不該核准開發的地點，換成建築物蓋在不該蓋的地方，所以是 (D)。(C) 照抄 building codes，原文說法規遭到忽視（ignored），不是還在等核准；(B) 照抄 engineers，說工程師沒有注意地基的是專家（experts），而且原文沒有說工程師人數不夠；(A) 軟土在地震中變成液體，也是專家的說法，不是 Petley 提出的，原文也沒有說地下水太多。",
+  "map": [
+   [
+    "where it should not have been allowed",
+    "where they shouldn’t have been"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "building codes",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "engineers",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz93b_52",
@@ -14427,7 +14816,29 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "seismologists and engineers say that the government’s use of three building codes formulated to counter the threat of earthquakes"
+   }
+  ],
+  "qtype": "字義",
+  "note": "seismologists 和 engineers 並列，兩種專家評論的都是政府為了因應地震威脅（the threat of earthquakes）而制定的建築法規；第 2 段接著舉美國地質調查局的研究，比較台灣和土耳其的防震準備。全段談的都是地震，seismologists 是研究地震的專家，所以是 (A)。(C) 照抄 government，政府是他們評論的對象，不是他們的專業；(B) 天氣、(D) 水資源，第 2 段都沒有提到。",
+  "map": [
+   [
+    "earthquakes",
+    "earthquake"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "government",
+    "p": 2
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rz93b_53",
@@ -14446,7 +14857,32 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "全文依時間順序寫語言教室的發展：第 1 段介紹語言教室，第 2 段寫剛推出時的期待和後來的退燒，第 3 段分析失敗的原因，第 4 段寫現在重新受到重視，第 5 段說使用得當就能替教學加分。全文講的是語言教室的發展，所以是 (B)。(A) 過於狹隘，錄音教材只出現在第 1、5 段的描述裡；(C) 過於狹隘，傳統語言教室的缺點只是第 3 段的內容；(D) 過於狹隘，老師缺乏訓練只是第 3 段列出的原因之一。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     1,
+     5
+    ]
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   }
+  }
  },
  {
   "id": "Rz93b_54",
@@ -14465,7 +14901,38 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "enable them to develop at their own rates and monitor their own progress."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段列出語言教室剛推出時，大家期待的改善：減輕老師帶反覆練習的負擔、讓學習者多練習聽說、按自己的速度進步，以及自己檢視學習進度（monitor their own progress）。選項把 monitor 換成定期檢查（keeping regular checks），把 progress 換成學習過程，所以是 (D)。(B) 照抄 install，學校花大錢裝設備是當時的做法，不是期待的學習效果；(C) 照抄 teacher，原文說的是減輕老師的負擔，沒有說老師要糾正每個學生的錯誤；(A) 原文沒有提到語言教室在全世界快速普及。",
+  "map": [
+   [
+    "monitor",
+    "Keeping regular checks"
+   ],
+   [
+    "their own progress",
+    "learning process"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "install",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "teacher",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz93b_55",
@@ -14484,7 +14951,39 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "the introduction of interactive computational aids and video materials has proved to be extremely popular."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 4 段說現在語言教室重新受到重視，特別是（in particular）互動式電腦輔助工具和影音教材（video materials）的引進，證明非常受歡迎，所以是 (B)。(A) 照抄 aids，原文是電腦輔助工具（computational aids），hearing aids 是助聽器；(D) 照抄 hardware，原文說的是電子硬體的功能提升，hardware dealers 是賣硬體的廠商；(C) 照抄第 5 段的 resource centers，那是語言教室使用得當時的一種用途，不是語言教室重新受歡迎的原因。",
+  "map": [
+   [
+    "video materials",
+    "video materials"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "aids",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "hardware",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "resource centers",
+    "p": 5
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz93b_56",
@@ -14503,7 +15002,34 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "The taped materials were often poorly designed, leading to student frustration and boredom."
+   },
+   {
+    "p": 3,
+    "t": "The published programs failed to reflect the kind of work the student was doing in class."
+   },
+   {
+    "p": 3,
+    "t": "Few modern languages staff had received training in materials design or laboratory use."
+   },
+   {
+    "p": 3,
+    "t": "And it proved difficult to maintain the equipment once it had been installed."
+   }
+  ],
+  "qtype": "細節",
+  "note": "題目問語言教室剛推出以後，哪一項不是事實，要逐項回第 3 段核對：(A) 對上 leading to student frustration and boredom，教材讓學生感到無聊；(B) 對上 Few modern languages staff had received training，受過訓練的老師很少；(D) 對上 failed to reflect the kind of work the student was doing in class，教材和課堂內容脫節。(C) 說設備維護毫無困難，原文卻說 it proved difficult to maintain the equipment，維護起來很困難，正好相反，所以是 (C)。",
+  "map": [
+   [
+    "maintain the equipment",
+    "maintenance of equipment"
+   ]
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz93_46",
@@ -14522,7 +15048,22 @@
   "answer": "D",
   "accuracyRate": 33,
   "discrimination": 46,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "這一題答對率只有 33%，三個錯誤選項都是文章裡出現過的東西。判斷步驟：[1] 開頭說，現在連在樹林裡散步都能變成極限運動，並舉地理藏寶為例；[2] 後面說明這種活動怎麼玩：藏寶、公布座標、用 GPS 尋寶，以及交換寶藏的規則；[3] 全文介紹的是一種新的戶外活動，所以是 (D)。(A) 偏離主題，原文的 hunting game 是尋寶遊戲，不是打獵；(B) 過於狹隘，猶他州的 Red Mountain Spa 只是最後舉的一個例子；(C) 過於狹隘，GPS 只是玩地理藏寶要用的工具。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "過於狹隘"
+   },
+   "C": {
+    "k": "過於狹隘"
+   }
+  }
  },
  {
   "id": "Rz93_47",
@@ -14541,7 +15082,40 @@
   "answer": "A",
   "accuracyRate": 51,
   "discrimination": 43,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "They then post the coordinates at www.geocaching.com, where other hikers can use them, along with a global positioning system (GPS), to join the worldwide goose chase."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "這一題答對率只有 51%，判斷步驟：[1] them 前面最近的複數名詞是 the coordinates；[2] 把 coordinates 代進去：其他健行的人用座標，搭配全球定位系統，加入尋寶，意思通順；[3] 最後一句也說遊客學習用 GPS 和座標找寶藏，可見和 GPS 一起用的就是座標，所以是 (A)。(C) caches 和 (B) goodies 是要找的寶藏和寶藏裡的東西，不是搭配 GPS 使用的工具；(D) treks 是健行，同樣不能搭配 GPS 使用。",
+  "map": [
+   [
+    "coordinates",
+    "coordinates"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "goodies",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "caches",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "treks",
+    "p": 1
+   }
+  ],
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rz93_48",
@@ -14560,7 +15134,39 @@
   "answer": "C",
   "accuracyRate": 27,
   "discrimination": 22,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Geocaching works on an honor system: When a geocacher takes something, he leaves a cache of his own behind."
+   }
+  ],
+  "qtype": "推論",
+  "note": "這一題答對率只有 27%，判斷步驟：[1] 原文說地理藏寶靠榮譽制度運作：玩家拿走寶藏裡的東西，就要留下一份自己的寶藏；[2] 拿走一份、留下一份，等於參加的人彼此交換物品；[3] 選項把這個規則換成 exchanged，所以是 (C)。(A) 照抄 goose chase，作者借用 wild goose chase（白忙一場的搜尋）這個說法，指遍及全世界的尋寶遊戲，不是真的去追鵝；(B) 照抄 Utah，猶他州只是可以學地理藏寶的地方之一，選項的 exclusively（只能）說得太絕對；(D) 照抄 spa products，裝著 spa 用品的寶藏只出現在 Red Mountain Spa，不是所有的寶藏都是 spa 用品。",
+  "map": [
+   [
+    "takes something, he leaves a cache of his own behind",
+    "exchanged"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "chase",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "Utah",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "spa products",
+    "p": 1
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz93_49",
@@ -14579,7 +15185,22 @@
   "answer": "C",
   "accuracyRate": 63,
   "discrimination": 51,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "出處",
+  "note": "全文介紹一個會看、會思考的智慧娃娃：第 2 段拿它和機器狗 Aibo 比較，第 3 段說明玩具公司研究人工智慧的過程，第 4 段一步一步解釋相機、微處理器和資料庫怎麼讓娃娃看得見。這是介紹科技新知的文章，最可能出自科學期刊，所以是 (C)。(A) 醫學報告，文章沒有談到疾病或醫療；(B) 分類廣告是報紙上一則則徵人、買賣的小廣告，文章不是在賣東西；(D) 音樂雜誌，文章跟音樂無關；三個選項都偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rz93_50",
@@ -14598,7 +15219,40 @@
   "answer": "B",
   "accuracyRate": 42,
   "discrimination": 46,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Sony’s barking Robot Aibo, which was the first to popularize voice command in the late 1990s."
+   }
+  ],
+  "qtype": "是非",
+  "note": "這一題答對率只有 42%，三個錯誤選項都把 Cindy 和 Aibo 的資料弄錯對象或時間。判斷步驟：[1] 第 2 段說 Aibo 率先讓語音指令（voice command）普及；[2] 會回應語音指令，就是能回應口頭說出的命令（spoken commands），所以是 (B)；[3] (A) 照抄 shapes，能辨認形狀和顏色的是 Cindy，原文說 Cindy 比 Aibo 更進一步，才多了這項能力；(C) 照抄 1990，原文是 1990 年代末期（the late 1990s），不是不晚於 1990 年；(D) 照抄 Cindy Smart，Cindy 延續的是 Aibo 的成果（follows in the path of），Aibo 比 Cindy 早，不是晚得多。",
+  "map": [
+   [
+    "voice command",
+    "spoken commands"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "shapes",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "1990",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "Cindy Smart",
+    "p": 1
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz93_51",
@@ -14617,7 +15271,40 @@
   "answer": "D",
   "accuracyRate": 38,
   "discrimination": 54,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "and asked “Can you read this?” Cindy identifies it as one of 70 preprogrammed commands."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "這一題答對率只有 38%，題目問的是 identifies it 這個 it。判斷步驟：[1] 這一句說 Cindy 把 it 辨認成 70 個預先設定好的指令（commands）之一；[2] 句子前面有人問 Cindy「Can you read this?」，這個問句就是要 Cindy 做事的指令；[3] 把指令換成 request（要求），所以是 (D)。(A) 照抄同一段的 process，it’s a multistep process 說的是讓娃娃看得見的過程，Cindy 不會把過程辨認成指令；(C) 照抄 radius，那是相機掃描的範圍；(B) 照抄 objects，那是相機要找的形狀像數字或字母的東西，而且是後面才出現的步驟。",
+  "map": [
+   [
+    "commands",
+    "request"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "process",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "radius",
+    "p": 4
+   },
+   {
+    "o": "B",
+    "t": "object",
+    "p": 4
+   }
+  ],
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rz93_52",
@@ -14636,7 +15323,43 @@
   "answer": "B",
   "accuracyRate": 45,
   "discrimination": 51,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "Then the inbuilt digital camera scans a 15-degree radius in search of number- or letter-shaped objects."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 45%，判斷步驟：[1] 第 4 段一步一步說明 Cindy 怎麼看：先辨認指令，接著內建的數位相機掃描，尋找形狀像數字或字母的東西；[2] 選項把內建（inbuilt）換成配備（equipped with），把 in search of 換成 to search for，所以是 (B)。(A) 照抄 I love you，那是舉例的一段文字，和資料庫比對成功，Cindy 才會說出來，不是什麼文字都認成 I love you；(D) 照抄 belly，肚子裡裝的是比對文字的微處理器，不是用肚子碰文字；(C) 照抄 engineers，工程師是設計娃娃的人，原文沒有說工程師站在旁邊指揮。",
+  "map": [
+   [
+    "inbuilt digital camera",
+    "equipped with a camera"
+   ],
+   [
+    "in search of",
+    "to search for"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "I love you",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "belly",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "engineer",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz93_53",
@@ -14655,7 +15378,39 @@
   "answer": "B",
   "accuracyRate": 40,
   "discrimination": 43,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "asking the architect to design a new building to house Guggenheim’s four-year-old museum of Non-Objective Painting."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 40%，關鍵是 house 當動詞用。判斷步驟：[1] 第 1 段說 Hilla Rebay 請萊特設計一棟新建築，to house 古根漢的非具象繪畫博物館；[2] house 在這裡是動詞，意思是收藏、容納，蓋新建築是為了收藏古根漢的畫作；[3] 選項把 house 換成 keep，把畫作換成藝術收藏（art collections），所以是 (B)。(A) 照抄 Solomon，博物館以所羅門·古根漢命名，但當初是他還在世時委託興建的，不是為了紀念他；(D) 照抄 city officials，市府官員是萊特要對抗的對象之一，不是委託人；(C) 照抄第 3 段的 symphony，交響曲是萊特對這棟建築的比喻，不是真的交響樂團。",
+  "map": [
+   [
+    "house",
+    "keep"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Solomon",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "city officials",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "symphony",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz93_54",
@@ -14674,7 +15429,37 @@
   "answer": "A",
   "accuracyRate": 30,
   "discrimination": 37,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Wright made no secret of his disenchantment with Guggenheim’s choice of New York for his museum"
+   },
+   {
+    "p": 2,
+    "t": "To Wright, the city was overbuilt, overpopulated, and lacked architectural merit."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 30%，題目的 NOT enthusiastic 對上第 2 段的 disenchantment（失望）。判斷步驟：[1] 第 2 段開頭說萊特毫不掩飾，他對古根漢選擇紐約很失望；[2] 接著說原因：在萊特看來，紐約 overbuilt（建築太多）、overpopulated（人口太多）；[3] 選項把這兩個字換成人太多、建築太多，所以是 (A)。(D) 照抄 Guggenheim，選紐約的正是古根漢，不滿的是萊特，選項把人弄反了；(B) 原文沒有說找不到熱心的建築師；(C) 原文沒有提到紐約居民支不支持。",
+  "map": [
+   [
+    "overpopulated",
+    "too many people"
+   ],
+   [
+    "overbuilt",
+    "buildings"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "Guggenheim",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz93_55",
@@ -14693,7 +15478,34 @@
   "answer": "C",
   "accuracyRate": 28,
   "discrimination": 26,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "before settling on the present site on Fifth Avenue between 88th and 89th Streets."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 28%，要分清楚哪些是考慮過的地點、哪一個是最後選定的。判斷步驟：[1] 第 2 段列出萊特考慮過的地點：36 街、54 街、公園大道和布朗克斯的 Riverdale 區；[2] 最後選定（settling on）的現址在第五大道上，88 街和 89 街之間；[3] 88 街和 89 街之間，就是 88 街一帶，所以是 (C)。(D) 照抄 Riverdale section，那是考慮過、沒有選上的地點；(B) 照抄 Central Park，原文說的是靠近（nearness）中央公園，不是在公園裡面；(A) 原文說的是博物館靠近中央公園，沒有說博物館在紐約市的郊區。",
+  "map": [
+   [
+    "between 88th and 89th Streets",
+    "around 88th Street"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "Riverdale section",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "Central Park",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz93_56",
@@ -14712,7 +15524,38 @@
   "answer": "C",
   "accuracyRate": 42,
   "discrimination": 40,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "The building is a symphony of triangles, ovals, arcs, circles, and squares."
+   },
+   {
+    "p": 4,
+    "t": "In conquering the regularity of geometric design and combining it with the plasticity of nature"
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 42%，判斷步驟：[1] 第 3 段說萊特在現代主義建築的幾何造型上留下獨特的印記，整棟建築是三角形、橢圓形、弧形、圓形和正方形組成的交響曲；[2] 第 4 段說，萊特駕馭幾何設計的規律，再結合大自然的可塑性，這座博物館是他晚年最重要的建築；[3] 選項把五種形狀合稱為許多不同的幾何圖形（geometric figures），所以是 (C)。(A) 照抄第 3 段的 overpower，建築會壓過館內藝術品是藝術家的批評，萊特並不同意；(B) 照抄第 1 段的 completion，業主和建築師都在落成前過世是事實，但不是這棟建築重要的原因；(D) 第 3 段的交響曲是比喻，原文沒有說博物館可以當音樂廳。",
+  "map": [
+   [
+    "triangles, ovals, arcs, circles, and squares",
+    "many different geometric figures"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "power",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "completion",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz92_46",
@@ -14731,7 +15574,22 @@
   "answer": "A",
   "accuracyRate": 49,
   "discrimination": 52,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "這一題答對率只有 49%，判斷步驟：[1] 第一句先承認曼谷有交通、噪音、炎熱等問題，接著說曼谷高度都市化，但現代外表底下仍有明顯的泰國特色；[2] 後面列出曼谷能滿足的興趣，傳統文化有寺廟、博物館，現代生活有餐廳、電影和藝術館；[3] 全文兼顧現代和傳統，所以是 (A)。(B) 過於狹隘，天氣炎熱和淹水只是第一句提到的缺點；(D) 過於狹隘，餐廳和社交活動只是曼谷現代的一面；(C) 偏離主題，原文提到紐約、巴黎、倫敦，是說曼谷代表泰國，就像紐約代表美國一樣，不是說曼谷和這些城市一樣國際化。",
+  "cat": "主旨題",
+  "scope": {
+   "B": {
+    "k": "過於狹隘"
+   },
+   "C": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "過於狹隘"
+   }
+  }
  },
  {
   "id": "Rz92_47",
@@ -14750,7 +15608,17 @@
   "answer": "D",
   "accuracyRate": 75,
   "discrimination": 51,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "if you can tolerate the traffic, noise, heat (in the hot season), floods (in the rainy season), and somewhat polluted air."
+   }
+  ],
+  "qtype": "未提及",
+  "note": "第一句列出遊客要忍受的問題，原文和選項的對應是：traffic → (A) Heavy traffic；somewhat polluted air → (B) Dirty air；heat → (C) Hot weather。原文沒有提到人口稠密，所以是 (D)。",
+  "cat": "細節題",
+  "sub": "未提及"
  },
  {
   "id": "Rz92_48",
@@ -14769,7 +15637,22 @@
   "answer": "C",
   "accuracyRate": 35,
   "discrimination": 40,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The gift Bangkok offers me is the assurance I will never be bored."
+   }
+  ],
+  "qtype": "推論",
+  "note": "這一題答對率只有 35%，關鍵是看懂 Warren 的話。判斷步驟：[1] Warren 說，曼谷送給他的禮物，是保證（assurance）他永遠不會無聊；[2] 前一句列出曼谷能滿足傳統和現代的各種興趣，永遠有事可做，所以不會無聊；[3] 永遠不會無聊，就是曼谷是個令人興奮的地方，所以是 (C)。(A) gift 在這裡是比喻，說的是曼谷帶給他的好處，不是紀念品；(B) assurance 是保證，和保險（insurance）長得很像，但原文沒有提到旅遊保險；(D) 原文沒有說曼谷讓他想起家鄉。",
+  "map": [
+   [
+    "never be bored",
+    "exciting"
+   ]
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz92_49",
@@ -14788,7 +15671,20 @@
   "answer": "A",
   "accuracyRate": 21,
   "discrimination": 24,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "there are temples, museums and other historic sites for those interested in traditional Thai culture"
+   },
+   {
+    "p": 1,
+    "t": "for those seeking contemporary Krung Thep, the Thai name for Bangkok."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 21%，題目有兩個地方要先看懂。判斷步驟：[1] LAST CHOICE 是最後才會選、最不可能選的；Krung Thep 是曼谷的泰文名稱，題目的 modern 對上原文的 contemporary（現代的）；[2] 原文把曼谷的去處分成兩組：寺廟、博物館和古蹟是給對傳統泰國文化有興趣的人；餐廳、夜店、電影和現代藝術館是給想體驗現代曼谷的人；[3] 想探索現代曼谷的人，最不會選的是傳統那一組的寺廟，所以是 (A)。(B) 餐廳、(C) 藝術館、(D) 電影，都是原文列給想體驗現代曼谷的人的去處。",
+  "cat": "細節題"
  },
  {
   "id": "Rz92_50",
@@ -14807,7 +15703,22 @@
   "answer": "D",
   "accuracyRate": 73,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "出處",
+  "note": "文章報導一位名人最近的舉動：有人拍到他帶孩子逛柏林動物園，並交代 24 小時前發生的事件、各界的批評，以及檢察官的回應，還引述隨行人員和檢察官的說法。這是新聞報導的寫法，所以是 (D)。(A) 私人信件，文章沒有寫信人和收信人；(B) 旅遊手冊，文章雖然提到動物園，卻不是在介紹景點；(C) 研究報告，文章沒有研究方法或數據；三個選項都偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rz92_51",
@@ -14826,7 +15737,39 @@
   "answer": "B",
   "accuracyRate": 58,
   "discrimination": 63,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "he took them to the zoo covered in strange, bright-colored veils “to protect them from kidnappers"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說傑克森帶孩子去動物園，讓孩子罩著鮮豔的面紗，說是為了防範綁匪；第 3 段隨行人員也說，面紗是為了替孩子變裝，避免遭到綁架。選項把防範綁匪換成 prevent them from being kidnapped，所以是 (B)。(D) 照抄第 3 段的 wandered through the zoo，臉上罩東西的是孩子，不是傑克森；選項的 cloth 是第 5 段蓋在男嬰臉上的白布，而且那是在飯店；(C) 照抄第 5 段的 protect his children from，傑克森是讓孩子罩上面紗，不是把孩子藏在動物園裡；(A) 照抄第 2 段的 Paris，Prince 和 Paris 是他自己的孩子，原文沒有說他涉及綁架。",
+  "map": [
+   [
+    "to protect them from kidnappers",
+    "to prevent them from being kidnapped"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "wandered through the zoo",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "protect his children from",
+    "p": 5
+   },
+   {
+    "o": "A",
+    "t": "Paris",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz92_52",
@@ -14845,7 +15788,29 @@
   "answer": "C",
   "accuracyRate": 48,
   "discrimination": 59,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 5,
+    "t": "which was again said to be a precautionary measure taken by the star to protect his children from becoming kidnappers’ targets."
+   }
+  ],
+  "qtype": "字義",
+  "note": "這一題答對率只有 48%，判斷步驟：[1] 同一句說明這項 measure 的用途：保護孩子不成為綁匪的目標；[2] 事情還沒發生，先採取行動防範，measure 在這裡是措施，precautionary 是預防的；[3] 預防措施，就是為了避免壞結果而採取的步驟，所以是 (C)。(B) 照抄第 3 段的 designed，原文說的是面紗用來變裝，選項說成為了達成目標而精心設計的計畫，沒有預防的意思；(A) precision（精準）和 precautionary 字形相近，但意思無關；(D) measure 也有測量的意思，選項把它想成數學題目。",
+  "map": [
+   [
+    "to protect his children from becoming kidnappers’ targets",
+    "to avoid some bad consequences"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "designed",
+    "p": 3
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rz92_53",
@@ -14864,7 +15829,39 @@
   "answer": "C",
   "accuracyRate": 45,
   "discrimination": 60,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 6,
+    "t": "an inquiry could only be opened if a complaint was filed against Jackson."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 45%，判斷步驟：[1] 第 6 段最後說，柏林檢察官表示目前沒有在調查；[2] 必須有人對傑克森提出告訴（a complaint was filed），才能展開調查（an inquiry could only be opened）；[3] 選項把 filed 換成 made，所以是 (C)。(A) 照抄 Berlin prosecutors，原文是檢察官調查別人，選項說成檢察官遭到調查，方向弄反了；(D) 照抄 child protection groups called，兒童保護團體已經要求過警方，原文說的條件是提出告訴，不是再找一次警察；(B) 照抄第 3 段的 veils，面紗是引起擔憂的原因，不是警方採取行動的條件。",
+  "map": [
+   [
+    "a complaint was filed against Jackson",
+    "an official complaint was made against him"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Berlin prosecutors",
+    "p": 6
+   },
+   {
+    "o": "D",
+    "t": "child protection groups called",
+    "p": 6
+   },
+   {
+    "o": "B",
+    "t": "veils",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz92_54",
@@ -14883,7 +15880,43 @@
   "answer": "A",
   "accuracyRate": 43,
   "discrimination": 60,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "after suitcase bombs brought down Pan Am Flight 103 over Lockerbie"
+   },
+   {
+    "p": 2,
+    "t": "In all three cases, the terrorists weren't on board."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 43%，判斷步驟：[1] 第 2 段說，行李炸彈（suitcase bombs）炸毀了這三個班機；[2] 同一段最後補一句，這三起事件，恐怖分子都不在飛機上，炸彈是藏在託運的行李裡；[3] 三架飛機都是遭到恐怖攻擊炸毀，所以是 (A)。(B) 照抄 on board，原文說的是恐怖分子不在飛機上（weren't on board），選項正好說反了；(C) 照抄 1980，原文說的是 1980 年代以後行李比對成了標準做法，沒有說三架飛機都在 1980 年墜毀，也沒有說只有這三個國際航班墜毀；(D) 照抄第 1 段的 security measures，原文沒有說這三個班機沒有遵守安全措施。",
+  "map": [
+   [
+    "suitcase bombs",
+    "terrorist attacks"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "on board",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "1980",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "security measures",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz92_55",
@@ -14902,7 +15935,16 @@
   "answer": "B",
   "accuracyRate": 44,
   "discrimination": 48,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "It would require that no checked bag be transported on a plane if its owner doesn't board the flight."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 44%，判斷步驟：[1] 第 2 段先用冒號帶出 positive passenger bag-matching 這個名稱；[2] 下一句就用 It would require that… 說明它的內容：行李的主人沒有登機，託運的行李就不能上飛機，這就是行李比對的定義；[3] 所以是 (B)。第 3 段說美國主管機關忽視行李比對，第 4 段說明 Barnett 的實驗，都是在第 2 段定義過以後，才談行李比對的爭議和效果；第 1 段還沒有提到行李比對。",
+  "cat": "細節題"
  },
  {
   "id": "Rz92_56",
@@ -14921,7 +15963,43 @@
   "answer": "C",
   "accuracyRate": 50,
   "discrimination": 61,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "They fear it might delay flights and persuade short-haul travelers to take a train or drive instead."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 50%，判斷步驟：[1] 第 3 段說美國的航空公司多年來一直反對行李比對；[2] 下一句說原因：航空公司擔心行李比對會讓班機延誤，也會讓短程旅客改搭火車或開車；[3] 改搭火車或開車，就是不搭飛機，選項換成 discourage people from taking airplanes，所以是 (C)。(D) 照抄第 2 段的 privacy，原文說行李比對既能提升安全又能保護隱私，選項說成侵犯隱私，正好相反；(A)、(B) 都照抄 electronic-detection systems，電子偵測系統是 TSA 的選擇，原文沒有比較兩者的成本，也沒有說電子偵測系統比較能防止劫機。",
+  "map": [
+   [
+    "delay flights",
+    "delay flights"
+   ],
+   [
+    "persuade short-haul travelers to take a train or drive instead",
+    "discourage people from taking airplanes"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "privacy",
+    "p": 2
+   },
+   {
+    "o": "A",
+    "t": "electronic-detection systems",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "electronic-detection systems",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz92_57",
@@ -14940,7 +16018,39 @@
   "answer": "A",
   "accuracyRate": 35,
   "discrimination": 57,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "Barnett showed that domestic bag-matching would cause delays averaging seven minutes on only one in seven flights and would require no reduction in flight schedules."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 35%，兩個「七」要分清楚。判斷步驟：[1] 第 4 段說，國內航班實施行李比對，平均延誤七分鐘（averaging seven minutes）；[2] 而且只有七分之一的航班會延誤（on only one in seven flights）；[3] 選項把 one in seven 換成 one-seventh，所以是 (A)。(B)、(D) 都照抄 schedules，原文說的是完全不需要減少航班（no reduction in flight schedules），選項說成要減少航班、改變時刻表，正好相反；(C) 照抄 11 airlines，11 家航空公司是實驗測試的對象，實驗結果是延誤很少，不是沒有效果又不方便。",
+  "map": [
+   [
+    "one in seven flights",
+    "one-seventh of the flights"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "schedules",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "schedules",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "11 airlines",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz92_58",
@@ -14959,7 +16069,40 @@
   "answer": "B",
   "accuracyRate": 43,
   "discrimination": 64,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 5,
+    "t": "It ensures that the terrorist will proceed to the gate to board his plane. If, while he's waiting, detection devices reveal a bomb, he could be quickly located and arrested."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "這一題答對率只有 43%，判斷步驟：[1] 前一句說行李比對能確保恐怖分子（the terrorist）到登機門準備登機；[2] 下一句說 he 在等候時，偵測儀器發現炸彈，he 就能很快找到並遭到逮捕；[3] 會帶炸彈、會遭到逮捕的，是前一句的恐怖分子，所以是 (B)。(A) 照抄 Barnett，Barnett 是提出主張的人，不會因為炸彈遭到逮捕；(C) 照抄 gate，登機門是恐怖分子要去的地方，原文沒有提到警衛；(D) 照抄 board，要登機的雖然是乘客，但會遭到逮捕的是帶炸彈的那一個，不是一般乘客。",
+  "map": [
+   [
+    "the terrorist",
+    "terrorist"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Barnett",
+    "p": 5
+   },
+   {
+    "o": "C",
+    "t": "gate",
+    "p": 5
+   },
+   {
+    "o": "D",
+    "t": "board",
+    "p": 5
+   }
+  ],
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rz92_59",
@@ -14978,7 +16121,22 @@
   "answer": "D",
   "accuracyRate": 26,
   "discrimination": 46,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 5,
+    "t": "He received a thank-you note that contained no indication that the TSA is contemplating action."
+   }
+  ],
+  "qtype": "推論",
+  "note": "這一題答對率只有 26%，判斷步驟：[1] Barnett 寫信給 TSA 局長，主張行李比對加上爆裂物偵測效果最好；[2] TSA 只回了一封感謝函（a thank-you note），信裡沒有任何跡象（no indication）顯示 TSA 正在考慮（contemplating）採取行動；[3] 感謝函只是禮貌上的回應，看不出要採取行動，可以推知 TSA 沒有打算採用 Barnett 的建議，所以是 (D)。(A) 只看到感謝函，就以為 TSA 歡迎他的建議，忽略了後半句的 no indication；(B) 付諸實行正好和原文相反；(C) 原文沒有提到邀請 Barnett 去工作。",
+  "map": [
+   [
+    "no indication that the TSA is contemplating action",
+    "did not plan to implement"
+   ]
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz92_60",
@@ -14997,7 +16155,22 @@
   "answer": "C",
   "accuracyRate": 36,
   "discrimination": 36,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "目的",
+  "note": "這一題答對率只有 36%，判斷步驟：[1] 第 1 段說九一一以後美國實施了很多安全措施，第 2 段接著提出一個保證有效的方法：行李比對；[2] 第 3、4 段反駁航空公司反對的理由，用 Barnett 的實驗證明延誤很少；[3] 第 5 段引述 Barnett，行李比對嚇阻炸彈客的效果比電子偵測系統好；全文在替行李比對辯護，所以是 (C)。(A) 偏離主題，原文說行李比對既能提升安全又能保護隱私，兩者不必取捨；(B) 偏離主題，文章批評 TSA 忽視行李比對，不是在強調 TSA 的使命；(D) 偏離主題，作者認為電子偵測系統大多未經測試，主張的是行李比對。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rz91_51",
@@ -15016,7 +16189,22 @@
   "answer": "D",
   "accuracyRate": 51,
   "discrimination": 65,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "出處",
+  "note": "這一題答對率只有 51%，判斷步驟：[1] 全文比較愛斯基摩人的冰屋和平原印第安人的帳篷，談建材、入口、煙囪和密封的程度；[2] 最後一句點出差別在於隔熱（insulation），也就是房子的結構；[3] 談房屋建材和結構的文章，最可能出自住屋建築的雜誌，所以是 (D)。(A) 偏離主題，文章提到氣溫，是用來比較兩種住處的保暖效果，不是天氣預報；(B) 偏離主題，兩種人都在住處生火取暖，文章沒有談怎麼防止火災；(C) 偏離主題，獸皮只是搭帳篷的材料，文章沒有談動物保育。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rz91_52",
@@ -15035,7 +16223,34 @@
   "answer": "B",
   "accuracyRate": 31,
   "discrimination": 22,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The difference between the Eskimo igloo and the Indian tepee was insulation: the igloo’s walls were solid and airtight whereas those of the tepee permitted a great deal of air to enter."
+   }
+  ],
+  "qtype": "推論",
+  "note": "這一題答對率只有 31%，判斷步驟：[1] 最後一句說，冰屋和帳篷的差別在於隔熱：冰屋的牆壁堅實又密不透風，帳篷的牆壁卻讓大量空氣進來；[2] 前面也說，同樣生火，冰屋裡熱到要喝冰水，帳篷裡的印第安人卻整夜發抖；[3] 可以推知冰屋的隔熱比帳篷好，所以是 (B)。(D) 照抄 small chimney，有小煙囪的是愛斯基摩冰屋，選項接到印第安帳篷上；(A) 照抄 tunnel，原文說入口小小的、像隧道（small tunnel-like entrance），沒有說要穿過一條長隧道；(C) 印第安人整夜冷得發抖，原文沒有說他們冬天住得很愉快。",
+  "map": [
+   [
+    "insulation",
+    "insulation"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "small chimney",
+    "p": 1
+   },
+   {
+    "o": "A",
+    "t": "tunnel",
+    "p": 1
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz91_53",
@@ -15054,7 +16269,22 @@
   "answer": "A",
   "accuracyRate": 50,
   "discrimination": 72,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "目的",
+  "note": "這一題答對率只有 50%，判斷步驟：[1] 第一句就說兩種人都在住處生火，結果卻大不相同（but with very different consequences）；[2] 接著用 on the other hand、In contrast to 這些轉折詞，一項一項對照冰屋和帳篷；[3] 最後一句總結兩者的差別，全文是在比較，所以是 (A)。(C) 過於狹隘，印第安人抖到毯子晃動的描寫很生動，但只是比較當中的一個細節；(B) 偏離主題，印第安人夜裡發抖不是悲傷的故事，是用來說明帳篷不保暖；(D) 偏離主題，文章說明兩種住處的隔熱差別，不是報導新的科學發現。",
+  "cat": "主旨題",
+  "scope": {
+   "B": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "過於狹隘"
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rz91_54",
@@ -15073,7 +16303,28 @@
   "answer": "B",
   "accuracyRate": 42,
   "discrimination": 48,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "這一題答對率只有 42%，故事的寓意要看結局和前面怎麼呼應。判斷步驟：[1] 第 2 段 Soapy 砸破百貨公司的櫥窗，警察卻不相信是他做的；[2] 第 4 段 Soapy 決定改過自新，那個警察又出現，以破壞公物的罪名逮捕他；[3] 他想坐牢時坐不成，不想坐牢了，卻因為破壞公物入獄，做過的事終究要付出代價，所以是 (B)。(C) 過於狹隘，只講第 4 段 Soapy 決定改過，可是他還來不及改變就遭到逮捕；(D) 過於狹隘，只講第 1 段 Soapy 怎麼過冬；(A) 偏離主題，Soapy 想做的事一件也沒有做成。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     4
+    ]
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   }
+  }
  },
  {
   "id": "Rz91_55",
@@ -15092,7 +16343,43 @@
   "answer": "B",
   "accuracyRate": 49,
   "discrimination": 52,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "I’ve got to change. Yes, I’ll take the job offered last week as a truck driver."
+   },
+   {
+    "p": 4,
+    "t": "the judge sentenced him to three months in jail."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 49%，判斷步驟：[1] 第 4 段 Soapy 在教堂前聽到唱詩班練唱，決定改變，要接受卡車司機的工作；[2] 就在這時候，警察逮捕了他，法官判他入獄三個月；[3] turn over a new leaf 是改過自新，選項說他已經決定改過，卻還是進了監獄，所以是 (B)。(A) 照抄第 3 段的 a big pile of dirty dishes，那一大堆盤子是 Soapy 要洗的，不是他打破的；(C) 照抄第 2 段的 woman，那位女士沒有打他，還向他道謝；(D) 照抄 choir，唱歌的是唱詩班，Soapy 只是站在教堂前面聽。",
+  "map": [
+   [
+    "change",
+    "turn over a new leaf"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "big pile of",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "woman",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "choir",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz91_56",
@@ -15111,7 +16398,40 @@
   "answer": "C",
   "accuracyRate": 57,
   "discrimination": 56,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "he told the manager he had no money and suggested that he have him arrested."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "第 3 段這一句有好幾個 he。前兩個 he 是 Soapy：Soapy 告訴經理自己沒有錢。後面 suggested that he have him arrested，是建議 he 叫人逮捕 him；能叫人逮捕 Soapy 的，是剛才提到的經理，him 才是 Soapy，所以是 (C)。(B) Soapy 是要遭到逮捕的 him，不是這個 he；(A) 警察出現在第 2、4 段，這時候不在餐廳裡；(D) 法官到第 4 段才出現。",
+  "map": [
+   [
+    "the manager",
+    "manager"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "Soapy",
+    "p": 3
+   },
+   {
+    "o": "A",
+    "t": "policeman",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "judge",
+    "p": 4
+   }
+  ],
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rz91_57",
@@ -15130,7 +16450,48 @@
   "answer": "A",
   "accuracyRate": 44,
   "discrimination": 62,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "When November arrived, Soapy always found the way to stay indoors, away from the cold, and had three meals a day without paying one cent."
+   },
+   {
+    "p": 1,
+    "t": "The trick was simple: he broke the law."
+   }
+  ],
+  "qtype": "是非",
+  "note": "這一題答對率只有 44%，判斷步驟：[1] 第 1 段說每到 11 月，Soapy 總有辦法待在室內避寒，一天三餐不用花一毛錢；[2] 方法是犯法，也就是去坐牢，第 2 段也把這件事稱為他每年的冬季之旅；[3] 選項把避寒換成 warmth，把不用錢的三餐換成 free meals，所以是 (A)。(B) 照抄第 4 段的 job，卡車司機的工作是上星期有人提供、Soapy 還沒接受的，而且他睡在公園，沒有家；(C) 照抄第 2 段的 did not believe，警察確實不相信他，但原文沒有說是因為他穿得像紳士；(D) 照抄 judge，法官判他入獄，原文沒有說 Soapy 抗議自己沒有做錯事。",
+  "map": [
+   [
+    "stay indoors, away from the cold",
+    "warmth"
+   ],
+   [
+    "three meals a day without paying one cent",
+    "free meals"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "job",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "did not believe",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "judge",
+    "p": 4
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz91_58",
@@ -15149,7 +16510,34 @@
   "answer": "D",
   "accuracyRate": 43,
   "discrimination": 48,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Even before Prince Albert died, Queen Victoria was known as a very serious woman."
+   },
+   {
+    "p": 3,
+    "t": "She was also very sure of herself."
+   },
+   {
+    "p": 1,
+    "t": "from 1837 until her death in 1901"
+   },
+   {
+    "p": 2,
+    "t": "Victoria and Albert were deeply in love, and their marriage was extremely happy."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 43%，要逐項回原文核對。判斷步驟：[1] (A) 對上第 3 段的 very sure of herself，很有自信；[2] (B) 第 1 段說她從 1837 年統治到 1901 年，1901 減 1837 是 64 年；[3] (C) 對上第 2 段的 their marriage was extremely happy，婚姻非常幸福；[4] (D) 第 2 段說丈夫過世是她嚴肅的原因之一，但第 3 段開頭說，早在亞伯特親王過世以前（Even before Prince Albert died），她就以嚴肅出名，並不是丈夫過世後才變得嚴肅，所以是 (D)。",
+  "map": [
+   [
+    "Even before Prince Albert died",
+    "after her beloved husband died"
+   ]
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz91_59",
@@ -15168,7 +16556,34 @@
   "answer": "C",
   "accuracyRate": 66,
   "discrimination": 54,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "as another sign of her grief, she wrote her letters on white paper edged in black."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說，四十年來她寫信都用鑲黑邊的白紙，作為哀傷（grief）的另一種表示（sign）。選項把 sign of her grief 換成表達悲傷的一種方式，所以是 (C)。(A) 照抄同一段的 stern，個性嚴肅是她本來的樣子，不是用黑邊信紙的原因；(D) 照抄 customary，當時的習俗是寡婦短期內穿黑衣，說的是寡婦，不是英國君主，而且女王穿四十年正好和習俗不同；(B) 原文沒有說黑色是她最喜歡的顏色。",
+  "map": [
+   [
+    "sign of her grief",
+    "show her feeling of sadness"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "stern",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "custom",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz91_60",
@@ -15187,7 +16602,28 @@
   "answer": "D",
   "accuracyRate": 35,
   "discrimination": 49,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Victoria had high ideals and moral standards"
+   },
+   {
+    "p": 2,
+    "t": "the lonely Victoria mourned his loss."
+   },
+   {
+    "p": 3,
+    "t": "I love to be employed; I hate to be idle."
+   },
+   {
+    "p": 3,
+    "t": "she expected everyone to agree with her."
+   }
+  ],
+  "qtype": "推論",
+  "note": "這一題答對率只有 35%，題目問哪一個不能用來形容女王，要逐項找原文。判斷步驟：[1] (A) moral（有道德的）對上第 3 段的 high ideals and moral standards；[2] (B) lonesome（孤單的）對上第 2 段的 the lonely Victoria；[3] (C) workaholic（工作狂）對上第 3 段女王在日記裡寫的「我喜歡有事做，討厭閒著」；[4] (D) compromising 是願意妥協、肯讓步的，女王卻總認為自己是對的，期望每個人都同意她，正好相反，所以是 (D)。",
+  "cat": "推論題"
  },
  {
   "id": "Rz91_61",
@@ -15206,7 +16642,20 @@
   "answer": "B",
   "accuracyRate": 54,
   "discrimination": 50,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "For the rest of her life, the lonely Victoria mourned his loss."
+   },
+   {
+    "p": 2,
+    "t": "But Queen Victoria dressed in black for forty years."
+   }
+  ],
+  "qtype": "字義",
+  "note": "這一題答對率只有 54%，判斷步驟：[1] 前一句說亞伯特過世，女王傷心欲絕，mourned 的受詞是 his loss，也就是丈夫的離去；[2] 後面說女王穿黑衣穿了四十年，寫信也用鑲黑邊的信紙，都是讓別人看得到的哀悼方式；[3] mourn 是因為有人過世而表達哀傷，所以是 (B)。(A) 只說在社交場合感到難過，沒有因為有人過世的意思；(C)、(D) 跟哀傷無關，放回句子裡語意不通。",
+  "cat": "詞義題"
  },
  {
   "id": "Rz91_62",
@@ -15225,7 +16674,38 @@
   "answer": "C",
   "accuracyRate": 54,
   "discrimination": 44,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Boll, a German scientist who was the star of the Manhattan Project"
+   },
+   {
+    "p": 2,
+    "t": "his role in making the bomb."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 54%，判斷步驟：[1] 第 1 段說 Boll 是德國科學家，也是曼哈頓計畫的明星人物；[2] 第 2 段說 Amai 想訪問他在製造原子彈時扮演的角色（his role in making the bomb）；[3] 可見 Boll 是參與製造原子彈的科學家之一，所以是 (C)。(A) 照抄 New York，Boll 是到紐約一所大學演講，原文沒有說他在那裡教書，也沒有說是哪一所大學；(B) 照抄 triumph，這項科學成就反而讓他的人生停擺，他並不享受；(D) 他每年演講替自己辯護，良心卻一直受到折磨，美夢成了惡夢，並沒有說服自己沒做錯事。",
+  "map": [
+   [
+    "his role in making the bomb",
+    "made atomic bombs"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "New York",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "triumph",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz91_63",
@@ -15244,7 +16724,42 @@
   "answer": "B",
   "accuracyRate": 43,
   "discrimination": 48,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "a woman from Hiroshima who lost her face to the world’s first atomic blast."
+   },
+   {
+    "p": 2,
+    "t": "wearing a face reconstructed by the skilled hands of an American surgeon"
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 43%，判斷步驟：[1] 第 1 段說 Amai 在世界第一次原子彈爆炸中毀了容；[2] 第 2 段說她的臉是美國外科醫師重建的（reconstructed）；[3] 選項把 atomic blast 換成 atomic bombing，把重建的臉換成新的臉，所以是 (B)。(A) 照抄 documentary filmmaker，前半句沒錯，但她在原子彈爆炸中毀容，是戰爭的親身受害者，後半句說她沒有親身經歷二次大戰，和原文不符；(D) 照抄 despair，她看到的是 Boll 和戰後日本人一樣的絕望，是開始體會他付出的代價，不是樂見他付出代價；(C) 原文沒有說她不能原諒，反而是她主動走向 Boll。",
+  "map": [
+   [
+    "atomic blast",
+    "atomic bombing"
+   ],
+   [
+    "reconstructed",
+    "new face"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "documentary filmmaker",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "despair",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz91_64",
@@ -15263,7 +16778,47 @@
   "answer": "C",
   "accuracyRate": 30,
   "discrimination": 31,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Dreams have become nightmares"
+   },
+   {
+    "p": 1,
+    "t": "she designs a salvation journey for her husband, bringing together Boll and Amai"
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 30%，判斷步驟：[1] 第 1 段說 Boll 一直受到廣島慘狀的糾纏，他自己也承認美夢成了惡夢（nightmares）；[2] 妻子病重時，替丈夫安排（designs）一趟救贖之旅，讓 Boll 和 Amai 見面；[3] 選項把安排救贖之旅換成安排見面，救贖就是要把他從惡夢裡救出來，所以是 (C)。(A) 照抄 Nazi，妻子的父母死在納粹集中營，但原文沒有提到她原不原諒納粹；(B) 照抄 troubling，正因為妻子知道丈夫的良心受到折磨，才替他安排救贖之旅，選項說成她不了解；(D) 照抄 career，Boll 的科學成就讓他的人生停擺，妻子希望的是救贖他，不是讓他繼續製造原子彈。",
+  "map": [
+   [
+    "designs a salvation journey",
+    "arranges the meeting"
+   ],
+   [
+    "nightmares",
+    "nightmares"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Nazi",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "troubl",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "career",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz91_65",
@@ -15282,6 +16837,24 @@
   "answer": "D",
   "accuracyRate": 30,
   "discrimination": 34,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "這一題答對率只有 30%，判斷步驟：[1] 第 1 段說 Boll 的科學成就讓他的人生停擺，良心不安，美夢成了惡夢；[2] 第 2 段最後說，Amai 看穿 Boll 的外表，開始體會他為了勝利付出的代價（the price he has paid for victory）；[3] 打贏戰爭的一方也付出了代價，作者要說的是戰爭的勝利一定要付出代價，所以是 (D)。(B) 過於狹隘，只講第 1 段 Boll 每年演講替自己辯護，他的良心其實一直不安；(A) 偏離主題，Boll 正是希望藉著 Amai 替自己贖罪；(C) 偏離主題，Boll 為了曼哈頓計畫的成功受盡折磨，並不引以為傲。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   },
+   "C": {
+    "k": "偏離主題"
+   }
+  }
  }
 ]
