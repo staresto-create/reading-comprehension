@@ -9672,7 +9672,38 @@
   "answer": "B",
   "accuracyRate": 72,
   "discrimination": 59,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The use of pigs is risky, though, because of their natural tendency to eat any remotely edible thing."
+   },
+   {
+    "p": 2,
+    "t": "they willingly exchange their truffle for a piece of bread and a pat on the head."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說用豬有風險，因為豬天生什麼東西能吃就吃（eat any remotely edible thing），挖到的松露可能直接吃掉；狗則願意用松露換一塊麵包。兩句合起來，就是狗通常不會吃掉找到的松露，所以是 (B)。(C) 照抄 smell，原文說母豬對松露的氣味特別敏感，沒有說狗的嗅覺比豬好；(A) 照抄 dig，原文說人們訓練狗往下挖，沒有比較狗和豬的腳掌；(D) 原文沒有提到哪一種動物比較容易興奮。",
+  "map": [
+   [
+    "eat any remotely edible thing",
+    "eat the truffles"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "dig",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "smell",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz100_37",
@@ -9691,7 +9722,38 @@
   "answer": "C",
   "accuracyRate": 78,
   "discrimination": 47,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "you must eat fresh, uncooked specimens shortly after they have been harvested."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說想享受松露的風味，一定要在採集後不久（shortly after they have been harvested）就吃新鮮（fresh）的生松露，選項把 harvested 換成 collected，所以是 (C)。(B) 和 (D) 都照抄同一段後面的字：bland oil 和 refrigerator 是保存松露的方法，原文接著說風味會隨著時間迅速變淡，所以保存起來的松露不是最好的吃法；(A) 原文說要吃生的，沒有提到和豬肉一起煮。",
+  "map": [
+   [
+    "fresh",
+    "fresh"
+   ],
+   [
+    "shortly after they have been harvested",
+    "right after being collected"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "bland oil",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "refrigerat",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz100_38",
@@ -9710,7 +9772,44 @@
   "answer": "C",
   "accuracyRate": 65,
   "discrimination": 45,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "which are able to detect the strong smell of mature truffles underneath the surface of the ground."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 2 段說母豬和松露犬聞得到地面下成熟（mature）松露的強烈氣味（strong smell），也就是說松露成熟時會散發強烈的氣味，選項把 smell 換成 odor，所以是 (C)。(A) 照抄第 1 段的 roots，原文說松露和樹根共生，松露本身是蕈類，不是樹根；(B) 照抄 dogs，同一段說有些商人看到松露蠅盤旋，就自己動手挖，所以不是只有狗和豬找得到；(D) 照抄 collected，原文說找到一個地點以後，往後幾年都可以在那裡採集，選項說反了。",
+  "map": [
+   [
+    "strong smell",
+    "strong odor"
+   ],
+   [
+    "mature",
+    "mature"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "roots",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "dogs",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "collected",
+    "p": 2
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz100_39",
@@ -9729,7 +9828,42 @@
   "answer": "D",
   "accuracyRate": 82,
   "discrimination": 40,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "They are among the most expensive of the world’s natural foods"
+   },
+   {
+    "p": 1,
+    "t": "This is why they are difficult to find."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 1 段先說松露是全世界最昂貴的天然食物之一，接著說松露長在地底下，所以很難找到（difficult to find）。原文沒有直接說「因為難找所以貴」，要把同一段的兩件事連起來，推得出松露貴是因為難找，所以是 (D)。(A) 照抄第 3 段的 glass jars，原文說裝進玻璃罐冷藏是保存的方法，沒有說罐裝松露沒有味道；(B) 照抄第 1 段的 fruit，fruiting bodies 是蕈類的子實體，和水果的味道無關；(C) 第 1 段說歐洲人把松露當珍饈，也當藥材，原文沒有說現在只用來做菜。",
+  "map": [
+   [
+    "expensive",
+    "expensive"
+   ],
+   [
+    "difficult to find",
+    "difficult to find"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "glass jars",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "fruit",
+    "p": 1
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz100_40",
@@ -9748,7 +9882,32 @@
   "answer": "C",
   "accuracyRate": 61,
   "discrimination": 43,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段說動物實驗仍有必要，但每年用掉 5,000 萬到 1 億隻動物；第 2 段說各國實際用的動物數量；第 3 段說歐洲正在限制實驗動物的數量，推薦替代方法和公開研究結果；第 4 段說歐洲的新措施應該能減少實驗用的動物。全文要說的是應該更努力減少實驗動物的數量，所以是 (C)。(D) 照抄第 3 段的 research results，分享研究結果只是減少動物數量的方法之一，過於狹隘；(B) 第 4 段說動物實驗需要繼續下去，作者沒有主張禁止，偏離主題；(A) 文章沒有談怎麼確保實驗成功，偏離主題。",
+  "trap": [
+   {
+    "o": "D",
+    "t": "research results",
+    "p": 3
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   }
+  }
  },
  {
   "id": "Rz100_41",
@@ -9767,7 +9926,40 @@
   "answer": "D",
   "accuracyRate": 46,
   "discrimination": 43,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Japan and China have even less comprehensive data than America."
+   }
+  ],
+  "qtype": "是非",
+  "note": "這一題答對率只有 46%，錯誤選項都照抄第 2 段的字，要逐項回原文核對。判斷步驟：[1] 第 2 段最後一句說日本和中國的資料比美國還不完整（less comprehensive data），選項換成日本每年使用的實驗動物數量資料有限，所以是 (D)；[2] (A) 照抄 1.1 million，但原文接著說這個數字會讓人誤解，因為美國沒有把小鼠和大鼠算進去，實際的數字要高得多，選項加了 only，和原文相反；[3] (B) 照抄 mice and rats，原文說歐洲用的動物大多是小鼠和大鼠，選項說反了；[4] (C) 照抄 China，原文沒有提到英國，也沒有比較英國和中國。",
+  "map": [
+   [
+    "less comprehensive data",
+    "limited data"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "1.1 million",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "mice and rats",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "China",
+    "p": 2
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz100_42",
@@ -9786,7 +9978,34 @@
   "answer": "B",
   "accuracyRate": 75,
   "discrimination": 56,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "such as using human tissue or computer models"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說動物實驗的替代方法，例如使用人體組織或電腦模型（computer models），所以是 (B)。(D) 照抄 tissue，原文說的是人體組織（human tissue），選項換成死去動物的組織，對的字放錯了對象；(A) 照抄第 2 段的 statistics，那是美國官方統計實驗動物的數量，不是替代方法；(C) 原文沒有提到把 DNA 植入動物。",
+  "map": [
+   [
+    "computer models",
+    "Computer models"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "Tissue",
+    "p": 3
+   },
+   {
+    "o": "A",
+    "t": "Statistic",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz100_43",
@@ -9805,7 +10024,22 @@
   "answer": "A",
   "accuracyRate": 62,
   "discrimination": 67,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "If their findings do not fit the hypothesis being tested, the work never sees the light of day."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說目前科學家常常只分享成功的實驗結果，如果研究發現不符合要驗證的假設，這項研究就永遠不會公開（never sees the light of day）。see the light of day 是首次出現、公之於世的意思，選項換成不會向大眾公開，所以是 (A)。(B) 做成教材、(C) 收集起來日後出版、(D) 不從研究題目清單上移除，原文都沒有提到；原文接著說這種做法會讓失敗的實驗不斷重複，可見失敗的結果並沒有公開。",
+  "map": [
+   [
+    "never sees the light of day",
+    "not revealed to the public"
+   ]
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz100_44",
@@ -10005,7 +10239,33 @@
   "answer": "B",
   "accuracyRate": 39,
   "discrimination": 30,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The doctorate of philosophy as it exists today originated at Humboldt University."
+   },
+   {
+    "p": 1,
+    "t": "The German practice was later adopted by American and Canadian universities"
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 39%，題目問現代授予博士學位的做法從哪個國家開始，原文沒有直接寫國名。判斷步驟：[1] 第 1 段說第一個哲學博士學位 1150 年在巴黎頒發，但接著用 but 說這個學位到 19 世紀初才取得現代的地位，所以巴黎頒發的不是現代的做法，(A) 法國排除；[2] 下一句說現今的博士學位起源於洪堡大學（Humboldt University），再下一句把這套做法稱為 The German practice，可見洪堡大學在德國；[3] 美國和加拿大的大學是後來（later）採用這套做法，(C)、(D) 排除。所以是 (B)。",
+  "map": [
+   [
+    "German",
+    "Germany"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "Canad",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz100_49",
@@ -10024,7 +10284,28 @@
   "answer": "D",
   "accuracyRate": 62,
   "discrimination": 58,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Even Japan, where the number of young people is shrinking, has churned out about 46% more PhDs."
+   }
+  ],
+  "qtype": "字義",
+  "note": "churn out 是大量產出、快速生產的意思。這一句前面一路說各國博士人數增加，Other countries are catching up，接著用 Even 說連年輕人口減少的日本，博士也多了大約 46%，所以 churned out 是產出，是 (D)。(B) 照抄第 3 段的 warn，提出警告的是研究人員；(C) 照抄第 3 段的 demand，原文說博士的供給超過需求；(A) 失敗，和多了 46% 的博士接不上。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "Warn",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "Demand",
+    "p": 3
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rz100_50",
@@ -10043,7 +10324,47 @@
   "answer": "D",
   "accuracyRate": 51,
   "discrimination": 58,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Statistics show that five years after receiving their degrees, more than 60% of PhDs in Slovakia and more than 45% in Belgium, the Czech Republic, Germany, and Spain are still on temporary contracts."
+   }
+  ],
+  "qtype": "推論",
+  "note": "這一題答對率只有 51%，要把第 3 段的數字換算成選項的說法。判斷步驟：[1] 原文說取得學位五年後，斯洛伐克超過 60% 的博士仍是約聘（temporary contracts），西班牙是超過 45%；[2] 約聘的比例越高，找到長期工作的比例就越低，所以五年後在斯洛伐克比在西班牙更難找到長期工作，是 (D)。(B) 照抄 German，德國五年後仍有超過 45% 是約聘，不可能大多數一畢業就有長期工作；(A) 照抄 Austria，原文說奧地利約三分之一的博士從事和學位無關的工作，沒有說他們不受鼓勵到大學以外工作；(C) 照抄 America，原文說美國新增的教授職位只有 16,000 個，接著說研究工作的情形也差不多，兩者都難找，看不出教職比較容易。",
+  "map": [
+   [
+    "five years after receiving their degrees",
+    "five years after graduation"
+   ],
+   [
+    "Slovakia",
+    "Slovakia"
+   ],
+   [
+    "Spain",
+    "Spain"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Austria",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "German",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "America",
+    "p": 3
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz100_51",
@@ -10062,7 +10383,11 @@
   "answer": "A",
   "accuracyRate": 54,
   "discrimination": 68,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "態度",
+  "note": "第 2 段說二次大戰以後各國博士人數大量增加；第 3 段一開頭就說研究人員提出警告，博士的供給遠遠超過需求，接著舉出教職太少、多年仍是約聘、從事和學位無關的工作等數字；第 4 段最後說，有些人開始懷疑念博士是不是好的選擇。作者對博士人數增加感到憂心，所以是 (A)。(B) 支持、(D) 樂觀，和第 3 段的警告與數字相反；(C) 漠不關心，作者用了兩段舉證說明供過於求的問題，並不是不在意。",
+  "cat": "推論題"
  },
  {
   "id": "Rz99_36",
@@ -10081,7 +10406,26 @@
   "answer": "D",
   "accuracyRate": 55,
   "discrimination": 43,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The Mint will issue four presidential US $1 coins a year through 2016."
+   },
+   {
+    "p": 2,
+    "t": "The George Washington coin is the first to be released. John Adams, Thomas Jefferson and James Madison coins will come out later this year."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 55%，題目問到 2007 年底總共排定發行幾枚，要自己算。判斷步驟：[1] 第 1 段說這篇報導刊登在 2007 年 2 月，所以 this year 是 2007 年；[2] 第 2 段說華盛頓硬幣是第一枚，約翰·亞當斯、傑佛遜和麥迪遜的硬幣今年稍後推出，1＋3＝4；[3] 同一段也說鑄幣局每年發行四枚（four … a year），兩處算出來一樣。所以是 (D)。選 (A) 的是只算了 2 月已經發行的華盛頓硬幣，漏了 later this year 那三枚。",
+  "map": [
+   [
+    "four",
+    "Four"
+   ]
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz99_37",
@@ -10100,7 +10444,33 @@
   "answer": "B",
   "accuracyRate": 77,
   "discrimination": 47,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The gold-colored coin is the first in a new series by the U.S. Mint to honor former U.S. presidents."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說這個新系列是美國鑄幣局為了紀念（honor）歷任美國總統推出的，第 4 段又說總統必須過世滿兩年才能上硬幣，所以選項說紀念已故的（late）美國總統，是 (B)。(D) 照抄 dollar bills，民眾用舊紙鈔兌換新硬幣，是發行當天發生的事，不是發行的目的；(C) 民眾到火車站兌換硬幣，和吸引搭火車通勤的人無關；(A) 原文沒有說是應民眾的要求發行。",
+  "map": [
+   [
+    "honor",
+    "In memory of"
+   ],
+   [
+    "U.S. presidents",
+    "U.S. presidents"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "dollar bills",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz99_38",
@@ -10119,7 +10489,34 @@
   "answer": "A",
   "accuracyRate": 73,
   "discrimination": 47,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Each coin will show a different president on its face, or heads side. It will also show the president’s name."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說每一枚硬幣的正面（heads side）是一位不同的總統，也會刻上這位總統的名字（the president’s name），所以是 (A)。(B) 和 (C) 都照抄同一段的字，但位置不對：發行年份刻在硬幣邊緣（edge），自由女神像在另一面（The other side）；(D) 原文說邊緣刻的是傳統的標語（mottos），不是英文諺語，而且也不在正面。",
+  "map": [
+   [
+    "president’s name",
+    "name of a U.S. president"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "year",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "Statue of Liberty",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz99_39",
@@ -10138,7 +10535,28 @@
   "answer": "C",
   "accuracyRate": 62,
   "discrimination": 67,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "a president cannot appear on a coin when he is still alive."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 4 段說總統在世的時候不能出現在硬幣上。考試當年（2010 年）的美國總統是歐巴馬，他還在世，所以還沒有發行他的硬幣，是 (C)。(A) 照抄 Gerald Ford，原文說福特是排在最後的一位，硬幣依任職先後每年發行四枚，從 2007 年發到 2016 年，不會在 2008 年就輪到他；(D) 照抄 two years，原文說的是總統過世滿兩年才能上硬幣，不是卸任兩年後；(B) 報導說這系列會一直發行到 2016 年，不可能已經全部發行完畢。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "Gerald Ford",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "two years",
+    "p": 4
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz99_40",
@@ -10157,7 +10575,26 @@
   "answer": "C",
   "accuracyRate": 65,
   "discrimination": 48,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "giving away papers to young readers in an effort to turn them into regular customers."
+   },
+   {
+    "p": 2,
+    "t": "Newspaper readership in France has been especially low among young people."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說法國政府把報紙免費送給年輕讀者，希望把他們變成固定的訂戶（regular customers）；第 2 段接著說法國年輕人閱讀報紙的比例（readership）特別低。政府推出這個計畫，就是要提高看報的人數，所以是 (C)。(B) 討年輕人歡心，原文說的是把年輕人變成訂戶，不是爭取他們的認同；(A) 對抗經濟衰退、(D) 提高識字率，原文都沒有提到。",
+  "map": [
+   [
+    "readership",
+    "readership"
+   ]
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz99_41",
@@ -10176,7 +10613,38 @@
   "answer": "D",
   "accuracyRate": 56,
   "discrimination": 59,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "French readers, young and old, already have plenty of free options from which to choose"
+   },
+   {
+    "p": 4,
+    "t": "Some bloggers said the new program might hold the most appeal to the few young people who do already read, and buy, newspapers."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 4 段說法國讀者本來就有很多免費的選擇，網站和市中心發送的免費報紙都有；有些網誌作者也說，這個計畫最吸引的，可能是本來就會買報的少數年輕人。也就是說，免費報紙到處都是，光是免費，不足以吸引新的讀者，所以是 (D)。(B) 照抄第 2 段的 readership，原文只有法國的數字，沒有和其他國家比較；(C) 照抄 young people，原文的研究說年輕人看付費報紙的比例下降，沒有說他們對時事沒有興趣；(A) 第 3 段的 Schwartzenberg 對這個計畫有疑慮，不是每個人都覺得它有創意。",
+  "map": [
+   [
+    "free",
+    "free"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "readership",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "young people",
+    "p": 2
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz99_42",
@@ -10195,7 +10663,11 @@
   "answer": "A",
   "accuracyRate": 39,
   "discrimination": 54,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "態度",
+  "note": "這一題答對率只有 39%，判斷步驟：[1] Schwartzenberg 的看法都在第 3 段，原文說他對這個計畫有很強的疑慮（strong reservations），have reservations about 是有保留、有疑慮的意思；[2] 他接著說報紙應該從讀者身上增加收益，而不是送報紙，又說這只會讓大家更相信報紙應該免費，是非常糟糕的觀念；[3] 他不相信這個計畫行得通，態度是懷疑的，所以是 (A) Skeptical。(B) 熱衷投入、(C) 樂觀，都和他的批評相反；(D) 漠不關心，他明確提出反對的理由，並不是不在意。",
+  "cat": "推論題"
  },
  {
   "id": "Rz99_43",
@@ -10214,7 +10686,34 @@
   "answer": "D",
   "accuracyRate": 79,
   "discrimination": 38,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 5,
+    "t": "the government said the primary channel for the ads would be the Internet."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 5 段說法國政府要用廣告活動宣傳這個計畫，廣告主要的管道會是網路（the Internet），所以是 (D)。(B) 照抄第 4 段的 bloggers，網誌作者是對計畫發表看法的人，不是政府打廣告的管道；(C) 照抄 newspapers，計畫要推廣的是報紙，原文說宣傳的管道主要是網路，不是報紙；(A) 原文沒有提到雜誌。",
+  "map": [
+   [
+    "the Internet",
+    "the Internet"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "blog",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "newspapers",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz99_44",
@@ -10233,7 +10732,38 @@
   "answer": "C",
   "accuracyRate": 77,
   "discrimination": 48,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "which sells for as much as US $50 per quarter-pound."
+   },
+   {
+    "p": 2,
+    "t": "This isn’t particularly surprising"
+   }
+  ],
+  "qtype": "指涉",
+  "note": "第 2 段第一句說 This 並不令人意外，因為全世界一年只有大約 500 磅。供應量少可以解釋的是價錢貴，所以 This 指的是第 1 段最後說的麝香貓咖啡四分之一磅要價 50 美元，是 (C)。三個錯誤選項都照抄第 1 段的字：(A) Civet Coffee 是這種咖啡本身，供應少解釋的是它的價錢，不是咖啡；(B) 藍山和 (D) 可娜是拿來對照的高檔咖啡，第 2 段談的是麝香貓咖啡，而且原文也沒有提到可娜的味道。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "Civet Coffee",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "Blue Mountain",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "Kona",
+    "p": 1
+   }
+  ],
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rz99_45",
@@ -10252,7 +10782,38 @@
   "answer": "A",
   "accuracyRate": 51,
   "discrimination": 48,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "approximately 500 pounds a year of Kopi Lowak constitute the entire world supply."
+   },
+   {
+    "p": 2,
+    "t": "In fact, it’s not the plants that are rare."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 51%，(B) 是最大的陷阱。判斷步驟：[1] 第 2 段說麝香貓咖啡貴並不意外，因為全世界一年的供應量（supply）只有大約 500 磅，所以貴是因為量少，是 (A)；[2] (B) 說咖啡樹稀少，但原文接著說 it’s not the plants that are rare，稀少的不是咖啡樹，而是麝香貓的糞便，選項說的正好是原文否定的；[3] (C) 照抄第 3 段的 ripeness，原文說椰子狸會挑最成熟的果實，沒有說咖啡豆要很久才成熟；(D) 照抄第 1 段的 experts，咖啡專家是願意花錢買咖啡的人，不是生產咖啡豆的人。",
+  "map": [
+   [
+    "supply",
+    "supply"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "ripe",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "experts",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz99_46",
@@ -10271,7 +10832,33 @@
   "answer": "D",
   "accuracyRate": 66,
   "discrimination": 63,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "A chemical substance in the digestive system of the palm civet causes some changes to the beans to give them a unique flavor."
+   },
+   {
+    "p": 3,
+    "t": "Another possible reason is that palm civets have an unfailing instinct for picking the coffee cherries at the peak of their ripeness."
+   }
+  ],
+  "qtype": "段落功能",
+  "note": "第 3 段先介紹椰子狸，接著說牠們吃下整顆咖啡果實，咖啡豆在體內發生變化（changes），最後再補充另一個可能的原因：椰子狸會挑最成熟的果實。整段在說咖啡果實怎麼經過椰子狸變成麝香貓咖啡豆，所以是 (D)。(C) 照抄 digestive system，原文只說消化系統裡有一種化學物質，沒有說是哪些化學物質，只講到這一段的一個細節；(A) 椰子狸愛吃咖啡果實只是一句話，這一段的重點不是牠們為什麼喜歡；(B) 原文沒有說麝香貓咖啡主要在哪裡採收，第 4 段說的是在哪裡銷售。",
+  "map": [
+   [
+    "changes",
+    "change"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "digestive system",
+    "p": 3
+   }
+  ],
+  "cat": "主旨題"
  },
  {
   "id": "Rz99_47",
@@ -10290,7 +10877,44 @@
   "answer": "B",
   "accuracyRate": 47,
   "discrimination": 51,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "palm civets have an unfailing instinct for picking the coffee cherries at the peak of their ripeness."
+   }
+  ],
+  "qtype": "是非",
+  "note": "這一題答對率只有 47%，三個錯誤選項都照抄原文的字，要逐項回原文核對。判斷步驟：[1] 第 3 段最後說椰子狸天生就能準確挑出最成熟的咖啡果實，instinct 是本能，選項換成不知怎麼就是知道（somehow know）果實成熟的時機，所以是 (B)；[2] (A) 照抄 outer，原文說椰子狸把整顆果實吃下去（eat the fruit whole），只是只消化外層的果肉，選項說只吃外層，和原文不同；[3] (C) 照抄 Southeast Asia，那是椰子狸的原生地，第 4 段說麝香貓咖啡大部分在日本銷售；[4] (D) 照抄 Kona，第 1 段說可娜和藍山是高品質、價錢驚人的咖啡，最貴的是麝香貓咖啡，也沒有說它們品質普通。",
+  "map": [
+   [
+    "instinct",
+    "somehow know"
+   ],
+   [
+    "ripeness",
+    "ripens"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "outer",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "Southeast Asia",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "Kona",
+    "p": 1
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz99_48",
@@ -10309,7 +10933,47 @@
   "answer": "A",
   "accuracyRate": 63,
   "discrimination": 68,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "His father was a German who joined the Nazi party in World War II, while his mother was Polish."
+   },
+   {
+    "p": 1,
+    "t": "As a result, he constantly suffered contradictory feelings"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說葛拉斯的父親是加入納粹黨（Nazi party）的德國人，母親是波蘭人（Polish），因此（As a result）他一直承受矛盾的感受，所以是 (A)。三個錯誤選項都照抄同一段的字：(B) 照抄 political，原文的 political activism 是他後來譴責納粹的政治行動，不是夾在兩個政黨之間；(C) 照抄 poet，原文沒有說他受訓當藝術家卻想當詩人；(D) 照抄 talents，第 1 段說他的才華展現在很多領域，這是優點，不是讓他煩惱的原因。",
+  "map": [
+   [
+    "Nazi",
+    "Nazi"
+   ],
+   [
+    "Polish",
+    "Pole"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "political",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "poet",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "talents",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz99_49",
@@ -10328,7 +10992,43 @@
   "answer": "B",
   "accuracyRate": 65,
   "discrimination": 69,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "His commitment to the peace movement and the environmental movement as well as his unfailing quest for justice"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段最後說，葛拉斯投入和平運動（peace movement），始終不懈地追求正義（justice），因而贏得「國家的良心」的美譽，選項把 commitment 和 quest 換成大力倡導（a strong advocate），所以是 (B)。(D) 照抄 Nazi party，加入納粹黨的是他的父親；(A) 照抄 victimized，原文說他覺得自己是受害的波蘭人，也覺得自己有傷害波蘭人的罪，並不是他真的傷害了波蘭人；(C) 照抄 Poles，原文沒有說他用詩表達對波蘭人的同情。",
+  "map": [
+   [
+    "peace",
+    "peace"
+   ],
+   [
+    "justice",
+    "justice"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "victimized",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "Poles",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "Nazi party",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz99_50",
@@ -10347,7 +11047,43 @@
   "answer": "C",
   "accuracyRate": 57,
   "discrimination": 57,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "he was inspired during a trip to Italy to write a poem with his watercolor brush directly on one of his paintings."
+   },
+   {
+    "p": 2,
+    "t": "Before long, a collection of his “water poems” was born."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說葛拉斯在義大利旅行時得到靈感，用水彩筆直接把詩寫在畫上，不久就誕生了一本「水彩詩」詩集。他在這趟旅行發展出寫詩的新形式，所以是 (C)。(A) 照抄 inspired，原文說他得到靈感，沒有說是受到義大利某位藝術大師啟發；(B) 照抄 simple，原文說他描繪喜愛的東西，但沒有說這是在義大利開始的新興趣；(D) 照抄第 1 段的 Nazis，納粹和波蘭人的衝突是他內心的煎熬，和義大利之行無關。",
+  "map": [
+   [
+    "poem",
+    "poems"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "inspired",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "simple",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "Nazis",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz99_51",
@@ -10366,7 +11102,39 @@
   "answer": "D",
   "accuracyRate": 55,
   "discrimination": 62,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "When he cannot find words to convey his thoughts, painting helps him find the words to express himself."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說葛拉斯找不到文字表達想法的時候，繪畫能幫他找到表達自己的字句，選項換成他詩裡的想法藉由畫作表達得更完整，所以是 (D)。(A) 照抄第 1 段的 Nazis，原文說他譴責納粹，沒有說他大部分的詩描寫納粹的殘暴；(B) 照抄 Nobel，他得的是諾貝爾文學獎，不是和平獎；(C) 照抄 objects，原文說他描繪生活中喜愛的東西，像是甜瓜、蔬菜，詩畫的題材都來自真實世界，選項說反了。",
+  "map": [
+   [
+    "painting helps him",
+    "with the help of his paintings"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Nazis",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "Nobel",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "objects",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rzref95_36",
@@ -10385,7 +11153,25 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Our environment contains such stressors as noise, crowding, time demands at home and work"
+   },
+   {
+    "p": 1,
+    "t": "These changes include the physiological changes that occur in growing into adolescence"
+   },
+   {
+    "p": 1,
+    "t": "chronic lack of sleep."
+   }
+  ],
+  "qtype": "未提及",
+  "note": "題目問哪一個不會造成壓力。第 1 段提到的壓力源可以對上三個選項：(B) 長大，原文是 growing into adolescence，進入青春期的生理變化；(C) 行程很滿，原文是 time demands at home and work，家裡和工作上的時間壓力；(D) 住在吵雜的社區，原文是 noise，噪音。原文提到的是長期睡眠不足（chronic lack of sleep），沒有提到睡太多，所以是 (A)。(A) 的 Oversleeping 是睡太多，和原文的睡眠不足方向相反，不要看到 sleep 就以為原文提過。",
+  "cat": "細節題",
+  "sub": "未提及"
  },
  {
   "id": "Rzref95_37",
@@ -10404,7 +11190,43 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "How you interpret, perceive or label events going on in your environment"
+   },
+   {
+    "p": 2,
+    "t": "will determine whether these perceptions will relax you or serve as a source of stress."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說你怎麼解讀、看待（perceive）周遭發生的事情，決定了這些看法會讓你放鬆，還是成為壓力的來源（a source of stress）。也就是說，把外在世界看成充滿壓力，思考過程就會成為壓力的來源，所以是 (C)。三個錯誤選項都照抄同一段的字：(A) 照抄 self-talk，原文說的是怎麼解讀內心對話，不是失去內心對話的能力；(B) 照抄 panic button，按下警報按鈕才會有壓力，選項說忘了按，方向反了；(D) 照抄 changes，原文說大腦會解讀對環境變化的內心對話，沒有說沒注意到變化會造成壓力。",
+  "map": [
+   [
+    "perceive",
+    "perceive"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "self-talk",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "panic button",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "changes",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rzref95_38",
@@ -10423,7 +11245,33 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Experts estimate that people can think up to 200 words per minute."
+   },
+   {
+    "p": 2,
+    "t": "Our brain interprets the “self-talk” about changes in our environment"
+   }
+  ],
+  "qtype": "指涉",
+  "note": "第 2 段先說思考過程可能是壓力來源，接著說人每分鐘可以想到多達 200 個字，再說大腦會解讀對環境變化的 self-talk。從前後文看，self-talk 是腦子裡想的話，也就是對發生的事情的想法，所以是 (D)。(B) 照抄 talk，self-talk 加了引號，是比喻腦中的想法，不是真的開口跟自己說話；(C) 照抄 environment，回應環境是解讀之後的事，self-talk 是對環境變化的想法本身；(A) 記得某件事，和原文說的解讀、看待事情接不上。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "talk",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "environment",
+    "p": 2
+   }
+  ],
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rzref95_39",
@@ -10442,7 +11290,45 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "標題",
+  "note": "第 1 段說壓力通常有三個來源：環境、身體和思考過程，接著說明環境和身體；第 2 段說明第三個來源，也就是思考過程。全文都在談壓力從哪裡來，所以是 (B)。(C) 照抄第 2 段的 self-talk，內心對話只是三個來源中的一個，過於狹隘；(D) 照抄第 1 段的 unavoidable，壓力無法避免只是開頭第一句，過於狹隘；(A) 照抄第 1 段的 manager，原文只說怎麼回應壓力是關鍵，全文沒有教怎麼管理壓力，偏離主題。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "Manage",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "Self-talk",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "unavoidable",
+    "p": 1
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   }
+  }
  },
  {
   "id": "Rzref95_40",
@@ -10461,7 +11347,38 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "Both can change color"
+   },
+   {
+    "p": 1,
+    "t": "This is the trait that has made chameleons and anoles popular as pets."
+   }
+  ],
+  "qtype": "細節",
+  "note": "原文說兩者都會變色（change color），接著說正是這個特點（This is the trait），讓變色龍和綠變色蜥成了受歡迎的寵物，This 指的就是前一句的變色，所以是 (B)。(C) 照抄 insects，吃昆蟲是兩者的共同點，但原文沒有說這是受歡迎的原因；(D) 照抄 pets，原文說好幾代的美國孩子都知道變色龍這個名字，沒有說牠們受歡迎是因為向來就當寵物養；(A) 原文沒有說牠們長得可愛。",
+  "map": [
+   [
+    "change color",
+    "change color"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "insects",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "pets",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rzref95_41",
@@ -10480,7 +11397,34 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "it is determined by factors such as light and temperature or by emotions such as fright, triumph, or defeat."
+   }
+  ],
+  "qtype": "細節",
+  "note": "原文說綠變色蜥變色取決於光線和溫度等因素，或是害怕、得意、挫敗等情緒（emotions），所以是 (B)。(C) 照抄 background，原文用 is not, as many people think 說得很清楚，綠變色蜥變色和背景的顏色無關，這是很多人的誤解；(A) 照抄 insects，原文只說牠們吃昆蟲，沒有說變色是為了騙昆蟲；(D) 原文沒有提到嚇走天敵。",
+  "map": [
+   [
+    "emotions",
+    "emotion"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "background",
+    "p": 1
+   },
+   {
+    "o": "A",
+    "t": "insects",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rzref95_42",
@@ -10499,7 +11443,34 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "The chameleon lays from two to forty eggs at a time; the anole only a single egg."
+   }
+  ],
+  "qtype": "細節",
+  "note": "原文先說兩者有很多共同點，後面再列出差別：分布的地方不同，產蛋的數量也不同，變色龍一次產兩顆到四十顆蛋（eggs），綠變色蜥一次只產一顆，所以是 (D)。(B) 照抄 change color，原文說兩者都會變色，這是共同點，只是程度不同；(C) 照抄 pets，受歡迎是兩者都有的；(A) 兩者都主要吃昆蟲，吃的東西相同。",
+  "map": [
+   [
+    "eggs",
+    "eggs"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "change color",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "pets",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rzref95_43",
@@ -10518,7 +11489,38 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "under appropriate conditions, they will establish the same social system and behavior in the laboratory that they display in their natural environment."
+   }
+  ],
+  "qtype": "細節",
+  "note": "原文最後說，綠變色蜥作為實驗動物的特別價值，在於只要條件合適，牠們在實驗室裡會建立起和自然環境中一樣的社會體系和行為（social system and behavior），研究人員就能在實驗室裡觀察牠們的社會行為，所以是 (C)。(A) 照抄 single egg，一次只產一顆蛋是和變色龍的差別，不是實驗價值；(B) 照抄 hormones，原文說綠變色蜥適合研究行為和荷爾蒙的交互作用，沒有說牠們有特別的荷爾蒙；(D) 原文說綠變色蜥變色的能力比較有限，但這和實驗價值無關。",
+  "map": [
+   [
+    "social",
+    "social"
+   ],
+   [
+    "behavior",
+    "behavior"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "single egg",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "hormones",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rzref95_44",
@@ -10537,7 +11539,43 @@
   "answer": "C",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "In exchange for their gold, the depositors received “goldsmith’s notes.”"
+   },
+   {
+    "p": 2,
+    "t": "These notes were the first bank notes."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說人們把黃金交給倫敦的金匠保管；第 2 段說存黃金的人換到「金匠票據」（goldsmith’s notes），這些票據就是最早的鈔票，後來還當作貨幣使用；第 3 段說金匠把多發的票據借給別人收利息。存款、發行鈔票、放款都是金匠開始做的，所以是 (C)。三個錯誤選項都照抄第 1 段的字：(A) 國王和 (B) 國會是內戰的雙方，人們就是怕黃金落到他們手裡才交給金匠；(D) 倫敦市民是把黃金交給金匠的人，不是經營銀行業務的人。",
+  "map": [
+   [
+    "goldsmith",
+    "Goldsmith"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "king",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "Parliament",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "London",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rzref95_45",
@@ -10556,7 +11594,34 @@
   "answer": "B",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "who naturally had their own methods of safe-keeping."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說人們把黃金交給金匠，因為金匠自然有他們自己的保管方法（methods of safe-keeping），選項換成金匠能把黃金保管好，所以是 (B)。(A) 照抄第 2 段的 bank notes，金匠票據是人們交出黃金以後才拿到的，是結果，不是原因；(D) 照抄 Parliament，原文說倫敦是國會的大本營，沒有說金匠受到國會支持，人們把黃金交給金匠，正是不想讓任何一方拿走；(C) 原文沒有說金匠能讓黃金增值。",
+  "map": [
+   [
+    "safe-keeping",
+    "keep it safe"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "bank notes",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "Parliament",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rzref95_46",
@@ -10575,7 +11640,34 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "they proved to be very popular with their recipients, as gold was heavy and cumbersome."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說拿到票據的人都很喜歡，因為黃金又重又不方便攜帶（heavy and cumbersome），反過來說，票據比較容易攜帶，所以是 (A)。(C) 照抄 currency，票據是先受到歡迎，不久才開始當作貨幣使用，原文也沒有說這時已經合法；(D) 照抄第 3 段的 interest，收利息的是借錢給別人的金匠，不是拿著票據的人；(B) 原文沒有說拿票據是一種流行。",
+  "map": [
+   [
+    "heavy and cumbersome",
+    "easier to carry"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "currency",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "interest",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rzref95_47",
@@ -10594,7 +11686,36 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "they began to issue more notes than the gold they had."
+   },
+   {
+    "p": 3,
+    "t": "This practice was questioned but never tested in court."
+   },
+   {
+    "p": 3,
+    "t": "this practice of creating money out of thin air was effectively made legal with the founding of the Bank of England."
+   }
+  ],
+  "qtype": "推論",
+  "note": "原文沒有直接寫英格蘭銀行為什麼成立，要從第 3 段推。判斷步驟：[1] 金匠發行比手上黃金還多的票據，再把這些錢借出去收利息，這種做法受到質疑，合不合法一直沒有定論；[2] 1694 年英格蘭銀行成立以後，憑空創造金錢的做法才合法化，等於把這種做法納入正式成立的銀行，不再是金匠私下賺取有疑慮的利潤；[3] 四個選項中，只有 (D) 防止金匠賺取不法利潤和這個脈絡相合。(B) 照抄第 1 段的 London，銀行借出去的是新創造出來的錢，不是黃金；(C) 照抄第 2 段的 currency，票據本來就以黃金作擔保，原文沒有說要停止用黃金當貨幣；(A) 原文沒有提到國家收入。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "London",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "currency",
+    "p": 2
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rzref95_48",
@@ -10613,7 +11734,38 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "One question that interests scholars is why these cities just disappeared."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說學者感興趣的一個問題，是這些城市為什麼就這樣消失了（why these cities just disappeared），後面又說學者對當時發生了什麼事情看法不一，可見這個問題讓學者困惑，所以是 (A)。(B) 照抄 ceased，原文說的是城市不再是重要的中心，馬雅文化延續了下來，至今仍然存在，選項說文化消失，和原文相反；(D) 照抄 one single，馬雅文明不是統一的帝國，這是原文直接說明的事實，不是學者困惑的問題；(C) 原文沒有討論馬雅文化為什麼沒有傳出中美洲。",
+  "map": [
+   [
+    "cities",
+    "cities"
+   ],
+   [
+    "disappeared",
+    "disappeared"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "ceased",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "one single",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rzref95_49",
@@ -10632,7 +11784,38 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Another factor considered is overpopulation."
+   },
+   {
+    "p": 3,
+    "t": "the Mayan population reached up to 200 people per square kilometer"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段說另一個納入考量的因素是人口過多（overpopulation），馬雅的人口密度最高達到每平方公里 200 人，選項換成人口稠密（Dense population），所以是 (A)。(B) 照抄第 2 段的 tropical jungles，城市淹沒在叢林裡是消失以後的事，不是原因，第 4 段反而說熱帶森林幾乎沒有剩下；(D) 照抄第 4 段的 environment，原文說的是破壞環境（destruction），選項的過度保護說反了；(C) 原文說的是城邦之間互相攻打，不是其他文明入侵。",
+  "map": [
+   [
+    "population",
+    "population"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "tropical jungle",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "environment",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rzref95_50",
@@ -10651,7 +11834,38 @@
   "answer": "D",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Overpopulation led to overuse of the tropical forest, the source of their food."
+   },
+   {
+    "p": 4,
+    "t": "Research from pollen indicates that there was almost no tropical forest left."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 3 段說人口過多導致熱帶森林過度利用，而森林是他們糧食的來源（the source of their food）；第 4 段說熱帶森林幾乎沒有剩下。糧食的來源用光了，結果就是糧食短缺，所以是 (D)。(B) 照抄 overpopulation，人口過多是森林過度利用的原因，不是結果，選項把因果倒過來了；(C) 照抄 wars，城邦之間的戰爭是另一個因素，原文沒有說是森林過度利用造成的；(A) 第 4 段說的是缺水和乾旱，和洪水相反。",
+  "map": [
+   [
+    "food",
+    "food"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "Overpopulation",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "wars",
+    "p": 3
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rzref95_51",
@@ -10670,7 +11884,40 @@
   "answer": "A",
   "accuracyRate": null,
   "discrimination": null,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "標題",
+  "note": "第 1 段介紹馬雅文明的成就和鼎盛時期；第 2 段提出問題：古典期以後，這些城市為什麼消失了；第 3、4 段說明戰爭、人口過多、資源過度利用和環境破壞等因素。全文的重點在馬雅城市的衰亡，所以是 (A)。(B) 馬雅文明的興起只在第 1 段，過於狹隘；(D) 照抄第 1 段的 Classic Period，古典期的發展也只在第 1 段，過於狹隘；(C) 照抄第 2 段的 tropical jungles，叢林只是淹沒了消失的城市，文章不是在談叢林和馬雅文明的關係，偏離主題。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "Tropical",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "Classic Period",
+    "p": 1
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "B": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   },
+   "C": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   }
+  }
  },
  {
   "id": "Rz98_36",
@@ -10689,7 +11936,37 @@
   "answer": "C",
   "accuracyRate": 82,
   "discrimination": 36,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "to expose girls to expanding opportunities for women in the workplace."
+   },
+   {
+    "p": 2,
+    "t": "The program offers millions of girls a first-hand view of the many career opportunities available in their futures."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說這個活動的目的，是讓女孩看到女性在職場上越來越多的機會（opportunities）；第 2 段接著說，活動讓女孩親眼看到未來可以選擇的各種職業（career opportunities），選項把 opportunities 換成 possibilities，所以是 (C)。(A) 照抄第 3 段的 top，原文說數學、科學通往薪水最高的工作，是在說明男女的差距，活動的目標是給女孩信心和啟發，不是鼓勵她們追求高薪；(B) 和 (D) 看活動名稱「帶女兒上班」就猜和媽媽有關，但原文沒有提到陪媽媽或參觀媽媽的辦公室。",
+  "map": [
+   [
+    "opportunities",
+    "possibilities"
+   ],
+   [
+    "career",
+    "careers"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "top",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz98_37",
@@ -10708,7 +11985,29 @@
   "answer": "A",
   "accuracyRate": 74,
   "discrimination": 59,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "TOD had been criticized for excluding boys"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段說 TOD 曾經有人批評它把男孩排除在外（excluding boys），選項換成有人覺得這個活動對男孩不公平，所以是 (A)。(C) 照抄第 1 段活動名稱裡的 Daughters，原文沒有說批評的人是因為沒有女兒可以帶去上班；(B) 不喜歡小孩出現在職場、(D) 寧可讓女兒待在家裡，原文都沒有提到。",
+  "map": [
+   [
+    "boys",
+    "boys"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "daughters",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz98_38",
@@ -10727,7 +12026,23 @@
   "answer": "A",
   "accuracyRate": 69,
   "discrimination": 64,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "it was expanded in 2003 to include boys."
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 4 段說 TOD 在 2003 年擴大，把男孩也納入（include boys），所以是 (A)。(B) 第 3 段說女性的平均薪資只有男性的 73%，高階主管和科技領域的女性也遠遠偏少，男女在職場上並沒有一直受到平等對待；(C) 第 4 段引用 Gould 的話，說應該讓男孩知道當托育人員也是可以接受的選擇，照顧小孩不是只有女孩能做；(D) 第 3 段說男孩在課堂上得到比較多的鼓勵，選項說反了。",
+  "map": [
+   [
+    "include",
+    "include"
+   ]
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz98_39",
@@ -10746,7 +12061,29 @@
   "answer": "B",
   "accuracyRate": 46,
   "discrimination": 35,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "At school, boys often receive more encouragement in the classroom, especially in math, science and computer science"
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 46%，原文沒有用 because 直接說原因，要把第 3 段前後幾句連起來。判斷步驟：[1] 第 3 段說女性在高階主管職位和科技領域的人數遠遠偏少（underrepresented）；[2] 同一段前面說，在學校，男孩在數學、科學和電腦科學這些學科得到比較多的鼓勵（encouragement），而這些學科正是通往科技領域的路；[3] 反過來說，女孩在這些學科沒有得到同樣的鼓勵，所以是 (B)。(C) 照抄 paid，女性薪資比較低是同一段的另一個事實，原文沒有說這是她們很少進入科技領域的原因；(A) 原文沒有說女性對這些領域沒興趣；(D) 原文說的是鼓勵比較少，不是不准受教育。",
+  "map": [
+   [
+    "encourage",
+    "encouraged"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "paid",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz98_40",
@@ -10765,7 +12102,35 @@
   "answer": "B",
   "accuracyRate": 76,
   "discrimination": 48,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "主旨",
+  "note": "第 1 段說古埃及的假髮代表身分和地位；第 2 段說凱爾特人和參孫的長髮代表力量；第 3 段說古希臘的捲髮代表生活態度；第 4 段說龐克和 1960 年代女性用頭髮表達反抗。全文談的是頭髮在不同時代象徵什麼，所以是 (B)。(C) 照抄第 1 段的 artistry，假髮做工講究只是古埃及的一個細節，過於狹隘；(D) 當代的髮型只在第 4 段，過於狹隘；(A) 文章沒有談髮型的科學研究，偏離主題。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "art",
+    "p": 1
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   },
+   "D": {
+    "k": "過於狹隘",
+    "p": [
+     4
+    ]
+   }
+  }
  },
  {
   "id": "Rz98_41",
@@ -10784,7 +12149,34 @@
   "answer": "A",
   "accuracyRate": 39,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "The ancient Greek word for curls and locks is related to intriguing and tempting someone."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 39%，判斷步驟：[1] 第 3 段先說捲髮象徵改變、自由和生活的樂趣，這三個說法選項都沒有用；[2] 最後一句說古希臘文的捲髮這個字，和引起別人興趣、誘惑別人（tempting someone）有關，也就是吸引別人；[3] 選項換成 attract others，所以是 (A)。(B) 照抄第 1 段的 artistry，做工講究說的是古埃及的假髮；(D) 照抄第 1 段的 status，代表身分地位的也是古埃及人的外表，代表力量的是第 2 段的長髮，都不是古希臘的捲髮；(C) 原文沒有說捲髮是為了隱藏身分。",
+  "map": [
+   [
+    "tempting someone",
+    "attract others"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "artistry",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "status",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz98_42",
@@ -10803,7 +12195,29 @@
   "answer": "C",
   "accuracyRate": 84,
   "discrimination": 35,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "Women’s liberation was expressed in a short-cut, straight and simple hairstyle"
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段說 1960 年代的女性解放運動，透過剪短（short-cut）、直順、簡單的髮型來表達，選項換成她們把頭髮剪短，所以是 (C)。(A) 照抄第 2 段的 long hair，留長髮的是凱爾特人，而且長髮在女人身上代表生育能力，不是反抗；(B) 把頭髮染成嚇人顏色的是今天的龐克運動；(D) 原文沒有提到剃光頭。",
+  "map": [
+   [
+    "short",
+    "short"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "long hair",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz98_43",
@@ -10822,7 +12236,39 @@
   "answer": "D",
   "accuracyRate": 49,
   "discrimination": 62,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The only person who knew his secret was Delilah. However, she spied for the enemy and betrayed him."
+   }
+  ],
+  "qtype": "推論",
+  "note": "這一題答對率只有 49%，判斷步驟：[1] 第 2 段說參孫的力量來自他的長髮，唯一知道這個祕密（secret）的人是大利拉；[2] 大利拉替敵人當間諜，出賣他，剪掉了他的頭髮；[3] 如果參孫沒有把祕密告訴任何人，就沒有人知道要剪他的頭髮，他可能就不會落敗，所以是 (D)。(A) 照抄第 3 段的 curly hair，捲髮是古典希臘時期的流行，1960 年代流行的是直順的短髮，選項的 always 說得太絕對；(B) 照抄第 1 段的 Egypt，原文說古埃及人很重視外表，假髮做工講究，選項說反了；(C) 照抄第 4 段的 punk，原文沒有說龐克運動是歷史上最成功的運動之一。",
+  "map": [
+   [
+    "secret",
+    "secret"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "curly hair",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "Egypt",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "punk",
+    "p": 4
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz98_44",
@@ -10841,7 +12287,37 @@
   "answer": "C",
   "accuracyRate": 62,
   "discrimination": 56,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "目的",
+  "note": "第 1、2 段舉了三個孩子當志工的例子；第 3 段說全世界每年有數百萬個孩子幫助社區；第 4 段說不景氣時社區服務特別重要；第 5 段說當志工的孩子長大後更可能繼續做好事，最後直接對讀者說：拿起油漆刷、垃圾袋，幫助你的社區吧。全文是在鼓勵孩子參加志工活動，所以是 (C)。(A) 照抄第 3 段的 youth service，學校提供服務活動只是第 3 段的內容，作者並不是在向學校推薦，過於狹隘；(B) 照抄第 4 段的 charitable organizations，原文說的是孩子幫慈善機構補上缺口，不是要求慈善機構服務社區，偏離主題；(D) 文章沒有提出社區服務的替代方案，偏離主題。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "youth service",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "charit",
+    "p": 4
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "過於狹隘",
+    "p": [
+     3
+    ]
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rz98_45",
@@ -10860,7 +12336,34 @@
   "answer": "B",
   "accuracyRate": 62,
   "discrimination": 53,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Schools and parents also contribute to the rise in youth service."
+   }
+  ],
+  "qtype": "段落功能",
+  "note": "第 3 段的第二句是主題句：學校和家長也促成了青少年服務的增加（contribute to the rise），接著用 For example 說學校怎麼做，再用 on the other hand 說家長怎麼做。選項把 schools and parents 換成 families and schools，把 contribute to the rise 換成 help to make … popular，所以是 (B)。(A) 孩子越來越熱衷社區服務，只是這一段的開頭，接下來的內容都在說學校和家長的角色；(C) 照抄 teachers，原文說老師和家長都在鼓勵孩子，沒有比較孩子比較依賴誰；(D) 照抄第 2 段的 Nathan White，那是第 2 段的例子。",
+  "map": [
+   [
+    "contribute to the rise",
+    "help to make"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "teachers",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "Nathan White",
+    "p": 2
+   }
+  ],
+  "cat": "主旨題"
  },
  {
   "id": "Rz98_46",
@@ -10879,7 +12382,38 @@
   "answer": "C",
   "accuracyRate": 72,
   "discrimination": 51,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "many charitable organizations have experienced a significant drop in donations."
+   },
+   {
+    "p": 4,
+    "t": "Camille and other children who volunteer thousands of hours annually can fill in some of the gaps."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段說不景氣時，需要援助的人越來越多，慈善機構收到的捐款卻大幅減少，孩子當志工可以補上一部分的缺口（fill in some of the gaps），選項換成給慈善機構一些需要的幫助，所以是 (C)。(A) 照抄第 3 段的 activities，原文的 community service activities 是學校提供的服務活動，不是替學校活動募款；(D) 照抄第 3 段的 parents，家長和老師鼓勵孩子是第 3 段的內容，和不景氣無關；(B) 原文沒有說社區服務是教孩子照顧病人。",
+  "map": [
+   [
+    "fill in some of the gaps",
+    "needed help"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "activities",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "parents",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz98_47",
@@ -10898,7 +12432,29 @@
   "answer": "D",
   "accuracyRate": 54,
   "discrimination": 59,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 5,
+    "t": "kids who start volunteering are twice as likely to continue doing good deeds when they are adults."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 5 段說研究發現，開始當志工的孩子，長大以後繼續做好事（doing good deeds）的機率是兩倍。長大後持續做好事，就是成為關心別人的大人，所以是 (D)。(C) 照抄第 3 段的 school，原文舉的社區服務是撿垃圾、到孤兒院演戲、替心臟協會募款，都是幫助社區的事，替學校辦運動會不在其中；(A) 原文沒有提到防止青少年犯罪；(B) 原文說學校把志工服務和課堂結合，沒有說孩子會離開學校去當志工。",
+  "map": [
+   [
+    "adults",
+    "adults"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "school",
+    "p": 3
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz98_48",
@@ -10917,7 +12473,32 @@
   "answer": "A",
   "accuracyRate": 64,
   "discrimination": 63,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "I always thought the threat was just a scare tactic."
+   },
+   {
+    "p": 3,
+    "t": "“You know, everyone does it,” added Mike."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 3 段 Mike 說，他一直以為那些警告只是嚇唬人的手段，又說大家都在下載；Sandra 也說，直到主管機關跟她聯絡，她才知道下載是違法的。他們都沒想到自己會出事，也就是認為自己不會讓人抓到，所以是 (A)。(C) 照抄 money，Mike 說的是想省點錢（save some money），不是賺外快；(D) 照抄第 1 段的 copyright，原文沒有說學生反對網路音樂的版權保護；(B) 原文沒有說學生下載是要讓朋友覺得自己聰明。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "money",
+    "p": 3
+   },
+   {
+    "o": "D",
+    "t": "copyright",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz98_49",
@@ -10936,7 +12517,27 @@
   "answer": "D",
   "accuracyRate": 55,
   "discrimination": 65,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "I always thought the threat was just a scare tactic."
+   },
+   {
+    "p": 3,
+    "t": "Mike expressed shock and couldn’t believe that this was happening to him."
+   }
+  ],
+  "qtype": "字義",
+  "note": "這一題答對率只有 55%，判斷步驟：[1] scare tactic 是嚇唬人的手段，just a scare tactic 是說這些警告只是嚇唬人，不會真的怎麼樣；[2] 前一句說 Mike 非常震驚，不敢相信這種事會發生在自己身上，可見他原本以為警告之後不會有嚴重的後果；[3] 所以是 (D)。(B) 照抄 lawsuit，Mike 後來確實吃上官司，但這是他沒料到的事，不是他說這句話的意思；(A) 不應該害怕威脅、(C) 用威脅嚇人不公平，都是在評論威脅，Mike 說的是他以為威脅不會成真。",
+  "trap": [
+   {
+    "o": "B",
+    "t": "lawsuit",
+    "p": 3
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rz98_50",
@@ -10955,7 +12556,23 @@
   "answer": "D",
   "accuracyRate": 54,
   "discrimination": 54,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "態度",
+  "note": "RIAA 的看法在第 4 段：他們說控告學生絕對不是首選，可惜沒有後果的威脅，學生就是不會改變行為，光靠教育也不足以遏止非法下載。也就是說，RIAA 認為非法下載要靠強硬的手段才能改正，所以是 (D)。(A) 照抄 education，原文說光靠教育不夠，選項說反了；(C) 和原文的 suing students 字面相近，但原文說控告學生不是他們的首選，不是他們喜歡告學生；(B) 照抄第 3 段的 fined，原文沒有說 RIAA 從罰款中獲利。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "education",
+    "p": 4
+   },
+   {
+    "o": "B",
+    "t": "fine",
+    "p": 3
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz98_51",
@@ -10974,7 +12591,37 @@
   "answer": "A",
   "accuracyRate": 57,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "標題",
+  "note": "第 1 段說未經許可下載有版權的音樂就是違法；第 2 段說學生非法下載很普遍，最後一句說這些做法是要付出代價的；第 3 段舉出 Sandra 遭到罰款、Mike 付錢和解的例子；第 4 段說 RIAA 認為沒有後果，學生就不會改變。全文在警告侵犯版權的人要小心後果，所以是 (A)。(C) 照抄第 2 段的 survey，學生下載習慣的調查只是第 2 段的內容，過於狹隘；(B) 文章不是在教讀者怎麼取得免費音樂，偏離主題；(D) 照抄第 4 段的 illegal，原文說光靠教育不夠，要有後果才能改變行為，並沒有說非法下載不可能杜絕，偏離主題。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "survey",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "illegal",
+    "p": 4
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "B": {
+    "k": "偏離主題"
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     2
+    ]
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rz97_46",
@@ -10993,7 +12640,40 @@
   "answer": "D",
   "accuracyRate": 67,
   "discrimination": 52,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "putting together the first two letters of the Danish words Leg and Godt, which mean “play well.”"
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 1 段說 Lego 這個名字，是把丹麥文（Danish words）Leg 和 Godt 兩個字的前兩個字母拼起來，意思是「好好玩」（play well），所以是 (D)。(A) 照抄 Greek，原文說這個名字也可以用拉丁文、希臘文解釋，但名字是從丹麥文來的，不是希臘文和拉丁文組成的；(B) 照抄第 2 段的 son，取名字的是 Ole Kirk Christiansen 本人，兒子是後來改良積木的人；(C) 照抄第 2 段的 1947，那是開始做塑膠玩具的年份，名字是 1932 年的兩年後就有了。",
+  "map": [
+   [
+    "Danish words",
+    "Danish words"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Greek",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "son",
+    "p": 2
+   },
+   {
+    "o": "C",
+    "t": "1947",
+    "p": 2
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz97_47",
@@ -11012,7 +12692,38 @@
   "answer": "A",
   "accuracyRate": 51,
   "discrimination": 65,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "saw the immense potential in Lego bricks to become a system for creative play."
+   },
+   {
+    "p": 2,
+    "t": "In 1958, the modern interlocking brick design was finally developed and patented."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 51%，四個選項都是原文出現過（或算得出來）的年份，要分清楚每個年份發生了什麼事。判斷步驟：[1] 1932 年 Christiansen 開始做木頭玩具，兩年後（1934 年）想到 Lego 這個名字；[2] 1947 年開始做塑膠玩具，但賣不好、遭到退貨；[3] 兒子看出積木可以發展成激發創意的遊戲系統（a system for creative play），花了好幾年改進積木互扣的能力，1958 年互扣式積木終於研發完成，積木到這時才成為激發創意的玩具。所以是 (A)。(B) 1947 和 (D) 1932 照抄原文的年份，但那時還沒有互扣的積木；(C) 1934 是取名字的年份。",
+  "map": [
+   [
+    "1958",
+    "1958"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "1947",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "1932",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz97_48",
@@ -11031,7 +12742,40 @@
   "answer": "D",
   "accuracyRate": 71,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Every minute 33,824 Lego bricks are made"
+   }
+  ],
+  "qtype": "是非",
+  "note": "第 3 段說每分鐘生產 33,824 塊樂高積木，選項換成每分鐘生產超過三萬塊，所以是 (D)。三個錯誤選項都照抄同一段的數字，但把數字接到別的事情上：(A) 50 億是全世界的孩子一年玩樂高的小時數，不是擁有樂高的人數；(B) 62 是平均每個人擁有的積木塊數，不是花多少錢；(C) 4 億是今年玩樂高的人數，不是小時數。",
+  "map": [
+   [
+    "Every minute",
+    "every minute"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "5 billion",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "62",
+    "p": 3
+   },
+   {
+    "o": "C",
+    "t": "400 million",
+    "p": 3
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz97_49",
@@ -11050,7 +12794,29 @@
   "answer": "A",
   "accuracyRate": 59,
   "discrimination": 67,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "Bricks bought then are still compatible with current bricks and that is probably the reason the toy has never fallen out of favor."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 4 段說當年買的積木，仍然可以和現在的積木組在一起（compatible with current bricks），這大概就是樂高從來沒有退流行的原因，選項換成舊積木仍然可以和新積木接在一起，所以是 (A)。(B) 照抄第 2 段的 1947，那是開始做塑膠玩具的年份，原文說的是產品五十年沒變，不是名字沒變；(C) 材料安全、(D) 價格合理，原文都沒有提到。",
+  "map": [
+   [
+    "compatible with current bricks",
+    "connected to new ones"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "1947",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz97_50",
@@ -11069,7 +12835,32 @@
   "answer": "D",
   "accuracyRate": 56,
   "discrimination": 52,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "It was not enough to be thin. I had to be the thinnest."
+   },
+   {
+    "p": 2,
+    "t": "a helpless childlike emotion that came from starving."
+   }
+  ],
+  "qtype": "字義",
+  "note": "anorexia nervosa 是神經性厭食症。就算不認得這個詞，也可以從前後文推出來：第 1 段接著說光是瘦還不夠，一定要最瘦，又說父親說她胖以後就開始節食；第 2 段說她專注在挨餓（starving）帶來的虛弱感；第 3 段說她康復以後重了三十八磅。這是一種讓人不想吃東西的病，所以是 (D)。(A) 照抄第 3 段的 express，不善於表達感情的是她的父親；(B) 照抄第 3 段的 secure，原文說她現在覺得很安心，選項的 insecure 拿這個字反過來用，不是厭食症的意思；(C) 情緒不穩定的人，和她挨餓、節食的描述接不上。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "express",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "secure",
+    "p": 3
+   }
+  ],
+  "cat": "詞義題"
  },
  {
   "id": "Rz97_51",
@@ -11088,7 +12879,38 @@
   "answer": "C",
   "accuracyRate": 71,
   "discrimination": 58,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "I liked to know that I needed to be taken care of; maybe Daddy would take care of me."
+   },
+   {
+    "p": 3,
+    "t": "By starving, I attempted to gain pride in myself by obtaining my father’s approval or acknowledgment of my value as a person."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說她喜歡知道自己需要別人照顧，也許爸爸就會來照顧她；第 3 段說她用挨餓的方式，想得到父親的認可（approval）和肯定。她生病是想得到父親的注意，所以是 (C)。(A) 照抄 take care of，是她希望爸爸來照顧她，不是父親叫她照顧自己；(B) 照抄第 1 段的 best universities，那是父親對她的期待，她自己說從來不覺得有討好父親的壓力，原文也沒有說她生病是因為想念最好的大學；(D) 原文沒有提到家境貧窮。",
+  "map": [
+   [
+    "father’s",
+    "father’s"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "take care of",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "best universit",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz97_52",
@@ -11107,7 +12929,30 @@
   "answer": "B",
   "accuracyRate": 32,
   "discrimination": 44,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "I know that I am a valuable person who strives to achieve and accomplish."
+   }
+  ],
+  "qtype": "是非",
+  "note": "這一題答對率只有 32%，正確選項的說法和原文差最多，要對照第 3 段整段來看。判斷步驟：[1] 第 3 段說她知道自己是有價值的人，會努力追求成就（strives to achieve and accomplish），strive 是努力，achieve、accomplish 是成功，選項換成 working hard to succeed；[2] 同一段最後說，最重要的認可必須來自自己，現在她覺得很安心，也就是她為努力上進的自己感到驕傲；[3] 所以是 (B)。(D) 照抄 express，原文說她無法改變父親不善於表達感情，選項說反了；(C) 她九年級時想靠父親的認可肯定自己，到康復以後才學會接納自己，不是從小就有自信；(A) 原文沒有提到她控制不住脾氣。",
+  "map": [
+   [
+    "strives to achieve",
+    "working hard to succeed"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "D",
+    "t": "express",
+    "p": 3
+   }
+  ],
+  "cat": "細節題",
+  "sub": "何者為是"
  },
  {
   "id": "Rz97_53",
@@ -11126,7 +12971,22 @@
   "answer": "C",
   "accuracyRate": 66,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "目的",
+  "note": "第 1 段作者說她九年級時得了厭食症，現在完全康復，回頭省思（reflect back），明白病因和她跟父親的關係有關；第 2 段回顧她當時的心情；第 3 段說她學會接納自己，最重要的認可要來自自己。全文是作者回顧、省思自己成長中的一個階段，所以是 (C)。(A) 作者說她無法改變父親，只能接納自己，並沒有怪罪父親，偏離主題；(B) 原文沒有提到虐待兒童，偏離主題；(D) 作者寫的是從厭食症康復的經過，不是教人減肥，偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rz97_54",
@@ -11145,7 +13005,34 @@
   "answer": "C",
   "accuracyRate": 43,
   "discrimination": 58,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "When the colonies became independent nations, these same borderlines were often maintained."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 43%，判斷步驟：[1] 第 1 段說歐洲人劃分殖民地時畫了邊界（borderlines）；[2] 第 2 段第一句說，殖民地成為獨立的國家（independent nations）以後，往往沿用（maintained）原來的邊界；[3] 也就是說，殖民時期的邊界成了國與國之間的邊界，所以是 (C)。(A) 照抄 Europeans，歐洲人不再統治以後，邊界並沒有消失，反而沿用下來，選項說反了；(B) 第 3 段說這些邊界拆散族群、引發衝突，族群並沒有尊重這些邊界；(D) 照抄第 3 段的 war，邊界引發了戰爭，但沒有變成戰爭紀念碑。",
+  "map": [
+   [
+    "borderlines",
+    "borders"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "Europeans",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "war",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz97_55",
@@ -11164,7 +13051,38 @@
   "answer": "B",
   "accuracyRate": 45,
   "discrimination": 62,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "the Somali people remain split among Ethiopia, Kenya, Somalia, and Djibouti."
+   },
+   {
+    "p": 3,
+    "t": "a war between Somalia and Ethiopia was fought because Somalis wanted all their people to be a part of one nation."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 45%，判斷步驟：[1] 第 3 段第一句說衝突的起因，是族群遭到拆散、又和別的族群劃在一起；[2] 接著舉例：索馬利人分散在衣索比亞、肯亞、索馬利亞和吉布地四國（第 2 段的 split），他們希望所有同胞屬於同一個國家，因此和衣索比亞打了一場戰爭；[3] 選項把 split 換成 broken up，說一個族群分散在不同的國家，所以是 (B)。(C) 照抄第 1 段的 colonies，原文說歐洲人劃分殖民地時沒有考慮族群，但衝突發生在非洲國家之間或國內族群之間，不是歐洲人為了擴大殖民地入侵；(D) 照抄第 1 段的 territories，原文的 territories 是各族群的領域，沒有說非洲國家和歐洲人打仗擴張領土；(A) 原文說幾乎每一個非洲國家都住著不只一個族群，和大多數族群都有自己的國家相反。",
+  "map": [
+   [
+    "split",
+    "broken up"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "colonies",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "territories",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz97_56",
@@ -11183,7 +13101,37 @@
   "answer": "B",
   "accuracyRate": 42,
   "discrimination": 63,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "標題",
+  "note": "這一題答對率只有 42%，三段都圍繞同一件事：第 1 段說歐洲人劃殖民地時，邊界沒有考慮族群；第 2 段說獨立以後沿用這些邊界，族群分散各國，也有很多族群劃在同一國；第 3 段說因此引發衝突。全文的重點是非洲的邊界劃錯了地方，misplaced 就是放錯位置，所以是 (B)。(A) 照抄第 3 段的 peace，非洲的戰爭與和平範圍太大，文章只談邊界造成的族群衝突，太過廣泛；(C) 照抄第 1 段的 colonies，歐洲人劃分殖民地只是第 1 段的背景，過於狹隘；(D) 文章沒有談非洲的復原和重建，偏離主題。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "Coloni",
+    "p": 1
+   },
+   {
+    "o": "A",
+    "t": "peace",
+    "p": 3
+   }
+  ],
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "太過廣泛"
+   },
+   "C": {
+    "k": "過於狹隘",
+    "p": [
+     1
+    ]
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rz96_46",
@@ -11202,7 +13150,28 @@
   "answer": "D",
   "accuracyRate": 54,
   "discrimination": 67,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "But the industrial revolution destroyed the weavers’ craft, and the family had to leave for new possibilities in America."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 54%，(D) 的 make a good living 原文沒有，要從前因推。判斷步驟：[1] 第 1 段說卡內基家是織布工人的家庭；[2] 工業革命摧毀了織布工人的手藝（destroyed the weavers’ craft），全家只好（had to）離開，到美國尋找新的機會；[3] 父親靠織布維生，手藝沒用了，在家鄉就沒辦法好好過日子，所以是 (D)。(B) 照抄 father’s profession，原文說家人期望他繼承父親的職業，沒有說他不想繼承；(A) 照抄第 2 段的 Pittsburgh，原文沒有說父親在匹茲堡找到好工作；(C) 原文說的是工業革命，不是政治問題。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "Pittsburgh",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "father’s profession",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz96_47",
@@ -11221,7 +13190,37 @@
   "answer": "D",
   "accuracyRate": 37,
   "discrimination": 28,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "where he would stay to watch plays by great playwrights."
+   },
+   {
+    "p": 2,
+    "t": "He also spent most of his leisure hours in a small library"
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 37%，題幹問的是什麼時候開始（begin to show），很多人選了退休。判斷步驟：[1] 題幹的 artistic 對到看戲，intellectual 對到讀書；[2] 第 2 段說卡內基在電報局當送信童的時候，送電報到劇院就留下來看偉大劇作家的戲，閒暇時間大多待在圖書館；[3] 這是原文最早出現他喜歡藝術和知識的地方，所以是 (D)。(A) 照抄第 4 段的 retire，追求知識的渴望讓他退休，表示這份渴望在退休以前早就有了，退休是他實現渴望的時候，不是開始；(C) 照抄第 3 段的 fortune，第 4 段說他在商場上一直覺得不安，興趣不是發財以後才開始；(B) 照抄第 1 段的 Scotland，原文只說他在蘇格蘭時家人期望他當織布工人。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "retire",
+    "p": 4
+   },
+   {
+    "o": "B",
+    "t": "Scotland",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "fortune",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz96_48",
@@ -11240,7 +13239,27 @@
   "answer": "A",
   "accuracyRate": 44,
   "discrimination": 54,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "He devoted himself to the replacement of wooden bridges with stronger iron ones and earned a fortune."
+   },
+   {
+    "p": 3,
+    "t": "He further introduced a new steel refining process to convert iron into steel."
+   }
+  ],
+  "qtype": "推論",
+  "note": "這一題答對率只有 44%，要從卡內基做過的事情歸納他經營事業的特點。判斷步驟：[1] 第 3 段說他用鐵橋取代（replacement）木橋，賺了一大筆錢；[2] 接著又引進（introduced）新的煉鋼方法，把鐵轉變（convert）成鋼；[3] 換掉舊的、引進新的，都是願意做出改變，所以是 (A)。(C) 照抄第 4 段的 shortest time，卡內基說心思全放在怎麼在最短的時間內賺更多錢，會讓他墮落，他對此感到不安，不是樂在其中；(B) 原文提到卡內基鋼鐵公司的產量比整個英國還多，但沒有說他一心要打敗所有對手；(D) 原文沒有說他在家鄉投資。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "shortest time",
+    "p": 4
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz96_49",
@@ -11259,7 +13278,43 @@
   "answer": "C",
   "accuracyRate": 35,
   "discrimination": 39,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 5,
+    "t": "He abhorred charity; instead, he used his money to help others help themselves."
+   },
+   {
+    "p": 5,
+    "t": "He established over 2,500 public libraries, and sponsored numerous cultural, educational and scientific institutions."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 35%，(B) 照抄 charity，但原文說的正好相反。判斷步驟：[1] 第 5 段說卡內基 abhorred charity，abhor 是憎惡的意思（Cambridge Dictionary），他厭惡慈善施捨，所以 (B) 不對；[2] 接著說他用錢幫助別人自助，設立了 2,500 多座公共圖書館，也贊助許多文化、教育和科學機構（institutions）；[3] 教育和科學機構就是選項說的高等學術機構（organizations of higher learning），所以是 (C)。(A) 照抄 died，原文說他去世前已經捐出 3 億 5,000 萬美元，沒有說把財富留給家人和朋友；(D) 照抄第 3 段的 refining，引進煉鋼方法是他經營事業時的事情，不是退休後處理財富的方式。",
+  "map": [
+   [
+    "institutions",
+    "organizations"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "died",
+    "p": 5
+   },
+   {
+    "o": "B",
+    "t": "charity",
+    "p": 5
+   },
+   {
+    "o": "D",
+    "t": "refin",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz96_50",
@@ -11278,7 +13333,39 @@
   "answer": "A",
   "accuracyRate": 63,
   "discrimination": 72,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "AD/HD is a neurological disorder which stems not from the home environment, but from biological and genetic causes."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 2 段說注意力不足過動症的原因不是家庭環境，而是生理和遺傳（genetic）的因素，選項換成基因問題（Gene problem），所以是 (A)。(D) 照抄 home environment，原文用 not from 否定了家庭環境；(C) 照抄 childhood，原文說症狀通常在幼兒期出現，這是發病的時間，不是原因；(B) 照抄第 1 段的 academic，課業表現受到影響是症狀造成的結果，不是原因。",
+  "map": [
+   [
+    "genetic",
+    "Gene"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "academic",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "childhood",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "home environment",
+    "p": 2
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz96_51",
@@ -11297,7 +13384,33 @@
   "answer": "D",
   "accuracyRate": 53,
   "discrimination": 37,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Inattentive children have difficulty focusing on completing a task or learning something new."
+   },
+   {
+    "p": 3,
+    "t": "Depression, anxiety, and learning disabilities may co-exist with AD/HD."
+   }
+  ],
+  "qtype": "推論",
+  "note": "這一題答對率只有 53%，要從症狀判斷哪一種孩子最可能有這種疾患。判斷步驟：[1] 第 2 段說注意力不足的孩子，很難專心學習新的東西；[2] 第 3 段說學習障礙（learning disabilities）可能和注意力不足過動症同時出現；[3] 選項把 disabilities 換成 difficulties，有學習困難的孩子最可能是患者，所以是 (D)。(B) 照抄 Inattentive 裡的 attentive，原文說患者注意力不足，選項說反了；(A) 原文說過動的孩子總是靜不下來，需要一直忙著，和懶惰相反；(C) 原文說衝動的孩子常常不加思考就行動，和過度謹慎相反。",
+  "map": [
+   [
+    "learning disabilities",
+    "learning difficulties"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "attentive",
+    "p": 2
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz96_52",
@@ -11316,7 +13429,34 @@
   "answer": "B",
   "accuracyRate": 43,
   "discrimination": 31,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "Therefore, if a child is suspected of AD/HD, it is very important that he or she be evaluated by a professional."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 43%，要分清楚「懷疑」和「確診」是兩個階段。判斷步驟：[1] 題幹說的是懷疑（suspected）孩子有這種疾患；[2] 第 3 段說懷疑孩子有注意力不足過動症時，請專業人員（a professional）評估非常重要，選項換成去請教專業人員，所以是 (B)；[3] 第 4 段開頭是 Once your child is diagnosed，確診以後才讓學校知道，所以 (A) 照抄 school，順序錯了。(D) 照抄 school，原文說學校通常能在課堂上做調整，沒有說要把孩子送到特殊學校；(C) 第 3 段說要等到行為和年齡不相稱才會診斷，但懷疑時要做的是請人評估，不是等孩子長大。",
+  "map": [
+   [
+    "professional",
+    "professional"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "school",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "school",
+    "p": 4
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz96_53",
@@ -11335,7 +13475,26 @@
   "answer": "B",
   "accuracyRate": 69,
   "discrimination": 58,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "are diamonds that are sold to fund the unlawful and illegal operations of rebel, military and terrorist groups."
+   },
+   {
+    "p": 1,
+    "t": "citizens have been terrorized or even killed by groups in control of the local diamond trade."
+   }
+  ],
+  "qtype": "細節",
+  "note": "第 1 段說販賣血鑽石的錢，用來資助叛軍、軍隊和恐怖組織；控制鑽石交易的團體恐嚇人民，甚至殺害（killed）人民。這些鑽石沾著人命，所以叫做血鑽石，答案是 (B)。(A) 把 blood 照字面解釋成顏色像血；(C) 愛和熱情是一般人對鑽石的印象，和血鑽石的由來無關；(D) 原文沒有談到鑽石的品質。",
+  "map": [
+   [
+    "killed",
+    "loss of human lives"
+   ]
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz96_54",
@@ -11354,7 +13513,28 @@
   "answer": "C",
   "accuracyRate": 36,
   "discrimination": 33,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Diamonds mined in some rebel-held areas, such as Liberia, are being smuggled into neighboring countries and exported as conflict-free diamonds."
+   }
+  ],
+  "qtype": "推論",
+  "note": "這一題答對率只有 36%，(A) 照抄第 2 段的 conflict-free，很容易選錯。判斷步驟：[1] 第 2 段說賴比瑞亞是叛軍控制的地區（rebel-held areas），那裡開採的鑽石走私到鄰國；[2] 這些鑽石出口時當作（exported as）無衝突的鑽石，as 表示只是冒充，實際上是衝突鑽石；[3] 叛軍控制的地區走私鑽石，錢仍然流向叛軍，同一段開頭也說衝突鑽石的問題並沒有消失，所以是 (C)。(A) 照抄 conflict-free，那是冒充的名義；(B) 冒充無衝突鑽石出口，標示就是錯的；(D) 照抄第 3 段的 KPCS，題目只問第二段，而且這些鑽石是走私出去的，沒有經過 KPCS 的仔細查核。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "conflict-free",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "KPCS",
+    "p": 3
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz96_55",
@@ -11373,7 +13553,47 @@
   "answer": "D",
   "accuracyRate": 41,
   "discrimination": 47,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "The goals of the KPCS are to document and track all rough diamonds when they enter a participating country."
+   },
+   {
+    "p": 3,
+    "t": "provide enough detailed information about their origins"
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 41%，題幹的 task 對到原文的 goals。判斷步驟：[1] 第 3 段說 KPCS 的目標（The goals），是記錄（document）並追蹤所有原鑽；[2] 運貨的人要提供足夠的詳細產地（origins）資料，證明鑽石不是來自衝突地區；[3] 選項把產地換成鑽石在哪裡開採，所以是 (D)。(A) 照抄 rough diamonds，KPCS 追蹤原鑽是為了阻止血鑽石交易，不是促銷；(B) 照抄第 4 段的 Blood Diamond，電影是演員主演的，和 KPCS 無關；(C) 照抄第 1 段的 blood diamonds，原文只說 KPCS 記錄和追蹤鑽石，沒有提到處罰賣血鑽石的人。",
+  "map": [
+   [
+    "document",
+    "document"
+   ],
+   [
+    "their origins",
+    "where the diamonds were mined"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "A",
+    "t": "rough diamonds",
+    "p": 3
+   },
+   {
+    "o": "B",
+    "t": "Blood Diamond",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "blood diamonds",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz96_56",
@@ -11392,7 +13612,11 @@
   "answer": "D",
   "accuracyRate": 29,
   "discrimination": 28,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "態度",
+  "note": "這一題答對率只有 29%，很多人選了 (C) Sympathetic。判斷步驟：[1] 題幹問的是作者對血鑽石（towards blood diamonds）的態度，不是對受害者的態度；[2] 作者在第 1 段說血鑽石的錢資助叛軍和恐怖組織，害得人民受到恐嚇甚至喪命；第 2 段說問題還沒消失；第 4 段說鑽石帶來動亂和苦難，最後呼籲讀者多了解衝突鑽石造成的問題，買鑽石時憑良心選擇；[3] 作者反對血鑽石，所以是 (D)。(C) 作者同情的是受害的人民，對血鑽石本身是反對的；(A) 作者特別寫文章呼籲讀者，不是漠不關心；(B) 作者是在提醒讀者，不是威脅。",
+  "cat": "推論題"
  },
  {
   "id": "Rz95_46",
@@ -11411,7 +13635,22 @@
   "answer": "C",
   "accuracyRate": 68,
   "discrimination": 38,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "出處",
+  "note": "第 1 段從消費者走進便利商店的角度，描述包裝的種類和品質；第 2 段分析日本人為什麼用比較多的包裝、包裝市場的規模，以及商品要怎麼打動消費者的需求（consumer’s needs）。這些都是談消費市場的內容，最可能出自消費者報告，所以是 (C)。(A) 食譜會教人怎麼做菜，文章提到飯糰只是包裝的例子，偏離主題；(B) 使用手冊會說明產品怎麼操作，偏離主題；(D) 時尚雜誌談的是服裝和流行，文章談的是商品包裝，偏離主題。",
+  "cat": "主旨題",
+  "scope": {
+   "A": {
+    "k": "偏離主題"
+   },
+   "B": {
+    "k": "偏離主題"
+   },
+   "D": {
+    "k": "偏離主題"
+   }
+  }
  },
  {
   "id": "Rz95_47",
@@ -11430,7 +13669,25 @@
   "answer": "D",
   "accuracyRate": 51,
   "discrimination": 61,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "The Japanese tend to use more packaging because of a cultural emphasis on freshness and a lack of storage space at home."
+   },
+   {
+    "p": 2,
+    "t": "Moreover, they believe nice packaging adds value because it’s a strong signal of quality."
+   },
+   {
+    "p": 2,
+    "t": "the Japanese are more connected with packaging as a symbol of appreciation, love and care."
+   }
+  ],
+  "qtype": "未提及",
+  "note": "這一題答對率只有 51%，(D) 照抄 Westerners 和 economy 兩個原文的字，看起來很像原文。判斷步驟：[1] 第 2 段列出日本人用比較多包裝的原因，三個有提到的選項：(A) 重視新鮮（emphasis on freshness）換成包裝有助於保持食物新鮮；(C) 包裝是品質的有力指標（a strong signal of quality）換成把包裝看作品質的象徵；(B) 包裝是感謝的象徵（a symbol of appreciation）換成包裝幫助日本人表達感謝；[2] 原文提到西方人（Westerners），只是拿來和日本人比較，提到經濟（economy），是說包裝在日本經濟中很重要，原文沒有說用包裝和西方人競爭，所以是 (D)。",
+  "cat": "細節題",
+  "sub": "未提及"
  },
  {
   "id": "Rz95_48",
@@ -11449,7 +13706,29 @@
   "answer": "B",
   "accuracyRate": 31,
   "discrimination": 42,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "a product has to have more than just a nice graphic design to differentiate it from its shelf-mates."
+   }
+  ],
+  "qtype": "指涉",
+  "note": "這一題答對率只有 31%，shelf-mates 是自己造的複合字，要拆開來看。判斷步驟：[1] shelf 是貨架，mate 是同伴，shelf-mates 就是同一個貨架上的同伴；[2] 這一句說商品光有漂亮的平面設計，還不足以和 its shelf-mates 區隔開來（differentiate it from），it 指商品，要和商品區隔的，是同一個貨架上的其他商品；[3] 前一句也說日本商店的貨架上每年有大量新包裝推出，所以是 (B) 店裡的其他商品。(D) 照抄 graphic design，平面設計是商品用來區隔的方法，不是區隔的對象；(C) 照抄下一句的 needs，消費者的需求是商品要打動的東西；(A) 把 mates 照字面解釋成同事。",
+  "trap": [
+   {
+    "o": "C",
+    "t": "need",
+    "p": 2
+   },
+   {
+    "o": "D",
+    "t": "graphic design",
+    "p": 2
+   }
+  ],
+  "cat": "詞義題",
+  "sub": "指代詞"
  },
  {
   "id": "Rz95_49",
@@ -11468,7 +13747,29 @@
   "answer": "D",
   "accuracyRate": 42,
   "discrimination": 55,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "Western ranchers continued to claim that thousands of cattle were killed every year by wolves."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 42%，(D) 的 livestock 是 cattle 的上位詞，要認得出來。判斷步驟：[1] 第 2 段說西部的牧場主人不斷聲稱，每年都有數千頭牛（cattle）遭到狼咬死；[2] 牛是牧場主人養的牲畜（livestock），選項換成狼威脅到他的牲畜的生命，所以是 (D)。(C) 照抄第 1 段的 Indians，印第安人敬佩狼，但原文沒有說白人因此要殺狼；(A) 原文說的是狼咬死牛，沒有說狼攻擊人；(B) 原文沒有提到農作物。",
+  "map": [
+   [
+    "cattle",
+    "livestock"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "C",
+    "t": "Indians",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz95_50",
@@ -11487,7 +13788,32 @@
   "answer": "C",
   "accuracyRate": 63,
   "discrimination": 54,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 3,
+    "t": "The last wolves in the American West died hard."
+   },
+   {
+    "p": 4,
+    "t": "The vast lands of the American West fell silent. The country had lost its greatest predator."
+   }
+  ],
+  "qtype": "推論",
+  "note": "第 3 段說美國西部最後一批狼死得很艱難，連國家公園也不安全；第 4 段說西部廣大的土地陷入一片寂靜，國家失去了最強大的掠食者。作者用寂靜、失去這些字，對狼的消失感到惋惜，最可能是主張保護灰狼的人，所以是 (C)。(A) 照抄第 1 段的 hunting，作者惋惜狼遭到獵殺，不會是喜歡獵殺野生動物的人；(D) 照抄 hunting，敬佩狼的狩獵本領的是第 1 段的印第安人，不是作者寫這篇文章的立場；(B) 制定法律對付灰狼的是國會和蒙大拿州，作者在文章裡對這些做法並不認同。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "hunting",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "hunting",
+    "p": 1
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz95_51",
@@ -11506,7 +13832,41 @@
   "answer": "D",
   "accuracyRate": 49,
   "discrimination": 63,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "In 1884, Montana created its first wolf bounty"
+   },
+   {
+    "p": 2,
+    "t": "Moreover, the government even provided free poison."
+   },
+   {
+    "p": 2,
+    "t": "ranchers persuaded the United States Congress to provide funds to exterminate wolves on public lands."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 49%，(C) 的數字在原文裡，但比一比就知道不是主因。判斷步驟：[1] 第 2 段說蒙大拿州設立獵狼賞金，三十五年間有超過八萬具狼屍送去領賞金；政府還免費提供毒藥；國會也撥款消滅狼。這些都是政府鼓勵殺狼的做法；[2] 第 3 段說黃石公園的管理員 12 年間殺了將近 140 隻狼，和八萬隻比起來少得多；[3] 所以狼很快消失的重要原因，是政府鼓勵殺狼，答案是 (D)。(C) 照抄 park rangers，管理員殺的狼只占一小部分；(A) 照抄 cattle，原文說牧場主人聲稱狼咬死牛，不是狼吃不到牛；(B) 照抄第 1 段的 skins，印第安人披狼皮是為了學狼的本領，原文沒有說他們為了狼皮殺狼。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "cattle",
+    "p": 2
+   },
+   {
+    "o": "B",
+    "t": "skins",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "park rangers",
+    "p": 3
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz95_52",
@@ -11525,7 +13885,39 @@
   "answer": "A",
   "accuracyRate": 50,
   "discrimination": 76,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 1,
+    "t": "They respected the animals’ endurance and hunting ability"
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 50%，三個錯誤選項都照抄第 1 段的字，要看清楚是誰做的事情。判斷步驟：[1] 第 1 段說印第安人敬佩（respected）狼的耐力和狩獵能力（hunting ability），選項換成狼很會狩獵（good at hunting），所以是 (A)；[2] 後面說他們披著狼皮和狼爪、穿狼皮偽裝，是為了學到狼的狩獵本領，這些是印第安人做的事情，不是他們敬佩狼的原因。(B) 照抄 disguises，偽裝的是印第安人，不是狼；(C) 照抄 skins and paws，原文沒有說狼皮狼爪很漂亮；(D) 照抄 white man，原文說印第安人無法理解白人為什麼要和狼作戰，沒有說狼是白人的敵人。",
+  "map": [
+   [
+    "hunting ability",
+    "good at hunting"
+   ]
+  ],
+  "trap": [
+   {
+    "o": "B",
+    "t": "disguis",
+    "p": 1
+   },
+   {
+    "o": "C",
+    "t": "skins and paws",
+    "p": 1
+   },
+   {
+    "o": "D",
+    "t": "white man",
+    "p": 1
+   }
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz95_53",
@@ -11544,7 +13936,11 @@
   "answer": "B",
   "accuracyRate": 28,
   "discrimination": 12,
-  "explanation": null
+  "explanation": null,
+  "ev": "all",
+  "qtype": "態度",
+  "note": "這一題答對率只有 28%，文章引用了很多支持墮胎的人士的話，容易誤以為作者也支持。判斷步驟：[1] 第 4、5 段引用的 Anne Carp、Geoff Brodie 和《美國展望》的作者，都是作者要反駁的對象，作者形容他們的反應有敵意（hostile）、驚駭不已（aghast）；[2] 第 2 段作者稱超音波是一項美好（blessed）的科技；[3] 第 6 段作者直接表明立場：儘管支持墮胎的人士反應強烈，生命權仍然優先於女性的選擇權，沒有什麼比胎兒燦爛的笑臉更有說服力。作者反對墮胎，所以是 (B)。(A) 引用別人的話不等於作者的立場；(C)、(D) 作者在最後一段明確表態，不是中立，也不是漠不關心。",
+  "cat": "推論題"
  },
  {
   "id": "Rz95_54",
@@ -11563,7 +13959,26 @@
   "answer": "A",
   "accuracyRate": 18,
   "discrimination": 30,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "says the photos are simply misleading, and ridicules the anti-abortion lobby"
+   },
+   {
+    "p": 5,
+    "t": "In America, the pro-abortion lobby is having the same hostile reaction."
+   }
+  ],
+  "qtype": "細節",
+  "note": "這一題答對率只有 18%。判斷步驟：[1] 先分清楚誰是支持墮胎的人士：第 3 段提出問題以後，第 4、5 段回答，提到的是 Anne Carp、Geoff Brodie、美國支持墮胎的團體和《美國展望》的作者；第 2 段開心笑出來的是準父母，不是支持墮胎的人士；[2] Carp 說照片根本是誤導（misleading），等於不相信照片；她還嘲笑（ridicules）反墮胎團體；Brodie 抱怨照片會讓反墮胎團體利用；第 5 段說美國支持墮胎的團體也有同樣的敵意反應（the same hostile reaction）；[3] 每一個人的反應都是負面的，選項用 All 和不相信（disbelief）、輕蔑（scorn），所以是 (A)。(C)、(D) 用 Some，表示有人反應正面，但原文提到的支持墮胎人士沒有一個是正面的；(B) 拍手叫好的是第 2 段的準父母和 Campbell 醫師。",
+  "map": [
+   [
+    "ridicules",
+    "scorn"
+   ]
+  ],
+  "cat": "細節題"
  },
  {
   "id": "Rz95_55",
@@ -11582,7 +13997,37 @@
   "answer": "C",
   "accuracyRate": 24,
   "discrimination": 25,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 2,
+    "t": "His outspoken enthusiasm for this blessed technology is refreshing."
+   },
+   {
+    "p": 6,
+    "t": "After all, nothing can be more persuasive than an unborn child’s beaming face."
+   }
+  ],
+  "qtype": "推論",
+  "note": "這一題答對率只有 24%，原文沒有直接說 Campbell 的立場，要用刪去法加推論。判斷步驟：[1] 第 3 段問支持墮胎的人士有什麼反應，第 4、5 段回答時舉了 Anne Carp、Geoff Brodie 和《美國展望》的作者，三人都是支持墮胎的人士，(A)、(B)、(D) 可以先刪去；[2] 第 2 段說 Campbell 醫師對這項科技充滿熱情，作者稱這是美好的科技，還說他的熱情令人耳目一新；[3] 第 6 段作者說胎兒燦爛的笑臉最有說服力，正是 Campbell 拍出來的照片。作者站在反墮胎的立場稱讚 Campbell，所以 Campbell 最可能是反墮胎的人，答案是 (C)。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "Anne Carp",
+    "p": 4
+   },
+   {
+    "o": "B",
+    "t": "Geoff Brodie",
+    "p": 4
+   },
+   {
+    "o": "D",
+    "t": "American Prospect",
+    "p": 5
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz95_56",
@@ -11601,7 +14046,37 @@
   "answer": "D",
   "accuracyRate": 28,
   "discrimination": 11,
-  "explanation": null
+  "explanation": null,
+  "ev": [
+   {
+    "p": 4,
+    "t": "ridicules the anti-abortion lobby for being “intoxicated with evidence of a fetus’ humanity.”"
+   },
+   {
+    "p": 4,
+    "t": "will be picked up by those groups that use anything and everything to stop abortions"
+   }
+  ],
+  "qtype": "推論",
+  "note": "這一題答對率只有 28%，要從支持墮胎的人士嘲笑的話，反推反墮胎人士的反應。判斷步驟：[1] 第 4 段 Anne Carp 嘲笑反墮胎團體陶醉（intoxicated）在胎兒具有人性的證據裡，intoxicated 在這裡是興奮、陶醉的意思（Cambridge Dictionary）；[2] Brodie 說反墮胎團體會把這些照片拿去利用；[3] 對反墮胎人士來說，照片是胎兒具有人性的證據，他們很高興，所以是 (D)。(B) 照抄 fetus，反墮胎人士正是把胎兒看作有人性的生命，選項說反了；(C) 照抄第 6 段的 woman，文章就是在談對女性選擇權的爭議，不是每個人都同意；(A) 照抄第 1 段的 published，作者稱讚 Campbell 醫師，沒有說醫師發表照片是錯的。",
+  "trap": [
+   {
+    "o": "A",
+    "t": "publish",
+    "p": 1
+   },
+   {
+    "o": "B",
+    "t": "fetus",
+    "p": 4
+   },
+   {
+    "o": "C",
+    "t": "woman",
+    "p": 6
+   }
+  ],
+  "cat": "推論題"
  },
  {
   "id": "Rz94_46",
