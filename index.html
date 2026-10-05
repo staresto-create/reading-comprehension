@@ -787,11 +787,23 @@ function renderPractice(){
 
 /* 交卷後才出現：全文中心思想藍底、段落主旨句底線、兩者皆是藍底加底線 */
 const MS_TIP = '📌 提醒：並非每一段都有一句「明講」的主旨句——開頭鋪陳段、承接前段的延伸段、或敘事／描述性段落，主旨常常是「隱含」的，沒有一句能直接畫線。遇到這種段落，與其硬找一句話，不如問自己「這段在做什麼」（舉例？補充？延續前段？），用自己的話歸納出這段的重點即可。';
+function msMainQ(p){
+  const its = itemsOf(p.id);
+  for (const t of ['主旨', '標題']) { const q = its.find(it => it.cat === '主旨題' && it.qtype === t); if (q) return q; }
+  return null;
+}
+function msNote(p){
+  let t = '藍底標示全文中心思想，底線標示段落主旨句，兩者皆是時標為藍底加底線。按「看依據句」之後，依據句會用黃底標出，和主旨句可以同時出現。';
+  const q = msMainQ(p);
+  if (!p.ms.length) return t + '這一篇沒有一句明講的全文中心思想，各段也都沒有一句明講的主旨句。請對照「這一篇的文章結構」裡的綱要，找出各段的重點，'
+    + (q ? `再看第 ${q.no} 題（主旨題）的解析，了解怎麼從各段歸納出全文的主旨。` : '再自己歸納全文的主旨。');
+  if (new Set(p.ms.map(m => m.p)).size < p.paras.length) t += '沒有標句子的段落，沒有一句明講的主旨句，請對照「這一篇的文章結構」裡的綱要，找出那一段的重點。';
+  if (!p.ms.some(m => m.k !== 'topic')) t += q ? `這一篇沒有一句明講的全文中心思想，怎麼從各段歸納，請看第 ${q.no} 題（主旨題）的解析。` : '這一篇沒有一句明講的全文中心思想，要讀完各段，自己歸納。';
+  return t;
+}
 function msLegend(p){
-  const hasT = p.ms.some(m => m.k !== 'topic');
   return `<div class="msLegend"><div class="msKeys"><span class="msB">兩者皆是</span>　<span class="msT">全文中心思想</span>　<span class="msS">段落主旨句</span></div>`
-    + `全文中心思想是藍底，段落主旨句是底線，兩者皆是則藍底加底線。按「看依據句」之後，依據句會用黃底標出，和主旨句可以同時出現。`
-    + (hasT ? '' : '這一篇沒有一句話明講全文中心思想，要讀完各段，自己歸納。')
+    + msNote(p)
     + `<div class="msTip">${MS_TIP}</div></div>`;
 }
 
