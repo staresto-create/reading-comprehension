@@ -248,6 +248,13 @@
   .passage .pn{display:inline-block; font-family:'Noto Sans TC',sans-serif; font-size:11px; color:var(--ink-soft); border:1px solid var(--rule); border-radius:3px; padding:0 5px; margin-right:6px; line-height:1.6; vertical-align:2px; user-select:none;}
   .passage p.zhp{font-family:'Noto Sans TC',sans-serif; font-size:14.5px; line-height:1.95; color:var(--ink); background:#F7FAF5; border-left:3px solid var(--sage); padding:8px 12px; margin:-6px 0 18px; border-radius:2px;}
   mark.ev{background:var(--yellow); color:inherit; padding:1px 0; border-radius:2px;}
+  /* 全文中心思想與段落主旨句（交卷後才出現）：圖例名稱與提醒照克漏字站 */
+  .msT,.msB{background:var(--blue); padding:1px 0; border-radius:2px;}
+  .msS,.msB{text-decoration:underline; text-decoration-color:var(--ink); text-decoration-thickness:1.5px; text-underline-offset:5px; text-decoration-skip-ink:none;}
+  .msLegend{font-size:12.5px; line-height:1.8; color:var(--ink-soft); border:1px solid var(--rule); border-radius:3px; background:#F8FBFD; padding:8px 12px; margin:0 0 12px;}
+  .msKeys{font-size:13px; color:var(--ink); margin-bottom:2px;}
+  .msKeys span{padding:0 4px;}
+  .msTip{font-size:12px; margin-top:4px;}
   .passage b.mo{font-weight:700; text-decoration:underline; text-decoration-color:var(--sage); text-decoration-thickness:2px; text-underline-offset:3px;}
   .mt{text-decoration:underline dashed var(--crimson); text-decoration-thickness:1.5px; text-underline-offset:3px;}
   .evPara{scroll-margin-top:16px;}
@@ -745,6 +752,7 @@ function renderPractice(){
     ${flag}
     ${graded ? '' : '<div style="font-size:12.5px; color:var(--ink-soft); line-height:1.8; margin-bottom:12px;">先讀文章，再作答下方的題目。全部答完前也可以交卷，沒答的算答錯。</div>'}
     ${graded && p.zh ? `<div class="zhBar"><button type="button" class="ghost-btn zhBtn" aria-pressed="${zhOn}" onclick="toggleZh()">${zhOn ? '收起逐段中譯' : '顯示逐段中譯'}</button>${evOn ? `<button type="button" class="link-btn" onclick="clearEv()">取消依據句標示</button>` : ''}</div>` : ''}
+    ${graded && p.ms ? msLegend(p) : ''}
     <div class="passage" lang="en">`;
 
   const inline = {};
@@ -775,6 +783,16 @@ function renderPractice(){
   }
   html += `</div>`;
   document.getElementById('practiceBody').innerHTML = html;
+}
+
+/* 交卷後才出現：全文中心思想藍底、段落主旨句底線、兩者皆是藍底加底線 */
+const MS_TIP = '📌 提醒：並非每一段都有一句「明講」的主旨句——開頭鋪陳段、承接前段的延伸段、或敘事／描述性段落，主旨常常是「隱含」的，沒有一句能直接畫線。遇到這種段落，與其硬找一句話，不如問自己「這段在做什麼」（舉例？補充？延續前段？），用自己的話歸納出這段的重點即可。';
+function msLegend(p){
+  const hasT = p.ms.some(m => m.k !== 'topic');
+  return `<div class="msLegend"><div class="msKeys"><span class="msB">兩者皆是</span>　<span class="msT">全文中心思想</span>　<span class="msS">段落主旨句</span></div>`
+    + `全文中心思想是藍底，段落主旨句是底線，兩者皆是則藍底加底線。按「看依據句」之後，依據句會用黃底標出，和主旨句可以同時出現。`
+    + (hasT ? '' : '這一篇沒有一句話明講全文中心思想，要讀完各段，自己歸納。')
+    + `<div class="msTip">${MS_TIP}</div></div>`;
 }
 
 /* 交卷後才出現：綱要等於先講出各段大意 */
@@ -887,13 +905,20 @@ function paraHtml(p, par, idx){
     });
   }
   if(it) (it.trap || []).filter(t => t.p === no).forEach(t => spansIn(par, t.t).forEach(([a,b]) => { isTrap = true; for(let i = a; i < b; i++) mt[i] = 1; }));
+  const ms = new Array(L).fill(0);
+  if(graded && p.ms) p.ms.filter(m => m.p === no).forEach(m => {
+    const k = par.indexOf(m.t);
+    if(k < 0) return;
+    for(let i = k; i < k + m.t.length; i++) ms[i] = { thesis:'T', topic:'S', both:'B' }[m.k];
+  });
   let body = '', i = 0;
   while(i < L){
-    let j = i; while(j < L && ev[j] === ev[i] && mo[j] === mo[i] && mt[j] === mt[i]) j++;
+    let j = i; while(j < L && ev[j] === ev[i] && mo[j] === mo[i] && mt[j] === mt[i] && ms[j] === ms[i]) j++;
     let seg = br(par.slice(i, j));
     if(mo[i]) seg = `<b class="mo">${seg}</b>`;
     if(mt[i]) seg = `<span class="mt">${seg}</span>`;
     if(ev[i]) seg = `<mark class="ev">${seg}</mark>`;
+    if(ms[i]) seg = `<span class="ms${ms[i]}">${seg}</span>`;
     body += seg; i = j;
   }
   const pn = graded ? `<span class="pn">第 ${no} 段</span>` : '';
