@@ -8228,7 +8228,8 @@
   "zh": [
    "有一天，Nasreddin 向鄰居 Ali 借了一個大鍋。隔天他歸還的時候，大鍋裡面放了一個小鍋。「那不是我的。」Ali 說。「是你的。」Nasreddin 說：「你的鍋子待在我家的時候，生了一個寶寶。」",
    "一個星期以後，Nasreddin 又請 Ali 把鍋子借給他。Ali 很樂意地答應了，想看看 Nasreddin 會不會再還他兩個鍋子。一個星期過去了，接著又過了一個星期。最後 Ali 失去耐心，上門去討他的鍋子。「很抱歉，你的鍋子死了。」Nasreddin 說。「死了！」Ali 說：「鍋子怎麼會死？」「這個嘛，我跟你說你的鍋子生了寶寶，你不是相信了嗎？」"
-  ]
+  ],
+  "ms": []
  },
  {
   "id": "g89p2",
@@ -8274,6 +8275,18 @@
    "有時候，送到郵局的郵件沒辦法全部投遞出去。可能是地址寫得不完整或字跡無法辨認，又沒有寫寄件人地址。郵局不能把這些郵件直接丟掉，於是它們就成了「死信」。死信會送到美國郵政局設在亞特蘭大、紐約、費城、聖保羅和舊金山的其中一個死信辦公室。一年下來，最後送到這些辦公室的郵件可能多達七千五百萬件。",
    "死信辦公室的員工有各種方法處理這些死信。首先，他們會找出能幫他們投遞郵件的線索；他們會打開包裹，希望裡面有東西能看出包裹是從哪裡寄來、要寄到哪裡。死信也會登錄在電腦上，民眾可以打電話來查詢，看看自己遺失的東西是不是在那裡。",
    "不過，這些郵件不可能永遠存放下去，因為實在太多了。死信累積了很多的時候，死信辦公室就會舉行公開拍賣。每三個月，辦公室會開放民眾進來，把一箱箱從死信包裹裡找到的物品，賣給出價最高的人。"
+  ],
+  "ms": [
+   {
+    "p": 2,
+    "t": "The staff of the dead mail offices has a variety of ways to deal with all of these pieces of dead mail.",
+    "k": "topic"
+   },
+   {
+    "p": 3,
+    "t": "When a lot of dead mail has piled up, the dead mail offices hold public auctions.",
+    "k": "topic"
+   }
   ]
  },
  {
@@ -8315,7 +8328,8 @@
   "zh": [
    "我像一朵雲，孤獨地漫遊，高高飄過山谷和丘陵；忽然間，我看見一大群、一大片金黃色的水仙花，在湖邊、在樹下，隨著微風輕輕飄動、翩翩起舞。",
    "水仙花連綿不斷，就像銀河裡閃閃發亮的星星；它們沿著海灣的邊緣，排成看不到盡頭的一長列。我一眼望去就看到上萬朵，每一朵都搖著頭，跳著輕快的舞。"
-  ]
+  ],
+  "ms": []
  },
  {
   "id": "g89p4",
@@ -8353,11 +8367,11 @@
     "though"
    ],
    "outline": [
-    "(Once) 語言學家邀請朋友來家錄音，謊稱只錄幾分鐘區域口音。",
-    "(Thus, When they saw) 朋友見到工作室般佈置後不安，錄完數數，作者關掉錄音機並招待飲料。",
-    "朋友們嚴厲批評作者的工作很蠢，之後作者說要接電話，離開了一段時間。",
-    "(Or at least that was how it would appear. For, of course) 麥克風實則連至廚房另一台錄音機，(thus giving excellent sound quality) 朋友們以為錄音結束而放鬆交談，提供絕佳錄音品質。",
-    "(I should add) 作者事後告知真相並提供銷毀選擇，朋友未銷毀，但作者感覺道德上虧欠。"
+    "(A linguist is always listening, never off-duty) 語言學家隨時都在聽別人說話；(Once) 作者邀朋友來家裡錄音，謊稱只想錄他們的地方口音，幾分鐘就好。",
+    "(Thus, on one evening … When they saw the room) 朋友看到客廳佈置得像錄音室，有點不安；作者說只要他們從一數到二十，(Then we could relax) 之後就能放鬆喝酒。",
+    "(I turned on the tape-recorder) 朋友數完數，作者關掉錄音機、端出飲料，朋友笑他的工作很蠢；(I had to take a telephone call in another room) 後來作者去另一個房間接電話，離開了好一陣子。",
+    "(Or at least that was how it would appear. For, of course) 其實麥克風接的是廚房裡的另一台錄音機，朋友以為錄音結束，不再注意眼前的麥克風，(thus giving excellent sound quality) 錄音品質極佳；(my lengthy absence meant that) 作者藉故離開，錄到了最自然的對話。",
+    "(I should add) 作者事後說出真相，讓朋友選擇要不要銷毀錄音帶，結果沒有人要銷毀；(though for some years afterwards) 不過之後好幾年，每次輪到買酒的總是作者，(Linguistic research can be a very expensive business) 語言學研究的代價可不小。"
    ]
   },
   "zh": [
@@ -8365,6 +8379,13 @@
    "我打開錄音機，他們輪流拿出最標準的口音，一本正經地從一數到二十。數完以後，我關掉錄音機，端上飲料。他們狠狠地批評我，說我的工作真是蠢透了。那天晚上接下來的時間，大家愉快地閒聊，唯一掃興的是，我得到另一個房間接一通電話，可惜那通電話講了好一陣子。",
    "至少表面上看起來是這樣。因為那些麥克風當然根本沒有接到房間中間那台錄音機，而是接到另一台錄音機，那台錄音機正在廚房裡愉快地轉個不停。參與的人看到那台看得見的錄音機已經關掉，就不再注意擺在椅子前面的麥克風了；麥克風離他們的嘴巴只有幾英寸，錄下來的音質好極了。而我離開了很長一段時間，錄到的對話也就自然得不能再自然了。",
    "也許我應該補充一下：事後我確實告訴朋友們他們遇到了什麼事，也讓他們選擇要不要銷毀錄音帶。沒有人要銷毀；不過，接下來好幾年，朋友們讓我很清楚自己在道義上欠了他們一份情，具體來說，就是每次要買酒的時候，好像總是輪到我請客。語言學的研究可是很花錢的。"
+  ],
+  "ms": [
+   {
+    "p": 1,
+    "t": "A linguist is always listening, never off-duty.",
+    "k": "thesis"
+   }
   ]
  },
  {
@@ -8400,13 +8421,30 @@
     "描述 George Bernard Shaw 和 Winston Churchill 兩人彼此不喜歡。",
     "(It is said that) 蕭伯納曾寄兩張戲票給邱吉爾，並附卡寫道：「帶一位朋友來（如果你有的話）」。",
     "(however) 邱吉爾巧妙回擊，退回戲票並附註：「那天晚上我很忙。請寄兩張第二晚的票給我（如果有的話）」。",
-    "(There is no record of whether) 文中未記載蕭伯納是否寄了票。"
+    "(There is no record of whether) 沒有紀錄顯示蕭伯納後來有沒有寄票。"
    ]
   },
   "zh": [
    "蕭伯納和邱吉爾顯然互相看不順眼。據說這位劇作家有一次寄給邱吉爾兩張票，請他看自己一齣戲的首演夜，還附了一張卡片，上面寫著：「帶一位朋友來（如果你有的話）。」",
    "不過，這一回合是邱吉爾占了上風。他把票退了回去，附上一張字條，上面寫著：「那天晚上我很忙。請寄兩張第二晚的票給我（如果有第二晚的話）。」",
    "至於蕭伯納後來有沒有寄票，沒有任何紀錄。"
+  ],
+  "ms": [
+   {
+    "p": 1,
+    "t": "George Bernard Shaw and Winston Churchill apparently disliked each other.",
+    "k": "topic"
+   },
+   {
+    "p": 2,
+    "t": "Churchill, however, managed to get the better of this exchange.",
+    "k": "topic"
+   },
+   {
+    "p": 3,
+    "t": "There is no record of whether Shaw ever sent the tickets.",
+    "k": "topic"
+   }
   ]
  },
  {
@@ -8443,7 +8481,7 @@
    "outline": [
     "闡述作者寫作目的多樣：常寫真實或虛構的人事物，內容可幽默、悲傷或恐怖。",
     "寫作目的包括 (to entertain) 娛樂讀者或 (to inform) 透過事實或觀點來告知讀者。",
-    "(The following two paragraphs are examples of these two kinds) 提供兩段範例：第一段是虛構的故事（娛樂），第二段是關於貝殼的科普說明（資訊）。"
+    "(The following two paragraphs are examples of these two kinds) 第 3、4 段是這兩類的例子：第 3 段 Nelson 的故事是寫來娛樂讀者的，第 4 段介紹貝殼的種類和軟體動物，是寫來提供資訊的。"
    ]
   },
   "zh": [
@@ -8451,6 +8489,18 @@
    "下面兩段分別是這兩類文章的例子。",
    "(1) Nelson 拆完行李以後，把所有空箱子搬到走廊上。在他要把箱子拿去垃圾場的路上，鈴聲響了，他得趕快。他沒時間去垃圾場了，就在 Adam Joshua 的辦公室停了下來（那間辦公室剛好沒鎖），然後開開心心地走了。那天下午稍晚，Nelson 和 Peter 一起到 Adam 的辦公室做生物科的專題。Nelson 一打開門，空箱子和許多其他東西就掉下來，砸在他們身上。「Adam Joshua！」Nelson 一邊推開一顆籃球、把一隻玩具青蛙從腳上甩掉，一邊大叫：「怎麼可以這樣對待朋友！」",
    "(2) 在陸地和海洋交界的地方，我們可以找到貝殼。貝殼有很多不同的種類：有的圓得像月亮，有的長得像摺疊刀，有的形狀像盒子、扇子或陀螺。我們找到的貝殼通常是空的，不過裡面曾經有柔軟的身體。外面有硬殼、裡面是柔軟身體的動物，稱為軟體動物。"
+  ],
+  "ms": [
+   {
+    "p": 1,
+    "t": "Authors write for many reasons.",
+    "k": "both"
+   },
+   {
+    "p": 2,
+    "t": "The following two paragraphs are examples of these two kinds.",
+    "k": "topic"
+   }
   ]
  },
  {
@@ -8487,7 +8537,7 @@
    "outline": [
     "介紹考艾島是夏威夷群島中最古老的島嶼，擁有令人驚嘆的自然風光。",
     "描述島上的河流、熱帶叢林、壯麗的納帕利海岸懸崖，以及有「太平洋大峽谷」之稱的威美亞峽谷。",
-    "考艾島中心的懷亞萊阿萊山是世界上最潮濕的地方，(yet) 但僅幾英里外卻有乾燥區域，雨量集中。",
+    "考艾島中央的懷亞萊阿萊山是一座死火山，公認是地球上最潮濕的地方，(Yet this amount of rain is surprisingly localized) 不過雨量集中在局部，往西幾英里就是乾燥地區。",
     "說明考艾島正從 1992 年颶風伊尼基的破壞中恢復，(but) 雖有飯店重建，但仍美麗如昔。",
     "(While) 考艾島不適合喜歡喧囂或夜生活的人，(its main attractions lie outdoors) 主要吸引力在於戶外活動（如健行、露營、水肺潛水）。"
    ]
@@ -8497,6 +8547,23 @@
    "懷亞萊阿萊山高 5,000 多英尺，矗立在這座近乎圓形的島嶼中央。一般認為這座死火山是地球上最潮濕的地方，每年降雨量將近 500 英寸。然而，這麼多的雨，卻出乎意料地集中在小範圍裡。往西才幾英里，就有一個乾燥地區，一年的雨量只有 6 英寸。",
    "1992 年伊尼基颶風來襲，這是本世紀侵襲夏威夷最強的颶風，考艾島到現在還在復原。有幾家飯店仍在重建，不過考艾島依然和以前一樣美麗。",
    "喜歡熱鬧人潮或夜生活的人，不適合來考艾島。島上雖然也有一些度假飯店、購物中心和好餐廳，還有零星幾間博物館、藝廊和夜間娛樂場所，但是主要的吸引力在戶外。在島上健行、露營和水肺潛水都非常棒。"
+  ],
+  "ms": [
+   {
+    "p": 1,
+    "t": "Kauai, the oldest of the main Hawaiian Islands, has some of the state’s most stunning scenery.",
+    "k": "topic"
+   },
+   {
+    "p": 3,
+    "t": "The island continues to recover from its 1992 visit from Iniki, the most powerful hurricane to hit Hawaii this century.",
+    "k": "topic"
+   },
+   {
+    "p": 4,
+    "t": "While it does have its share of resort hotels, shopping centers and good restaurants, and a smattering of museums, art galleries and night spots, its main attractions lie outdoors.",
+    "k": "topic"
+   }
   ]
  },
  {
@@ -8536,6 +8603,13 @@
   },
   "zh": [
    "所有生物最後都會死。用生態學的說法，生物身上的化學物質是向地球借來的，死的時候就還回去。每一種動物，從最小的蒼蠅到最大的大象，吃下去當作食物的東西，最後也都會變成排泄物，回到地球。死去的生物和排泄物，是一群叫做分解者的生物的食物。分解者包括各種細菌、真菌和小動物，它們把大自然的廢物分解成愈來愈小的碎片，直到所有化學物質都釋放到空氣、土壤和水中，讓其他生物可以利用。要是沒有這個過程釋放出來的二氧化碳，所有植物都會滅絕。要是沒有植物釋放的氧氣、沒有植物提供的食物，生命就會停擺，所有動物都會餓死。分解者是大自然生死循環中不可或缺的一環。"
+  ],
+  "ms": [
+   {
+    "p": 1,
+    "t": "The decomposers are a vital link in the natural cycle of life and death.",
+    "k": "both"
+   }
   ]
  },
  {
@@ -8581,9 +8655,9 @@
    "outline": [
     "描述 John Glenn 第二次在紐約「英雄谷」的遊行，慶祝他重返太空。",
     "(is considered the largest ever) 1962 年他首次太空飛行後的遊行規模空前，紙花數量龐大。",
-    "(For his second parade) 這次遊行相對冷清，觀眾稀少且拘謹，(The … celebration \"was more enthusiastic …\") 許多人認為不如第一次熱情。",
+    "(For his second parade) 第二次遊行人潮稀少，觀眾也很拘謹，(a figure that appeared generously inflated) 警方說有 50 萬人，數字顯然灌水；(said one spectator) 一位兩次都到場的觀眾說，1962 年那次熱烈得多、人也多得多。",
     "(Another spectator said that) 有人認為美國人對太空計畫成就已習以為常，(It’s become so everyday) 變得太過平常，無人關心。",
-    "(After that event) Glenn 本人回憶 1962 年遊行時紙花如暴雪，(joins a list of) 他是少數獲多次紙花遊行殊榮的人。"
+    "(After that event, Glenn recalled the 1962 parade) Glenn 回憶 1962 年的遊行時，說紙花多得像暴風雪；(joins a list of) 下個月將從參議院退休的 Glenn，也加入了不只一次獲得紙花遊行表揚的個人與球隊之列。"
    ]
   },
   "zh": [
@@ -8594,6 +8668,38 @@
    "另一位觀眾說，太多美國人把太空計畫的成就視為理所當然。「這件事已經變得太平常、太普通，沒有人在乎了。」他說。",
    "Glenn 這一天先替洛克斐勒中心的聖誕樹裝飾。之後他回憶 1962 年的遊行時說：「那次的規模實在太大了。我記得紙片多得像暴風雪一樣，一抬頭，眼睛幾乎就會有東西掉進去。」",
    "Glenn 下個月就要從美國參議院退休，他也成為少數獲得不只一次紙花遊行表揚的個人和運動隊伍之一。"
+  ],
+  "ms": [
+   {
+    "p": 1,
+    "t": "New York, Nov. 17--In a swirl of confetti and shredded paper, John Glenn made his second trip through New York’s \"Canyon of Heroes\" in a parade Monday, saluting his return to space 36 years after he became America’s first man in orbit.",
+    "k": "both"
+   },
+   {
+    "p": 2,
+    "t": "Glenn’s first ticker-tape parade on March 1, 1962, after his Mercury flight, is considered the largest ever in New York.",
+    "k": "topic"
+   },
+   {
+    "p": 3,
+    "t": "For his second parade, despite lunchtime crowds from Wall Street, the turnout Monday was sparse by New York standards and spectators along a route less than a mile long were surprisingly restrained.",
+    "k": "topic"
+   },
+   {
+    "p": 4,
+    "t": "The 1962 celebration \"was more enthusiastic -- a lot more people,\" said one spectator, who as a young newlywed attended Glenn’s first parade and came from her Brooklyn home again for Glenn’s second parade.",
+    "k": "topic"
+   },
+   {
+    "p": 5,
+    "t": "Another spectator said that too many Americans take the achievements of the space program for granted.",
+    "k": "topic"
+   },
+   {
+    "p": 7,
+    "t": "Glenn, who retires from the U.S. Senate next month, joins a list of individuals and sports teams honored with more than one ticker-tape parade.",
+    "k": "topic"
+   }
   ]
  },
  {
@@ -8642,6 +8748,23 @@
    "接在 Robot Redford 後面演講的是一個人：William Bakaleinikoff，他談到人和科技需要合作。Bakaleinikoff 先生對這個題目的經驗包括：Robot Redford 就是他製造的，機器人對畢業生說的話，也是他配的音。",
    "選機器人當畢業典禮的演講者，引起不少爭議。有些學生認為用機器人既不體貼，又有貶低人的意味。也有人認為這個主意很聰明、很有創意。",
    "「我永遠不會忘記這場演講。」一位畢業生說：「政治領袖你會忘記，但機器人你不會忘記。」"
+  ],
+  "ms": [
+   {
+    "p": 1,
+    "t": "One of the most unusual graduation speakers of the 1983 commencement season was not a person at all.",
+    "k": "topic"
+   },
+   {
+    "p": 3,
+    "t": "Robot Redford was followed by a person, William Bakaleinikoff, who spoke about the need for cooperation between people and technology.",
+    "k": "topic"
+   },
+   {
+    "p": 4,
+    "t": "There was quite a bit of controversy over the choice of a robot as a commencement speaker.",
+    "k": "both"
+   }
   ]
  },
  {
@@ -8678,11 +8801,18 @@
     "(Accused of neglecting) 有人指責父親忽略孩子的宗教教育，他仍替孩子辦了夏季家庭學校。",
     "(His summer course included) 課程包含古代史和航海學，(in which) 航海學有正式考試和實際「航行」。",
     "(Then we were each separately sent on) 兩個孩子分別搭父親的船出海過夜，照母親的說法，船上的食物夠吃一個星期。",
-    "(I remember that on my cruise I was required to formally plot our course, even though) 作者記得出航時父親要他正式規劃航線，即使目的地看得見也一樣。"
+    "(I remember that on my cruise I was required to formally plot our course … even though) 作者記得出航時，父親要他用潮汐表正式規劃航線，即使目的地的小島清楚可見也一樣。"
    ]
   },
   "zh": [
    "和父親一起過的夏天總是很愉快。游泳、健行、划船、釣魚，白天再長也裝不下我們所有的活動。我們好像從來沒有時間上教堂，這讓一些朋友和親戚很不以為然。有人指責父親忽略了我們這方面的教育，但他還是替我和我的兄弟辦了一所夏季學校。他的暑期課程包括古代史，因為爸爸覺得我們的學校忽略了這門課；還有航海，航海課我們先在飯廳參加一場正式的考試，考試的一部分是要在規定的時間內打好幾種繩結。接著，我們兩個分別出發，參加一趟他很隆重地稱為「航行」的行程，搭的是父親那艘 18 英尺長的船，晚上就睡在船上；照媽媽的說法，船上裝的食物夠吃一個星期。我記得在我那趟航行中，我得用潮汐表正式規劃我們的航線，儘管我們的目的地是一座小島，我隔著海面遠遠望去就看得清清楚楚。"
+  ],
+  "ms": [
+   {
+    "p": 1,
+    "t": "Accused of neglecting this part of our education, my father still instituted a summer school for my brother and me.",
+    "k": "both"
+   }
   ]
  },
  {
@@ -8741,6 +8871,58 @@
    "市長說，新建築會打上燈光，特別是塞納河兩岸，塞納河將成為一條發光的帶子；聖母院則會從內部點燈，展示它的彩繪玻璃窗。",
    "Tiberi 說，香榭麗舍大道頂端的凱旋門上方會裝設一座雷射時鐘，三道雷射光分別標出時針、分針和秒針，為千禧年倒數計時。",
    "協和廣場將設置一座巨型沙漏，沙子會在預定 1999 年 4 月 11 日發生的日蝕之後開始流動。"
+  ],
+  "ms": [
+   {
+    "p": 1,
+    "t": "PARIS, Dec. 9 -- Paris will be given a new Eiffel Tower--but made of wood--for the millennium, city mayor Jean Tiberi said Tuesday, presenting a program of celebration for the year 2,000 which would transform the “city of light” into the “capital of light.”",
+    "k": "both"
+   },
+   {
+    "p": 2,
+    "t": "The new structure will be 200 meters high, 100 meters shorter than the cast-iron Eiffel Tower built 100 years ago.",
+    "k": "topic"
+   },
+   {
+    "p": 3,
+    "t": "It will be made of timber as an ecological symbol of “the right to a dignified life on a protected Earth,” said architects Normier, Henni and Lelievre, who were also responsible for the Europe section at the Seville exhibition.",
+    "k": "topic"
+   },
+   {
+    "p": 4,
+    "t": "The tower, of pinewood, will be built on eight pillars and will be topped with a flower of five metal petals of 700 square meters each.",
+    "k": "topic"
+   },
+   {
+    "p": 5,
+    "t": "The structure, to be erected in the redeveloped areas of the capital’s 13th district, will cost 250 million francs (US$42 million).",
+    "k": "topic"
+   },
+   {
+    "p": 6,
+    "t": "Tiberi also said that Paris would be placed under the sign of the lights of “culture and life” and “intelligence.”",
+    "k": "topic"
+   },
+   {
+    "p": 7,
+    "t": "“If, in 1900, Paris was consecrated the ‘city of light’, it will become the ‘capital of light’ for the millennium,” Tiberi said.",
+    "k": "topic"
+   },
+   {
+    "p": 8,
+    "t": "The mayor said new buildings would be illuminated, notably along the banks of the Seine, which would become a luminous strip, while Notre Dame Cathedral would be lit from the inside to show off its stained glass windows.",
+    "k": "topic"
+   },
+   {
+    "p": 9,
+    "t": "A laser clock would be installed on top of the Arc de Triomphe at the top of the Champs Elysees and three laser beams would pick out the hands showing the hours, minutes and seconds in the millennium countdown, Tiberi said.",
+    "k": "topic"
+   },
+   {
+    "p": 10,
+    "t": "A giant egg-timer will be set up in the Place de la Concorde and its sand will begin running after a solar eclipse scheduled on April 11, 1999.",
+    "k": "topic"
+   }
   ]
  },
  {
@@ -8786,6 +8968,28 @@
    "正是為了解決這種情況，斯塔福德郡的沃爾索爾鎮開了一家 The Carpenters’ Shop。這家店由一群教會志工經營，會收集任何多餘、品質良好的物品，存放起來，直到可以重新分送給正好需要這些東西的人。",
    "許多人透過這項計畫得到幫助，包括單親家長、身心障礙者和老人，以及在房屋失火這類災難中失去所有家當的人。",
    "這是一項值得讚賞的計畫，也值得查一查你的家鄉有沒有類似的計畫。捐贈者參與這項計畫不必花一毛錢，卻能讓別人的生活大不相同。"
+  ],
+  "ms": [
+   {
+    "p": 1,
+    "t": "I wonder how often your family has bought new furniture, curtains or kitchen equipment and then wondered how to dispose of the old items that still have quite a lot of life left in them.",
+    "k": "topic"
+   },
+   {
+    "p": 2,
+    "t": "It was in response to this situation that The Carpenters’ Shop was opened in the town of Walsall, Staffordshire.",
+    "k": "topic"
+   },
+   {
+    "p": 3,
+    "t": "Many have been helped through the scheme, including single parents, disabled people and the elderly, and those who have lost all their household possessions through a disaster such as a house fire.",
+    "k": "topic"
+   },
+   {
+    "p": 4,
+    "t": "It’s an admirable project, and it is worth finding out if a similar one operates in your hometown.",
+    "k": "both"
+   }
   ]
  },
  {
@@ -8820,17 +9024,24 @@
     "But"
    ],
    "outline": [
-    "介紹 Jack's Disk Doctor Service，專門恢復磁碟資料，(They work from home and give all the money they earn to charity) 收入捐慈善。",
-    "服務費固定，(Some people, however) 但許多感激的客戶會額外捐款，甚至有客戶提供空白支票。",
+    "(Jack Olson is one of these experts) 資料遺失時，可以找專家幫忙救回，Jack Olson 就是一位；(set up a company called) 他和幾位朋友在 1984 年成立 Jack’s Disk Doctor Service，(They work from home and give all the money they earn to charity) 在家工作，收入全數捐給慈善團體。",
+    "收費固定，不論資料多麼珍貴都一樣，(Some people, however) 但有些客戶十分感激，額外寄錢給 Jack 或他支持的慈善團體，石油公司付了 2,000 美元，建築師甚至寄來空白支票。",
     "(It would be difficult to put a value on the things rescued) Disk Doctor 拯救的資料價值無法衡量，包括醫療研究、劇本、重要文件等。",
     "磁碟通常郵寄，但緊急時會用計程車火速送到，(When the material has been recovered) 資料恢復後，磁碟會附診斷和預防建議返還。",
-    "(But … most people don’t take any notice of the doctor’s advice!) 儘管服務貴重，Jack 感嘆多數人並不採納建議。"
+    "(One grateful client) 有位作家在書前向 Jack 致謝，(But … most people don’t take any notice of the doctor’s advice!) 不過 Jack 說，多數人並不理會「醫生」的建議。"
    ]
   },
   "zh": [
    "如果磁碟裡的資料「不見了」，你該怎麼辦？找專家幫你救回遺失的資料，大概是最簡單的辦法。Jack Olson 就是這樣的專家。1984 年，Jack 和幾個朋友成立了一家公司，名叫「Jack’s Disk Doctor Service」。他們在家工作，把賺來的錢全部捐給慈善團體。不管磁碟裡的資料多珍貴，收費都一樣。不過，有些人感激到另外寄錢給 Jack，或寄給他的公司支持的慈善團體。有一家石油公司給了他 2,000 美元當謝禮，還有一位建築師甚至寄給他一張空白支票。",
    "Disk Doctor 救回來的東西，價值很難估算。這些磁碟裡有醫學研究、電視劇本、整本書的手稿、律師打官司用的文件，甚至還有柴契爾夫人訪問東歐的行程。最後這一件，Jack 還得「基於安全理由」親自到柴契爾夫人的辦公室處理！",
    "磁碟通常是用郵寄的方式送到 Disk Doctor 那裡，不過有時候客戶急得等不及郵件送到。例如，有些廣播稿第二天就要播出，只好用計程車火速送到 Jack 家。資料救回來以後，磁碟會寄還給寄件人，附上一份診斷和一張處方，告訴他們以後怎麼避免同樣的問題。有一位很感激的客戶是作家，他在自己的書前面寫了一段話感謝 Jack：「Jack 讓我免於心臟病發作。」但是 Jack 說：「大部分的人根本不理會醫生的建議！」"
+  ],
+  "ms": [
+   {
+    "p": 2,
+    "t": "It would be difficult to put a value on the things rescued by the Disk Doctor.",
+    "k": "topic"
+   }
   ]
  },
  {
@@ -8879,6 +9090,18 @@
   "zh": [
    "你知道「關係」這個詞的意思嗎？這裡有個簡單的理解方法。每當兩個人碰在一起，即使只有短短一下子，他們也會交換眼神、感受、思緒、想法和能量。他們的關係，就是他們彼此互動的方式。世界上發生的每一件事，都是透過關係發生的。我們人類需要愛人，也需要別人愛，而這份愛來自我們和他人的關係。因此，想要愛人、也想要別人愛的人，都會想建立長久的關係。",
    "下面有幾個建議，幫助我們建立持久的關係。第一，熟悉自己的舞步。兩個人之間的關係就像跳舞的藝術。在能和舞伴一起跳舞以前，我們得先能自己跳。我們要感受音樂的節奏，聽聽音樂怎麼激勵我們舞動，學會屬於自己的獨特動作和表達方式。第二，信任。信任是建立持久關係最關鍵的基石；兩個人逐漸了解彼此，敞開心胸時覺得安心，這份連結就會隨之發展。我們尊重彼此的需要，累積共同的經驗和關懷，信任就會慢慢建立起來。第三，親密。一般人常把親密只當成性方面的連結，但是不涉及性，我們也可以和許多人很親密，也就是心與心的交流。我們需要另一個人看見我們、了解我們。這樣一來，親密讓我們茁壯成長。最後，把關係看成一個有機體。新的關係就像胚胎，需要時間、照顧和關注，才能長成它可能長成的樣子。在和他人適當的關係裡，別人會看見、了解我們真正的樣子，而愛就從這份看見和了解中產生。"
+  ],
+  "ms": [
+   {
+    "p": 1,
+    "t": "Accordingly, anyone who wishes to love and be loved will want to establish lasting relationships.",
+    "k": "topic"
+   },
+   {
+    "p": 2,
+    "t": "Here are a few tips to help us create enduring relationships.",
+    "k": "both"
+   }
   ]
  },
  {
@@ -8919,8 +9142,8 @@
     "兩名俄羅斯父子在澎湖群島附近獲救，(after) 因帆船故障開始漂流。",
     "他們於 8 月 18 日從俄羅斯港口出發，進行環球航行。",
     "(Their voyage … had been smooth until) 航程原本順利，直到四天前強風把主帆打碎。",
-    "(However) 啟動船內引擎，但不到兩天引擎又故障，船隻失去動力和方向。",
-    "(Surprised by) 澎湖警方和漁民救起兩人，他們英語有限，花數小時解釋，(It is not immediately known whether) 帆船能否修復和何時能繼續航行未定。"
+    "(However, after less than two days, the engine broke down) 父子兩人改用船內引擎，不到兩天引擎也故障；(Near the “black ditch” of Penghu) 到了澎湖黑水溝附近，強風把後帆撕成碎片，舵也失靈了。",
+    "(Surprised by) 澎湖警方和白沙的漁民救起兩人，(spent five hours trying to explain their presence) 父子英語有限，花了五個小時才說明來意；(It is not immediately known whether) 帆船能不能修好、何時能繼續環球航行，目前還不知道。"
    ]
   },
   "zh": [
@@ -8931,6 +9154,33 @@
    "在澎湖的「黑水溝」附近，風速高達 70 節的強風猛烈吹打著帆船，後帆撕成了碎片，舵也失靈了。",
    "澎湖的警察和白沙的漁民看到這對父子「臉色蒼白」、船隻破損不堪，都嚇了一跳，於是救起了他們。Vladimir 父子只會說一點英文，花了五個小時，才解釋清楚他們為什麼會出現在這裡。",
    "「Kawasaki」能不能在澎湖這個漁業島嶼上修好，Vladimir 父子什麼時候能再出發、繼續環球航行，目前都還不知道。"
+  ],
+  "ms": [
+   {
+    "p": 1,
+    "t": "Penghu, Nov.24—Two Russians, a father and a son, were rescued Saturday near the Penghu Islands off southwestern Taiwan after their sailboat broke down and began drifting.",
+    "k": "both"
+   },
+   {
+    "p": 2,
+    "t": "Medvedev Vladimir, 43, and his son, Maxsine, 14, sailed from an unnamed eastern Russian seaport on August 18, to begin an ambitious around-the-world cruise.",
+    "k": "topic"
+   },
+   {
+    "p": 3,
+    "t": "Their voyage, down the coastline of northeastern mainland China, through the East China Sea, then down the Taiwan Strait and into the South China Sea, had been smooth until four days ago when the mainsail of their twin-mast sailboat “Kawasaki” was smashed by strong winds on the high seas.",
+    "k": "topic"
+   },
+   {
+    "p": 6,
+    "t": "Surprised by the father and son’s “pale faces” and their battered vessel, the Penghu police and fishers in Paisha rescued them.",
+    "k": "topic"
+   },
+   {
+    "p": 7,
+    "t": "It is not immediately known whether the “Kawasaki” can be repaired on the fishing island of Penghu, or when the Vladimirs will be able to set off again and continue their around-the-world voyage.",
+    "k": "topic"
+   }
   ]
  },
  {
@@ -8981,11 +9231,11 @@
     "not only … but"
    ],
    "outline": [
-    "(It seems only yesterday that) 信中表達作者對 Tom 進入大學的欣喜與驕傲。",
+    "(It seems only yesterday that) 回想教 Tom 認字母彷彿才是昨天，如今他已經高中畢業，考上台北大學。",
     "(We are both very proud of you) 作者和 Jack 為 Tom 高中生涯的成就感到驕傲，並期待其大學生涯更豐碩。",
     "(A word of congratulation just doesn't seem enough) 僅說恭喜不足以表達心意，故贈送 Tom 一本無刪節詞典。",
     "(Jack says you'll not only find it handy in your studies, but a great argument-saver when playing) Jack 認為詞典不僅學習實用，也是玩「拼字遊戲」的好幫手。",
-    "邀請 Tom 下個月來和父母一起度過週末。"
+    "(Mom and Dad are coming here for a weekend next month) 爸媽下個月要來這裡過週末，(Please try to take a few days off and come to join us) 請 Tom 也請幾天假一起來。"
    ]
   },
   "zh": [
@@ -8995,6 +9245,23 @@
    "Tom，我們兩個都非常以你為榮。我們一路看著你念高中，又開心又欣慰，也知道你大學四年會過得更充實。只說一聲恭喜好像不夠，所以我要送你一份禮物，相信你一定用得上：一本未刪節的大辭典。Jack 說，這本辭典不但讀書時很好用，和朋友玩 Scrabble 拼字遊戲的時候，也是避免爭吵的好幫手。",
    "爸爸媽媽下個月要來我們這裡過週末。請盡量空出幾天來和我們聚一聚。我們很期待見到你。",
    "愛你的 Sally"
+  ],
+  "ms": [
+   {
+    "p": 3,
+    "t": "It seems only yesterday that Jack and I were helping you learn your ABC's—and now you have finished high school and been accepted at Taipei University.",
+    "k": "topic"
+   },
+   {
+    "p": 4,
+    "t": "We are both very proud of you, Tom.",
+    "k": "topic"
+   },
+   {
+    "p": 5,
+    "t": "Please try to take a few days off and come to join us.",
+    "k": "topic"
+   }
   ]
  },
  {
@@ -9040,6 +9307,23 @@
    "一般來說，所有要來台灣的外國人，都應該透過中華民國的大使館、領事館，或外交部授權的機構申請入境簽證。",
    "自 1995 年 5 月 1 日起，下列 15 國的國民入境中華民國免辦簽證：美國、日本、加拿大、比利時、盧森堡、瑞典、荷蘭、紐西蘭、澳洲、奧地利、德國、英國、法國、西班牙和葡萄牙。停留期限最長 14 天。14 天免簽證入境的條件是：護照效期至少六個月、持有 14 天內離境的確認機票，而且沒有違法紀錄。",
    "如果需要停留超過 14 天、不到 30 天，持 14 天免簽證入境的這些國家國民，應該在停留期間向外交部領事事務局設在中正機場的授權辦事處申請落地簽證。落地簽證的費用是新台幣 1,500 元。"
+  ],
+  "ms": [
+   {
+    "p": 1,
+    "t": "Generally speaking, all foreigners coming to Taiwan should apply for entry visas through the embassies or consulates of the Republic of China, or agencies authorized by the Ministry of Foreign Affairs.",
+    "k": "topic"
+   },
+   {
+    "p": 2,
+    "t": "As of May 1, 1995, all nationals of the following 15 countries are exempted from securing visas for entry into the Republic of China: U.S.A., Japan, Canada, Belgium, Luxembourg, Sweden, Holland, New Zealand, Australia, Austria, Germany, Britain, France, Spain, and Portugal.",
+    "k": "topic"
+   },
+   {
+    "p": 3,
+    "t": "If it is necessary to stay more than 14 days and less than 30 days, nationals of the specific countries holding a 14-day non-visa entry should in the meantime apply for a landing-visa with the authorized office in the CKS airport from the Bureau of Consular Affairs of the Ministry of Foreign Affairs.",
+    "k": "topic"
+   }
   ]
  },
  {
@@ -9082,7 +9366,7 @@
     "介紹大腦是複雜器官，科學家雖未解所有謎團，但已發現特定區域負責學習、記憶和語言。",
     "(Recent studies indicate that) 最新研究指出大腦兩半球（左右腦）在學習和溝通中扮演極重要角色。",
     "左腦負責規則、資訊列表和短期記憶，(In contrast) 右腦負責情感、色彩和長期記憶，兩者在語言學習中都重要。",
-    "(Scientists now relate) 科學家將左右腦與不同個體的語言學習方式聯繫起來，相信某些學習者偏向使用其中一側。",
+    "(Scientists now relate) 科學家把左右腦和每個人學語言的方式連在一起，認為有些學習者偏用其中一邊：(Left-brained learners) 左腦型背規則和清單，靠邏輯、定義和反覆練習，(Right-brained learners) 右腦型先看整體，把新資訊和已知的連結起來，靠聯想和直覺。",
     "(If teachers know) 若教師了解學生是左腦型或右腦型，(they can help them learn better) 便能協助他們更好地學習。"
    ]
   },
@@ -9090,6 +9374,23 @@
    "大腦重不到 2.2 磅，也許是我們身體裡最複雜的器官。科學家雖然還沒能解開這個神奇器官的所有謎團，但已經有一些進展。他們發現，大腦的某些部位負責學習、記憶和語言。",
    "最近的研究指出，大腦的兩半，也就是右半球和左半球，在學習和溝通上扮演極為重要的角色。左半球處理規則、一連串的資訊和短期記憶。相反地，右半球處理感受、色彩和長期記憶。科學家認為兩個半球對各種學習都很重要，語言學習也包括在內。",
    "科學家現在把左右半球和每個人學語言的方式連在一起。他們認為，有些學習者用其中一半大腦用得比另一半多。左腦型的學習者通常專注於背規則和清單，用邏輯、定義和反覆練習來學習。右腦型的學習者會先看整體的樣貌，專注於把新資訊和已經知道的東西連結起來，靠聯想和直覺來學習。大多數人都屬於這兩型的其中一種。如果老師知道學生是左腦型還是右腦型，就能幫助他們學得更好。"
+  ],
+  "ms": [
+   {
+    "p": 1,
+    "t": "The brain, which weighs less than 2.2 pounds, is perhaps the most complicated organ in our bodies.",
+    "k": "both"
+   },
+   {
+    "p": 2,
+    "t": "Recent studies indicate that the two halves of the brain—the right hemisphere and the left hemisphere — play extremely important roles in learning and communicating.",
+    "k": "topic"
+   },
+   {
+    "p": 3,
+    "t": "Scientists now relate left and right hemispheres to the way different individuals learn languages.",
+    "k": "topic"
+   }
   ]
  },
  {
@@ -9131,6 +9432,18 @@
   "zh": [
    "破解銀行、大企業，甚至政府部門的電腦密碼（也就是所謂的「駭客入侵」），是超級聰明的青少年最新的遊戲。一位年輕的駭客說：「當駭客純粹是動腦的事，是你的頭腦和電腦對決。就像爬聖母峰一樣，是你非做不可的事。你甚至不需要很貴的電腦，但你一定要了解各種電腦的一切。」",
    "目前，這些遊戲大多只是年輕人的消遣。可是，再過多久，像黑手黨這樣的犯罪集團就會開始找電腦專家幫他們犯罪呢？未來的銀行搶匪不需要用炸藥炸開銀行金庫，他們只需要一個能破解電腦密碼的人。在英國，已經有人說電腦犯罪每年讓企業損失 5 億到 25 億英鎊。"
+  ],
+  "ms": [
+   {
+    "p": 1,
+    "t": "Breaking into the computer codes (known as 'hacking') of banks, large companies or even government departments is the latest game for super-intelligent teenagers.",
+    "k": "topic"
+   },
+   {
+    "p": 2,
+    "t": "But how long will it be before criminal gangs, like the Mafia, start to use computer experts to help them in their crimes?",
+    "k": "topic"
+   }
   ]
  },
  {
@@ -9170,6 +9483,13 @@
   },
   "zh": [
    "愈來愈多科學證據顯示，大型車在公路上造成的事故比小型車多。最近新聞報導，一位女士開著她的旅行車，在途中心臟病發死亡。車子開得太快，衝破了公路的分隔護欄，造成一場五個人死亡的車禍。這些原本可以避免的死亡，部分要歸咎於這位女士選擇了大型車。換成輕一點、小一點的車，大概就不會衝破護欄，剩下的能量也會小得多，嚴重受傷或死亡的機會就會降低。而且小車體積小，說不定能完全避開另一輛車。目前這種超大型汽車的設計，不但是公路死亡人數增加的主要原因，石油資源迅速枯竭、環境汙染，以及城市的交通擁擠和不便，也大多是它造成的。"
+  ],
+  "ms": [
+   {
+    "p": 1,
+    "t": "The present design of the oversized automobile is largely responsible not only for increasing death toll on the highways but also for the rapid depletion of our resources of petroleum, for the pollution of our environment, and for the congestion and inconvenience of our cities.",
+    "k": "both"
+   }
   ]
  },
  {
@@ -9217,7 +9537,7 @@
    "outline": [
     "介紹三隻領航鯨魚 Tag、Notch、Baby 在去年 12 月擱淺後獲救，現自由游弋。",
     "(As many as) 多達 60 隻領航鯨魚擱淺，(Scientists are still trying to find out why) 科學家仍在調查鯨魚這種自毀行為的原因。",
-    "(Many of the whales died on the beach) 許多鯨魚死亡，獲救的三隻因年幼無法獨自生存。",
+    "(Many of the whales died on the beach) 許多鯨魚死在沙灘上，是自己的體重把自己壓死的；(Whale experts found Tag, Notch, Baby alive) 專家發現這三隻還活著，但認為牠們太小，沒辦法獨自生存，也沒辦法送回海裡。",
     "(The three whales were taken in a van to) 三隻鯨魚用貨車送到水族館，在大水箱裡養了七個月，(Only a few people worked with … so that) 只讓少數人照顧，以免牠們太親近人類。",
     "(Early this past summer) 今年夏初，三隻鯨魚確定夠健康，可以回到大海，(A month after their release) 野放一個月後，有人看到牠們跟著一群鯨魚游。"
    ]
@@ -9227,7 +9547,8 @@
    "多達 60 隻領航鯨游上了岸。科學家還在設法找出鯨魚為什麼會有這種自我毀滅的行為。很多鯨魚死在海灘上，是自己的體重把自己壓死的。鯨魚專家發現 Tag、Notch 和 Baby 還活著。一般認為這三隻年紀太小，沒辦法自己活下去，也沒辦法直接送回海裡。",
    "這三隻鯨魚用廂型車載到麻州波士頓的新英格蘭水族館，在一個 60,000 加侖的水槽裡養了七個月。只有少數幾個人照顧牠們，以免牠們太習慣人類。",
    "今年夏初，這三隻鯨魚確定夠健康，可以回到大西洋了。野放一個月後，有人看到了牠們。牠們和一群 50 隻鯨魚在一起，距離野放的地點大約 60 英里。"
-  ]
+  ],
+  "ms": []
  },
  {
   "id": "g83p1",
@@ -9263,8 +9584,8 @@
    "outline": [
     "闡述英雄的定義：發現特殊勇氣、勇敢助人，並看到需要做的事就去做。",
     "(Sometimes) 英雄會因勇敢行為獲得獎勵，(One such reward is) 例如卡內基獎章。",
-    "(It is given to) 獎章頒發給冒險救人者，(The medal was named after) 以紀念 Andrew Carnegie。",
-    "(In 1886) Carnegie 曾聽聞 William Hunter 救人溺斃，(If so) 便撥款榮譽像 Hunter 一樣的英雄，有需要或受傷者還可獲得獎金。",
+    "(It is given to) 獎章頒給冒著危險救人的人，(The medal was named after) 以 Andrew Carnegie 命名。",
+    "(In 1886) Carnegie 聽說 William Hunter 為了救兩個落水的男孩而喪命，後來他成為富商，撥出一筆錢表揚像 William 這樣的英雄；(If so) 英雄若生活困苦或受了傷，除了獎章還能得到獎金。",
     "(Over 6,000 people have received) 超過 6000 人獲此獎章，(All these heroes have one thing in common, however) 他們共同點是將他人安全置於自身之前。"
    ]
   },
@@ -9273,6 +9594,23 @@
    "有時候，英雄的勇敢行為會得到獎勵。卡內基獎章就是其中一種。這個獎章頒給勇敢行動、冒著危險去救別人性命的人。",
    "這個獎章是以 Andrew Carnegie 的名字命名的。1886 年，Carnegie 聽說一位名叫 William Hunter 的年輕人，為了救兩個溺水的男孩而失去了性命。Carnegie 後來成了非常富有的商人，撥出一筆錢表揚像 William 這樣的英雄。有時候這些英雄生活困難或受了傷，這樣的話，他們除了卡內基獎章，還會得到一筆錢。",
    "已經有 6,000 多人獲得卡內基獎章。有些人從水裡或失火的建築物裡救出別人；也有人把人從疾駛而來的火車前拉開，或從野生動物的攻擊中救人。不過，這些英雄都有一個共同點：他們把別人的安全放在自己的安全之前。"
+  ],
+  "ms": [
+   {
+    "p": 1,
+    "t": "A hero sees what needs to be done and does it.",
+    "k": "topic"
+   },
+   {
+    "p": 2,
+    "t": "Sometimes heroes are rewarded for their brave acts.",
+    "k": "both"
+   },
+   {
+    "p": 3,
+    "t": "The medal was named after Andrew Carnegie.",
+    "k": "topic"
+   }
   ]
  },
  {
@@ -9310,9 +9648,9 @@
    ],
    "outline": [
     "1977 年，George Willig 徒手攀爬紐約 1350 英尺高的世貿中心，耗時三小時半。",
-    "(At the top) 抵達頂樓時，警察和記者已經在等他，警方想把他關進監獄，控告他未經許可攀爬大樓。",
-    "(Then) 市政府甚至計劃 (to sue) 起訴他索賠 25 萬美元，以支付救援費用。",
-    "(By the next day) 隔天，市府官員重新評估，市長舉辦記者會表彰 Willig，(Instead of punishing) 並將罰款降至每層一美分。",
+    "(At the top) 爬到頂樓時，警察和記者已經在等他，有些警察還向他要簽名，(Then) 接著警方就想把他關進牢裡，控告他未經許可攀爬大樓。",
+    "(Furthermore) 市政府還打算向他求償 25 萬美元，支付緊急調派特殊裝備和 80 名警察救他的費用。",
+    "(By the next day) 隔天，市府官員重新評估，市長的記者會變成表揚 Willig 的典禮，(Beame announced that the city would not punish) 市長宣布不懲罰他，(he would be fined a penny for each of the 110 floors) 只罰他每爬一層樓一美分。",
     "(Instead of punishing … the city treated him as) 城市將 Willig 視為挑戰不可能的英雄，而非懲罰。"
    ]
   },
@@ -9320,7 +9658,8 @@
    "1977 年 5 月 26 日，George Willig 登上了紐約市 1,350 英尺高的世界貿易中心頂端。不過，他不是搭電梯上去的，而是像蒼蠅一樣，貼著這棟 110 層樓的巨大建築外牆往上爬。他從早上 6 點 30 分開始爬，花了三個半小時才爬完。",
    "到了頂樓，迎接 Willig 的有警察，也有記者。有些警察還向他要簽名。接著警方想把他關進監獄，控告他未經許可攀爬大樓，觸犯法律。不只這樣，市政府還打算向他求償 25 萬美元。警察局說，這筆錢是用來支付緊急調派特殊裝備和 80 名警察去救他的費用。",
    "到了第二天，市府官員重新評估了整件事。市長 Abraham Beame 在市政廳舉行記者會，結果記者會變成了表揚 George Willig 的典禮。Beame 宣布市政府不會處罰這位「人蒼蠅」（The Human Fly），只會照他爬的 110 層樓，每一層罰他一美分。市政府沒有處罰 Willig，反而把他當成敢於挑戰不可能、而且成功完成挑戰的英雄。"
-  ]
+  ],
+  "ms": []
  },
  {
   "id": "g83p3",
@@ -9363,7 +9702,7 @@
     "(The first printing was done from) 最初印刷使用木刻版，(This was a slow process) 過程緩慢耗時，每頁需單獨刻製。",
     "(A great step forward was) 活字印刷術是重大進步，(The Chinese discovered this in the 11th century) 中國在 11 世紀發現，(but it was not known in Europe until about) 歐洲約 1440 年才知曉。",
     "(In this method of printing) 活字印刷術用獨立金屬字元，(If) 字母組合按壓紙張即可印刷，印完後可拆解重排。",
-    "(One of the first European books) 第一批歐洲活字印刷書是古騰堡聖經，第一本英文書是 William Caxton 於 1474 年在法蘭德斯印刷的特洛伊歷史。"
+    "(One of the first European books) 最早的歐洲活字印刷書之一是古騰堡的四十二行聖經，第一本英文書是 William Caxton 1474 年在法蘭德斯印的特洛伊歷史，(In 1476 he returned to England) 他 1476 年回英國設立印刷廠，一共印了將近 80 本書。"
    ]
   },
   "zh": [
@@ -9371,6 +9710,23 @@
    "最早的印刷是用木板，一次一個字母，全靠手工雕刻。這個過程很慢，需要很多技巧和耐心，而且每一本書的每一頁都得分開來刻。",
    "一大進步是活字的使用。中國人在 11 世紀就發明了活字，但歐洲一直到 1440 年左右才知道。用這種方法印刷，每個字母都是用一塊塊分開的金屬做成的。字母塗上墨水、壓到紙上，就能印出字來。印完以後，這些字母可以拆開來重新排列，印別的東西。",
    "歐洲最早用活字印刷的書籍之一，是古騰堡的《四十二行聖經》。第一本同樣用活字印刷的英文書，內容是特洛伊的歷史，1474 年由一位英國人 William Caxton 在法蘭德斯印製。1476 年他回到英國，在西敏設立了一家印刷廠。他總共印了將近 80 本書，其中很多是他自己從法文翻譯過來的。"
+  ],
+  "ms": [
+   {
+    "p": 1,
+    "t": "Printing is one of the most important means of communication.",
+    "k": "topic"
+   },
+   {
+    "p": 2,
+    "t": "The first printing was done from wood blocks one letter at a time by hand.",
+    "k": "topic"
+   },
+   {
+    "p": 3,
+    "t": "A great step forward was the use of movable type.",
+    "k": "topic"
+   }
   ]
  }
 ]
