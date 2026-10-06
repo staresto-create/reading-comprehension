@@ -835,7 +835,7 @@ function drillLine(){
   return `<div class="drillNote">專練${drillName()}：這一篇的${parts.join('，')}。</div>`;
 }
 /* 交卷後才出現：全文中心思想藍底、段落主旨句底線、兩者都是藍底加底線 */
-const MS_TIP = '📌 提醒：並非每一段都有一句「明講」的主旨句——開頭鋪陳段、承接前段的延伸段、或敘事／描述性段落，主旨常常是「隱含」的，沒有一句能直接畫線。遇到這種段落，與其硬找一句話，不如問自己「這段在做什麼」（舉例？補充？延續前段？），用自己的話歸納出這段的重點就可以了。';
+const MS_TIP = '📌 提醒：不是每一段都有一句明講的主旨句。開頭鋪陳的段落、承接前一段的延伸段落，還有敘事或描寫的段落，主旨常常藏在字裡行間，找不到一句可以直接畫線。遇到這種段落，與其硬找一句話，不如問自己「這一段在做什麼」（舉例？補充？延續前一段？），再用自己的話歸納出這一段的重點就可以了。';
 /* 解析還沒逐一說明每個錯誤選項的題數（與 pages.py 同一規則） */
 function noteGap(){ return curItems.filter(it => Object.keys(it.options).some(k => k !== it.answer && !it.note.includes(`(${k})`))).length; }
 function msMainQ(p){
