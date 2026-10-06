@@ -1093,9 +1093,9 @@
   "structure": {
    "genre": "說明文",
    "genreEn": "Expository",
-   "org": "舉例說明",
-   "orgEn": "Example/Illustration",
-   "orgCode": "exm",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
    "transitions": [
     "Here’s how it works",
     "Once",
@@ -1419,9 +1419,9 @@
   "structure": {
    "genre": "說明文",
    "genreEn": "Expository",
-   "org": "比較對比",
-   "orgEn": "Compare/Contrast",
-   "orgCode": "cmp",
+   "org": "定義",
+   "orgEn": "Definition",
+   "orgCode": "def",
    "transitions": [
     "But",
     "Today",
@@ -1817,9 +1817,9 @@
   "structure": {
    "genre": "說明文",
    "genreEn": "Expository",
-   "org": "分類",
-   "orgEn": "Classification",
-   "orgCode": "cls",
+   "org": "時序發展",
+   "orgEn": "Chronological",
+   "orgCode": "chr",
    "transitions": [
     "As",
     "Others",
@@ -1951,9 +1951,9 @@
   "structure": {
    "genre": "說明文",
    "genreEn": "Expository",
-   "org": "問題解決",
-   "orgEn": "Problem-Solution",
-   "orgCode": "pbs",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
    "transitions": [
     "After",
     "then",
@@ -2944,9 +2944,9 @@
   "structure": {
    "genre": "說明文",
    "genreEn": "Expository",
-   "org": "舉例說明",
-   "orgEn": "Example/Illustration",
-   "orgCode": "exm",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
    "transitions": [
     "Here’s how it works",
     "Once",
@@ -3009,9 +3009,9 @@
   "structure": {
    "genre": "說明文",
    "genreEn": "Expository",
-   "org": "比較對比",
-   "orgEn": "Compare/Contrast",
-   "orgCode": "cmp",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
    "transitions": [
     "For years",
     "but",
@@ -5480,9 +5480,9 @@
   "structure": {
    "genre": "說明文",
    "genreEn": "Expository",
-   "org": "舉例說明",
-   "orgEn": "Example/Illustration",
-   "orgCode": "exm",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
    "transitions": [
     "for example",
     "then"
@@ -5530,9 +5530,9 @@
   "structure": {
    "genre": "說明文",
    "genreEn": "Expository",
-   "org": "問題解決",
-   "orgEn": "Problem-Solution",
-   "orgCode": "pbs",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
    "transitions": [
     "Even though",
     "But",

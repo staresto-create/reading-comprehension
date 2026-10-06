@@ -109,9 +109,9 @@
   "structure": {
    "genre": "說明文",
    "genreEn": "Expository",
-   "org": "定義",
-   "orgEn": "Definition",
-   "orgCode": "def",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
    "transitions": [
     "But",
     "In addition to",
@@ -2092,9 +2092,9 @@
   "structure": {
    "genre": "說明文",
    "genreEn": "Expository",
-   "org": "定義",
-   "orgEn": "Definition",
-   "orgCode": "def",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
    "transitions": [
     "But",
     "In addition to",
@@ -2156,9 +2156,9 @@
   "structure": {
    "genre": "說明文",
    "genreEn": "Expository",
-   "org": "分類",
-   "orgEn": "Classification",
-   "orgCode": "cls",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
    "transitions": [
     "Second",
     "Lastly",
@@ -4598,9 +4598,9 @@
   "structure": {
    "genre": "說明文",
    "genreEn": "Expository",
-   "org": "比較對比",
-   "orgEn": "Compare/Contrast",
-   "orgCode": "cmp",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
    "transitions": [
     "for example",
     "However",
@@ -5740,9 +5740,9 @@
   "structure": {
    "genre": "說明文",
    "genreEn": "Expository",
-   "org": "時序發展",
-   "orgEn": "Chronological",
-   "orgCode": "chr",
+   "org": "問題解決",
+   "orgEn": "Problem-Solution",
+   "orgCode": "pbs",
    "transitions": [
     "But",
     "therefore",
@@ -6167,9 +6167,9 @@
   "structure": {
    "genre": "說明文",
    "genreEn": "Expository",
-   "org": "比較對比",
-   "orgEn": "Compare/Contrast",
-   "orgCode": "cmp",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
    "transitions": [
     "Nor",
     "Rather",
@@ -6896,9 +6896,9 @@
   "structure": {
    "genre": "說明文",
    "genreEn": "Expository",
-   "org": "舉例說明",
-   "orgEn": "Example/Illustration",
-   "orgCode": "exm",
+   "org": "比較對比",
+   "orgEn": "Compare/Contrast",
+   "orgCode": "cmp",
    "transitions": [
     "Following",
     "For example",
@@ -9015,9 +9015,9 @@
   "structure": {
    "genre": "說明文",
    "genreEn": "Expository",
-   "org": "舉例說明",
-   "orgEn": "Example/Illustration",
-   "orgCode": "exm",
+   "org": "列舉",
+   "orgEn": "Listing",
+   "orgCode": "lst",
    "transitions": [
     "however",
     "For example",
