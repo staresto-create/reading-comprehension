@@ -292,6 +292,21 @@
   .rhBox summary .rhSub{font-weight:400; color:var(--ink-soft); font-size:12px;}
   .rhBox p{margin:8px 0 0;}
   .rhBox .stLink{margin-left:0;}
+  /* 生字表（交卷後才出現：詞義題的答案就在中文裡） */
+  .vbBox{border:1px solid var(--rule); border-left:3px solid var(--gold); border-radius:3px; background:#FDFAF3; padding:9px 14px; margin:0 0 14px;}
+  .vbBox summary{cursor:pointer; font-weight:700; color:var(--gold); font-size:14px;}
+  .vbBox summary .vbSub{font-weight:400; color:var(--ink-soft); font-size:12px;}
+  .vbNote{font-size:12px; color:var(--ink-soft); line-height:1.75; margin:8px 0 6px;}
+  .vbList{list-style:none; margin:0; padding:0;}
+  .vbRow{display:flex; flex-wrap:wrap; align-items:baseline; gap:2px 10px; padding:7px 2px; border-bottom:1px dashed var(--rule); font-size:13.5px; line-height:1.6;}
+  .vbRow:last-child{border-bottom:0;}
+  .vbW{font-weight:700; font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:15.5px;}
+  .vbH{font-size:12px; color:var(--ink-soft); font-weight:400;}
+  .vbPos{font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--ink-soft);}
+  .vbZh{flex:1 1 9em; min-width:0;}
+  .vbMeta{margin-left:auto; font-size:11.5px; color:var(--ink-soft); white-space:nowrap;}
+  .vbLv{display:inline-block; border:1px solid var(--rule); border-radius:10px; padding:0 7px; margin-right:6px; background:#fff;}
+  .vbLv.off{border-color:var(--gold); color:var(--gold);}
   .drillNote{font-size:13px; line-height:1.8; color:var(--ink); border-left:3px solid var(--sage); background:#F4F7F2; padding:6px 10px; margin-bottom:12px;}
   .drillBtn{font-size:12px; padding:0 0 0 8px; white-space:nowrap;}
 
@@ -484,7 +499,7 @@ function isTestMode(){ const el=document.getElementById('testModeToggle'); retur
 
 let PASSAGES = {}, ITEMS = [];
 let selectedExams = new Set(), selectedYears = new Set(), selectedOrgs = new Set(), selectedCats = new Set(), selectedDiffs = new Set(), officialOnly = false, diffSort = false;
-let curPid = null, curItems = [], picks = {}, graded = false, zhOn = false, evOn = null, hintOpen = false;
+let curPid = null, curItems = [], picks = {}, graded = false, zhOn = false, evOn = null, hintOpen = false, vbOpen = false;
 
 /* 年度分組：鍵是網址上用的代號 */
 const YEAR_GROUPS = [
@@ -820,7 +835,7 @@ function goHome(){
   buildYearList(); writeHash(); window.scrollTo(0,0);
 }
 function openPassage(pid){
-  curPid = pid; graded = false; picks = {}; zhOn = false; evOn = null; hintOpen = false;
+  curPid = pid; graded = false; picks = {}; zhOn = false; evOn = null; hintOpen = false; vbOpen = false;
   curItems = itemsOf(pid);
   document.getElementById('homeView').style.display='none';
   document.getElementById('historyView').style.display='none';
@@ -894,6 +909,7 @@ function renderPractice(){
     const ok = curItems.filter(it => isCorrect(it, picks[it.id])).length;
     html += `<div class="result" style="margin-top:6px;"><div class="big">${ok} / ${total}</div><div class="lbl">這一組答對的題數</div></div>
       ${renderStructure(p)}
+      ${renderVocab(p)}
       ${noteGap() ? `<div class="exPending">這一篇有 ${noteGap()} 題的解析，還沒有逐一說明每個錯誤選項錯在哪裡，正在補齊。</div>` : ''}
       <div class="row">
         <button class="ghost-btn" onclick="openPassage('${p.id}')">整組再做一次</button>
@@ -980,6 +996,19 @@ function msLegend(p){
     + `<div class="msTip">${MS_TIP}</div></div>`;
 }
 
+/* 交卷後才出現：生字表的中文會說出詞義題的答案 */
+const VB_LV = {5:'五級', 6:'六級', 0:'表外'};
+const VB_NOTE = '這裡列出這一篇的文章和題目裡，大考中心《高中英文參考詞彙表》（111 學年度起適用）第五、六級的字，以及詞彙表沒有收的字（標「表外」）。大考中心的考試說明寫到，學測的詞彙以第一到第五級為主，偶爾會用到第六級以上的字（<a href="https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J018586101460336585&amp;sid=0O211573150658099894" target="_blank" rel="noopener">〈學科能力測驗英文考科考試說明〉</a>）。中文寫的是這個字在這一篇裡的意思，不是字典列的全部意思。文中的字形和詞彙表不一樣時，括號裡寫詞彙表收的字，查字典時查這個字。人名、地名這類專有名詞，詞彙表不收，這裡也不列。';
+function vbAt(a){ return a[0] === 'p' ? `第 ${a.slice(1)} 段` : `第 ${a.slice(1)} 題`; }
+function renderVocab(p){
+  const V = p.vocab;
+  if(!V || !V.length) return '';
+  const rows = V.map(v => `<li class="vbRow"><span class="vbW" lang="en">${esc(v.w)}${v.h ? ` <span class="vbH">（詞彙表：<span lang="en">${esc(v.h)}</span>）</span>` : ''}</span><span class="vbPos" lang="en">${esc(v.pos)}</span><span class="vbZh">${esc(v.zh)}</span><span class="vbMeta"><span class="vbLv${v.lv ? '' : ' off'}">${VB_LV[v.lv]}</span>${vbAt(v.at)}</span></li>`).join('');
+  return `<details class="vbBox"${vbOpen ? ' open' : ''} ontoggle="vbOpen = this.open"><summary>這一篇的生字表 <span class="vbSub">（${V.length} 個字）</span></summary>
+    <div class="vbNote">${VB_NOTE}</div>
+    <ul class="vbList">${rows}</ul>
+  </details>`;
+}
 /* 交卷後才出現：綱要等於先講出各段大意 */
 function twHtml(s){
   return esc(s).replace(/\(([^()]*[A-Za-z][^()]*)\)/g, '<span class="tw" lang="en">($1)</span>');
