@@ -1029,7 +1029,8 @@ function vbRow(v, key){
   }
   return h + '</li>';
 }
-function renderVocab2(p){
+function renderVocab(p){
+  if(!p.key) return '';
   const K = p.key, R = p.vocab || [];
   const kh = K.length ? `<ul class="vbList">${K.map(v => vbRow(v, true)).join('')}</ul>` : '<p class="vbNone">這一篇沒有詞彙題考過的第三到第五級字。</p>';
   const rh = R.length ? `<ul class="vbList">${R.map(v => vbRow(v, false)).join('')}</ul>` : '<p class="vbNone">這一篇沒有要列的參考字彙。</p>';
@@ -1039,22 +1040,7 @@ function renderVocab2(p){
     <h3 class="vbHd">參考字彙 <span class="vbHs">詞彙題沒考過的五級字、六級字、詞彙表外的字</span></h3>${rh}
   </details>`;
 }
-const VB_NOTE = '這裡列出這一篇的文章和題目裡，大考中心《高中英文參考詞彙表》（111 學年度起適用）第五、六級的字，以及詞彙表沒有收的字（標「表外」）。大考中心的考試說明寫到，學測的詞彙以第一到第五級為主，偶爾會用到第六級以上的字（<a href="https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J018586101460336585&amp;sid=0O211573150658099894" target="_blank" rel="noopener">〈學科能力測驗英文考科考試說明〉</a>）。字後面的中括號是 KK 音標（美式發音）。中文寫的是這個字在這一篇裡的意思，不是字典列的全部意思。文中的字形和詞彙表不一樣時，括號裡寫詞彙表收的字，查字典時查這個字。人名、地名這類專有名詞，詞彙表不收，這裡也不列。';
 function vbAt(a){ return a[0] === 'p' ? `第 ${a.slice(1)} 段` : `第 ${a.slice(1)} 題`; }
-function renderVocab(p){
-  if(p.key) return renderVocab2(p);
-  const V = p.vocab;
-  if(!V) return '';
-  if(!V.length) return `<details class="vbBox"${vbOpen ? ' open' : ''} ontoggle="vbOpen = this.open"><summary>這一篇的生字表 <span class="vbSub">（沒有要列的字）</span></summary>
-    <div class="vbNote">${VB_NOTE}</div>
-    <p class="vbNone">這一篇的文章、題目和選項裡，沒有五、六級的字，也沒有需要列出的詞彙表外的字。</p>
-  </details>`;
-  const rows = V.map(v => `<li class="vbRow"><span class="vbW" lang="en">${esc(v.w)}${v.h ? ` <span class="vbH">（詞彙表：<span lang="en">${esc(v.h)}</span>）</span>` : ''}</span>${v.kk ? `<span class="vbKK">[${esc(v.kk)}]</span>` : ''}<span class="vbPos" lang="en">${esc(v.pos)}</span><span class="vbZh">${esc(v.zh)}</span><span class="vbMeta"><span class="vbLv${v.lv ? '' : ' off'}">${VB_LV[v.lv]}</span>${vbAt(v.at)}</span></li>`).join('');
-  return `<details class="vbBox"${vbOpen ? ' open' : ''} ontoggle="vbOpen = this.open"><summary>這一篇的生字表 <span class="vbSub">（${V.length} 個字）</span></summary>
-    <div class="vbNote">${VB_NOTE}</div>
-    <ul class="vbList">${rows}</ul>
-  </details>`;
-}
 /* 交卷後才出現：綱要等於先講出各段大意 */
 function twHtml(s){
   return esc(s).replace(/\(([^()]*[A-Za-z][^()]*)\)/g, '<span class="tw" lang="en">($1)</span>');
