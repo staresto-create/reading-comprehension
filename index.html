@@ -311,6 +311,10 @@
   .vbLv{display:inline-block; border:1px solid var(--rule); border-radius:10px; padding:0 7px; margin-right:6px; background:#fff;}
   .vbLv.off{border-color:var(--gold); color:var(--gold);}
 .vbNone{font-size:13.5px; line-height:1.7; margin:4px 0 2px;}
+  .vbHd{font-size:13.5px; color:var(--gold); margin:12px 0 2px; padding-top:8px; border-top:1px solid var(--rule);}
+  .vbHd .vbHs{font-weight:400; color:var(--ink-soft); font-size:12px; margin-left:4px;}
+  .vbT{flex:1 1 100%; font-size:12px; color:var(--ink-soft); line-height:1.7;}
+  .vbT a{color:var(--crimson);}
   .drillNote{font-size:13px; line-height:1.8; color:var(--ink); border-left:3px solid var(--sage); background:#F4F7F2; padding:6px 10px; margin-bottom:12px;}
   .drillBtn{font-size:12px; padding:0 0 0 8px; white-space:nowrap;}
 
@@ -1013,10 +1017,32 @@ function msLegend(p){
 }
 
 /* 交卷後才出現：生字表的中文會說出詞義題的答案 */
-const VB_LV = {5:'五級', 6:'六級', 0:'表外'};
+const VB_LV = {3:'三級', 4:'四級', 5:'五級', 6:'六級', 0:'表外'};
+const VB_NOTE2 = '生字表分成兩部分，級數都依大考中心《高中英文參考詞彙表》（111 學年度起適用）。大考中心的考試說明寫到，學測的詞彙以第一到第五級為主，偶爾會用到第六級以上的字（<a href="https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J018586101460336585&amp;sid=0O211573150658099894" target="_blank" rel="noopener">〈學科能力測驗英文考科考試說明〉</a>）。「關鍵字彙」是這一篇裡第三到第五級、而且在歷屆學測或指考詞彙題的選項裡出現過的字（答案和誘答都算）；每個字下面列出考過的題目，點題號可以到學測單字題庫或指考單字題庫作答，考的字形和這一篇不同時，題號後面寫出考的字形。「參考字彙」是其他比較難的字：詞彙題還沒考過的第五級字、第六級的字，以及詞彙表沒有收的字（標「表外」）。第一、二級的字比較基本，不列。字後面的中括號是 KK 音標（美式發音）。中文寫的是這個字在這一篇裡的意思，不是字典列的全部意思。文中的字形和詞彙表不一樣時，括號裡寫詞彙表收的字，查字典時查這個字。人名、地名這類專有名詞，詞彙表不收，這裡也不列。';
+const VB_SITE = {gsat:['https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-','學測單字題庫'], zhikao:['https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-','指考單字題庫']};
+function vbRow(v, key){
+  let h = `<li class="vbRow"><span class="vbW" lang="en">${esc(v.w)}${v.h ? ` <span class="vbH">（詞彙表：<span lang="en">${esc(v.h)}</span>）</span>` : ''}</span>${v.kk ? `<span class="vbKK">[${esc(v.kk)}]</span>` : ''}<span class="vbPos" lang="en">${esc(v.pos)}</span><span class="vbZh">${esc(v.zh)}</span><span class="vbMeta"><span class="vbLv${v.lv ? '' : ' off'}">${VB_LV[v.lv]}</span>${vbAt(v.at)}</span>`;
+  if(key){
+    const head = (v.h || v.w).toLowerCase();
+    const refs = v.t.map(([s, q, lab, k, f]) => `<a href="${VB_SITE[s][0]}${q}" target="_blank" rel="noopener" title="到${VB_SITE[s][1]}作答">${esc(lab)}</a>${f.toLowerCase() !== head ? ` <span lang="en">${esc(f)}</span>` : ''}${k === 'a' ? '（答案）' : '（誘答）'}`).join('、');
+    h += `<span class="vbT">詞彙題考過 ${v.t.length} 次：${refs}</span>`;
+  }
+  return h + '</li>';
+}
+function renderVocab2(p){
+  const K = p.key, R = p.vocab || [];
+  const kh = K.length ? `<ul class="vbList">${K.map(v => vbRow(v, true)).join('')}</ul>` : '<p class="vbNone">這一篇沒有詞彙題考過的第三到第五級字。</p>';
+  const rh = R.length ? `<ul class="vbList">${R.map(v => vbRow(v, false)).join('')}</ul>` : '<p class="vbNone">這一篇沒有要列的參考字彙。</p>';
+  return `<details class="vbBox"${vbOpen ? ' open' : ''} ontoggle="vbOpen = this.open"><summary>這一篇的生字表 <span class="vbSub">（關鍵字彙 ${K.length} 個、參考字彙 ${R.length} 個）</span></summary>
+    <div class="vbNote">${VB_NOTE2}</div>
+    <h3 class="vbHd">關鍵字彙 <span class="vbHs">第三到第五級、詞彙題考過的字</span></h3>${kh}
+    <h3 class="vbHd">參考字彙 <span class="vbHs">詞彙題沒考過的五級字、六級字、詞彙表外的字</span></h3>${rh}
+  </details>`;
+}
 const VB_NOTE = '這裡列出這一篇的文章和題目裡，大考中心《高中英文參考詞彙表》（111 學年度起適用）第五、六級的字，以及詞彙表沒有收的字（標「表外」）。大考中心的考試說明寫到，學測的詞彙以第一到第五級為主，偶爾會用到第六級以上的字（<a href="https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J018586101460336585&amp;sid=0O211573150658099894" target="_blank" rel="noopener">〈學科能力測驗英文考科考試說明〉</a>）。字後面的中括號是 KK 音標（美式發音）。中文寫的是這個字在這一篇裡的意思，不是字典列的全部意思。文中的字形和詞彙表不一樣時，括號裡寫詞彙表收的字，查字典時查這個字。人名、地名這類專有名詞，詞彙表不收，這裡也不列。';
 function vbAt(a){ return a[0] === 'p' ? `第 ${a.slice(1)} 段` : `第 ${a.slice(1)} 題`; }
 function renderVocab(p){
+  if(p.key) return renderVocab2(p);
   const V = p.vocab;
   if(!V) return '';
   if(!V.length) return `<details class="vbBox"${vbOpen ? ' open' : ''} ontoggle="vbOpen = this.open"><summary>這一篇的生字表 <span class="vbSub">（沒有要列的字）</span></summary>

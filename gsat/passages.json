@@ -82,6 +82,419 @@
     "k": "topic"
    }
   ],
+  "key": [
+   {
+    "w": "consist",
+    "kk": "kənˈsɪst",
+    "pos": "v.",
+    "zh": "由……組成（consist of）",
+    "lv": 4,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0204",
+      "94 學測第 9 題",
+      "d",
+      "consist"
+     ]
+    ]
+   },
+   {
+    "w": "version",
+    "kk": "ˈvɝʒən",
+    "pos": "n.",
+    "zh": "版本、款式",
+    "lv": 5,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0009",
+      "83 推薦甄選第 9 題",
+      "a",
+      "version"
+     ],
+     [
+      "zhikao",
+      "ZK0329",
+      "81 聯考第 6 題",
+      "d",
+      "version"
+     ]
+    ]
+   },
+   {
+    "w": "seize",
+    "kk": "siz",
+    "pos": "v.",
+    "zh": "奪取、占領",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0182",
+      "93 學測第 2 題",
+      "d",
+      "seize"
+     ]
+    ]
+   },
+   {
+    "w": "reserve",
+    "kk": "rɪˈzɝv",
+    "pos": "n.",
+    "zh": "儲備、存量（rubber reserves 囤積的橡膠）",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0399",
+      "107 學測第 9 題",
+      "d",
+      "reserved"
+     ],
+     [
+      "gsat",
+      "V0377",
+      "106 學測第 2 題",
+      "d",
+      "reserve"
+     ],
+     [
+      "gsat",
+      "V0140",
+      "91 學測補考第 5 題",
+      "d",
+      "reserve"
+     ],
+     [
+      "gsat",
+      "V0008",
+      "83 推薦甄選第 8 題",
+      "a",
+      "reserved"
+     ],
+     [
+      "zhikao",
+      "ZK0308",
+      "83 聯考第 5 題",
+      "d",
+      "reserve"
+     ]
+    ]
+   },
+   {
+    "w": "replace",
+    "kk": "rɪˈpleɪs",
+    "pos": "v.",
+    "zh": "取代",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0431",
+      "109 學測第 11 題",
+      "d",
+      "replaced"
+     ],
+     [
+      "gsat",
+      "V0317",
+      "102 學測第 2 題",
+      "a",
+      "replaced"
+     ],
+     [
+      "zhikao",
+      "ZK0339",
+      "98 指考參考試卷第 7 題",
+      "d",
+      "replaced"
+     ],
+     [
+      "gsat",
+      "V0206",
+      "94 學測第 11 題",
+      "a",
+      "replace"
+     ]
+    ]
+   },
+   {
+    "w": "occupied",
+    "kk": "ˈɑkjəˌpaɪd",
+    "pos": "adj.",
+    "zh": "占領下的（occupied Japan 美軍占領下的日本）",
+    "lv": 4,
+    "at": "p4",
+    "h": "occupy",
+    "t": [
+     [
+      "gsat",
+      "V0411",
+      "108 學測第 6 題",
+      "d",
+      "occupied"
+     ],
+     [
+      "gsat",
+      "V0379",
+      "106 學測第 4 題",
+      "d",
+      "occupy"
+     ],
+     [
+      "gsat",
+      "V0303",
+      "101 學測第 3 題",
+      "d",
+      "occupy"
+     ],
+     [
+      "zhikao",
+      "ZK0197",
+      "93 指考第 5 題",
+      "d",
+      "occupies"
+     ]
+    ]
+   },
+   {
+    "w": "remain",
+    "kk": "rɪˈmeɪn",
+    "pos": "v.",
+    "zh": "仍然、一直（保持某種狀態）",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0123",
+      "91 學測第 3 題",
+      "d",
+      "remain"
+     ],
+     [
+      "zhikao",
+      "ZK0258",
+      "88 聯考第 5 題",
+      "d",
+      "remained"
+     ],
+     [
+      "zhikao",
+      "ZK0293",
+      "85 聯考第 10 題",
+      "d",
+      "remains"
+     ],
+     [
+      "zhikao",
+      "ZK0320",
+      "82 聯考第 7 題",
+      "a",
+      "remained"
+     ]
+    ]
+   },
+   {
+    "w": "convenience",
+    "kk": "kənˈvinjəns",
+    "pos": "n.",
+    "zh": "方便、便利",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0173",
+      "92 學測補考第 8 題",
+      "d",
+      "convenience"
+     ],
+     [
+      "gsat",
+      "V0024",
+      "85 推薦甄選第 4 題",
+      "d",
+      "convenience"
+     ]
+    ]
+   },
+   {
+    "w": "provoke",
+    "kk": "prəˈvoʊk",
+    "pos": "v.",
+    "zh": "引起、引發",
+    "lv": 5,
+    "at": "p5",
+    "t": [
+     [
+      "gsat",
+      "V0467",
+      "112 學測第 7 題",
+      "d",
+      "provoke"
+     ],
+     [
+      "zhikao",
+      "ZK0131",
+      "100 指考第 9 題",
+      "d",
+      "provoked"
+     ]
+    ]
+   },
+   {
+    "w": "injury",
+    "kk": "ˈɪnʤəri",
+    "pos": "n.",
+    "zh": "傷、受傷",
+    "lv": 3,
+    "at": "p5",
+    "t": [
+     [
+      "gsat",
+      "V0365",
+      "105 學測第 5 題",
+      "a",
+      "injury"
+     ]
+    ]
+   },
+   {
+    "w": "issue",
+    "kk": "ˈɪʃu",
+    "pos": "n.",
+    "zh": "問題",
+    "lv": 4,
+    "at": "p5",
+    "t": [
+     [
+      "zhikao",
+      "ZK0140",
+      "99 指考第 8 題",
+      "a",
+      "issues"
+     ],
+     [
+      "zhikao",
+      "ZK0285",
+      "85 聯考第 2 題",
+      "d",
+      "issue"
+     ],
+     [
+      "gsat",
+      "V0009",
+      "83 推薦甄選第 9 題",
+      "d",
+      "issue"
+     ]
+    ]
+   },
+   {
+    "w": "expose",
+    "kk": "ɪkˈspoʊz",
+    "pos": "v.",
+    "zh": "露出、暴露",
+    "lv": 4,
+    "at": "p5",
+    "t": [
+     [
+      "gsat",
+      "V0467",
+      "112 學測第 7 題",
+      "d",
+      "expose"
+     ],
+     [
+      "gsat",
+      "V0427",
+      "109 學測第 7 題",
+      "d",
+      "expose"
+     ],
+     [
+      "gsat",
+      "V0211",
+      "95 學測第 1 題",
+      "d",
+      "expose"
+     ]
+    ]
+   },
+   {
+    "w": "impact",
+    "kk": "ˈɪmpækt",
+    "pos": "n.",
+    "zh": "衝擊、影響",
+    "lv": 4,
+    "at": "p5",
+    "t": [
+     [
+      "gsat",
+      "V0497",
+      "115 學測第 7 題",
+      "d",
+      "impact"
+     ],
+     [
+      "gsat",
+      "V0031",
+      "85 推薦甄選第 11 題",
+      "a",
+      "impact"
+     ]
+    ]
+   },
+   {
+    "w": "release",
+    "kk": "rɪˈlis",
+    "pos": "v.",
+    "zh": "釋放、排放",
+    "lv": 3,
+    "at": "p5",
+    "t": [
+     [
+      "zhikao",
+      "ZK0145",
+      "98 指考第 3 題",
+      "d",
+      "released"
+     ],
+     [
+      "zhikao",
+      "ZK0195",
+      "93 指考第 3 題",
+      "a",
+      "release"
+     ]
+    ]
+   },
+   {
+    "w": "appropriateness",
+    "kk": "əˈproʊpriətnəs",
+    "pos": "n.",
+    "zh": "合宜、適當",
+    "lv": 4,
+    "at": "q38",
+    "h": "appropriate",
+    "t": [
+     [
+      "gsat",
+      "V0065",
+      "87 推薦甄選第 5 題",
+      "d",
+      "inappropriate"
+     ]
+    ]
+   }
+  ],
   "vocab": [
    {
     "w": "flip-flop",
@@ -132,14 +545,6 @@
     "at": "p2"
    },
    {
-    "w": "version",
-    "kk": "ˈvɝʒən",
-    "pos": "n.",
-    "zh": "版本、款式",
-    "lv": 5,
-    "at": "p2"
-   },
-   {
     "w": "derive",
     "kk": "dɪˈraɪv",
     "pos": "v.",
@@ -187,14 +592,6 @@
     "zh": "（衣著）講究的、正式的",
     "lv": 0,
     "at": "p4"
-   },
-   {
-    "w": "provoke",
-    "kk": "prəˈvoʊk",
-    "pos": "v.",
-    "zh": "引起、引發",
-    "lv": 5,
-    "at": "p5"
    },
    {
     "w": "suitability",
@@ -320,6 +717,238 @@
     "k": "both"
    }
   ],
+  "key": [
+   {
+    "w": "machinery",
+    "kk": "məˈʃinəri",
+    "pos": "n.",
+    "zh": "機械",
+    "lv": 4,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0315",
+      "101 學測第 15 題",
+      "d",
+      "machinery"
+     ]
+    ]
+   },
+   {
+    "w": "surround",
+    "kk": "səˈraʊnd",
+    "pos": "v.",
+    "zh": "環繞、包圍",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0399",
+      "107 學測第 9 題",
+      "a",
+      "surrounded"
+     ]
+    ]
+   },
+   {
+    "w": "dock",
+    "kk": "dɑk",
+    "pos": "v.",
+    "zh": "（船）靠岸、停靠碼頭",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0473",
+      "113 學測第 3 題",
+      "d",
+      "docked"
+     ]
+    ]
+   },
+   {
+    "w": "release",
+    "kk": "rɪˈlis",
+    "pos": "v.",
+    "zh": "流出、外洩",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0145",
+      "98 指考第 3 題",
+      "d",
+      "released"
+     ],
+     [
+      "zhikao",
+      "ZK0195",
+      "93 指考第 3 題",
+      "a",
+      "release"
+     ]
+    ]
+   },
+   {
+    "w": "tide",
+    "kk": "taɪd",
+    "pos": "n.",
+    "zh": "潮汐",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0068",
+      "87 推薦甄選第 8 題",
+      "d",
+      "tide"
+     ]
+    ]
+   },
+   {
+    "w": "significantly",
+    "kk": "sɪgˈnɪfɪkəntli",
+    "pos": "adv.",
+    "zh": "大幅地、顯著地",
+    "lv": 3,
+    "at": "p3",
+    "h": "significant",
+    "t": [
+     [
+      "gsat",
+      "V0348",
+      "104 學測第 3 題",
+      "d",
+      "significant"
+     ],
+     [
+      "zhikao",
+      "ZK0142",
+      "99 指考第 10 題",
+      "d",
+      "significantly"
+     ]
+    ]
+   },
+   {
+    "w": "risk",
+    "kk": "rɪsk",
+    "pos": "n.",
+    "zh": "風險",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0141",
+      "91 學測補考第 6 題",
+      "d",
+      "risked"
+     ]
+    ]
+   },
+   {
+    "w": "crucial",
+    "kk": "ˈkruʃəl",
+    "pos": "adj.",
+    "zh": "關鍵的、非常重要的",
+    "lv": 5,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0071",
+      "104 指考第 1 題",
+      "d",
+      "crucial"
+     ],
+     [
+      "zhikao",
+      "ZK0190",
+      "94 指考第 8 題",
+      "d",
+      "crucial"
+     ]
+    ]
+   },
+   {
+    "w": "situation",
+    "kk": "ˌsɪʧuˈeɪʃən",
+    "pos": "n.",
+    "zh": "狀況、情況（the situation at hand 當下的狀況）",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0392",
+      "107 學測第 2 題",
+      "d",
+      "situations"
+     ]
+    ]
+   },
+   {
+    "w": "content",
+    "kk": "ˈkɑntɛnt",
+    "pos": "n.",
+    "zh": "內容物、裝的東西",
+    "lv": 4,
+    "at": "q40",
+    "t": [
+     [
+      "gsat",
+      "V0298",
+      "100 學測第 13 題",
+      "a",
+      "contents"
+     ],
+     [
+      "gsat",
+      "V0115",
+      "90 學測第 10 題",
+      "d",
+      "content"
+     ],
+     [
+      "gsat",
+      "V0005",
+      "83 推薦甄選第 5 題",
+      "d",
+      "content"
+     ]
+    ]
+   },
+   {
+    "w": "predict",
+    "kk": "prɪˈdɪkt",
+    "pos": "v.",
+    "zh": "預測",
+    "lv": 4,
+    "at": "q42",
+    "t": [
+     [
+      "gsat",
+      "V0408",
+      "108 學測第 3 題",
+      "a",
+      "predicted"
+     ],
+     [
+      "gsat",
+      "V0337",
+      "103 學測第 7 題",
+      "d",
+      "predict"
+     ]
+    ]
+   }
+  ],
   "vocab": [
    {
     "w": "lifeline",
@@ -419,14 +1048,6 @@
     "at": "p4"
    },
    {
-    "w": "crucial",
-    "kk": "ˈkruʃəl",
-    "pos": "adj.",
-    "zh": "關鍵的、非常重要的",
-    "lv": 5,
-    "at": "p4"
-   },
-   {
     "w": "guideline",
     "kk": "ˈgaɪdˌlaɪn",
     "pos": "n.",
@@ -520,6 +1141,427 @@
     "k": "topic"
    }
   ],
+  "key": [
+   {
+    "w": "researcher",
+    "kk": "ˈrisɚʧɚ",
+    "pos": "n.",
+    "zh": "研究人員",
+    "lv": 4,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0423",
+      "109 學測第 3 題",
+      "d",
+      "researcher"
+     ]
+    ]
+   },
+   {
+    "w": "transparent",
+    "kk": "trænˈspɛrənt",
+    "pos": "adj.",
+    "zh": "透明的",
+    "lv": 5,
+    "at": "p1",
+    "t": [
+     [
+      "zhikao",
+      "ZK0015",
+      "109 指考補考第 5 題",
+      "a",
+      "transparent"
+     ]
+    ]
+   },
+   {
+    "w": "possess",
+    "kk": "pəˈzɛs",
+    "pos": "v.",
+    "zh": "擁有、具有",
+    "lv": 4,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0488",
+      "114 學測第 8 題",
+      "d",
+      "possessed"
+     ]
+    ]
+   },
+   {
+    "w": "amazing",
+    "kk": "əˈmeɪzɪŋ",
+    "pos": "adj.",
+    "zh": "驚人的、令人驚嘆的",
+    "lv": 3,
+    "at": "p1",
+    "h": "amaze",
+    "t": [
+     [
+      "gsat",
+      "V0422",
+      "109 學測第 2 題",
+      "a",
+      "amazed"
+     ],
+     [
+      "gsat",
+      "V0273",
+      "99 學測第 3 題",
+      "d",
+      "amazed"
+     ],
+     [
+      "gsat",
+      "V0240",
+      "96 學測第 15 題",
+      "a",
+      "amazed"
+     ],
+     [
+      "gsat",
+      "V0045",
+      "86 推薦甄選第 5 題",
+      "d",
+      "amazement"
+     ],
+     [
+      "gsat",
+      "V0016",
+      "84 推薦甄選第 6 題",
+      "d",
+      "amazingly"
+     ]
+    ]
+   },
+   {
+    "w": "associated",
+    "kk": "əˈsoʊsiˌeɪtɪd",
+    "pos": "adj.",
+    "zh": "和……有關的（associated with）",
+    "lv": 4,
+    "at": "p2",
+    "h": "associate",
+    "t": [
+     [
+      "gsat",
+      "V0449",
+      "110 學測第 14 題",
+      "d",
+      "associated"
+     ],
+     [
+      "gsat",
+      "V0408",
+      "108 學測第 3 題",
+      "d",
+      "associated"
+     ],
+     [
+      "gsat",
+      "V0367",
+      "105 學測第 7 題",
+      "d",
+      "associates"
+     ]
+    ]
+   },
+   {
+    "w": "mystery",
+    "kk": "ˈmɪstəri",
+    "pos": "n.",
+    "zh": "奧祕、謎",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0333",
+      "81 聯考第 10 題",
+      "d",
+      "mystery"
+     ]
+    ]
+   },
+   {
+    "w": "regenerate",
+    "kk": "rɪˈʤɛnəˌreɪt",
+    "pos": "v.",
+    "zh": "再生、重新長出",
+    "lv": 5,
+    "at": "p2",
+    "h": "generate",
+    "t": [
+     [
+      "zhikao",
+      "ZK0129",
+      "100 指考第 7 題",
+      "d",
+      "generated"
+     ]
+    ]
+   },
+   {
+    "w": "vision",
+    "kk": "ˈvɪʒən",
+    "pos": "n.",
+    "zh": "視力",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0301",
+      "101 學測第 1 題",
+      "d",
+      "vision"
+     ],
+     [
+      "zhikao",
+      "ZK0216",
+      "91 指考第 2 題",
+      "d",
+      "vision"
+     ]
+    ]
+   },
+   {
+    "w": "identical",
+    "kk": "aɪˈdɛntɪkəl",
+    "pos": "adj.",
+    "zh": "完全相同的、一模一樣的",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0457",
+      "111 學測第 7 題",
+      "d",
+      "identical"
+     ],
+     [
+      "zhikao",
+      "ZK0110",
+      "102 指考第 8 題",
+      "d",
+      "identical"
+     ],
+     [
+      "zhikao",
+      "ZK0097",
+      "93 補救考試第 7 題",
+      "d",
+      "identical"
+     ],
+     [
+      "zhikao",
+      "ZK0239",
+      "90 聯考第 15 題",
+      "a",
+      "identical"
+     ]
+    ]
+   },
+   {
+    "w": "process",
+    "kk": "ˈprɑsɛs",
+    "pos": "n.",
+    "zh": "過程",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0293",
+      "100 學測第 8 題",
+      "a",
+      "process"
+     ],
+     [
+      "zhikao",
+      "ZK0164",
+      "96 指考第 2 題",
+      "d",
+      "process"
+     ],
+     [
+      "gsat",
+      "V0012",
+      "84 推薦甄選第 2 題",
+      "d",
+      "process"
+     ],
+     [
+      "zhikao",
+      "ZK0324",
+      "81 聯考第 1 題",
+      "d",
+      "process"
+     ]
+    ]
+   },
+   {
+    "w": "messenger",
+    "kk": "ˈmɛsənʤɚ",
+    "pos": "n.",
+    "zh": "信使、傳遞訊息的物質（chemical messenger 化學信使）",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0053",
+      "106 指考第 3 題",
+      "d",
+      "messenger"
+     ],
+     [
+      "zhikao",
+      "ZK0155",
+      "97 指考第 3 題",
+      "d",
+      "messengers"
+     ]
+    ]
+   },
+   {
+    "w": "trigger",
+    "kk": "ˈtrɪgɚ",
+    "pos": "v.",
+    "zh": "啟動、引發",
+    "lv": 5,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0024",
+      "109 指考第 4 題",
+      "d",
+      "triggered"
+     ]
+    ]
+   },
+   {
+    "w": "concentration",
+    "kk": "ˌkɑnsənˈtreɪʃən",
+    "pos": "n.",
+    "zh": "濃度",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0335",
+      "98 指考參考試卷第 2 題",
+      "d",
+      "concentration"
+     ],
+     [
+      "gsat",
+      "V0097",
+      "89 學測第 7 題",
+      "d",
+      "concentration"
+     ],
+     [
+      "gsat",
+      "V0024",
+      "85 推薦甄選第 4 題",
+      "d",
+      "concentration"
+     ]
+    ]
+   },
+   {
+    "w": "code",
+    "kk": "koʊd",
+    "pos": "n.",
+    "zh": "密碼（genetic code 遺傳密碼）",
+    "lv": 4,
+    "at": "q43",
+    "t": [
+     [
+      "gsat",
+      "V0382",
+      "106 學測第 7 題",
+      "d",
+      "code"
+     ],
+     [
+      "zhikao",
+      "ZK0061",
+      "105 指考第 1 題",
+      "d",
+      "codes"
+     ]
+    ]
+   },
+   {
+    "w": "facilitate",
+    "kk": "fəˈsɪləˌteɪt",
+    "pos": "v.",
+    "zh": "促進、使容易",
+    "lv": 5,
+    "at": "q44",
+    "t": [
+     [
+      "zhikao",
+      "ZK0103",
+      "102 指考第 1 題",
+      "d",
+      "facilitate"
+     ],
+     [
+      "zhikao",
+      "ZK0253",
+      "89 聯考第 14 題",
+      "a",
+      "facilitate"
+     ]
+    ]
+   },
+   {
+    "w": "reassemble",
+    "kk": "ˌriəˈsɛmbəl",
+    "pos": "v.",
+    "zh": "重新組裝",
+    "lv": 4,
+    "at": "q45",
+    "h": "assemble",
+    "t": [
+     [
+      "zhikao",
+      "ZK0290",
+      "85 聯考第 7 題",
+      "a",
+      "assemble"
+     ]
+    ]
+   },
+   {
+    "w": "recycle",
+    "kk": "rɪˈsaɪkəl",
+    "pos": "v.",
+    "zh": "回收再利用",
+    "lv": 4,
+    "at": "q45",
+    "t": [
+     [
+      "gsat",
+      "V0198",
+      "94 學測第 3 題",
+      "a",
+      "recycles"
+     ]
+    ]
+   }
+  ],
   "vocab": [
    {
     "w": "zebrafish",
@@ -538,29 +1580,12 @@
     "at": "p1"
    },
    {
-    "w": "transparent",
-    "kk": "trænˈspɛrənt",
-    "pos": "adj.",
-    "zh": "透明的",
-    "lv": 5,
-    "at": "p1"
-   },
-   {
     "w": "counterpart",
     "kk": "ˈkaʊntɚˌpɑrt",
     "pos": "n.",
     "zh": "對應的人或物",
     "lv": 6,
     "at": "p2"
-   },
-   {
-    "w": "regenerate",
-    "kk": "rɪˈʤɛnəˌreɪt",
-    "pos": "v.",
-    "zh": "再生、重新長出",
-    "lv": 5,
-    "at": "p2",
-    "h": "generate"
    },
    {
     "w": "spine",
@@ -619,14 +1644,6 @@
     "at": "p4"
    },
    {
-    "w": "trigger",
-    "kk": "ˈtrɪgɚ",
-    "pos": "v.",
-    "zh": "啟動、引發",
-    "lv": 5,
-    "at": "p4"
-   },
-   {
     "w": "suppress",
     "kk": "səˈprɛs",
     "pos": "v.",
@@ -665,14 +1682,6 @@
     "zh": "基因的、遺傳的",
     "lv": 5,
     "at": "q43"
-   },
-   {
-    "w": "facilitate",
-    "kk": "fəˈsɪləˌteɪt",
-    "pos": "v.",
-    "zh": "促進、使容易",
-    "lv": 5,
-    "at": "q44"
    },
    {
     "w": "stimulate",
@@ -756,14 +1765,48 @@
     "k": "both"
    }
   ],
-  "vocab": [
+  "key": [
    {
-    "w": "polar",
-    "kk": "ˈpoʊlɚ",
+    "w": "famed",
+    "kk": "feɪmd",
     "pos": "adj.",
-    "zh": "極地的",
-    "lv": 6,
-    "at": "p1"
+    "zh": "著名的",
+    "lv": 4,
+    "at": "p1",
+    "h": "fame",
+    "t": [
+     [
+      "zhikao",
+      "ZK0275",
+      "86 聯考第 2 題",
+      "d",
+      "fame"
+     ],
+     [
+      "zhikao",
+      "ZK0285",
+      "85 聯考第 2 題",
+      "d",
+      "fame"
+     ]
+    ]
+   },
+   {
+    "w": "headline",
+    "kk": "ˈhɛdˌlaɪn",
+    "pos": "n.",
+    "zh": "頭條（make headlines 登上頭條）",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0004",
+      "83 推薦甄選第 4 題",
+      "d",
+      "headline"
+     ]
+    ]
    },
    {
     "w": "legendary",
@@ -771,7 +1814,23 @@
     "pos": "adj.",
     "zh": "傳奇的",
     "lv": 5,
-    "at": "p1"
+    "at": "p1",
+    "t": [
+     [
+      "zhikao",
+      "ZK0069",
+      "105 指考第 9 題",
+      "a",
+      "legendary"
+     ],
+     [
+      "zhikao",
+      "ZK0133",
+      "99 指考第 1 題",
+      "d",
+      "legendary"
+     ]
+    ]
    },
    {
     "w": "extraordinary",
@@ -779,6 +1838,343 @@
     "pos": "adj.",
     "zh": "非凡的、不尋常的",
     "lv": 5,
+    "at": "p1",
+    "t": [
+     [
+      "zhikao",
+      "ZK0157",
+      "97 指考第 5 題",
+      "a",
+      "extraordinary"
+     ]
+    ]
+   },
+   {
+    "w": "crew",
+    "kk": "kru",
+    "pos": "n.",
+    "zh": "（全體）船員",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0295",
+      "84 聯考第 2 題",
+      "d",
+      "crew"
+     ]
+    ]
+   },
+   {
+    "w": "route",
+    "kk": "rut",
+    "pos": "n.",
+    "zh": "路線（en route to 在前往……的途中）",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0459",
+      "111 學測第 9 題",
+      "d",
+      "route"
+     ]
+    ]
+   },
+   {
+    "w": "encounter",
+    "kk": "ɪnˈkaʊntɚ",
+    "pos": "v.",
+    "zh": "碰上、遇到",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0063",
+      "105 指考第 3 題",
+      "d",
+      "encountered"
+     ],
+     [
+      "gsat",
+      "V0070",
+      "87 推薦甄選第 10 題",
+      "d",
+      "encounter"
+     ]
+    ]
+   },
+   {
+    "w": "floating",
+    "kk": "ˈfloʊtɪŋ",
+    "pos": "adj.",
+    "zh": "漂浮的（floating ice 浮冰）",
+    "lv": 3,
+    "at": "p2",
+    "h": "float",
+    "t": [
+     [
+      "gsat",
+      "V0472",
+      "113 學測第 2 題",
+      "d",
+      "floating"
+     ]
+    ]
+   },
+   {
+    "w": "worthy",
+    "kk": "ˈwɝði",
+    "pos": "adj.",
+    "zh": "堅固可靠的、經得起考驗的",
+    "lv": 5,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0109",
+      "90 學測第 4 題",
+      "a",
+      "worthy"
+     ]
+    ]
+   },
+   {
+    "w": "freezing",
+    "kk": "ˈfrizɪŋ",
+    "pos": "adj.",
+    "zh": "冰冷的、冰凍的",
+    "lv": 3,
+    "at": "p3",
+    "h": "freeze",
+    "t": [
+     [
+      "gsat",
+      "V0296",
+      "100 學測第 11 題",
+      "d",
+      "freeze"
+     ]
+    ]
+   },
+   {
+    "w": "rush",
+    "kk": "rʌʃ",
+    "pos": "v.",
+    "zh": "衝、湧（rush in 灌進來）",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0472",
+      "113 學測第 2 題",
+      "d",
+      "rushing"
+     ]
+    ]
+   },
+   {
+    "w": "situation",
+    "kk": "ˌsɪʧuˈeɪʃən",
+    "pos": "n.",
+    "zh": "情況",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0392",
+      "107 學測第 2 題",
+      "d",
+      "situations"
+     ]
+    ]
+   },
+   {
+    "w": "abandon",
+    "kk": "əˈbændən",
+    "pos": "v.",
+    "zh": "拋棄、離開（abandon the ship 棄船）",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0316",
+      "102 學測第 1 題",
+      "d",
+      "abandoned"
+     ]
+    ]
+   },
+   {
+    "w": "rescue",
+    "kk": "ˈrɛskju",
+    "pos": "v.",
+    "zh": "救援、救出",
+    "lv": 4,
+    "at": "p5",
+    "t": [
+     [
+      "gsat",
+      "V0357",
+      "104 學測第 12 題",
+      "d",
+      "rescued"
+     ]
+    ]
+   },
+   {
+    "w": "remain",
+    "kk": "rɪˈmeɪn",
+    "pos": "v.",
+    "zh": "仍然、一直（remained lost 一直下落不明）",
+    "lv": 3,
+    "at": "p5",
+    "t": [
+     [
+      "gsat",
+      "V0123",
+      "91 學測第 3 題",
+      "d",
+      "remain"
+     ],
+     [
+      "zhikao",
+      "ZK0258",
+      "88 聯考第 5 題",
+      "d",
+      "remained"
+     ],
+     [
+      "zhikao",
+      "ZK0293",
+      "85 聯考第 10 題",
+      "d",
+      "remains"
+     ],
+     [
+      "zhikao",
+      "ZK0320",
+      "82 聯考第 7 題",
+      "a",
+      "remained"
+     ]
+    ]
+   },
+   {
+    "w": "extreme",
+    "kk": "ɪkˈstrim",
+    "pos": "adj.",
+    "zh": "極端的、惡劣的",
+    "lv": 3,
+    "at": "q35",
+    "t": [
+     [
+      "zhikao",
+      "ZK0068",
+      "105 指考第 8 題",
+      "a",
+      "extremes"
+     ],
+     [
+      "gsat",
+      "V0067",
+      "87 推薦甄選第 7 題",
+      "d",
+      "extremely"
+     ],
+     [
+      "zhikao",
+      "ZK0279",
+      "86 聯考第 6 題",
+      "d",
+      "extremely"
+     ],
+     [
+      "zhikao",
+      "ZK0284",
+      "85 聯考第 1 題",
+      "d",
+      "extremely"
+     ]
+    ]
+   },
+   {
+    "w": "amazing",
+    "kk": "əˈmeɪzɪŋ",
+    "pos": "adj.",
+    "zh": "驚人的",
+    "lv": 3,
+    "at": "q35",
+    "h": "amaze",
+    "t": [
+     [
+      "gsat",
+      "V0422",
+      "109 學測第 2 題",
+      "a",
+      "amazed"
+     ],
+     [
+      "gsat",
+      "V0273",
+      "99 學測第 3 題",
+      "d",
+      "amazed"
+     ],
+     [
+      "gsat",
+      "V0240",
+      "96 學測第 15 題",
+      "a",
+      "amazed"
+     ],
+     [
+      "gsat",
+      "V0045",
+      "86 推薦甄選第 5 題",
+      "d",
+      "amazement"
+     ],
+     [
+      "gsat",
+      "V0016",
+      "84 推薦甄選第 6 題",
+      "d",
+      "amazingly"
+     ]
+    ]
+   },
+   {
+    "w": "journey",
+    "kk": "ˈʤɝni",
+    "pos": "n.",
+    "zh": "旅程",
+    "lv": 3,
+    "at": "q37",
+    "t": [
+     [
+      "gsat",
+      "V0361",
+      "105 學測第 1 題",
+      "d",
+      "journey"
+     ]
+    ]
+   }
+  ],
+  "vocab": [
+   {
+    "w": "polar",
+    "kk": "ˈpoʊlɚ",
+    "pos": "adj.",
+    "zh": "極地的",
+    "lv": 6,
     "at": "p1"
    },
    {
@@ -804,14 +2200,6 @@
     "zh": "在途中（en route to 前往……的途中）",
     "lv": 0,
     "at": "p2"
-   },
-   {
-    "w": "worthy",
-    "kk": "ˈwɝði",
-    "pos": "adj.",
-    "zh": "堅固可靠的、經得起考驗的",
-    "lv": 5,
-    "at": "p3"
    },
    {
     "w": "northward",
@@ -965,6 +2353,467 @@
     "k": "topic"
    }
   ],
+  "key": [
+   {
+    "w": "reference",
+    "kk": "ˈrɛfərəns",
+    "pos": "n.",
+    "zh": "提及（make reference to 提到）",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0186",
+      "93 學測第 6 題",
+      "d",
+      "reference"
+     ]
+    ]
+   },
+   {
+    "w": "advantage",
+    "kk": "ædˈvæntɪʤ",
+    "pos": "n.",
+    "zh": "優點、好處",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0477",
+      "113 學測第 7 題",
+      "d",
+      "advantage"
+     ],
+     [
+      "zhikao",
+      "ZK0216",
+      "91 指考第 2 題",
+      "d",
+      "advantage"
+     ]
+    ]
+   },
+   {
+    "w": "defend",
+    "kk": "dɪˈfɛnd",
+    "pos": "v.",
+    "zh": "防守、抵禦",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0380",
+      "106 學測第 5 題",
+      "d",
+      "defending"
+     ],
+     [
+      "zhikao",
+      "ZK0111",
+      "102 指考第 9 題",
+      "d",
+      "defend"
+     ]
+    ]
+   },
+   {
+    "w": "launch",
+    "kk": "lɔnʧ",
+    "pos": "v.",
+    "zh": "發動（launch an attack 發動攻擊）",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0243",
+      "97 學測第 3 題",
+      "d",
+      "launch"
+     ]
+    ]
+   },
+   {
+    "w": "tight",
+    "kk": "taɪt",
+    "pos": "adj.",
+    "zh": "緊貼著的、緊緊的",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0491",
+      "115 學測第 1 題",
+      "a",
+      "tight"
+     ],
+     [
+      "gsat",
+      "V0277",
+      "99 學測第 7 題",
+      "a",
+      "tight"
+     ]
+    ]
+   },
+   {
+    "w": "complicate",
+    "kk": "ˈkɑmpləˌkeɪt",
+    "pos": "v.",
+    "zh": "使複雜、使更困難",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0160",
+      "97 指考第 8 題",
+      "d",
+      "complicated"
+     ],
+     [
+      "zhikao",
+      "ZK0179",
+      "95 指考第 7 題",
+      "d",
+      "complicate"
+     ],
+     [
+      "gsat",
+      "V0008",
+      "83 推薦甄選第 8 題",
+      "d",
+      "complicated"
+     ]
+    ]
+   },
+   {
+    "w": "familiar",
+    "kk": "fəˈmɪljɚ",
+    "pos": "adj.",
+    "zh": "熟悉的（be familiar with）",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0305",
+      "101 學測第 5 題",
+      "d",
+      "familiar"
+     ],
+     [
+      "zhikao",
+      "ZK0132",
+      "100 指考第 10 題",
+      "d",
+      "familiar"
+     ],
+     [
+      "zhikao",
+      "ZK0242",
+      "89 聯考第 3 題",
+      "a",
+      "familiar"
+     ],
+     [
+      "zhikao",
+      "ZK0311",
+      "83 聯考第 8 題",
+      "d",
+      "familiar"
+     ]
+    ]
+   },
+   {
+    "w": "retreat",
+    "kk": "rɪˈtrit",
+    "pos": "v.",
+    "zh": "撤退、退回",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0013",
+      "109 指考補考第 3 題",
+      "d",
+      "retreat"
+     ],
+     [
+      "gsat",
+      "V0237",
+      "96 學測第 12 題",
+      "d",
+      "retreated"
+     ]
+    ]
+   },
+   {
+    "w": "swiftly",
+    "kk": "ˈswɪftli",
+    "pos": "adv.",
+    "zh": "迅速地",
+    "lv": 3,
+    "at": "p3",
+    "h": "swift",
+    "t": [
+     [
+      "gsat",
+      "V0500",
+      "115 學測第 10 題",
+      "d",
+      "swift"
+     ],
+     [
+      "gsat",
+      "V0351",
+      "104 學測第 6 題",
+      "a",
+      "swiftly"
+     ]
+    ]
+   },
+   {
+    "w": "stumble",
+    "kk": "ˈstʌmbəl",
+    "pos": "v.",
+    "zh": "絆倒、踉蹌",
+    "lv": 5,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0414",
+      "108 學測第 9 題",
+      "a",
+      "stumble"
+     ]
+    ]
+   },
+   {
+    "w": "confines",
+    "kk": "ˈkɑnfaɪnz",
+    "pos": "n.",
+    "zh": "狹小的空間、範圍（the confines of）",
+    "lv": 5,
+    "at": "p3",
+    "h": "confine",
+    "t": [
+     [
+      "gsat",
+      "V0364",
+      "105 學測第 4 題",
+      "a",
+      "confined"
+     ]
+    ]
+   },
+   {
+    "w": "associated",
+    "kk": "əˈsoʊsiˌeɪtɪd",
+    "pos": "adj.",
+    "zh": "讓人聯想到……的、和……有關的（be associated with）",
+    "lv": 4,
+    "at": "p4",
+    "h": "associate",
+    "t": [
+     [
+      "gsat",
+      "V0449",
+      "110 學測第 14 題",
+      "d",
+      "associated"
+     ],
+     [
+      "gsat",
+      "V0408",
+      "108 學測第 3 題",
+      "d",
+      "associated"
+     ],
+     [
+      "gsat",
+      "V0367",
+      "105 學測第 7 題",
+      "d",
+      "associates"
+     ]
+    ]
+   },
+   {
+    "w": "emerge",
+    "kk": "ɪˈmɝʤ",
+    "pos": "v.",
+    "zh": "出現",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0472",
+      "113 學測第 2 題",
+      "a",
+      "emerging"
+     ],
+     [
+      "zhikao",
+      "ZK0094",
+      "93 補救考試第 4 題",
+      "d",
+      "emerged"
+     ]
+    ]
+   },
+   {
+    "w": "variety",
+    "kk": "vəˈraɪəti",
+    "pos": "n.",
+    "zh": "種類（a wide variety of 各式各樣的）",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0453",
+      "111 學測第 3 題",
+      "d",
+      "variety"
+     ],
+     [
+      "gsat",
+      "V0045",
+      "86 推薦甄選第 5 題",
+      "a",
+      "variety"
+     ]
+    ]
+   },
+   {
+    "w": "concrete",
+    "kk": "ˈkɑnkrit",
+    "pos": "n.",
+    "zh": "混凝土",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0326",
+      "102 學測第 11 題",
+      "d",
+      "concrete"
+     ]
+    ]
+   },
+   {
+    "w": "appeal",
+    "kk": "əˈpil",
+    "pos": "n.",
+    "zh": "吸引力、魅力",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0479",
+      "113 學測第 9 題",
+      "a",
+      "appeal"
+     ],
+     [
+      "gsat",
+      "V0380",
+      "106 學測第 5 題",
+      "d",
+      "appealing"
+     ],
+     [
+      "zhikao",
+      "ZK0134",
+      "99 指考第 2 題",
+      "d",
+      "appeal"
+     ],
+     [
+      "gsat",
+      "V0025",
+      "85 推薦甄選第 5 題",
+      "d",
+      "appealed"
+     ],
+     [
+      "gsat",
+      "V0018",
+      "84 推薦甄選第 8 題",
+      "d",
+      "appeal"
+     ]
+    ]
+   },
+   {
+    "w": "luxury",
+    "kk": "ˈlʌgʒəri",
+    "pos": "n.",
+    "zh": "奢華（luxury homes 豪宅）",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0223",
+      "95 學測第 13 題",
+      "a",
+      "luxury"
+     ]
+    ]
+   },
+   {
+    "w": "construct",
+    "kk": "kənˈstrʌkt",
+    "pos": "v.",
+    "zh": "建造",
+    "lv": 4,
+    "at": "q39",
+    "t": [
+     [
+      "gsat",
+      "V0427",
+      "109 學測第 7 題",
+      "d",
+      "construct"
+     ],
+     [
+      "zhikao",
+      "ZK0213",
+      "92 指考第 9 題",
+      "d",
+      "constructing"
+     ]
+    ]
+   },
+   {
+    "w": "sequence",
+    "kk": "ˈsikwəns",
+    "pos": "n.",
+    "zh": "順序",
+    "lv": 5,
+    "at": "q41",
+    "t": [
+     [
+      "zhikao",
+      "ZK0342",
+      "98 指考參考試卷第 10 題",
+      "a",
+      "sequence"
+     ]
+    ]
+   }
+  ],
   "vocab": [
    {
     "w": "spiral",
@@ -1056,23 +2905,6 @@
     "h": "strategic"
    },
    {
-    "w": "stumble",
-    "kk": "ˈstʌmbəl",
-    "pos": "v.",
-    "zh": "絆倒、踉蹌",
-    "lv": 5,
-    "at": "p3"
-   },
-   {
-    "w": "confines",
-    "kk": "ˈkɑnfaɪnz",
-    "pos": "n.",
-    "zh": "狹小的空間、範圍（the confines of）",
-    "lv": 5,
-    "at": "p3",
-    "h": "confine"
-   },
-   {
     "w": "medieval",
     "kk": "mɪˈdivəl",
     "pos": "adj.",
@@ -1087,14 +2919,6 @@
     "zh": "負擔得起的",
     "lv": 0,
     "at": "p4"
-   },
-   {
-    "w": "sequence",
-    "kk": "ˈsikwəns",
-    "pos": "n.",
-    "zh": "順序",
-    "lv": 5,
-    "at": "q41"
    },
    {
     "w": "infer",
@@ -1203,15 +3027,396 @@
     "k": "topic"
    }
   ],
-  "vocab": [
+  "key": [
    {
     "w": "document",
     "kk": "ˈdɑkjəmənt",
     "pos": "n.",
     "zh": "文獻、文件",
     "lv": 5,
-    "at": "p2"
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0151",
+      "98 指考第 9 題",
+      "d",
+      "documented"
+     ],
+     [
+      "gsat",
+      "V0238",
+      "96 學測第 13 題",
+      "a",
+      "documents"
+     ]
+    ]
    },
+   {
+    "w": "physical",
+    "kk": "ˈfɪzɪkəl",
+    "pos": "adj.",
+    "zh": "實物的（physical evidence 實物證據）",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0333",
+      "103 學測第 3 題",
+      "d",
+      "physically"
+     ],
+     [
+      "zhikao",
+      "ZK0166",
+      "96 指考第 4 題",
+      "d",
+      "physically"
+     ]
+    ]
+   },
+   {
+    "w": "evidence",
+    "kk": "ˈɛvədəns",
+    "pos": "n.",
+    "zh": "證據",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0173",
+      "92 學測補考第 8 題",
+      "a",
+      "evidence"
+     ]
+    ]
+   },
+   {
+    "w": "vital",
+    "kk": "ˈvaɪtəl",
+    "pos": "adj.",
+    "zh": "至關重要的",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0112",
+      "90 學測第 7 題",
+      "a",
+      "vital"
+     ]
+    ]
+   },
+   {
+    "w": "follower",
+    "kk": "ˈfɑloʊɚ",
+    "pos": "n.",
+    "zh": "信徒、追隨者",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0228",
+      "90 聯考第 4 題",
+      "d",
+      "follower"
+     ]
+    ]
+   },
+   {
+    "w": "preference",
+    "kk": "ˈprɛfərəns",
+    "pos": "n.",
+    "zh": "偏好",
+    "lv": 5,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0047",
+      "107 指考第 7 題",
+      "d",
+      "preference"
+     ],
+     [
+      "zhikao",
+      "ZK0246",
+      "89 聯考第 7 題",
+      "a",
+      "preference"
+     ]
+    ]
+   },
+   {
+    "w": "route",
+    "kk": "rut",
+    "pos": "n.",
+    "zh": "路線、航線（trading routes 貿易航線）",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0459",
+      "111 學測第 9 題",
+      "d",
+      "route"
+     ]
+    ]
+   },
+   {
+    "w": "expansion",
+    "kk": "ɪkˈspænʃən",
+    "pos": "n.",
+    "zh": "擴張",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0278",
+      "86 聯考第 5 題",
+      "a",
+      "expansion"
+     ]
+    ]
+   },
+   {
+    "w": "orientation",
+    "kk": "ˌɔriɛnˈteɪʃən",
+    "pos": "n.",
+    "zh": "方位、朝向",
+    "lv": 4,
+    "at": "p5",
+    "t": [
+     [
+      "zhikao",
+      "ZK0194",
+      "93 指考第 2 題",
+      "a",
+      "orientation"
+     ]
+    ]
+   },
+   {
+    "w": "interaction",
+    "kk": "ˌɪntɚˈækʃən",
+    "pos": "n.",
+    "zh": "接觸、互動",
+    "lv": 4,
+    "at": "p5",
+    "t": [
+     [
+      "gsat",
+      "V0442",
+      "110 學測第 7 題",
+      "a",
+      "interaction"
+     ],
+     [
+      "zhikao",
+      "ZK0191",
+      "94 指考第 9 題",
+      "d",
+      "interaction"
+     ],
+     [
+      "gsat",
+      "V0186",
+      "93 學測第 6 題",
+      "d",
+      "interaction"
+     ]
+    ]
+   },
+   {
+    "w": "cease",
+    "kk": "sis",
+    "pos": "v.",
+    "zh": "停止、不再（cease to be 不再是）",
+    "lv": 4,
+    "at": "p5",
+    "t": [
+     [
+      "gsat",
+      "V0364",
+      "105 學測第 4 題",
+      "d",
+      "ceased"
+     ],
+     [
+      "gsat",
+      "V0296",
+      "100 學測第 11 題",
+      "d",
+      "cease"
+     ]
+    ]
+   },
+   {
+    "w": "dynamic",
+    "kk": "daɪˈnæmɪk",
+    "pos": "adj.",
+    "zh": "不斷變化的、動態的",
+    "lv": 4,
+    "at": "p5",
+    "t": [
+     [
+      "zhikao",
+      "ZK0110",
+      "102 指考第 8 題",
+      "d",
+      "dynamic"
+     ]
+    ]
+   },
+   {
+    "w": "destination",
+    "kk": "ˌdɛstəˈneɪʃən",
+    "pos": "n.",
+    "zh": "目的地",
+    "lv": 5,
+    "at": "p6",
+    "t": [
+     [
+      "zhikao",
+      "ZK0017",
+      "109 指考補考第 7 題",
+      "d",
+      "destination"
+     ]
+    ]
+   },
+   {
+    "w": "temporary",
+    "kk": "ˈtɛmpəˌrɛri",
+    "pos": "adj.",
+    "zh": "暫時的",
+    "lv": 3,
+    "at": "q45",
+    "t": [
+     [
+      "gsat",
+      "V0308",
+      "101 學測第 8 題",
+      "d",
+      "temporarily"
+     ],
+     [
+      "gsat",
+      "V0271",
+      "99 學測第 1 題",
+      "d",
+      "temporary"
+     ],
+     [
+      "gsat",
+      "V0250",
+      "97 學測第 10 題",
+      "d",
+      "temporary"
+     ],
+     [
+      "zhikao",
+      "ZK0161",
+      "97 指考第 9 題",
+      "d",
+      "temporarily"
+     ],
+     [
+      "gsat",
+      "V0154",
+      "92 學測第 4 題",
+      "a",
+      "temporary"
+     ],
+     [
+      "zhikao",
+      "ZK0224",
+      "91 指考第 10 題",
+      "a",
+      "temporarily"
+     ]
+    ]
+   },
+   {
+    "w": "urgent",
+    "kk": "ˈɝʤənt",
+    "pos": "adj.",
+    "zh": "緊急的、迫切的",
+    "lv": 4,
+    "at": "q45",
+    "t": [
+     [
+      "gsat",
+      "V0353",
+      "104 學測第 8 題",
+      "d",
+      "urgent"
+     ],
+     [
+      "gsat",
+      "V0308",
+      "101 學測第 8 題",
+      "d",
+      "urgently"
+     ],
+     [
+      "zhikao",
+      "ZK0172",
+      "96 指考第 10 題",
+      "d",
+      "urgent"
+     ],
+     [
+      "zhikao",
+      "ZK0182",
+      "95 指考第 10 題",
+      "d",
+      "urgent"
+     ]
+    ]
+   },
+   {
+    "w": "advanced",
+    "kk": "ədˈvænst",
+    "pos": "adj.",
+    "zh": "先進的",
+    "lv": 3,
+    "at": "q45",
+    "t": [
+     [
+      "gsat",
+      "V0451",
+      "111 學測第 1 題",
+      "d",
+      "advanced"
+     ]
+    ]
+   },
+   {
+    "w": "religious",
+    "kk": "rɪˈlɪʤəs",
+    "pos": "adj.",
+    "zh": "宗教的",
+    "lv": 3,
+    "at": "q46",
+    "t": [
+     [
+      "gsat",
+      "V0245",
+      "97 學測第 5 題",
+      "d",
+      "religious"
+     ]
+    ]
+   }
+  ],
+  "vocab": [
    {
     "w": "oriented",
     "kk": "ˈɔriˌɛntɪd",
@@ -1278,14 +3483,6 @@
     "h": "orient"
    },
    {
-    "w": "preference",
-    "kk": "ˈprɛfərəns",
-    "pos": "n.",
-    "zh": "偏好",
-    "lv": 5,
-    "at": "p4"
-   },
-   {
     "w": "exploration",
     "kk": "ˌɛkspləˈreɪʃən",
     "pos": "n.",
@@ -1323,14 +3520,6 @@
     "pos": "n.",
     "zh": "短暫的偏離、一時的現象",
     "lv": 0,
-    "at": "p6"
-   },
-   {
-    "w": "destination",
-    "kk": "ˌdɛstəˈneɪʃən",
-    "pos": "n.",
-    "zh": "目的地",
-    "lv": 5,
     "at": "p6"
    },
    {
@@ -1414,6 +3603,508 @@
     "k": "topic"
    }
   ],
+  "key": [
+   {
+    "w": "invent",
+    "kk": "ɪnˈvɛnt",
+    "pos": "v.",
+    "zh": "發明",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "zhikao",
+      "ZK0266",
+      "87 聯考第 3 題",
+      "d",
+      "inventing"
+     ],
+     [
+      "zhikao",
+      "ZK0269",
+      "87 聯考第 6 題",
+      "d",
+      "invent"
+     ]
+    ]
+   },
+   {
+    "w": "credit",
+    "kk": "ˈkrɛdət",
+    "pos": "v.",
+    "zh": "把……歸功於（credit A to B）",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0489",
+      "114 學測第 9 題",
+      "d",
+      "credited"
+     ],
+     [
+      "gsat",
+      "V0477",
+      "113 學測第 7 題",
+      "a",
+      "credit"
+     ],
+     [
+      "zhikao",
+      "ZK0016",
+      "109 指考補考第 6 題",
+      "a",
+      "credit"
+     ],
+     [
+      "gsat",
+      "V0400",
+      "107 學測第 10 題",
+      "d",
+      "credit"
+     ],
+     [
+      "zhikao",
+      "ZK0143",
+      "98 指考第 1 題",
+      "d",
+      "credit"
+     ]
+    ]
+   },
+   {
+    "w": "signaling",
+    "kk": "ˈsɪgnəlɪŋ",
+    "pos": "n.",
+    "zh": "號誌、訊號（signaling system 號誌系統）",
+    "lv": 3,
+    "at": "p1",
+    "h": "signal",
+    "t": [
+     [
+      "gsat",
+      "V0387",
+      "106 學測第 12 題",
+      "d",
+      "signal"
+     ],
+     [
+      "zhikao",
+      "ZK0207",
+      "92 指考第 3 題",
+      "d",
+      "signaled"
+     ]
+    ]
+   },
+   {
+    "w": "adapt",
+    "kk": "əˈdæpt",
+    "pos": "v.",
+    "zh": "改造、改用（be adapted for 改來用在）",
+    "lv": 4,
+    "at": "p1",
+    "t": [
+     [
+      "zhikao",
+      "ZK0080",
+      "104 指考第 10 題",
+      "d",
+      "adapted"
+     ],
+     [
+      "gsat",
+      "V0079",
+      "88 推薦甄選第 4 題",
+      "a",
+      "adapt"
+     ],
+     [
+      "zhikao",
+      "ZK0331",
+      "81 聯考第 8 題",
+      "d",
+      "adapt"
+     ]
+    ]
+   },
+   {
+    "w": "extend",
+    "kk": "ɪkˈstɛnd",
+    "pos": "v.",
+    "zh": "伸出、伸展",
+    "lv": 4,
+    "at": "p1",
+    "t": [
+     [
+      "zhikao",
+      "ZK0337",
+      "98 指考參考試卷第 4 題",
+      "d",
+      "extended"
+     ]
+    ]
+   },
+   {
+    "w": "resemble",
+    "kk": "rɪˈzɛmbəl",
+    "pos": "v.",
+    "zh": "像、和……相似",
+    "lv": 4,
+    "at": "p1",
+    "t": [
+     [
+      "zhikao",
+      "ZK0026",
+      "109 指考第 6 題",
+      "d",
+      "resemble"
+     ],
+     [
+      "zhikao",
+      "ZK0236",
+      "90 聯考第 12 題",
+      "d",
+      "resemble"
+     ]
+    ]
+   },
+   {
+    "w": "gesture",
+    "kk": "ˈʤɛsʧɚ",
+    "pos": "n.",
+    "zh": "手勢",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0419",
+      "108 學測第 14 題",
+      "d",
+      "gesture"
+     ]
+    ]
+   },
+   {
+    "w": "install",
+    "kk": "ɪnˈstɔl",
+    "pos": "v.",
+    "zh": "安裝、裝設",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0427",
+      "109 學測第 7 題",
+      "d",
+      "install"
+     ],
+     [
+      "gsat",
+      "V0386",
+      "106 學測第 11 題",
+      "d",
+      "installed"
+     ]
+    ]
+   },
+   {
+    "w": "leak",
+    "kk": "lik",
+    "pos": "n.",
+    "zh": "外洩、漏出（gas leak 煤氣外洩）",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0327",
+      "102 學測第 12 題",
+      "d",
+      "leak"
+     ]
+    ]
+   },
+   {
+    "w": "explosion",
+    "kk": "ɪkˈsploʊʒən",
+    "pos": "n.",
+    "zh": "爆炸",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0052",
+      "106 指考第 2 題",
+      "d",
+      "explosion"
+     ],
+     [
+      "gsat",
+      "V0203",
+      "94 學測第 8 題",
+      "a",
+      "explosions"
+     ]
+    ]
+   },
+   {
+    "w": "immediately",
+    "kk": "ɪˈmidiətli",
+    "pos": "adv.",
+    "zh": "立刻、隨即",
+    "lv": 3,
+    "at": "p2",
+    "h": "immediate",
+    "t": [
+     [
+      "gsat",
+      "V0281",
+      "99 學測第 11 題",
+      "d",
+      "immediately"
+     ],
+     [
+      "gsat",
+      "V0084",
+      "88 推薦甄選第 9 題",
+      "d",
+      "immediate"
+     ]
+    ]
+   },
+   {
+    "w": "version",
+    "kk": "ˈvɝʒən",
+    "pos": "n.",
+    "zh": "版本、款式",
+    "lv": 5,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0009",
+      "83 推薦甄選第 9 題",
+      "a",
+      "version"
+     ],
+     [
+      "zhikao",
+      "ZK0329",
+      "81 聯考第 6 題",
+      "d",
+      "version"
+     ]
+    ]
+   },
+   {
+    "w": "adopt",
+    "kk": "əˈdɑpt",
+    "pos": "v.",
+    "zh": "採用",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0243",
+      "97 學測第 3 題",
+      "d",
+      "adopt"
+     ],
+     [
+      "gsat",
+      "V0079",
+      "88 推薦甄選第 4 題",
+      "d",
+      "adopt"
+     ]
+    ]
+   },
+   {
+    "w": "breakthrough",
+    "kk": "ˈbreɪkˌθru",
+    "pos": "n.",
+    "zh": "突破",
+    "lv": 5,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0270",
+      "98 學測第 15 題",
+      "d",
+      "breakthrough"
+     ],
+     [
+      "zhikao",
+      "ZK0178",
+      "95 指考第 6 題",
+      "a",
+      "breakthrough"
+     ]
+    ]
+   },
+   {
+    "w": "proceed",
+    "kk": "prəˈsid",
+    "pos": "v.",
+    "zh": "前進、通行（proceed with caution 小心通行）",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0290",
+      "85 聯考第 7 題",
+      "d",
+      "proceed"
+     ]
+    ]
+   },
+   {
+    "w": "caution",
+    "kk": "ˈkɔʃən",
+    "pos": "n.",
+    "zh": "小心、謹慎",
+    "lv": 5,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0023",
+      "109 指考第 3 題",
+      "a",
+      "caution"
+     ],
+     [
+      "zhikao",
+      "ZK0048",
+      "107 指考第 8 題",
+      "d",
+      "cautioned"
+     ],
+     [
+      "zhikao",
+      "ZK0193",
+      "93 指考第 1 題",
+      "d",
+      "caution"
+     ]
+    ]
+   },
+   {
+    "w": "researcher",
+    "kk": "ˈrisɚʧɚ",
+    "pos": "n.",
+    "zh": "研究人員",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0423",
+      "109 學測第 3 題",
+      "d",
+      "researcher"
+     ]
+    ]
+   },
+   {
+    "w": "automatically",
+    "kk": "ˌɔtəˈmætɪkli",
+    "pos": "adv.",
+    "zh": "自動地",
+    "lv": 3,
+    "at": "p4",
+    "h": "automatic",
+    "t": [
+     [
+      "gsat",
+      "V0369",
+      "105 學測第 9 題",
+      "d",
+      "automatically"
+     ],
+     [
+      "gsat",
+      "V0352",
+      "104 學測第 7 題",
+      "d",
+      "automatic"
+     ],
+     [
+      "gsat",
+      "V0258",
+      "98 學測第 3 題",
+      "a",
+      "automatically"
+     ]
+    ]
+   },
+   {
+    "w": "adjust",
+    "kk": "əˈʤʌst",
+    "pos": "v.",
+    "zh": "調整",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0442",
+      "110 學測第 7 題",
+      "d",
+      "adjustment"
+     ],
+     [
+      "gsat",
+      "V0229",
+      "96 學測第 4 題",
+      "a",
+      "adjust"
+     ]
+    ]
+   },
+   {
+    "w": "evolution",
+    "kk": "ˌɛvəˈluʃən",
+    "pos": "n.",
+    "zh": "演變、發展",
+    "lv": 5,
+    "at": "q35",
+    "t": [
+     [
+      "zhikao",
+      "ZK0089",
+      "103 指考第 9 題",
+      "d",
+      "evolution"
+     ]
+    ]
+   },
+   {
+    "w": "transportation",
+    "kk": "ˌtrænspɚˈteɪʃən",
+    "pos": "n.",
+    "zh": "交通運輸",
+    "lv": 4,
+    "at": "q35",
+    "t": [
+     [
+      "gsat",
+      "V0221",
+      "95 學測第 11 題",
+      "a",
+      "transportation"
+     ]
+    ]
+   }
+  ],
   "vocab": [
    {
     "w": "intersection",
@@ -1481,14 +4172,6 @@
     "at": "p2"
    },
    {
-    "w": "version",
-    "kk": "ˈvɝʒən",
-    "pos": "n.",
-    "zh": "版本、款式",
-    "lv": 5,
-    "at": "p3"
-   },
-   {
     "w": "movable",
     "kk": "ˈmuvəbəl",
     "pos": "adj.",
@@ -1513,36 +4196,12 @@
     "at": "p3"
    },
    {
-    "w": "breakthrough",
-    "kk": "ˈbreɪkˌθru",
-    "pos": "n.",
-    "zh": "突破",
-    "lv": 5,
-    "at": "p3"
-   },
-   {
-    "w": "caution",
-    "kk": "ˈkɔʃən",
-    "pos": "n.",
-    "zh": "小心、謹慎",
-    "lv": 5,
-    "at": "p3"
-   },
-   {
     "w": "emergence",
     "kk": "ɪˈmɝʤəns",
     "pos": "n.",
     "zh": "出現",
     "lv": 0,
     "at": "p4"
-   },
-   {
-    "w": "evolution",
-    "kk": "ˌɛvəˈluʃən",
-    "pos": "n.",
-    "zh": "演變、發展",
-    "lv": 5,
-    "at": "q35"
    },
    {
     "w": "originate",
@@ -1614,6 +4273,740 @@
     "k": "topic"
    }
   ],
+  "key": [
+   {
+    "w": "variation",
+    "kk": "ˌvɛriˈeɪʃən",
+    "pos": "n.",
+    "zh": "差異、變化",
+    "lv": 5,
+    "at": "p1",
+    "t": [
+     [
+      "zhikao",
+      "ZK0176",
+      "95 指考第 4 題",
+      "a",
+      "variation"
+     ]
+    ]
+   },
+   {
+    "w": "preference",
+    "kk": "ˈprɛfərəns",
+    "pos": "n.",
+    "zh": "偏好",
+    "lv": 5,
+    "at": "p1",
+    "t": [
+     [
+      "zhikao",
+      "ZK0047",
+      "107 指考第 7 題",
+      "d",
+      "preference"
+     ],
+     [
+      "zhikao",
+      "ZK0246",
+      "89 聯考第 7 題",
+      "a",
+      "preference"
+     ]
+    ]
+   },
+   {
+    "w": "benefit",
+    "kk": "ˈbɛnəfɪt",
+    "pos": "n.",
+    "zh": "好處",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0419",
+      "108 學測第 14 題",
+      "d",
+      "benefit"
+     ],
+     [
+      "gsat",
+      "V0151",
+      "92 學測第 1 題",
+      "d",
+      "benefited"
+     ]
+    ]
+   },
+   {
+    "w": "risk",
+    "kk": "rɪsk",
+    "pos": "n.",
+    "zh": "風險",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0141",
+      "91 學測補考第 6 題",
+      "d",
+      "risked"
+     ]
+    ]
+   },
+   {
+    "w": "impact",
+    "kk": "ˈɪmpækt",
+    "pos": "n.",
+    "zh": "衝擊、影響",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0497",
+      "115 學測第 7 題",
+      "d",
+      "impact"
+     ],
+     [
+      "gsat",
+      "V0031",
+      "85 推薦甄選第 11 題",
+      "a",
+      "impact"
+     ]
+    ]
+   },
+   {
+    "w": "tough",
+    "kk": "tʌf",
+    "pos": "adj.",
+    "zh": "堅強的",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0332",
+      "103 學測第 2 題",
+      "d",
+      "tough"
+     ]
+    ]
+   },
+   {
+    "w": "tend",
+    "kk": "tɛnd",
+    "pos": "v.",
+    "zh": "往往、傾向於（tend to）",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0345",
+      "103 學測第 15 題",
+      "a",
+      "tended"
+     ]
+    ]
+   },
+   {
+    "w": "plot",
+    "kk": "plɑt",
+    "pos": "n.",
+    "zh": "情節",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0485",
+      "114 學測第 5 題",
+      "d",
+      "plot"
+     ]
+    ]
+   },
+   {
+    "w": "unconsciously",
+    "kk": "ˌʌnˈkɑnʃəsli",
+    "pos": "adv.",
+    "zh": "不自覺地",
+    "lv": 3,
+    "at": "p2",
+    "h": "conscious",
+    "t": [
+     [
+      "zhikao",
+      "ZK0169",
+      "96 指考第 7 題",
+      "d",
+      "consciously"
+     ],
+     [
+      "zhikao",
+      "ZK0175",
+      "95 指考第 3 題",
+      "d",
+      "consciously"
+     ],
+     [
+      "gsat",
+      "V0196",
+      "94 學測第 1 題",
+      "d",
+      "consciously"
+     ],
+     [
+      "zhikao",
+      "ZK0091",
+      "93 補救考試第 1 題",
+      "d",
+      "consciousness"
+     ],
+     [
+      "gsat",
+      "V0154",
+      "92 學測第 4 題",
+      "d",
+      "conscious"
+     ],
+     [
+      "gsat",
+      "V0126",
+      "91 學測第 6 題",
+      "a",
+      "consciously"
+     ],
+     [
+      "zhikao",
+      "ZK0309",
+      "83 聯考第 6 題",
+      "a",
+      "conscious"
+     ]
+    ]
+   },
+   {
+    "w": "researcher",
+    "kk": "ˈrisɚʧɚ",
+    "pos": "n.",
+    "zh": "研究人員",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0423",
+      "109 學測第 3 題",
+      "d",
+      "researcher"
+     ]
+    ]
+   },
+   {
+    "w": "release",
+    "kk": "rɪˈlis",
+    "pos": "v.",
+    "zh": "宣洩、釋放（情緒）",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0145",
+      "98 指考第 3 題",
+      "d",
+      "released"
+     ],
+     [
+      "zhikao",
+      "ZK0195",
+      "93 指考第 3 題",
+      "a",
+      "release"
+     ]
+    ]
+   },
+   {
+    "w": "relief",
+    "kk": "rɪˈlif",
+    "pos": "n.",
+    "zh": "輕鬆、鬆一口氣",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0306",
+      "101 學測第 6 題",
+      "a",
+      "relief"
+     ],
+     [
+      "gsat",
+      "V0082",
+      "88 推薦甄選第 7 題",
+      "a",
+      "relief"
+     ]
+    ]
+   },
+   {
+    "w": "anxiety",
+    "kk": "æŋˈzaɪəti",
+    "pos": "n.",
+    "zh": "焦慮",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0283",
+      "99 學測第 13 題",
+      "d",
+      "anxiety"
+     ]
+    ]
+   },
+   {
+    "w": "trigger",
+    "kk": "ˈtrɪgɚ",
+    "pos": "v.",
+    "zh": "引發、觸發",
+    "lv": 5,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0024",
+      "109 指考第 4 題",
+      "d",
+      "triggered"
+     ]
+    ]
+   },
+   {
+    "w": "symptom",
+    "kk": "ˈsɪmptəm",
+    "pos": "n.",
+    "zh": "症狀",
+    "lv": 5,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0159",
+      "97 指考第 7 題",
+      "a",
+      "symptoms"
+     ]
+    ]
+   },
+   {
+    "w": "disturb",
+    "kk": "dɪˈstɝb",
+    "pos": "v.",
+    "zh": "打亂、干擾",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0469",
+      "112 學測第 9 題",
+      "d",
+      "disturbed"
+     ],
+     [
+      "zhikao",
+      "ZK0268",
+      "87 聯考第 5 題",
+      "a",
+      "disturbing"
+     ],
+     [
+      "gsat",
+      "V0003",
+      "83 推薦甄選第 3 題",
+      "a",
+      "disturbs"
+     ]
+    ]
+   },
+   {
+    "w": "awake",
+    "kk": "əˈweɪk",
+    "pos": "adj.",
+    "zh": "醒著的（keep … awake 讓人睡不著）",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0273",
+      "99 學測第 3 題",
+      "a",
+      "awake"
+     ],
+     [
+      "gsat",
+      "V0060",
+      "86 推薦甄選第 20 題",
+      "a",
+      "awoke"
+     ]
+    ]
+   },
+   {
+    "w": "fatigue",
+    "kk": "fəˈtig",
+    "pos": "n.",
+    "zh": "疲勞",
+    "lv": 5,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0187",
+      "94 指考第 5 題",
+      "d",
+      "fatigue"
+     ]
+    ]
+   },
+   {
+    "w": "violence",
+    "kk": "ˈvaɪələns",
+    "pos": "n.",
+    "zh": "暴力",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0208",
+      "94 學測第 13 題",
+      "d",
+      "violence"
+     ]
+    ]
+   },
+   {
+    "w": "communication",
+    "kk": "kəˌmjunəˈkeɪʃən",
+    "pos": "n.",
+    "zh": "溝通",
+    "lv": 4,
+    "at": "q39",
+    "t": [
+     [
+      "gsat",
+      "V0209",
+      "94 學測第 14 題",
+      "d",
+      "communication"
+     ],
+     [
+      "gsat",
+      "V0027",
+      "85 推薦甄選第 7 題",
+      "d",
+      "communication"
+     ]
+    ]
+   },
+   {
+    "w": "reservation",
+    "kk": "ˌrɛzɚˈveɪʃən",
+    "pos": "n.",
+    "zh": "保留、顧慮（without reservation 毫無保留地）",
+    "lv": 4,
+    "at": "q40",
+    "t": [
+     [
+      "zhikao",
+      "ZK0031",
+      "108 指考第 1 題",
+      "d",
+      "reservation"
+     ],
+     [
+      "gsat",
+      "V0152",
+      "92 學測第 2 題",
+      "a",
+      "reservation"
+     ],
+     [
+      "zhikao",
+      "ZK0259",
+      "88 聯考第 6 題",
+      "d",
+      "reservation"
+     ]
+    ]
+   },
+   {
+    "w": "observation",
+    "kk": "ˌɑbzɚˈveɪʃən",
+    "pos": "n.",
+    "zh": "觀察",
+    "lv": 4,
+    "at": "q40",
+    "t": [
+     [
+      "gsat",
+      "V0479",
+      "113 學測第 9 題",
+      "d",
+      "observation"
+     ],
+     [
+      "gsat",
+      "V0390",
+      "106 學測第 15 題",
+      "a",
+      "observation"
+     ],
+     [
+      "gsat",
+      "V0156",
+      "92 學測第 6 題",
+      "a",
+      "observations"
+     ]
+    ]
+   },
+   {
+    "w": "acquire",
+    "kk": "əˈkwaɪr",
+    "pos": "v.",
+    "zh": "獲得、學到",
+    "lv": 4,
+    "at": "q40",
+    "t": [
+     [
+      "gsat",
+      "V0400",
+      "107 學測第 10 題",
+      "d",
+      "acquire"
+     ],
+     [
+      "gsat",
+      "V0220",
+      "95 學測第 10 題",
+      "d",
+      "acquire"
+     ]
+    ]
+   },
+   {
+    "w": "interaction",
+    "kk": "ˌɪntɚˈækʃən",
+    "pos": "n.",
+    "zh": "互動、交流",
+    "lv": 4,
+    "at": "q40",
+    "t": [
+     [
+      "gsat",
+      "V0442",
+      "110 學測第 7 題",
+      "a",
+      "interaction"
+     ],
+     [
+      "zhikao",
+      "ZK0191",
+      "94 指考第 9 題",
+      "d",
+      "interaction"
+     ],
+     [
+      "gsat",
+      "V0186",
+      "93 學測第 6 題",
+      "d",
+      "interaction"
+     ]
+    ]
+   },
+   {
+    "w": "obtain",
+    "kk": "əbˈteɪn",
+    "pos": "v.",
+    "zh": "獲得、取得",
+    "lv": 4,
+    "at": "q40",
+    "t": [
+     [
+      "gsat",
+      "V0276",
+      "99 學測第 6 題",
+      "d",
+      "obtain"
+     ],
+     [
+      "gsat",
+      "V0083",
+      "88 推薦甄選第 8 題",
+      "d",
+      "obtains"
+     ],
+     [
+      "gsat",
+      "V0040",
+      "85 推薦甄選第 20 題",
+      "a",
+      "obtained"
+     ]
+    ]
+   },
+   {
+    "w": "information",
+    "kk": "ˌɪnfɚˈmeɪʃən",
+    "pos": "n.",
+    "zh": "資訊",
+    "lv": 3,
+    "at": "q40",
+    "t": [
+     [
+      "zhikao",
+      "ZK0254",
+      "88 聯考第 1 題",
+      "d",
+      "information"
+     ]
+    ]
+   },
+   {
+    "w": "aggressive",
+    "kk": "əˈgrɛsɪv",
+    "pos": "adj.",
+    "zh": "有攻擊性的、好鬥的",
+    "lv": 4,
+    "at": "q41",
+    "t": [
+     [
+      "zhikao",
+      "ZK0172",
+      "96 指考第 10 題",
+      "d",
+      "aggressive"
+     ]
+    ]
+   },
+   {
+    "w": "inspiration",
+    "kk": "ˌɪnspəˈreɪʃən",
+    "pos": "n.",
+    "zh": "靈感",
+    "lv": 4,
+    "at": "q41",
+    "t": [
+     [
+      "gsat",
+      "V0493",
+      "115 學測第 3 題",
+      "d",
+      "inspiration"
+     ]
+    ]
+   },
+   {
+    "w": "illustrate",
+    "kk": "ˈɪləˌstreɪt",
+    "pos": "v.",
+    "zh": "舉例說明",
+    "lv": 4,
+    "at": "q42",
+    "t": [
+     [
+      "zhikao",
+      "ZK0079",
+      "104 指考第 9 題",
+      "d",
+      "illustrating"
+     ],
+     [
+      "gsat",
+      "V0130",
+      "91 學測第 10 題",
+      "d",
+      "illustrated"
+     ]
+    ]
+   },
+   {
+    "w": "opposing",
+    "kk": "əˈpoʊzɪŋ",
+    "pos": "adj.",
+    "zh": "對立的、相反的",
+    "lv": 4,
+    "at": "q42",
+    "h": "oppose",
+    "t": [
+     [
+      "gsat",
+      "V0436",
+      "110 學測第 1 題",
+      "d",
+      "oppose"
+     ],
+     [
+      "gsat",
+      "V0316",
+      "102 學測第 1 題",
+      "d",
+      "opposed"
+     ],
+     [
+      "zhikao",
+      "ZK0207",
+      "92 指考第 3 題",
+      "d",
+      "opposed"
+     ]
+    ]
+   },
+   {
+    "w": "issue",
+    "kk": "ˈɪʃu",
+    "pos": "n.",
+    "zh": "議題、問題",
+    "lv": 4,
+    "at": "q42",
+    "t": [
+     [
+      "zhikao",
+      "ZK0140",
+      "99 指考第 8 題",
+      "a",
+      "issues"
+     ],
+     [
+      "zhikao",
+      "ZK0285",
+      "85 聯考第 2 題",
+      "d",
+      "issue"
+     ],
+     [
+      "gsat",
+      "V0009",
+      "83 推薦甄選第 9 題",
+      "d",
+      "issue"
+     ]
+    ]
+   }
+  ],
   "vocab": [
    {
     "w": "zombie",
@@ -1637,22 +5030,6 @@
     "pos": "n.",
     "zh": "（吸引人看的）場面、表演",
     "lv": 6,
-    "at": "p1"
-   },
-   {
-    "w": "variation",
-    "kk": "ˌvɛriˈeɪʃən",
-    "pos": "n.",
-    "zh": "差異、變化",
-    "lv": 5,
-    "at": "p1"
-   },
-   {
-    "w": "preference",
-    "kk": "ˈprɛfərəns",
-    "pos": "n.",
-    "zh": "偏好",
-    "lv": 5,
     "at": "p1"
    },
    {
@@ -1753,22 +5130,6 @@
     "at": "p3"
    },
    {
-    "w": "trigger",
-    "kk": "ˈtrɪgɚ",
-    "pos": "v.",
-    "zh": "引發、觸發",
-    "lv": 5,
-    "at": "p3"
-   },
-   {
-    "w": "symptom",
-    "kk": "ˈsɪmptəm",
-    "pos": "n.",
-    "zh": "症狀",
-    "lv": 5,
-    "at": "p3"
-   },
-   {
     "w": "residual",
     "kk": "rɪˈzɪʤuəl",
     "pos": "adj.",
@@ -1782,14 +5143,6 @@
     "pos": "v.",
     "zh": "引起、喚起（情緒）",
     "lv": 6,
-    "at": "p3"
-   },
-   {
-    "w": "fatigue",
-    "kk": "fəˈtig",
-    "pos": "n.",
-    "zh": "疲勞",
-    "lv": 5,
     "at": "p3"
    },
    {
@@ -1955,22 +5308,23 @@
     "k": "topic"
    }
   ],
-  "vocab": [
+  "key": [
    {
     "w": "inherent",
     "kk": "ɪnˈhɪrənt",
     "pos": "adj.",
     "zh": "天生的、與生俱來的",
     "lv": 5,
-    "at": "p1"
-   },
-   {
-    "w": "trait",
-    "kk": "treɪt",
-    "pos": "n.",
-    "zh": "特徵、特點",
-    "lv": 5,
-    "at": "p1"
+    "at": "p1",
+    "t": [
+     [
+      "zhikao",
+      "ZK0122",
+      "101 指考第 10 題",
+      "a",
+      "inherently"
+     ]
+    ]
    },
    {
     "w": "consumption",
@@ -1978,7 +5332,388 @@
     "pos": "n.",
     "zh": "飲用、消耗（量）",
     "lv": 5,
-    "at": "p2"
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0495",
+      "115 學測第 5 題",
+      "a",
+      "consumption"
+     ],
+     [
+      "gsat",
+      "V0093",
+      "89 學測第 3 題",
+      "d",
+      "consumption"
+     ]
+    ]
+   },
+   {
+    "w": "content",
+    "kk": "ˈkɑntɛnt",
+    "pos": "n.",
+    "zh": "含量（alcohol content 酒精濃度）",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0298",
+      "100 學測第 13 題",
+      "a",
+      "contents"
+     ],
+     [
+      "gsat",
+      "V0115",
+      "90 學測第 10 題",
+      "d",
+      "content"
+     ],
+     [
+      "gsat",
+      "V0005",
+      "83 推薦甄選第 5 題",
+      "d",
+      "content"
+     ]
+    ]
+   },
+   {
+    "w": "originally",
+    "kk": "əˈrɪʤənəli",
+    "pos": "adv.",
+    "zh": "原本、起初",
+    "lv": 3,
+    "at": "p2",
+    "h": "original",
+    "t": [
+     [
+      "gsat",
+      "V0425",
+      "109 學測第 5 題",
+      "d",
+      "original"
+     ],
+     [
+      "gsat",
+      "V0281",
+      "99 學測第 11 題",
+      "d",
+      "originally"
+     ],
+     [
+      "zhikao",
+      "ZK0136",
+      "99 指考第 4 題",
+      "d",
+      "originally"
+     ],
+     [
+      "gsat",
+      "V0213",
+      "95 學測第 3 題",
+      "a",
+      "originally"
+     ],
+     [
+      "gsat",
+      "V0184",
+      "93 學測第 4 題",
+      "d",
+      "originally"
+     ],
+     [
+      "gsat",
+      "V0167",
+      "92 學測補考第 2 題",
+      "d",
+      "original"
+     ],
+     [
+      "gsat",
+      "V0034",
+      "85 推薦甄選第 14 題",
+      "a",
+      "original"
+     ],
+     [
+      "gsat",
+      "V0011",
+      "84 推薦甄選第 1 題",
+      "d",
+      "original"
+     ]
+    ]
+   },
+   {
+    "w": "remain",
+    "kk": "rɪˈmeɪn",
+    "pos": "v.",
+    "zh": "仍然、一直（保持某種狀態）",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0123",
+      "91 學測第 3 題",
+      "d",
+      "remain"
+     ],
+     [
+      "zhikao",
+      "ZK0258",
+      "88 聯考第 5 題",
+      "d",
+      "remained"
+     ],
+     [
+      "zhikao",
+      "ZK0293",
+      "85 聯考第 10 題",
+      "d",
+      "remains"
+     ],
+     [
+      "zhikao",
+      "ZK0320",
+      "82 聯考第 7 題",
+      "a",
+      "remained"
+     ]
+    ]
+   },
+   {
+    "w": "information",
+    "kk": "ˌɪnfɚˈmeɪʃən",
+    "pos": "n.",
+    "zh": "資訊、說法",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0254",
+      "88 聯考第 1 題",
+      "d",
+      "information"
+     ]
+    ]
+   },
+   {
+    "w": "document",
+    "kk": "ˈdɑkjəmənt",
+    "pos": "n.",
+    "zh": "文獻、文件",
+    "lv": 5,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0151",
+      "98 指考第 9 題",
+      "d",
+      "documented"
+     ],
+     [
+      "gsat",
+      "V0238",
+      "96 學測第 13 題",
+      "a",
+      "documents"
+     ]
+    ]
+   },
+   {
+    "w": "excessive",
+    "kk": "ɪkˈsɛsɪv",
+    "pos": "adj.",
+    "zh": "過度的",
+    "lv": 5,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0484",
+      "114 學測第 4 題",
+      "d",
+      "excessive"
+     ],
+     [
+      "zhikao",
+      "ZK0109",
+      "102 指考第 7 題",
+      "d",
+      "excessive"
+     ]
+    ]
+   },
+   {
+    "w": "significant",
+    "kk": "sɪgˈnɪfɪkənt",
+    "pos": "adj.",
+    "zh": "重要的",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0348",
+      "104 學測第 3 題",
+      "d",
+      "significant"
+     ],
+     [
+      "zhikao",
+      "ZK0142",
+      "99 指考第 10 題",
+      "d",
+      "significantly"
+     ]
+    ]
+   },
+   {
+    "w": "permit",
+    "kk": "pɚˈmɪt",
+    "pos": "v.",
+    "zh": "允許、准許",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0260",
+      "98 學測第 5 題",
+      "d",
+      "permit"
+     ]
+    ]
+   },
+   {
+    "w": "situation",
+    "kk": "ˌsɪʧuˈeɪʃən",
+    "pos": "n.",
+    "zh": "情況",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0392",
+      "107 學測第 2 題",
+      "d",
+      "situations"
+     ]
+    ]
+   },
+   {
+    "w": "occupy",
+    "kk": "ˈɑkjəˌpaɪ",
+    "pos": "v.",
+    "zh": "占（名次、位置）（occupy first place 位居第一）",
+    "lv": 4,
+    "at": "p5",
+    "t": [
+     [
+      "gsat",
+      "V0411",
+      "108 學測第 6 題",
+      "d",
+      "occupied"
+     ],
+     [
+      "gsat",
+      "V0379",
+      "106 學測第 4 題",
+      "d",
+      "occupy"
+     ],
+     [
+      "gsat",
+      "V0303",
+      "101 學測第 3 題",
+      "d",
+      "occupy"
+     ],
+     [
+      "zhikao",
+      "ZK0197",
+      "93 指考第 5 題",
+      "d",
+      "occupies"
+     ]
+    ]
+   },
+   {
+    "w": "highlight",
+    "kk": "ˈhaɪˌlaɪt",
+    "pos": "v.",
+    "zh": "凸顯、強調",
+    "lv": 5,
+    "at": "q43",
+    "t": [
+     [
+      "zhikao",
+      "ZK0181",
+      "95 指考第 9 題",
+      "a",
+      "highlight"
+     ]
+    ]
+   },
+   {
+    "w": "impact",
+    "kk": "ˈɪmpækt",
+    "pos": "n.",
+    "zh": "影響",
+    "lv": 4,
+    "at": "q43",
+    "t": [
+     [
+      "gsat",
+      "V0497",
+      "115 學測第 7 題",
+      "d",
+      "impact"
+     ],
+     [
+      "gsat",
+      "V0031",
+      "85 推薦甄選第 11 題",
+      "a",
+      "impact"
+     ]
+    ]
+   },
+   {
+    "w": "prediction",
+    "kk": "prɪˈdɪkʃən",
+    "pos": "n.",
+    "zh": "預測",
+    "lv": 4,
+    "at": "q46",
+    "t": [
+     [
+      "zhikao",
+      "ZK0214",
+      "92 指考第 10 題",
+      "d",
+      "prediction"
+     ]
+    ]
+   }
+  ],
+  "vocab": [
+   {
+    "w": "trait",
+    "kk": "treɪt",
+    "pos": "n.",
+    "zh": "特徵、特點",
+    "lv": 5,
+    "at": "p1"
    },
    {
     "w": "alcoholic",
@@ -2037,26 +5772,10 @@
     "at": "p3"
    },
    {
-    "w": "document",
-    "kk": "ˈdɑkjəmənt",
-    "pos": "n.",
-    "zh": "文獻、文件",
-    "lv": 5,
-    "at": "p3"
-   },
-   {
     "w": "indulge",
     "kk": "ɪnˈdʌlʤ",
     "pos": "v.",
     "zh": "沉溺、放縱（indulge in）",
-    "lv": 5,
-    "at": "p3"
-   },
-   {
-    "w": "excessive",
-    "kk": "ɪkˈsɛsɪv",
-    "pos": "adj.",
-    "zh": "過度的",
     "lv": 5,
     "at": "p3"
    },
@@ -2133,14 +5852,6 @@
     "at": "p5"
    },
    {
-    "w": "highlight",
-    "kk": "ˈhaɪˌlaɪt",
-    "pos": "v.",
-    "zh": "凸顯、強調",
-    "lv": 5,
-    "at": "q43"
-   },
-   {
     "w": "assumption",
     "kk": "əˈsʌmpʃən",
     "pos": "n.",
@@ -2203,6 +5914,462 @@
    "魔鬼氈一開始並不成功。大多數時尚評論家認為魔鬼氈很醜，看起來很廉價，所以只用在運動器材上。1960 年代初期，美國太空總署開始在許多隨太空人上太空的設備上使用魔鬼氈，魔鬼氈的人氣因此大增。如今 de Mestral 的設計幾乎隨處可見：衣服和鞋子、玩具、飛機座椅的坐墊、血壓計的壓脈帶和外科醫師的手術衣都有。最令人驚嘆的是，第一次人工心臟移植手術也用了這種神奇的扣件，把裝置的零件固定在一起。"
   ],
   "ms": [],
+  "key": [
+   {
+    "w": "immediately",
+    "kk": "ɪˈmidiətli",
+    "pos": "adv.",
+    "zh": "立刻",
+    "lv": 3,
+    "at": "p1",
+    "h": "immediate",
+    "t": [
+     [
+      "gsat",
+      "V0281",
+      "99 學測第 11 題",
+      "d",
+      "immediately"
+     ],
+     [
+      "gsat",
+      "V0084",
+      "88 推薦甄選第 9 題",
+      "d",
+      "immediate"
+     ]
+    ]
+   },
+   {
+    "w": "rush",
+    "kk": "rʌʃ",
+    "pos": "v.",
+    "zh": "衝、趕",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0472",
+      "113 學測第 2 題",
+      "d",
+      "rushing"
+     ]
+    ]
+   },
+   {
+    "w": "attached",
+    "kk": "əˈtæʧt",
+    "pos": "adj.",
+    "zh": "附著的、黏在……上的",
+    "lv": 4,
+    "at": "p1",
+    "h": "attach",
+    "t": [
+     [
+      "gsat",
+      "V0315",
+      "101 學測第 15 題",
+      "d",
+      "attachment"
+     ],
+     [
+      "gsat",
+      "V0181",
+      "93 學測第 1 題",
+      "d",
+      "attach"
+     ],
+     [
+      "gsat",
+      "V0025",
+      "85 推薦甄選第 5 題",
+      "d",
+      "attached"
+     ],
+     [
+      "zhikao",
+      "ZK0317",
+      "82 聯考第 4 題",
+      "d",
+      "attached"
+     ]
+    ]
+   },
+   {
+    "w": "observe",
+    "kk": "əbˈzɝv",
+    "pos": "v.",
+    "zh": "觀察到、發現",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0318",
+      "102 學測第 3 題",
+      "d",
+      "observed"
+     ],
+     [
+      "gsat",
+      "V0182",
+      "93 學測第 2 題",
+      "a",
+      "observe"
+     ]
+    ]
+   },
+   {
+    "w": "fabric",
+    "kk": "ˈfæbrɪk",
+    "pos": "n.",
+    "zh": "布料",
+    "lv": 5,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0123",
+      "100 指考第 1 題",
+      "a",
+      "fabric"
+     ]
+    ]
+   },
+   {
+    "w": "determine",
+    "kk": "dɪˈtɝmən",
+    "pos": "v.",
+    "zh": "斷定、認定",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0044",
+      "86 推薦甄選第 4 題",
+      "d",
+      "determined"
+     ]
+    ]
+   },
+   {
+    "w": "eventually",
+    "kk": "ɪˈvɛnʧuəli",
+    "pos": "adv.",
+    "zh": "最後、終於",
+    "lv": 4,
+    "at": "p3",
+    "h": "eventual",
+    "t": [
+     [
+      "gsat",
+      "V0458",
+      "111 學測第 8 題",
+      "a",
+      "eventual"
+     ],
+     [
+      "zhikao",
+      "ZK0006",
+      "110 指考第 6 題",
+      "d",
+      "eventual"
+     ],
+     [
+      "zhikao",
+      "ZK0239",
+      "90 聯考第 15 題",
+      "d",
+      "eventual"
+     ],
+     [
+      "gsat",
+      "V0026",
+      "85 推薦甄選第 6 題",
+      "d",
+      "eventually"
+     ]
+    ]
+   },
+   {
+    "w": "durable",
+    "kk": "ˈdʊrəbəl",
+    "pos": "adj.",
+    "zh": "耐用的",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0420",
+      "108 學測第 15 題",
+      "d",
+      "durable"
+     ],
+     [
+      "gsat",
+      "V0368",
+      "105 學測第 8 題",
+      "d",
+      "durable"
+     ],
+     [
+      "zhikao",
+      "ZK0115",
+      "101 指考第 3 題",
+      "d",
+      "durable"
+     ],
+     [
+      "zhikao",
+      "ZK0132",
+      "100 指考第 10 題",
+      "d",
+      "durable"
+     ]
+    ]
+   },
+   {
+    "w": "version",
+    "kk": "ˈvɝʒən",
+    "pos": "n.",
+    "zh": "版本",
+    "lv": 5,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0009",
+      "83 推薦甄選第 9 題",
+      "a",
+      "version"
+     ],
+     [
+      "zhikao",
+      "ZK0329",
+      "81 聯考第 6 題",
+      "d",
+      "version"
+     ]
+    ]
+   },
+   {
+    "w": "product",
+    "kk": "ˈprɑdəkt",
+    "pos": "n.",
+    "zh": "產品",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0199",
+      "94 學測第 4 題",
+      "a",
+      "products"
+     ],
+     [
+      "zhikao",
+      "ZK0273",
+      "87 聯考第 10 題",
+      "d",
+      "products"
+     ],
+     [
+      "zhikao",
+      "ZK0333",
+      "81 聯考第 10 題",
+      "d",
+      "product"
+     ]
+    ]
+   },
+   {
+    "w": "initially",
+    "kk": "ɪˈnɪʃəli",
+    "pos": "adv.",
+    "zh": "一開始、起初",
+    "lv": 4,
+    "at": "p4",
+    "h": "initial",
+    "t": [
+     [
+      "gsat",
+      "V0494",
+      "115 學測第 4 題",
+      "a",
+      "initially"
+     ],
+     [
+      "gsat",
+      "V0415",
+      "108 學測第 10 題",
+      "d",
+      "initial"
+     ],
+     [
+      "gsat",
+      "V0330",
+      "102 學測第 15 題",
+      "d",
+      "initially"
+     ],
+     [
+      "zhikao",
+      "ZK0240",
+      "89 聯考第 1 題",
+      "d",
+      "initially"
+     ]
+    ]
+   },
+   {
+    "w": "athletic",
+    "kk": "æθˈlɛtɪk",
+    "pos": "adj.",
+    "zh": "運動的（athletic equipment 運動器材）",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0218",
+      "91 指考第 4 題",
+      "a",
+      "athletic"
+     ]
+    ]
+   },
+   {
+    "w": "equipment",
+    "kk": "ɪˈkwɪpmənt",
+    "pos": "n.",
+    "zh": "器材、設備",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0449",
+      "110 學測第 14 題",
+      "d",
+      "equipped"
+     ],
+     [
+      "zhikao",
+      "ZK0173",
+      "95 指考第 1 題",
+      "a",
+      "equips"
+     ]
+    ]
+   },
+   {
+    "w": "artificial",
+    "kk": "ˌɑrtəˈfɪʃəl",
+    "pos": "adj.",
+    "zh": "人工的",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0188",
+      "93 學測第 8 題",
+      "a",
+      "artificial"
+     ],
+     [
+      "gsat",
+      "V0065",
+      "87 推薦甄選第 5 題",
+      "d",
+      "artificial"
+     ],
+     [
+      "zhikao",
+      "ZK0292",
+      "85 聯考第 9 題",
+      "d",
+      "artificial"
+     ]
+    ]
+   },
+   {
+    "w": "blessing",
+    "kk": "ˈblɛsɪŋ",
+    "pos": "n.",
+    "zh": "好事、福氣（a blessing in disguise 因禍得福）",
+    "lv": 4,
+    "at": "q36",
+    "t": [
+     [
+      "gsat",
+      "V0270",
+      "98 學測第 15 題",
+      "d",
+      "blessing"
+     ]
+    ]
+   },
+   {
+    "w": "disguise",
+    "kk": "dɪsˈgaɪz",
+    "pos": "n.",
+    "zh": "偽裝（in disguise 偽裝成別的樣子）",
+    "lv": 4,
+    "at": "q36",
+    "t": [
+     [
+      "gsat",
+      "V0388",
+      "106 學測第 13 題",
+      "a",
+      "disguised"
+     ],
+     [
+      "zhikao",
+      "ZK0114",
+      "101 指考第 2 題",
+      "d",
+      "disguises"
+     ],
+     [
+      "zhikao",
+      "ZK0337",
+      "98 指考參考試卷第 4 題",
+      "d",
+      "disguised"
+     ],
+     [
+      "gsat",
+      "V0198",
+      "94 學測第 3 題",
+      "d",
+      "disguises"
+     ]
+    ]
+   },
+   {
+    "w": "inspiration",
+    "kk": "ˌɪnspəˈreɪʃən",
+    "pos": "n.",
+    "zh": "靈感",
+    "lv": 4,
+    "at": "q36",
+    "t": [
+     [
+      "gsat",
+      "V0493",
+      "115 學測第 3 題",
+      "d",
+      "inspiration"
+     ]
+    ]
+   }
+  ],
   "vocab": [
    {
     "w": "burr",
@@ -2233,14 +6400,6 @@
     "kk": "lup",
     "pos": "n.",
     "zh": "圈、環",
-    "lv": 5,
-    "at": "p2"
-   },
-   {
-    "w": "fabric",
-    "kk": "ˈfæbrɪk",
-    "pos": "n.",
-    "zh": "布料",
     "lv": 5,
     "at": "p2"
    },
@@ -2283,14 +6442,6 @@
     "pos": "n.",
     "zh": "尼龍",
     "lv": 0,
-    "at": "p3"
-   },
-   {
-    "w": "version",
-    "kk": "ˈvɝʒən",
-    "pos": "n.",
-    "zh": "版本",
-    "lv": 5,
     "at": "p3"
    },
    {
@@ -2445,14 +6596,44 @@
     "k": "topic"
    }
   ],
-  "vocab": [
+  "key": [
    {
-    "w": "splendor",
-    "kk": "ˈsplɛndɚ",
-    "pos": "n.",
-    "zh": "壯麗、壯觀",
-    "lv": 6,
-    "at": "p1"
+    "w": "vivid",
+    "kk": "ˈvɪvəd",
+    "pos": "adj.",
+    "zh": "生動的",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0417",
+      "108 學測第 12 題",
+      "a",
+      "vividly"
+     ],
+     [
+      "gsat",
+      "V0256",
+      "98 學測第 1 題",
+      "a",
+      "vivid"
+     ],
+     [
+      "gsat",
+      "V0112",
+      "90 學測第 7 題",
+      "d",
+      "vivid"
+     ],
+     [
+      "zhikao",
+      "ZK0226",
+      "90 聯考第 2 題",
+      "d",
+      "vividly"
+     ]
+    ]
    },
    {
     "w": "extraordinary",
@@ -2460,6 +6641,363 @@
     "pos": "adj.",
     "zh": "非凡的、不尋常的",
     "lv": 5,
+    "at": "p1",
+    "t": [
+     [
+      "zhikao",
+      "ZK0157",
+      "97 指考第 5 題",
+      "a",
+      "extraordinary"
+     ]
+    ]
+   },
+   {
+    "w": "recognize",
+    "kk": "ˈrɛkəgˌnaɪz",
+    "pos": "v.",
+    "zh": "肯定、公認（be widely recognized 廣受肯定）",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0411",
+      "108 學測第 6 題",
+      "d",
+      "recognized"
+     ],
+     [
+      "gsat",
+      "V0220",
+      "95 學測第 10 題",
+      "a",
+      "recognize"
+     ],
+     [
+      "zhikao",
+      "ZK0286",
+      "85 聯考第 3 題",
+      "d",
+      "recognize"
+     ]
+    ]
+   },
+   {
+    "w": "inspire",
+    "kk": "ɪnˈspaɪr",
+    "pos": "v.",
+    "zh": "啟發、帶給……靈感",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0357",
+      "104 學測第 12 題",
+      "d",
+      "inspired"
+     ],
+     [
+      "gsat",
+      "V0303",
+      "101 學測第 3 題",
+      "d",
+      "inspire"
+     ],
+     [
+      "zhikao",
+      "ZK0207",
+      "92 指考第 3 題",
+      "a",
+      "inspired"
+     ],
+     [
+      "zhikao",
+      "ZK0222",
+      "91 指考第 8 題",
+      "d",
+      "inspired"
+     ],
+     [
+      "zhikao",
+      "ZK0266",
+      "87 聯考第 3 題",
+      "d",
+      "inspiring"
+     ]
+    ]
+   },
+   {
+    "w": "appoint",
+    "kk": "əˈpɔɪnt",
+    "pos": "v.",
+    "zh": "任命、指派",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0410",
+      "108 學測第 5 題",
+      "d",
+      "appointed"
+     ],
+     [
+      "gsat",
+      "V0379",
+      "106 學測第 4 題",
+      "d",
+      "appoint"
+     ],
+     [
+      "gsat",
+      "V0061",
+      "87 推薦甄選第 1 題",
+      "d",
+      "appointments"
+     ]
+    ]
+   },
+   {
+    "w": "illustrate",
+    "kk": "ˈɪləˌstreɪt",
+    "pos": "v.",
+    "zh": "畫插圖、配插圖",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0079",
+      "104 指考第 9 題",
+      "d",
+      "illustrating"
+     ],
+     [
+      "gsat",
+      "V0130",
+      "91 學測第 10 題",
+      "d",
+      "illustrated"
+     ]
+    ]
+   },
+   {
+    "w": "eager",
+    "kk": "ˈigɚ",
+    "pos": "adj.",
+    "zh": "渴望的、迫不及待的",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0407",
+      "108 學測第 2 題",
+      "d",
+      "eager"
+     ]
+    ]
+   },
+   {
+    "w": "harsh",
+    "kk": "hɑrʃ",
+    "pos": "adj.",
+    "zh": "嚴酷的、荒涼的",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0500",
+      "115 學測第 10 題",
+      "d",
+      "harsh"
+     ],
+     [
+      "gsat",
+      "V0326",
+      "102 學測第 11 題",
+      "d",
+      "harsh"
+     ],
+     [
+      "gsat",
+      "V0066",
+      "87 推薦甄選第 6 題",
+      "d",
+      "harsh"
+     ]
+    ]
+   },
+   {
+    "w": "steam",
+    "kk": "stim",
+    "pos": "n.",
+    "zh": "蒸氣",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0011",
+      "109 指考補考第 1 題",
+      "a",
+      "steaming"
+     ]
+    ]
+   },
+   {
+    "w": "monument",
+    "kk": "ˈmɑnjumənt",
+    "pos": "n.",
+    "zh": "保護區、紀念地（national monument 國家保護區）",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0426",
+      "109 學測第 6 題",
+      "a",
+      "monument"
+     ],
+     [
+      "gsat",
+      "V0344",
+      "103 學測第 14 題",
+      "d",
+      "monument"
+     ]
+    ]
+   },
+   {
+    "w": "severely",
+    "kk": "səˈvɪrli",
+    "pos": "adv.",
+    "zh": "嚴重地",
+    "lv": 4,
+    "at": "q40",
+    "h": "severe",
+    "t": [
+     [
+      "gsat",
+      "V0346",
+      "104 學測第 1 題",
+      "d",
+      "severe"
+     ],
+     [
+      "gsat",
+      "V0282",
+      "99 學測第 12 題",
+      "a",
+      "severe"
+     ]
+    ]
+   },
+   {
+    "w": "mostly",
+    "kk": "ˈmoʊstli",
+    "pos": "adv.",
+    "zh": "大多、主要",
+    "lv": 3,
+    "at": "q40",
+    "t": [
+     [
+      "gsat",
+      "V0153",
+      "92 學測第 3 題",
+      "d",
+      "mostly"
+     ],
+     [
+      "gsat",
+      "V0174",
+      "92 學測補考第 9 題",
+      "d",
+      "mostly"
+     ]
+    ]
+   },
+   {
+    "w": "resource",
+    "kk": "ˈrisɔrs",
+    "pos": "n.",
+    "zh": "資源",
+    "lv": 3,
+    "at": "q41",
+    "t": [
+     [
+      "gsat",
+      "V0497",
+      "115 學測第 7 題",
+      "d",
+      "resource"
+     ],
+     [
+      "zhikao",
+      "ZK0113",
+      "101 指考第 1 題",
+      "d",
+      "resource"
+     ]
+    ]
+   },
+   {
+    "w": "promote",
+    "kk": "prəˈmoʊt",
+    "pos": "v.",
+    "zh": "推廣、宣傳",
+    "lv": 3,
+    "at": "q42",
+    "t": [
+     [
+      "gsat",
+      "V0356",
+      "104 學測第 11 題",
+      "a",
+      "promote"
+     ],
+     [
+      "zhikao",
+      "ZK0141",
+      "99 指考第 9 題",
+      "d",
+      "promoted"
+     ],
+     [
+      "zhikao",
+      "ZK0152",
+      "98 指考第 10 題",
+      "d",
+      "promoted"
+     ],
+     [
+      "gsat",
+      "V0244",
+      "97 學測第 4 題",
+      "d",
+      "promote"
+     ],
+     [
+      "zhikao",
+      "ZK0207",
+      "92 指考第 3 題",
+      "d",
+      "promoted"
+     ]
+    ]
+   }
+  ],
+  "vocab": [
+   {
+    "w": "splendor",
+    "kk": "ˈsplɛndɚ",
+    "pos": "n.",
+    "zh": "壯麗、壯觀",
+    "lv": 6,
     "at": "p1"
    },
    {
@@ -2648,6 +7186,675 @@
     "k": "topic"
    }
   ],
+  "key": [
+   {
+    "w": "extensive",
+    "kk": "ɪkˈstɛnsɪv",
+    "pos": "adj.",
+    "zh": "大面積的、範圍廣的",
+    "lv": 5,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0046",
+      "86 推薦甄選第 6 題",
+      "d",
+      "extensive"
+     ],
+     [
+      "gsat",
+      "V0047",
+      "86 推薦甄選第 7 題",
+      "d",
+      "extensively"
+     ],
+     [
+      "zhikao",
+      "ZK0274",
+      "86 聯考第 1 題",
+      "d",
+      "extensively"
+     ],
+     [
+      "zhikao",
+      "ZK0321",
+      "82 聯考第 8 題",
+      "d",
+      "extensive"
+     ]
+    ]
+   },
+   {
+    "w": "creative",
+    "kk": "kriˈeɪtɪv",
+    "pos": "adj.",
+    "zh": "有創意的、創新的",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0435",
+      "109 學測第 15 題",
+      "d",
+      "creative"
+     ]
+    ]
+   },
+   {
+    "w": "triumph",
+    "kk": "ˈtraɪəmf",
+    "pos": "n.",
+    "zh": "勝利、成就",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0306",
+      "101 學測第 6 題",
+      "d",
+      "triumph"
+     ],
+     [
+      "zhikao",
+      "ZK0333",
+      "81 聯考第 10 題",
+      "d",
+      "triumph"
+     ]
+    ]
+   },
+   {
+    "w": "ambitious",
+    "kk": "æmˈbɪʃəs",
+    "pos": "adj.",
+    "zh": "遠大的、雄心勃勃的",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0216",
+      "95 學測第 6 題",
+      "d",
+      "ambitious"
+     ],
+     [
+      "zhikao",
+      "ZK0201",
+      "93 指考第 9 題",
+      "d",
+      "ambitious"
+     ],
+     [
+      "gsat",
+      "V0044",
+      "86 推薦甄選第 4 題",
+      "d",
+      "ambitious"
+     ]
+    ]
+   },
+   {
+    "w": "promote",
+    "kk": "prəˈmoʊt",
+    "pos": "v.",
+    "zh": "推動、促進",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0356",
+      "104 學測第 11 題",
+      "a",
+      "promote"
+     ],
+     [
+      "zhikao",
+      "ZK0141",
+      "99 指考第 9 題",
+      "d",
+      "promoted"
+     ],
+     [
+      "zhikao",
+      "ZK0152",
+      "98 指考第 10 題",
+      "d",
+      "promoted"
+     ],
+     [
+      "gsat",
+      "V0244",
+      "97 學測第 4 題",
+      "d",
+      "promote"
+     ],
+     [
+      "zhikao",
+      "ZK0207",
+      "92 指考第 3 題",
+      "d",
+      "promoted"
+     ]
+    ]
+   },
+   {
+    "w": "procedure",
+    "kk": "prəˈsiʤɚ",
+    "pos": "n.",
+    "zh": "療法、（醫療）程序",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0153",
+      "97 指考第 1 題",
+      "d",
+      "procedure"
+     ],
+     [
+      "gsat",
+      "V0021",
+      "85 推薦甄選第 1 題",
+      "d",
+      "procedure"
+     ]
+    ]
+   },
+   {
+    "w": "emerge",
+    "kk": "ɪˈmɝʤ",
+    "pos": "v.",
+    "zh": "出現、誕生（emerge from 出自）",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0472",
+      "113 學測第 2 題",
+      "a",
+      "emerging"
+     ],
+     [
+      "zhikao",
+      "ZK0094",
+      "93 補救考試第 4 題",
+      "d",
+      "emerged"
+     ]
+    ]
+   },
+   {
+    "w": "fundamental",
+    "kk": "ˌfʌndəˈmɛntəl",
+    "pos": "adj.",
+    "zh": "根本的",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0494",
+      "115 學測第 4 題",
+      "d",
+      "fundamentally"
+     ],
+     [
+      "zhikao",
+      "ZK0157",
+      "97 指考第 5 題",
+      "d",
+      "fundamental"
+     ]
+    ]
+   },
+   {
+    "w": "strengthen",
+    "kk": "ˈstrɛŋθən",
+    "pos": "v.",
+    "zh": "加強",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0054",
+      "106 指考第 4 題",
+      "d",
+      "strengthen"
+     ],
+     [
+      "gsat",
+      "V0181",
+      "93 學測第 1 題",
+      "d",
+      "strengthen"
+     ],
+     [
+      "gsat",
+      "V0018",
+      "84 推薦甄選第 8 題",
+      "a",
+      "strengthen"
+     ],
+     [
+      "zhikao",
+      "ZK0312",
+      "83 聯考第 9 題",
+      "d",
+      "strengthen"
+     ]
+    ]
+   },
+   {
+    "w": "product",
+    "kk": "ˈprɑdəkt",
+    "pos": "n.",
+    "zh": "產品",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0199",
+      "94 學測第 4 題",
+      "a",
+      "products"
+     ],
+     [
+      "zhikao",
+      "ZK0273",
+      "87 聯考第 10 題",
+      "d",
+      "products"
+     ],
+     [
+      "zhikao",
+      "ZK0333",
+      "81 聯考第 10 題",
+      "d",
+      "product"
+     ]
+    ]
+   },
+   {
+    "w": "issue",
+    "kk": "ˈɪʃu",
+    "pos": "n.",
+    "zh": "問題、課題",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0140",
+      "99 指考第 8 題",
+      "a",
+      "issues"
+     ],
+     [
+      "zhikao",
+      "ZK0285",
+      "85 聯考第 2 題",
+      "d",
+      "issue"
+     ],
+     [
+      "gsat",
+      "V0009",
+      "83 推薦甄選第 9 題",
+      "d",
+      "issue"
+     ]
+    ]
+   },
+   {
+    "w": "process",
+    "kk": "ˈprɑsɛs",
+    "pos": "n.",
+    "zh": "過程",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0293",
+      "100 學測第 8 題",
+      "a",
+      "process"
+     ],
+     [
+      "zhikao",
+      "ZK0164",
+      "96 指考第 2 題",
+      "d",
+      "process"
+     ],
+     [
+      "gsat",
+      "V0012",
+      "84 推薦甄選第 2 題",
+      "d",
+      "process"
+     ],
+     [
+      "zhikao",
+      "ZK0324",
+      "81 聯考第 1 題",
+      "d",
+      "process"
+     ]
+    ]
+   },
+   {
+    "w": "consumption",
+    "kk": "kənˈsʌmpʃən",
+    "pos": "n.",
+    "zh": "食用",
+    "lv": 5,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0495",
+      "115 學測第 5 題",
+      "a",
+      "consumption"
+     ],
+     [
+      "gsat",
+      "V0093",
+      "89 學測第 3 題",
+      "d",
+      "consumption"
+     ]
+    ]
+   },
+   {
+    "w": "guidance",
+    "kk": "ˈgaɪdəns",
+    "pos": "n.",
+    "zh": "帶領、指導（under the guidance of 在……的帶動下）",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0231",
+      "96 學測第 6 題",
+      "d",
+      "guidance"
+     ]
+    ]
+   },
+   {
+    "w": "virus",
+    "kk": "ˈvaɪrəs",
+    "pos": "n.",
+    "zh": "病毒",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0327",
+      "102 學測第 12 題",
+      "a",
+      "virus"
+     ]
+    ]
+   },
+   {
+    "w": "accomplish",
+    "kk": "əˈkɑmplɪʃ",
+    "pos": "v.",
+    "zh": "達成、完成",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0349",
+      "104 學測第 4 題",
+      "d",
+      "accomplishments"
+     ],
+     [
+      "zhikao",
+      "ZK0194",
+      "93 指考第 2 題",
+      "d",
+      "accomplishment"
+     ]
+    ]
+   },
+   {
+    "w": "cooperative",
+    "kk": "koʊˈɑpəˌreɪtɪv",
+    "pos": "adj.",
+    "zh": "合作的",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0158",
+      "97 指考第 6 題",
+      "a",
+      "cooperative"
+     ],
+     [
+      "zhikao",
+      "ZK0263",
+      "88 聯考第 10 題",
+      "d",
+      "cooperative"
+     ]
+    ]
+   },
+   {
+    "w": "various",
+    "kk": "ˈvɛriəs",
+    "pos": "adj.",
+    "zh": "各種的",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0277",
+      "99 學測第 7 題",
+      "d",
+      "various"
+     ],
+     [
+      "gsat",
+      "V0239",
+      "96 學測第 14 題",
+      "d",
+      "variously"
+     ],
+     [
+      "zhikao",
+      "ZK0190",
+      "94 指考第 8 題",
+      "d",
+      "various"
+     ],
+     [
+      "gsat",
+      "V0126",
+      "91 學測第 6 題",
+      "d",
+      "variously"
+     ],
+     [
+      "gsat",
+      "V0142",
+      "91 學測補考第 7 題",
+      "d",
+      "various"
+     ],
+     [
+      "gsat",
+      "V0112",
+      "90 學測第 7 題",
+      "d",
+      "various"
+     ]
+    ]
+   },
+   {
+    "w": "initiative",
+    "kk": "ɪˈnɪʃətɪv",
+    "pos": "n.",
+    "zh": "主動（take the initiative to 主動做）",
+    "lv": 5,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0216",
+      "91 指考第 2 題",
+      "a",
+      "initiative"
+     ]
+    ]
+   },
+   {
+    "w": "facilitate",
+    "kk": "fəˈsɪləˌteɪt",
+    "pos": "v.",
+    "zh": "促進、促成",
+    "lv": 5,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0103",
+      "102 指考第 1 題",
+      "d",
+      "facilitate"
+     ],
+     [
+      "zhikao",
+      "ZK0253",
+      "89 聯考第 14 題",
+      "a",
+      "facilitate"
+     ]
+    ]
+   },
+   {
+    "w": "information",
+    "kk": "ˌɪnfɚˈmeɪʃən",
+    "pos": "n.",
+    "zh": "資訊",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0254",
+      "88 聯考第 1 題",
+      "d",
+      "information"
+     ]
+    ]
+   },
+   {
+    "w": "innovative",
+    "kk": "ˈɪnəˌveɪtɪv",
+    "pos": "adj.",
+    "zh": "創新的",
+    "lv": 5,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0172",
+      "96 指考第 10 題",
+      "a",
+      "innovative"
+     ],
+     [
+      "zhikao",
+      "ZK0098",
+      "93 補救考試第 8 題",
+      "d",
+      "innovative"
+     ]
+    ]
+   },
+   {
+    "w": "resource",
+    "kk": "ˈrisɔrs",
+    "pos": "n.",
+    "zh": "資源",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0497",
+      "115 學測第 7 題",
+      "d",
+      "resource"
+     ],
+     [
+      "zhikao",
+      "ZK0113",
+      "101 指考第 1 題",
+      "d",
+      "resource"
+     ]
+    ]
+   },
+   {
+    "w": "mission",
+    "kk": "ˈmɪʃən",
+    "pos": "n.",
+    "zh": "使命、宗旨",
+    "lv": 3,
+    "at": "q44",
+    "t": [
+     [
+      "gsat",
+      "V0429",
+      "109 學測第 9 題",
+      "d",
+      "mission"
+     ],
+     [
+      "gsat",
+      "V0416",
+      "108 學測第 11 題",
+      "d",
+      "missions"
+     ],
+     [
+      "gsat",
+      "V0280",
+      "99 學測第 10 題",
+      "d",
+      "missions"
+     ],
+     [
+      "gsat",
+      "V0262",
+      "98 學測第 7 題",
+      "d",
+      "mission"
+     ]
+    ]
+   }
+  ],
   "vocab": [
    {
     "w": "volt",
@@ -2662,14 +7869,6 @@
     "kk": "ˈleɪɚ",
     "pos": "n.",
     "zh": "層",
-    "lv": 5,
-    "at": "p1"
-   },
-   {
-    "w": "extensive",
-    "kk": "ɪkˈstɛnsɪv",
-    "pos": "adj.",
-    "zh": "大面積的、範圍廣的",
     "lv": 5,
     "at": "p1"
    },
@@ -2729,14 +7928,6 @@
     "zh": "創新",
     "lv": 5,
     "at": "p2"
-   },
-   {
-    "w": "consumption",
-    "kk": "kənˈsʌmpʃən",
-    "pos": "n.",
-    "zh": "食用",
-    "lv": 5,
-    "at": "p3"
    },
    {
     "w": "cod",
@@ -2803,26 +7994,10 @@
     "at": "p3"
    },
    {
-    "w": "initiative",
-    "kk": "ɪˈnɪʃətɪv",
-    "pos": "n.",
-    "zh": "主動（take the initiative to 主動做）",
-    "lv": 5,
-    "at": "p4"
-   },
-   {
     "w": "collaboration",
     "kk": "kəˌlæbəˈreɪʃən",
     "pos": "n.",
     "zh": "合作",
-    "lv": 5,
-    "at": "p4"
-   },
-   {
-    "w": "facilitate",
-    "kk": "fəˈsɪləˌteɪt",
-    "pos": "v.",
-    "zh": "促進、促成",
     "lv": 5,
     "at": "p4"
    },
@@ -2847,14 +8022,6 @@
     "kk": "ˈsɛktɚ",
     "pos": "n.",
     "zh": "領域、部門",
-    "lv": 5,
-    "at": "p4"
-   },
-   {
-    "w": "innovative",
-    "kk": "ˈɪnəˌveɪtɪv",
-    "pos": "adj.",
-    "zh": "創新的",
     "lv": 5,
     "at": "p4"
    },
@@ -2953,6 +8120,201 @@
     "k": "topic"
    }
   ],
+  "key": [
+   {
+    "w": "emerge",
+    "kk": "ɪˈmɝʤ",
+    "pos": "v.",
+    "zh": "出現",
+    "lv": 4,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0472",
+      "113 學測第 2 題",
+      "a",
+      "emerging"
+     ],
+     [
+      "zhikao",
+      "ZK0094",
+      "93 補救考試第 4 題",
+      "d",
+      "emerged"
+     ]
+    ]
+   },
+   {
+    "w": "trace",
+    "kk": "treɪs",
+    "pos": "v.",
+    "zh": "追溯（be traced back to）",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0382",
+      "106 學測第 7 題",
+      "a",
+      "trace"
+     ],
+     [
+      "gsat",
+      "V0069",
+      "87 推薦甄選第 9 題",
+      "a",
+      "traced"
+     ]
+    ]
+   },
+   {
+    "w": "merely",
+    "kk": "ˈmɪrli",
+    "pos": "adv.",
+    "zh": "只、只是（not merely 不只是）",
+    "lv": 4,
+    "at": "p1",
+    "h": "mere",
+    "t": [
+     [
+      "gsat",
+      "V0381",
+      "106 學測第 6 題",
+      "d",
+      "merely"
+     ],
+     [
+      "gsat",
+      "V0253",
+      "97 學測第 13 題",
+      "d",
+      "merely"
+     ],
+     [
+      "zhikao",
+      "ZK0306",
+      "83 聯考第 3 題",
+      "d",
+      "merely"
+     ]
+    ]
+   },
+   {
+    "w": "witness",
+    "kk": "ˈwɪtnəs",
+    "pos": "v.",
+    "zh": "目睹、親眼看到",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0284",
+      "99 學測第 14 題",
+      "a",
+      "witness"
+     ],
+     [
+      "zhikao",
+      "ZK0299",
+      "84 聯考第 6 題",
+      "d",
+      "witness"
+     ]
+    ]
+   },
+   {
+    "w": "represent",
+    "kk": "ˌrɛprəˈzɛnt",
+    "pos": "v.",
+    "zh": "代表、象徵",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0213",
+      "92 指考第 9 題",
+      "a",
+      "representing"
+     ],
+     [
+      "gsat",
+      "V0057",
+      "86 推薦甄選第 17 題",
+      "a",
+      "represents"
+     ]
+    ]
+   },
+   {
+    "w": "representation",
+    "kk": "ˌrɛprəzɛnˈteɪʃən",
+    "pos": "n.",
+    "zh": "象徵、表現",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0406",
+      "108 學測第 1 題",
+      "d",
+      "representation"
+     ]
+    ]
+   },
+   {
+    "w": "construct",
+    "kk": "kənˈstrʌkt",
+    "pos": "v.",
+    "zh": "排出、構成（形狀）",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0427",
+      "109 學測第 7 題",
+      "d",
+      "construct"
+     ],
+     [
+      "zhikao",
+      "ZK0213",
+      "92 指考第 9 題",
+      "d",
+      "constructing"
+     ]
+    ]
+   },
+   {
+    "w": "version",
+    "kk": "ˈvɝʒən",
+    "pos": "n.",
+    "zh": "款式、版本",
+    "lv": 5,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0009",
+      "83 推薦甄選第 9 題",
+      "a",
+      "version"
+     ],
+     [
+      "zhikao",
+      "ZK0329",
+      "81 聯考第 6 題",
+      "d",
+      "version"
+     ]
+    ]
+   }
+  ],
   "vocab": [
    {
     "w": "hula",
@@ -3041,14 +8403,6 @@
     "zh": "象徵的",
     "lv": 5,
     "at": "p3"
-   },
-   {
-    "w": "version",
-    "kk": "ˈvɝʒən",
-    "pos": "n.",
-    "zh": "款式、版本",
-    "lv": 5,
-    "at": "p4"
    },
    {
     "w": "fad",
@@ -3148,6 +8502,570 @@
     "k": "topic"
    }
   ],
+  "key": [
+   {
+    "w": "aware",
+    "kk": "əˈwɛr",
+    "pos": "adj.",
+    "zh": "知道的、意識到的（be aware that）",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0389",
+      "106 學測第 14 題",
+      "a",
+      "aware"
+     ],
+     [
+      "zhikao",
+      "ZK0301",
+      "84 聯考第 8 題",
+      "a",
+      "awareness"
+     ]
+    ]
+   },
+   {
+    "w": "injury",
+    "kk": "ˈɪnʤəri",
+    "pos": "n.",
+    "zh": "受傷",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0365",
+      "105 學測第 5 題",
+      "a",
+      "injury"
+     ]
+    ]
+   },
+   {
+    "w": "destroy",
+    "kk": "dɪˈstrɔɪ",
+    "pos": "v.",
+    "zh": "破壞",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0292",
+      "100 學測第 7 題",
+      "d",
+      "destroy"
+     ],
+     [
+      "gsat",
+      "V0003",
+      "83 推薦甄選第 3 題",
+      "d",
+      "destroys"
+     ],
+     [
+      "zhikao",
+      "ZK0312",
+      "83 聯考第 9 題",
+      "d",
+      "destroy"
+     ]
+    ]
+   },
+   {
+    "w": "endanger",
+    "kk": "ɪnˈdeɪnʤɚ",
+    "pos": "v.",
+    "zh": "危及",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0205",
+      "94 學測第 10 題",
+      "d",
+      "endangered"
+     ]
+    ]
+   },
+   {
+    "w": "landmark",
+    "kk": "ˈlændˌmɑrk",
+    "pos": "n.",
+    "zh": "地標",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0409",
+      "108 學測第 4 題",
+      "d",
+      "landmarks"
+     ],
+     [
+      "gsat",
+      "V0185",
+      "93 學測第 5 題",
+      "a",
+      "landmark"
+     ]
+    ]
+   },
+   {
+    "w": "inevitably",
+    "kk": "ɪˈnɛvətəbli",
+    "pos": "adv.",
+    "zh": "無可避免地",
+    "lv": 5,
+    "at": "p2",
+    "h": "inevitable",
+    "t": [
+     [
+      "zhikao",
+      "ZK0184",
+      "94 指考第 2 題",
+      "d",
+      "inevitably"
+     ],
+     [
+      "zhikao",
+      "ZK0248",
+      "89 聯考第 9 題",
+      "a",
+      "inevitably"
+     ],
+     [
+      "gsat",
+      "V0001",
+      "83 推薦甄選第 1 題",
+      "d",
+      "inevitable"
+     ]
+    ]
+   },
+   {
+    "w": "shelter",
+    "kk": "ˈʃɛltɚ",
+    "pos": "n.",
+    "zh": "庇護所",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0031",
+      "108 指考第 1 題",
+      "d",
+      "shelter"
+     ],
+     [
+      "zhikao",
+      "ZK0111",
+      "102 指考第 9 題",
+      "a",
+      "shelter"
+     ]
+    ]
+   },
+   {
+    "w": "negotiate",
+    "kk": "nəˈgoʊʃiˌeɪt",
+    "pos": "v.",
+    "zh": "走過、越過（難走的地方）",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0359",
+      "104 學測第 14 題",
+      "d",
+      "negotiate"
+     ],
+     [
+      "gsat",
+      "V0232",
+      "96 學測第 7 題",
+      "a",
+      "negotiating"
+     ],
+     [
+      "gsat",
+      "V0114",
+      "90 學測第 9 題",
+      "d",
+      "negotiated"
+     ],
+     [
+      "zhikao",
+      "ZK0280",
+      "86 聯考第 7 題",
+      "a",
+      "negotiate"
+     ]
+    ]
+   },
+   {
+    "w": "resist",
+    "kk": "rɪˈzɪst",
+    "pos": "v.",
+    "zh": "不肯、抗拒（resist doing）",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0043",
+      "107 指考第 3 題",
+      "d",
+      "resisted"
+     ],
+     [
+      "gsat",
+      "V0276",
+      "99 學測第 6 題",
+      "a",
+      "resist"
+     ],
+     [
+      "gsat",
+      "V0204",
+      "94 學測第 9 題",
+      "a",
+      "resist"
+     ],
+     [
+      "gsat",
+      "V0123",
+      "91 學測第 3 題",
+      "d",
+      "resist"
+     ],
+     [
+      "zhikao",
+      "ZK0310",
+      "83 聯考第 7 題",
+      "a",
+      "resist"
+     ]
+    ]
+   },
+   {
+    "w": "herd",
+    "kk": "hɝd",
+    "pos": "n.",
+    "zh": "（動物）群",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0324",
+      "102 學測第 9 題",
+      "d",
+      "herd"
+     ]
+    ]
+   },
+   {
+    "w": "reluctant",
+    "kk": "rɪˈlʌktənt",
+    "pos": "adj.",
+    "zh": "不情願的",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0320",
+      "102 學測第 5 題",
+      "a",
+      "reluctant"
+     ],
+     [
+      "gsat",
+      "V0271",
+      "99 學測第 1 題",
+      "d",
+      "reluctant"
+     ],
+     [
+      "gsat",
+      "V0144",
+      "91 學測補考第 9 題",
+      "d",
+      "reluctant"
+     ]
+    ]
+   },
+   {
+    "w": "prosperous",
+    "kk": "ˈprɑspərəs",
+    "pos": "adj.",
+    "zh": "興旺的、繁榮的",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0015",
+      "109 指考補考第 5 題",
+      "d",
+      "prosperous"
+     ],
+     [
+      "zhikao",
+      "ZK0136",
+      "99 指考第 4 題",
+      "d",
+      "prosperously"
+     ]
+    ]
+   },
+   {
+    "w": "initiative",
+    "kk": "ɪˈnɪʃətɪv",
+    "pos": "n.",
+    "zh": "主動（take the initiative to 主動做）",
+    "lv": 5,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0216",
+      "91 指考第 2 題",
+      "a",
+      "initiative"
+     ]
+    ]
+   },
+   {
+    "w": "precaution",
+    "kk": "prɪˈkɔʃən",
+    "pos": "n.",
+    "zh": "預防措施",
+    "lv": 5,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0017",
+      "109 指考補考第 7 題",
+      "a",
+      "precaution"
+     ]
+    ]
+   },
+   {
+    "w": "reward",
+    "kk": "rɪˈwɔrd",
+    "pos": "v.",
+    "zh": "獎勵",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0016",
+      "109 指考補考第 6 題",
+      "d",
+      "reward"
+     ],
+     [
+      "gsat",
+      "V0386",
+      "106 學測第 11 題",
+      "d",
+      "rewarded"
+     ],
+     [
+      "gsat",
+      "V0347",
+      "104 學測第 2 題",
+      "a",
+      "reward"
+     ],
+     [
+      "gsat",
+      "V0169",
+      "92 學測補考第 4 題",
+      "d",
+      "reward"
+     ],
+     [
+      "zhikao",
+      "ZK0258",
+      "88 聯考第 5 題",
+      "d",
+      "rewarded"
+     ]
+    ]
+   },
+   {
+    "w": "motivated",
+    "kk": "ˈmoʊtəˌveɪtɪd",
+    "pos": "adj.",
+    "zh": "有動力的、有意願的（be motivated to）",
+    "lv": 4,
+    "at": "p3",
+    "h": "motivate",
+    "t": [
+     [
+      "gsat",
+      "V0335",
+      "103 學測第 5 題",
+      "d",
+      "motivates"
+     ],
+     [
+      "zhikao",
+      "ZK0116",
+      "101 指考第 4 題",
+      "d",
+      "motivates"
+     ],
+     [
+      "gsat",
+      "V0264",
+      "98 學測第 9 題",
+      "d",
+      "motivate"
+     ],
+     [
+      "gsat",
+      "V0130",
+      "91 學測第 10 題",
+      "a",
+      "motivated"
+     ]
+    ]
+   },
+   {
+    "w": "risk",
+    "kk": "rɪsk",
+    "pos": "n.",
+    "zh": "危險、風險",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0141",
+      "91 學測補考第 6 題",
+      "d",
+      "risked"
+     ]
+    ]
+   },
+   {
+    "w": "expand",
+    "kk": "ɪkˈspænd",
+    "pos": "v.",
+    "zh": "擴大",
+    "lv": 4,
+    "at": "q39",
+    "t": [
+     [
+      "gsat",
+      "V0233",
+      "96 學測第 8 題",
+      "a",
+      "expanded"
+     ],
+     [
+      "gsat",
+      "V0181",
+      "93 學測第 1 題",
+      "d",
+      "expand"
+     ],
+     [
+      "gsat",
+      "V0078",
+      "88 推薦甄選第 3 題",
+      "d",
+      "expanding"
+     ],
+     [
+      "zhikao",
+      "ZK0297",
+      "84 聯考第 4 題",
+      "d",
+      "expanded"
+     ]
+    ]
+   },
+   {
+    "w": "locate",
+    "kk": "ˈloʊkeɪt",
+    "pos": "v.",
+    "zh": "找到……的位置",
+    "lv": 3,
+    "at": "q40",
+    "t": [
+     [
+      "zhikao",
+      "ZK0033",
+      "108 指考第 3 題",
+      "d",
+      "located"
+     ]
+    ]
+   },
+   {
+    "w": "disturb",
+    "kk": "dɪˈstɝb",
+    "pos": "v.",
+    "zh": "打擾",
+    "lv": 4,
+    "at": "q41",
+    "t": [
+     [
+      "gsat",
+      "V0469",
+      "112 學測第 9 題",
+      "d",
+      "disturbed"
+     ],
+     [
+      "zhikao",
+      "ZK0268",
+      "87 聯考第 5 題",
+      "a",
+      "disturbing"
+     ],
+     [
+      "gsat",
+      "V0003",
+      "83 推薦甄選第 3 題",
+      "a",
+      "disturbs"
+     ]
+    ]
+   },
+   {
+    "w": "situation",
+    "kk": "ˌsɪʧuˈeɪʃən",
+    "pos": "n.",
+    "zh": "局面、情況（win-win situation 雙贏的局面）",
+    "lv": 3,
+    "at": "q42",
+    "t": [
+     [
+      "gsat",
+      "V0392",
+      "107 學測第 2 題",
+      "d",
+      "situations"
+     ]
+    ]
+   }
+  ],
   "vocab": [
    {
     "w": "roam",
@@ -3214,15 +9132,6 @@
     "at": "p2"
    },
    {
-    "w": "inevitably",
-    "kk": "ɪˈnɛvətəbli",
-    "pos": "adv.",
-    "zh": "無可避免地",
-    "lv": 5,
-    "at": "p2",
-    "h": "inevitable"
-   },
-   {
     "w": "smother",
     "kk": "ˈsmʌðɚ",
     "pos": "v.",
@@ -3244,22 +9153,6 @@
     "pos": "v.",
     "zh": "共存",
     "lv": 0,
-    "at": "p3"
-   },
-   {
-    "w": "initiative",
-    "kk": "ɪˈnɪʃətɪv",
-    "pos": "n.",
-    "zh": "主動（take the initiative to 主動做）",
-    "lv": 5,
-    "at": "p3"
-   },
-   {
-    "w": "precaution",
-    "kk": "prɪˈkɔʃən",
-    "pos": "n.",
-    "zh": "預防措施",
-    "lv": 5,
     "at": "p3"
    },
    {
@@ -3370,6 +9263,419 @@
     "k": "topic"
    }
   ],
+  "key": [
+   {
+    "w": "scattered",
+    "kk": "ˈskætɚd",
+    "pos": "adj.",
+    "zh": "分散的",
+    "lv": 3,
+    "at": "p1",
+    "h": "scatter",
+    "t": [
+     [
+      "gsat",
+      "V0443",
+      "110 學測第 8 題",
+      "d",
+      "scattered"
+     ],
+     [
+      "gsat",
+      "V0264",
+      "98 學測第 9 題",
+      "d",
+      "scatter"
+     ],
+     [
+      "zhikao",
+      "ZK0145",
+      "98 指考第 3 題",
+      "a",
+      "scattered"
+     ]
+    ]
+   },
+   {
+    "w": "destination",
+    "kk": "ˌdɛstəˈneɪʃən",
+    "pos": "n.",
+    "zh": "旅遊地點、目的地",
+    "lv": 5,
+    "at": "p1",
+    "t": [
+     [
+      "zhikao",
+      "ZK0017",
+      "109 指考補考第 7 題",
+      "d",
+      "destination"
+     ]
+    ]
+   },
+   {
+    "w": "slender",
+    "kk": "ˈslɛndɚ",
+    "pos": "adj.",
+    "zh": "纖細的",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0471",
+      "113 學測第 1 題",
+      "a",
+      "slender"
+     ]
+    ]
+   },
+   {
+    "w": "access",
+    "kk": "ˈæksɛs",
+    "pos": "n.",
+    "zh": "取得、得到的機會（access to）",
+    "lv": 4,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0383",
+      "106 學測第 8 題",
+      "d",
+      "accessed"
+     ],
+     [
+      "zhikao",
+      "ZK0341",
+      "98 指考參考試卷第 9 題",
+      "d",
+      "access"
+     ],
+     [
+      "zhikao",
+      "ZK0173",
+      "95 指考第 1 題",
+      "d",
+      "accesses"
+     ],
+     [
+      "gsat",
+      "V0068",
+      "87 推薦甄選第 8 題",
+      "d",
+      "access"
+     ],
+     [
+      "gsat",
+      "V0029",
+      "85 推薦甄選第 9 題",
+      "a",
+      "access"
+     ]
+    ]
+   },
+   {
+    "w": "location",
+    "kk": "loʊˈkeɪʃən",
+    "pos": "n.",
+    "zh": "位置",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0153",
+      "97 指考第 1 題",
+      "a",
+      "location"
+     ]
+    ]
+   },
+   {
+    "w": "route",
+    "kk": "rut",
+    "pos": "n.",
+    "zh": "路線",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0459",
+      "111 學測第 9 題",
+      "d",
+      "route"
+     ]
+    ]
+   },
+   {
+    "w": "permanent",
+    "kk": "ˈpɝmənənt",
+    "pos": "adj.",
+    "zh": "永久的",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0110",
+      "102 指考第 8 題",
+      "d",
+      "permanent"
+     ],
+     [
+      "gsat",
+      "V0255",
+      "97 學測第 15 題",
+      "d",
+      "permanently"
+     ],
+     [
+      "zhikao",
+      "ZK0161",
+      "97 指考第 9 題",
+      "d",
+      "permanently"
+     ],
+     [
+      "zhikao",
+      "ZK0100",
+      "93 補救考試第 10 題",
+      "a",
+      "permanently"
+     ],
+     [
+      "gsat",
+      "V0159",
+      "92 學測第 9 題",
+      "d",
+      "permanent"
+     ],
+     [
+      "gsat",
+      "V0056",
+      "86 推薦甄選第 16 題",
+      "d",
+      "permanently"
+     ]
+    ]
+   },
+   {
+    "w": "attract",
+    "kk": "əˈtrækt",
+    "pos": "v.",
+    "zh": "吸引",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0059",
+      "86 推薦甄選第 19 題",
+      "a",
+      "attracts"
+     ]
+    ]
+   },
+   {
+    "w": "dock",
+    "kk": "dɑk",
+    "pos": "v.",
+    "zh": "停靠、靠岸",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0473",
+      "113 學測第 3 題",
+      "d",
+      "docked"
+     ]
+    ]
+   },
+   {
+    "w": "various",
+    "kk": "ˈvɛriəs",
+    "pos": "adj.",
+    "zh": "各種的",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0277",
+      "99 學測第 7 題",
+      "d",
+      "various"
+     ],
+     [
+      "gsat",
+      "V0239",
+      "96 學測第 14 題",
+      "d",
+      "variously"
+     ],
+     [
+      "zhikao",
+      "ZK0190",
+      "94 指考第 8 題",
+      "d",
+      "various"
+     ],
+     [
+      "gsat",
+      "V0126",
+      "91 學測第 6 題",
+      "d",
+      "variously"
+     ],
+     [
+      "gsat",
+      "V0142",
+      "91 學測補考第 7 題",
+      "d",
+      "various"
+     ],
+     [
+      "gsat",
+      "V0112",
+      "90 學測第 7 題",
+      "d",
+      "various"
+     ]
+    ]
+   },
+   {
+    "w": "float",
+    "kk": "floʊt",
+    "pos": "v.",
+    "zh": "飄散、飄浮",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0472",
+      "113 學測第 2 題",
+      "d",
+      "floating"
+     ]
+    ]
+   },
+   {
+    "w": "amazing",
+    "kk": "əˈmeɪzɪŋ",
+    "pos": "adj.",
+    "zh": "驚人的、令人讚嘆的",
+    "lv": 3,
+    "at": "p4",
+    "h": "amaze",
+    "t": [
+     [
+      "gsat",
+      "V0422",
+      "109 學測第 2 題",
+      "a",
+      "amazed"
+     ],
+     [
+      "gsat",
+      "V0273",
+      "99 學測第 3 題",
+      "d",
+      "amazed"
+     ],
+     [
+      "gsat",
+      "V0240",
+      "96 學測第 15 題",
+      "a",
+      "amazed"
+     ],
+     [
+      "gsat",
+      "V0045",
+      "86 推薦甄選第 5 題",
+      "d",
+      "amazement"
+     ],
+     [
+      "gsat",
+      "V0016",
+      "84 推薦甄選第 6 題",
+      "d",
+      "amazingly"
+     ]
+    ]
+   },
+   {
+    "w": "charm",
+    "kk": "ʧɑrm",
+    "pos": "n.",
+    "zh": "魅力",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0422",
+      "109 學測第 2 題",
+      "d",
+      "charmed"
+     ],
+     [
+      "gsat",
+      "V0107",
+      "90 學測第 2 題",
+      "d",
+      "charmed"
+     ]
+    ]
+   },
+   {
+    "w": "locate",
+    "kk": "ˈloʊkeɪt",
+    "pos": "v.",
+    "zh": "位於（be located in）",
+    "lv": 3,
+    "at": "q44",
+    "t": [
+     [
+      "zhikao",
+      "ZK0033",
+      "108 指考第 3 題",
+      "d",
+      "located"
+     ]
+    ]
+   },
+   {
+    "w": "variety",
+    "kk": "vəˈraɪəti",
+    "pos": "n.",
+    "zh": "種類（a great variety of 各式各樣的）",
+    "lv": 3,
+    "at": "q45",
+    "t": [
+     [
+      "gsat",
+      "V0453",
+      "111 學測第 3 題",
+      "d",
+      "variety"
+     ],
+     [
+      "gsat",
+      "V0045",
+      "86 推薦甄選第 5 題",
+      "a",
+      "variety"
+     ]
+    ]
+   }
+  ],
   "vocab": [
    {
     "w": "situated",
@@ -3392,14 +9698,6 @@
     "kk": "kəmˈpraɪz",
     "pos": "v.",
     "zh": "由……組成（be comprised of）",
-    "lv": 5,
-    "at": "p1"
-   },
-   {
-    "w": "destination",
-    "kk": "ˌdɛstəˈneɪʃən",
-    "pos": "n.",
-    "zh": "旅遊地點、目的地",
     "lv": 5,
     "at": "p1"
    },
@@ -3609,6 +9907,186 @@
     "k": "topic"
    }
   ],
+  "key": [
+   {
+    "w": "recognize",
+    "kk": "ˈrɛkəgˌnaɪz",
+    "pos": "v.",
+    "zh": "認得、認出",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0411",
+      "108 學測第 6 題",
+      "d",
+      "recognized"
+     ],
+     [
+      "gsat",
+      "V0220",
+      "95 學測第 10 題",
+      "a",
+      "recognize"
+     ],
+     [
+      "zhikao",
+      "ZK0286",
+      "85 聯考第 3 題",
+      "d",
+      "recognize"
+     ]
+    ]
+   },
+   {
+    "w": "issue",
+    "kk": "ˈɪʃu",
+    "pos": "v.",
+    "zh": "發給、配發",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0140",
+      "99 指考第 8 題",
+      "a",
+      "issues"
+     ],
+     [
+      "zhikao",
+      "ZK0285",
+      "85 聯考第 2 題",
+      "d",
+      "issue"
+     ],
+     [
+      "gsat",
+      "V0009",
+      "83 推薦甄選第 9 題",
+      "d",
+      "issue"
+     ]
+    ]
+   },
+   {
+    "w": "manufacturer",
+    "kk": "ˌmænjəˈfækʧɚɚ",
+    "pos": "n.",
+    "zh": "製造商",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0423",
+      "109 學測第 3 題",
+      "a",
+      "manufacturer"
+     ]
+    ]
+   },
+   {
+    "w": "seize",
+    "kk": "siz",
+    "pos": "v.",
+    "zh": "抓住（seize the opportunity 抓住機會）",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0182",
+      "93 學測第 2 題",
+      "d",
+      "seize"
+     ]
+    ]
+   },
+   {
+    "w": "essential",
+    "kk": "ɪˈsɛnʃəl",
+    "pos": "adj.",
+    "zh": "必要的、不可或缺的",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0352",
+      "104 學測第 7 題",
+      "d",
+      "essential"
+     ],
+     [
+      "gsat",
+      "V0236",
+      "96 學測第 11 題",
+      "a",
+      "essential"
+     ]
+    ]
+   },
+   {
+    "w": "launch",
+    "kk": "lɔnʧ",
+    "pos": "v.",
+    "zh": "讓……打響名號（launch A as B 讓 A 成為 B）",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0243",
+      "97 學測第 3 題",
+      "d",
+      "launch"
+     ]
+    ]
+   },
+   {
+    "w": "purchase",
+    "kk": "ˈpɝʧəs",
+    "pos": "v.",
+    "zh": "購買、採購",
+    "lv": 5,
+    "at": "q37",
+    "t": [
+     [
+      "zhikao",
+      "ZK0209",
+      "92 指考第 5 題",
+      "d",
+      "purchase"
+     ],
+     [
+      "zhikao",
+      "ZK0310",
+      "83 聯考第 7 題",
+      "d",
+      "purchase"
+     ]
+    ]
+   },
+   {
+    "w": "budget",
+    "kk": "ˈbʌʤɪt",
+    "pos": "n.",
+    "zh": "預算",
+    "lv": 3,
+    "at": "q37",
+    "t": [
+     [
+      "gsat",
+      "V0231",
+      "96 學測第 6 題",
+      "a",
+      "budget"
+     ]
+    ]
+   }
+  ],
   "vocab": [
    {
     "w": "screwdriver",
@@ -3657,14 +10135,6 @@
     "zh": "多功能的",
     "lv": 0,
     "at": "p4"
-   },
-   {
-    "w": "purchase",
-    "kk": "ˈpɝʧəs",
-    "pos": "v.",
-    "zh": "購買、採購",
-    "lv": 5,
-    "at": "q37"
    }
   ]
  },
@@ -3747,6 +10217,496 @@
     "p": 5,
     "t": "For the people of Indonesia, tempeh is not just food but also has cultural value.",
     "k": "topic"
+   }
+  ],
+  "key": [
+   {
+    "w": "product",
+    "kk": "ˈprɑdəkt",
+    "pos": "n.",
+    "zh": "製品、產品（soy product 大豆製品）",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0199",
+      "94 學測第 4 題",
+      "a",
+      "products"
+     ],
+     [
+      "zhikao",
+      "ZK0273",
+      "87 聯考第 10 題",
+      "d",
+      "products"
+     ],
+     [
+      "zhikao",
+      "ZK0333",
+      "81 聯考第 10 題",
+      "d",
+      "product"
+     ]
+    ]
+   },
+   {
+    "w": "stable",
+    "kk": "ˈsteɪbəl",
+    "pos": "adj.",
+    "zh": "穩定的",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0064",
+      "105 指考第 4 題",
+      "d",
+      "stably"
+     ]
+    ]
+   },
+   {
+    "w": "consumption",
+    "kk": "kənˈsʌmpʃən",
+    "pos": "n.",
+    "zh": "食用",
+    "lv": 5,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0495",
+      "115 學測第 5 題",
+      "a",
+      "consumption"
+     ],
+     [
+      "gsat",
+      "V0093",
+      "89 學測第 3 題",
+      "d",
+      "consumption"
+     ]
+    ]
+   },
+   {
+    "w": "variation",
+    "kk": "ˌvɛriˈeɪʃən",
+    "pos": "n.",
+    "zh": "變化、差異",
+    "lv": 5,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0176",
+      "95 指考第 4 題",
+      "a",
+      "variation"
+     ]
+    ]
+   },
+   {
+    "w": "texture",
+    "kk": "ˈtɛksʧɚ",
+    "pos": "n.",
+    "zh": "口感、質地",
+    "lv": 5,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0262",
+      "98 學測第 7 題",
+      "d",
+      "texture"
+     ],
+     [
+      "gsat",
+      "V0115",
+      "90 學測第 10 題",
+      "a",
+      "texture"
+     ]
+    ]
+   },
+   {
+    "w": "density",
+    "kk": "ˈdɛnsəti",
+    "pos": "n.",
+    "zh": "密度（bone density 骨質密度）",
+    "lv": 5,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0474",
+      "113 學測第 4 題",
+      "d",
+      "density"
+     ]
+    ]
+   },
+   {
+    "w": "promote",
+    "kk": "prəˈmoʊt",
+    "pos": "v.",
+    "zh": "促進",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0356",
+      "104 學測第 11 題",
+      "a",
+      "promote"
+     ],
+     [
+      "zhikao",
+      "ZK0141",
+      "99 指考第 9 題",
+      "d",
+      "promoted"
+     ],
+     [
+      "zhikao",
+      "ZK0152",
+      "98 指考第 10 題",
+      "d",
+      "promoted"
+     ],
+     [
+      "gsat",
+      "V0244",
+      "97 學測第 4 題",
+      "d",
+      "promote"
+     ],
+     [
+      "zhikao",
+      "ZK0207",
+      "92 指考第 3 題",
+      "d",
+      "promoted"
+     ]
+    ]
+   },
+   {
+    "w": "process",
+    "kk": "ˈprɑsɛs",
+    "pos": "n.",
+    "zh": "過程",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0293",
+      "100 學測第 8 題",
+      "a",
+      "process"
+     ],
+     [
+      "zhikao",
+      "ZK0164",
+      "96 指考第 2 題",
+      "d",
+      "process"
+     ],
+     [
+      "gsat",
+      "V0012",
+      "84 推薦甄選第 2 題",
+      "d",
+      "process"
+     ],
+     [
+      "zhikao",
+      "ZK0324",
+      "81 聯考第 1 題",
+      "d",
+      "process"
+     ]
+    ]
+   },
+   {
+    "w": "substitute",
+    "kk": "ˈsʌbstəˌtut",
+    "pos": "n.",
+    "zh": "替代品",
+    "lv": 5,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0232",
+      "96 學測第 7 題",
+      "d",
+      "substituting"
+     ],
+     [
+      "zhikao",
+      "ZK0185",
+      "94 指考第 3 題",
+      "a",
+      "substitute"
+     ],
+     [
+      "gsat",
+      "V0114",
+      "90 學測第 9 題",
+      "d",
+      "substituted"
+     ],
+     [
+      "zhikao",
+      "ZK0236",
+      "90 聯考第 12 題",
+      "d",
+      "substitute"
+     ]
+    ]
+   },
+   {
+    "w": "adopt",
+    "kk": "əˈdɑpt",
+    "pos": "v.",
+    "zh": "接受、採用",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0243",
+      "97 學測第 3 題",
+      "d",
+      "adopt"
+     ],
+     [
+      "gsat",
+      "V0079",
+      "88 推薦甄選第 4 題",
+      "d",
+      "adopt"
+     ]
+    ]
+   },
+   {
+    "w": "preparation",
+    "kk": "ˌprɛpəˈreɪʃən",
+    "pos": "n.",
+    "zh": "料理方式、烹調",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0322",
+      "102 學測第 7 題",
+      "a",
+      "preparation"
+     ]
+    ]
+   },
+   {
+    "w": "fabric",
+    "kk": "ˈfæbrɪk",
+    "pos": "n.",
+    "zh": "布料",
+    "lv": 5,
+    "at": "p5",
+    "t": [
+     [
+      "zhikao",
+      "ZK0123",
+      "100 指考第 1 題",
+      "a",
+      "fabric"
+     ]
+    ]
+   },
+   {
+    "w": "recognize",
+    "kk": "ˈrɛkəgˌnaɪz",
+    "pos": "v.",
+    "zh": "認可、列入（be recognized as）",
+    "lv": 3,
+    "at": "p5",
+    "t": [
+     [
+      "gsat",
+      "V0411",
+      "108 學測第 6 題",
+      "d",
+      "recognized"
+     ],
+     [
+      "gsat",
+      "V0220",
+      "95 學測第 10 題",
+      "a",
+      "recognize"
+     ],
+     [
+      "zhikao",
+      "ZK0286",
+      "85 聯考第 3 題",
+      "d",
+      "recognize"
+     ]
+    ]
+   },
+   {
+    "w": "potential",
+    "kk": "pəˈtɛnʃəl",
+    "pos": "n.",
+    "zh": "潛力、可能性",
+    "lv": 4,
+    "at": "p5",
+    "t": [
+     [
+      "gsat",
+      "V0454",
+      "111 學測第 4 題",
+      "a",
+      "potentially"
+     ],
+     [
+      "gsat",
+      "V0282",
+      "99 學測第 12 題",
+      "d",
+      "potential"
+     ],
+     [
+      "zhikao",
+      "ZK0154",
+      "97 指考第 2 題",
+      "d",
+      "potentially"
+     ],
+     [
+      "gsat",
+      "V0227",
+      "96 學測第 2 題",
+      "a",
+      "potential"
+     ],
+     [
+      "zhikao",
+      "ZK0239",
+      "90 聯考第 15 題",
+      "d",
+      "potential"
+     ],
+     [
+      "zhikao",
+      "ZK0292",
+      "85 聯考第 9 題",
+      "d",
+      "potential"
+     ]
+    ]
+   },
+   {
+    "w": "benefit",
+    "kk": "ˈbɛnəfɪt",
+    "pos": "n.",
+    "zh": "好處",
+    "lv": 3,
+    "at": "q40",
+    "t": [
+     [
+      "gsat",
+      "V0419",
+      "108 學測第 14 題",
+      "d",
+      "benefit"
+     ],
+     [
+      "gsat",
+      "V0151",
+      "92 學測第 1 題",
+      "d",
+      "benefited"
+     ]
+    ]
+   },
+   {
+    "w": "aspect",
+    "kk": "ˈæspɛkt",
+    "pos": "n.",
+    "zh": "方面",
+    "lv": 4,
+    "at": "q41",
+    "t": [
+     [
+      "zhikao",
+      "ZK0332",
+      "81 聯考第 9 題",
+      "d",
+      "aspect"
+     ]
+    ]
+   },
+   {
+    "w": "nutrition",
+    "kk": "nuˈtrɪʃən",
+    "pos": "n.",
+    "zh": "營養",
+    "lv": 5,
+    "at": "q41",
+    "t": [
+     [
+      "zhikao",
+      "ZK0117",
+      "101 指考第 5 題",
+      "a",
+      "nutrition"
+     ],
+     [
+      "gsat",
+      "V0100",
+      "89 學測第 10 題",
+      "d",
+      "nutrition"
+     ]
+    ]
+   },
+   {
+    "w": "distribution",
+    "kk": "ˌdɪstrəˈbjuʃən",
+    "pos": "n.",
+    "zh": "分布",
+    "lv": 4,
+    "at": "q41",
+    "t": [
+     [
+      "gsat",
+      "V0358",
+      "104 學測第 13 題",
+      "d",
+      "distribution"
+     ],
+     [
+      "gsat",
+      "V0238",
+      "96 學測第 13 題",
+      "d",
+      "distributions"
+     ],
+     [
+      "zhikao",
+      "ZK0229",
+      "90 聯考第 5 題",
+      "d",
+      "distributions"
+     ]
+    ]
    }
   ],
   "vocab": [
@@ -3872,30 +10832,6 @@
     "at": "p2"
    },
    {
-    "w": "consumption",
-    "kk": "kənˈsʌmpʃən",
-    "pos": "n.",
-    "zh": "食用",
-    "lv": 5,
-    "at": "p2"
-   },
-   {
-    "w": "variation",
-    "kk": "ˌvɛriˈeɪʃən",
-    "pos": "n.",
-    "zh": "變化、差異",
-    "lv": 5,
-    "at": "p2"
-   },
-   {
-    "w": "texture",
-    "kk": "ˈtɛksʧɚ",
-    "pos": "n.",
-    "zh": "口感、質地",
-    "lv": 5,
-    "at": "p2"
-   },
-   {
     "w": "cholesterol",
     "kk": "kəˈlɛstəˌrɔl",
     "pos": "n.",
@@ -3904,27 +10840,11 @@
     "at": "p3"
    },
    {
-    "w": "density",
-    "kk": "ˈdɛnsəti",
-    "pos": "n.",
-    "zh": "密度（bone density 骨質密度）",
-    "lv": 5,
-    "at": "p3"
-   },
-   {
     "w": "polyphenol",
     "kk": "ˌpɑliˈfiˌnɔl",
     "pos": "n.",
     "zh": "多酚",
     "lv": 0,
-    "at": "p3"
-   },
-   {
-    "w": "substitute",
-    "kk": "ˈsʌbstəˌtut",
-    "pos": "n.",
-    "zh": "替代品",
-    "lv": 5,
     "at": "p3"
    },
    {
@@ -3984,14 +10904,6 @@
     "at": "p4"
    },
    {
-    "w": "fabric",
-    "kk": "ˈfæbrɪk",
-    "pos": "n.",
-    "zh": "布料",
-    "lv": 5,
-    "at": "p5"
-   },
-   {
     "w": "batik",
     "kk": "bəˈtik",
     "pos": "n.",
@@ -4030,14 +10942,6 @@
     "zh": "美食的",
     "lv": 0,
     "at": "q39"
-   },
-   {
-    "w": "nutrition",
-    "kk": "nuˈtrɪʃən",
-    "pos": "n.",
-    "zh": "營養",
-    "lv": 5,
-    "at": "q41"
    },
    {
     "w": "cuisine",
@@ -4130,14 +11034,81 @@
     "k": "topic"
    }
   ],
-  "vocab": [
+  "key": [
+   {
+    "w": "crash",
+    "kk": "kræʃ",
+    "pos": "n.",
+    "zh": "撞擊、車禍（crash testing 撞擊測試）",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0499",
+      "115 學測第 9 題",
+      "d",
+      "crash"
+     ],
+     [
+      "gsat",
+      "V0141",
+      "91 學測補考第 6 題",
+      "d",
+      "crashed"
+     ]
+    ]
+   },
    {
     "w": "minimize",
     "kk": "ˈmɪnəˌmaɪz",
     "pos": "v.",
     "zh": "減到最少",
     "lv": 5,
-    "at": "p1"
+    "at": "p1",
+    "t": [
+     [
+      "zhikao",
+      "ZK0260",
+      "88 聯考第 7 題",
+      "a",
+      "minimize"
+     ]
+    ]
+   },
+   {
+    "w": "injury",
+    "kk": "ˈɪnʤəri",
+    "pos": "n.",
+    "zh": "傷害",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0365",
+      "105 學測第 5 題",
+      "a",
+      "injury"
+     ]
+    ]
+   },
+   {
+    "w": "property",
+    "kk": "ˈprɑpɚti",
+    "pos": "n.",
+    "zh": "財物、財產",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "zhikao",
+      "ZK0031",
+      "108 指考第 1 題",
+      "a",
+      "property"
+     ]
+    ]
    },
    {
     "w": "undertaking",
@@ -4146,8 +11117,427 @@
     "zh": "執行、進行",
     "lv": 5,
     "at": "p1",
-    "h": "undertake"
+    "h": "undertake",
+    "t": [
+     [
+      "zhikao",
+      "ZK0084",
+      "103 指考第 4 題",
+      "d",
+      "undertaking"
+     ],
+     [
+      "zhikao",
+      "ZK0196",
+      "93 指考第 4 題",
+      "d",
+      "undertake"
+     ],
+     [
+      "zhikao",
+      "ZK0220",
+      "91 指考第 6 題",
+      "d",
+      "undertake"
+     ]
+    ]
    },
+   {
+    "w": "mission",
+    "kk": "ˈmɪʃən",
+    "pos": "n.",
+    "zh": "任務",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0429",
+      "109 學測第 9 題",
+      "d",
+      "mission"
+     ],
+     [
+      "gsat",
+      "V0416",
+      "108 學測第 11 題",
+      "d",
+      "missions"
+     ],
+     [
+      "gsat",
+      "V0280",
+      "99 學測第 10 題",
+      "d",
+      "missions"
+     ],
+     [
+      "gsat",
+      "V0262",
+      "98 學測第 7 題",
+      "d",
+      "mission"
+     ]
+    ]
+   },
+   {
+    "w": "multiple",
+    "kk": "ˈmʌltəpəl",
+    "pos": "adj.",
+    "zh": "多種的、許多的",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0487",
+      "114 學測第 7 題",
+      "d",
+      "multiple"
+     ]
+    ]
+   },
+   {
+    "w": "information",
+    "kk": "ˌɪnfɚˈmeɪʃən",
+    "pos": "n.",
+    "zh": "資訊",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0254",
+      "88 聯考第 1 題",
+      "d",
+      "information"
+     ]
+    ]
+   },
+   {
+    "w": "guidance",
+    "kk": "ˈgaɪdəns",
+    "pos": "n.",
+    "zh": "指引",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0231",
+      "96 學測第 6 題",
+      "d",
+      "guidance"
+     ]
+    ]
+   },
+   {
+    "w": "impact",
+    "kk": "ˈɪmpækt",
+    "pos": "n.",
+    "zh": "撞擊、衝擊",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0497",
+      "115 學測第 7 題",
+      "d",
+      "impact"
+     ],
+     [
+      "gsat",
+      "V0031",
+      "85 推薦甄選第 11 題",
+      "a",
+      "impact"
+     ]
+    ]
+   },
+   {
+    "w": "accelerate",
+    "kk": "ækˈsɛləˌreɪt",
+    "pos": "v.",
+    "zh": "加速、使加速前進",
+    "lv": 5,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0468",
+      "112 學測第 8 題",
+      "d",
+      "accelerated"
+     ]
+    ]
+   },
+   {
+    "w": "solid",
+    "kk": "ˈsɑləd",
+    "pos": "adj.",
+    "zh": "堅固的",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0425",
+      "109 學測第 5 題",
+      "d",
+      "solid"
+     ],
+     [
+      "gsat",
+      "V0376",
+      "106 學測第 1 題",
+      "d",
+      "solidly"
+     ]
+    ]
+   },
+   {
+    "w": "concrete",
+    "kk": "ˈkɑnkrit",
+    "pos": "n.",
+    "zh": "混凝土",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0326",
+      "102 學測第 11 題",
+      "d",
+      "concrete"
+     ]
+    ]
+   },
+   {
+    "w": "barrier",
+    "kk": "ˈbæriɚ",
+    "pos": "n.",
+    "zh": "障礙物、牆",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0283",
+      "99 學測第 13 題",
+      "d",
+      "barrier"
+     ]
+    ]
+   },
+   {
+    "w": "remain",
+    "kk": "rɪˈmeɪn",
+    "pos": "v.",
+    "zh": "仍然、保持（remain the same 維持不變）",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0123",
+      "91 學測第 3 題",
+      "d",
+      "remain"
+     ],
+     [
+      "zhikao",
+      "ZK0258",
+      "88 聯考第 5 題",
+      "d",
+      "remained"
+     ],
+     [
+      "zhikao",
+      "ZK0293",
+      "85 聯考第 10 題",
+      "d",
+      "remains"
+     ],
+     [
+      "zhikao",
+      "ZK0320",
+      "82 聯考第 7 題",
+      "a",
+      "remained"
+     ]
+    ]
+   },
+   {
+    "w": "absorb",
+    "kk": "əbˈzɔrb",
+    "pos": "v.",
+    "zh": "承受、吸收",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0055",
+      "106 指考第 5 題",
+      "d",
+      "absorbs"
+     ]
+    ]
+   },
+   {
+    "w": "significant",
+    "kk": "sɪgˈnɪfɪkənt",
+    "pos": "adj.",
+    "zh": "足夠的、相當大的",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0348",
+      "104 學測第 3 題",
+      "d",
+      "significant"
+     ],
+     [
+      "zhikao",
+      "ZK0142",
+      "99 指考第 10 題",
+      "d",
+      "significantly"
+     ]
+    ]
+   },
+   {
+    "w": "zone",
+    "kk": "zoʊn",
+    "pos": "n.",
+    "zh": "區域（crumple zone 潰縮區）",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0444",
+      "110 學測第 9 題",
+      "d",
+      "zones"
+     ]
+    ]
+   },
+   {
+    "w": "dynamic",
+    "kk": "daɪˈnæmɪk",
+    "pos": "adj.",
+    "zh": "動態的",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0110",
+      "102 指考第 8 題",
+      "d",
+      "dynamic"
+     ]
+    ]
+   },
+   {
+    "w": "performance",
+    "kk": "pɚˈfɔrməns",
+    "pos": "n.",
+    "zh": "性能、表現",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0342",
+      "98 指考參考試卷第 10 題",
+      "d",
+      "performance"
+     ],
+     [
+      "gsat",
+      "V0004",
+      "83 推薦甄選第 4 題",
+      "d",
+      "performance"
+     ]
+    ]
+   },
+   {
+    "w": "investigation",
+    "kk": "ɪnˌvɛstəˈgeɪʃən",
+    "pos": "n.",
+    "zh": "調查",
+    "lv": 4,
+    "at": "q43",
+    "t": [
+     [
+      "zhikao",
+      "ZK0146",
+      "98 指考第 4 題",
+      "a",
+      "investigation"
+     ]
+    ]
+   },
+   {
+    "w": "potential",
+    "kk": "pəˈtɛnʃəl",
+    "pos": "adj.",
+    "zh": "潛在的、可能發生的",
+    "lv": 4,
+    "at": "q45",
+    "t": [
+     [
+      "gsat",
+      "V0454",
+      "111 學測第 4 題",
+      "a",
+      "potentially"
+     ],
+     [
+      "gsat",
+      "V0282",
+      "99 學測第 12 題",
+      "d",
+      "potential"
+     ],
+     [
+      "zhikao",
+      "ZK0154",
+      "97 指考第 2 題",
+      "d",
+      "potentially"
+     ],
+     [
+      "gsat",
+      "V0227",
+      "96 學測第 2 題",
+      "a",
+      "potential"
+     ],
+     [
+      "zhikao",
+      "ZK0239",
+      "90 聯考第 15 題",
+      "d",
+      "potential"
+     ],
+     [
+      "zhikao",
+      "ZK0292",
+      "85 聯考第 9 題",
+      "d",
+      "potential"
+     ]
+    ]
+   }
+  ],
+  "vocab": [
    {
     "w": "nonprofit",
     "kk": "nɑnˈprɑfət",
@@ -4178,14 +11568,6 @@
     "pos": "n.",
     "zh": "翻車",
     "lv": 0,
-    "at": "p2"
-   },
-   {
-    "w": "accelerate",
-    "kk": "ækˈsɛləˌreɪt",
-    "pos": "v.",
-    "zh": "加速、使加速前進",
-    "lv": 5,
     "at": "p2"
    },
    {
@@ -4347,6 +11729,318 @@
     "k": "topic"
    }
   ],
+  "key": [
+   {
+    "w": "remark",
+    "kk": "rɪˈmɑrk",
+    "pos": "v.",
+    "zh": "說、評論",
+    "lv": 4,
+    "at": "p1",
+    "t": [
+     [
+      "zhikao",
+      "ZK0140",
+      "99 指考第 8 題",
+      "d",
+      "remarks"
+     ]
+    ]
+   },
+   {
+    "w": "wander",
+    "kk": "ˈwɑndɚ",
+    "pos": "v.",
+    "zh": "四處遊走、遷徙",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0496",
+      "115 學測第 6 題",
+      "d",
+      "wanders"
+     ],
+     [
+      "gsat",
+      "V0331",
+      "103 學測第 1 題",
+      "a",
+      "wandered"
+     ],
+     [
+      "gsat",
+      "V0022",
+      "85 推薦甄選第 2 題",
+      "d",
+      "wandering"
+     ]
+    ]
+   },
+   {
+    "w": "herd",
+    "kk": "hɝd",
+    "pos": "n.",
+    "zh": "牲畜、畜群",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0324",
+      "102 學測第 9 題",
+      "d",
+      "herd"
+     ]
+    ]
+   },
+   {
+    "w": "resist",
+    "kk": "rɪˈzɪst",
+    "pos": "v.",
+    "zh": "抗拒、不理會",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0043",
+      "107 指考第 3 題",
+      "d",
+      "resisted"
+     ],
+     [
+      "gsat",
+      "V0276",
+      "99 學測第 6 題",
+      "a",
+      "resist"
+     ],
+     [
+      "gsat",
+      "V0204",
+      "94 學測第 9 題",
+      "a",
+      "resist"
+     ],
+     [
+      "gsat",
+      "V0123",
+      "91 學測第 3 題",
+      "d",
+      "resist"
+     ],
+     [
+      "zhikao",
+      "ZK0310",
+      "83 聯考第 7 題",
+      "a",
+      "resist"
+     ]
+    ]
+   },
+   {
+    "w": "urging",
+    "kk": "ˈɝʤɪŋ",
+    "pos": "n.",
+    "zh": "勸說、催促",
+    "lv": 4,
+    "at": "p2",
+    "h": "urge",
+    "t": [
+     [
+      "gsat",
+      "V0383",
+      "106 學測第 8 題",
+      "a",
+      "urged"
+     ]
+    ]
+   },
+   {
+    "w": "adopt",
+    "kk": "əˈdɑpt",
+    "pos": "v.",
+    "zh": "採用、改用",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0243",
+      "97 學測第 3 題",
+      "d",
+      "adopt"
+     ],
+     [
+      "gsat",
+      "V0079",
+      "88 推薦甄選第 4 題",
+      "d",
+      "adopt"
+     ]
+    ]
+   },
+   {
+    "w": "retain",
+    "kk": "rɪˈteɪn",
+    "pos": "v.",
+    "zh": "保留",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0156",
+      "97 指考第 4 題",
+      "d",
+      "retain"
+     ],
+     [
+      "zhikao",
+      "ZK0320",
+      "82 聯考第 7 題",
+      "d",
+      "retained"
+     ]
+    ]
+   },
+   {
+    "w": "fabric",
+    "kk": "ˈfæbrɪk",
+    "pos": "n.",
+    "zh": "布",
+    "lv": 5,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0123",
+      "100 指考第 1 題",
+      "a",
+      "fabric"
+     ]
+    ]
+   },
+   {
+    "w": "replace",
+    "kk": "rɪˈpleɪs",
+    "pos": "v.",
+    "zh": "取代",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0431",
+      "109 學測第 11 題",
+      "d",
+      "replaced"
+     ],
+     [
+      "gsat",
+      "V0317",
+      "102 學測第 2 題",
+      "a",
+      "replaced"
+     ],
+     [
+      "zhikao",
+      "ZK0339",
+      "98 指考參考試卷第 7 題",
+      "d",
+      "replaced"
+     ],
+     [
+      "gsat",
+      "V0206",
+      "94 學測第 11 題",
+      "a",
+      "replace"
+     ]
+    ]
+   },
+   {
+    "w": "represent",
+    "kk": "ˌrɛprəˈzɛnt",
+    "pos": "v.",
+    "zh": "呈現、代表",
+    "lv": 3,
+    "at": "q35",
+    "t": [
+     [
+      "zhikao",
+      "ZK0213",
+      "92 指考第 9 題",
+      "a",
+      "representing"
+     ],
+     [
+      "gsat",
+      "V0057",
+      "86 推薦甄選第 17 題",
+      "a",
+      "represents"
+     ]
+    ]
+   },
+   {
+    "w": "quote",
+    "kk": "kwoʊt",
+    "pos": "v.",
+    "zh": "引用、引述",
+    "lv": 3,
+    "at": "q38",
+    "t": [
+     [
+      "zhikao",
+      "ZK0016",
+      "109 指考補考第 6 題",
+      "d",
+      "quote"
+     ],
+     [
+      "gsat",
+      "V0354",
+      "104 學測第 9 題",
+      "d",
+      "quotes"
+     ],
+     [
+      "gsat",
+      "V0182",
+      "93 學測第 2 題",
+      "d",
+      "quote"
+     ]
+    ]
+   },
+   {
+    "w": "comment",
+    "kk": "ˈkɑmɛnt",
+    "pos": "n.",
+    "zh": "評論、說法",
+    "lv": 4,
+    "at": "q38",
+    "t": [
+     [
+      "gsat",
+      "V0403",
+      "107 學測第 13 題",
+      "d",
+      "comment"
+     ],
+     [
+      "gsat",
+      "V0319",
+      "102 學測第 4 題",
+      "a",
+      "comment"
+     ]
+    ]
+   }
+  ],
   "vocab": [
    {
     "w": "savannah",
@@ -4417,14 +12111,6 @@
     "pos": "n.",
     "zh": "束卡（馬賽人裹在身上的布）",
     "lv": 0,
-    "at": "p3"
-   },
-   {
-    "w": "fabric",
-    "kk": "ˈfæbrɪk",
-    "pos": "n.",
-    "zh": "布",
-    "lv": 5,
     "at": "p3"
    },
    {
@@ -4611,6 +12297,582 @@
     "p": 4,
     "t": "New products continue to expand the market.",
     "k": "topic"
+   }
+  ],
+  "key": [
+   {
+    "w": "mostly",
+    "kk": "ˈmoʊstli",
+    "pos": "adv.",
+    "zh": "主要",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0153",
+      "92 學測第 3 題",
+      "d",
+      "mostly"
+     ],
+     [
+      "gsat",
+      "V0174",
+      "92 學測補考第 9 題",
+      "d",
+      "mostly"
+     ]
+    ]
+   },
+   {
+    "w": "injury",
+    "kk": "ˈɪnʤəri",
+    "pos": "n.",
+    "zh": "傷害",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0365",
+      "105 學測第 5 題",
+      "a",
+      "injury"
+     ]
+    ]
+   },
+   {
+    "w": "construction",
+    "kk": "kənˈstrʌkʃən",
+    "pos": "n.",
+    "zh": "建築、營造（construction workers 建築工人）",
+    "lv": 4,
+    "at": "p1",
+    "t": [
+     [
+      "zhikao",
+      "ZK0117",
+      "101 指考第 5 題",
+      "d",
+      "construction"
+     ],
+     [
+      "gsat",
+      "V0238",
+      "96 學測第 13 題",
+      "d",
+      "constructions"
+     ],
+     [
+      "zhikao",
+      "ZK0215",
+      "91 指考第 1 題",
+      "d",
+      "construction"
+     ],
+     [
+      "zhikao",
+      "ZK0298",
+      "84 聯考第 5 題",
+      "d",
+      "construction"
+     ]
+    ]
+   },
+   {
+    "w": "invent",
+    "kk": "ɪnˈvɛnt",
+    "pos": "v.",
+    "zh": "發明",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0266",
+      "87 聯考第 3 題",
+      "d",
+      "inventing"
+     ],
+     [
+      "zhikao",
+      "ZK0269",
+      "87 聯考第 6 題",
+      "d",
+      "invent"
+     ]
+    ]
+   },
+   {
+    "w": "witness",
+    "kk": "ˈwɪtnəs",
+    "pos": "v.",
+    "zh": "親眼看到",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0284",
+      "99 學測第 14 題",
+      "a",
+      "witness"
+     ],
+     [
+      "zhikao",
+      "ZK0299",
+      "84 聯考第 6 題",
+      "d",
+      "witness"
+     ]
+    ]
+   },
+   {
+    "w": "steamed",
+    "kk": "stimd",
+    "pos": "adj.",
+    "zh": "蒸過的",
+    "lv": 3,
+    "at": "p2",
+    "h": "steam",
+    "t": [
+     [
+      "zhikao",
+      "ZK0011",
+      "109 指考補考第 1 題",
+      "a",
+      "steaming"
+     ]
+    ]
+   },
+   {
+    "w": "impact",
+    "kk": "ˈɪmpækt",
+    "pos": "n.",
+    "zh": "撞擊",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0497",
+      "115 學測第 7 題",
+      "d",
+      "impact"
+     ],
+     [
+      "gsat",
+      "V0031",
+      "85 推薦甄選第 11 題",
+      "a",
+      "impact"
+     ]
+    ]
+   },
+   {
+    "w": "considerably",
+    "kk": "kənˈsɪdərəbli",
+    "pos": "adv.",
+    "zh": "大幅地、相當地",
+    "lv": 3,
+    "at": "p3",
+    "h": "considerable",
+    "t": [
+     [
+      "gsat",
+      "V0413",
+      "108 學測第 8 題",
+      "d",
+      "considerably"
+     ],
+     [
+      "gsat",
+      "V0330",
+      "102 學測第 15 題",
+      "d",
+      "considerably"
+     ],
+     [
+      "gsat",
+      "V0311",
+      "101 學測第 11 題",
+      "a",
+      "considerably"
+     ],
+     [
+      "gsat",
+      "V0110",
+      "90 學測第 5 題",
+      "a",
+      "considerably"
+     ]
+    ]
+   },
+   {
+    "w": "eventually",
+    "kk": "ɪˈvɛnʧuəli",
+    "pos": "adv.",
+    "zh": "最後",
+    "lv": 4,
+    "at": "p3",
+    "h": "eventual",
+    "t": [
+     [
+      "gsat",
+      "V0458",
+      "111 學測第 8 題",
+      "a",
+      "eventual"
+     ],
+     [
+      "zhikao",
+      "ZK0006",
+      "110 指考第 6 題",
+      "d",
+      "eventual"
+     ],
+     [
+      "zhikao",
+      "ZK0239",
+      "90 聯考第 15 題",
+      "d",
+      "eventual"
+     ],
+     [
+      "gsat",
+      "V0026",
+      "85 推薦甄選第 6 題",
+      "d",
+      "eventually"
+     ]
+    ]
+   },
+   {
+    "w": "various",
+    "kk": "ˈvɛriəs",
+    "pos": "adj.",
+    "zh": "各種的",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0277",
+      "99 學測第 7 題",
+      "d",
+      "various"
+     ],
+     [
+      "gsat",
+      "V0239",
+      "96 學測第 14 題",
+      "d",
+      "variously"
+     ],
+     [
+      "zhikao",
+      "ZK0190",
+      "94 指考第 8 題",
+      "d",
+      "various"
+     ],
+     [
+      "gsat",
+      "V0126",
+      "91 學測第 6 題",
+      "d",
+      "variously"
+     ],
+     [
+      "gsat",
+      "V0142",
+      "91 學測補考第 7 題",
+      "d",
+      "various"
+     ],
+     [
+      "gsat",
+      "V0112",
+      "90 學測第 7 題",
+      "d",
+      "various"
+     ]
+    ]
+   },
+   {
+    "w": "attach",
+    "kk": "əˈtæʧ",
+    "pos": "v.",
+    "zh": "裝上、加裝",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0315",
+      "101 學測第 15 題",
+      "d",
+      "attachment"
+     ],
+     [
+      "gsat",
+      "V0181",
+      "93 學測第 1 題",
+      "d",
+      "attach"
+     ],
+     [
+      "gsat",
+      "V0025",
+      "85 推薦甄選第 5 題",
+      "d",
+      "attached"
+     ],
+     [
+      "zhikao",
+      "ZK0317",
+      "82 聯考第 4 題",
+      "d",
+      "attached"
+     ]
+    ]
+   },
+   {
+    "w": "code",
+    "kk": "koʊd",
+    "pos": "n.",
+    "zh": "標示（color code 顏色標示）",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0382",
+      "106 學測第 7 題",
+      "d",
+      "code"
+     ],
+     [
+      "zhikao",
+      "ZK0061",
+      "105 指考第 1 題",
+      "d",
+      "codes"
+     ]
+    ]
+   },
+   {
+    "w": "recognize",
+    "kk": "ˈrɛkəgˌnaɪz",
+    "pos": "v.",
+    "zh": "辨識、認出",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0411",
+      "108 學測第 6 題",
+      "d",
+      "recognized"
+     ],
+     [
+      "gsat",
+      "V0220",
+      "95 學測第 10 題",
+      "a",
+      "recognize"
+     ],
+     [
+      "zhikao",
+      "ZK0286",
+      "85 聯考第 3 題",
+      "d",
+      "recognize"
+     ]
+    ]
+   },
+   {
+    "w": "product",
+    "kk": "ˈprɑdəkt",
+    "pos": "n.",
+    "zh": "產品",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0199",
+      "94 學測第 4 題",
+      "a",
+      "products"
+     ],
+     [
+      "zhikao",
+      "ZK0273",
+      "87 聯考第 10 題",
+      "d",
+      "products"
+     ],
+     [
+      "zhikao",
+      "ZK0333",
+      "81 聯考第 10 題",
+      "d",
+      "product"
+     ]
+    ]
+   },
+   {
+    "w": "expand",
+    "kk": "ɪkˈspænd",
+    "pos": "v.",
+    "zh": "擴大",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0233",
+      "96 學測第 8 題",
+      "a",
+      "expanded"
+     ],
+     [
+      "gsat",
+      "V0181",
+      "93 學測第 1 題",
+      "d",
+      "expand"
+     ],
+     [
+      "gsat",
+      "V0078",
+      "88 推薦甄選第 3 題",
+      "d",
+      "expanding"
+     ],
+     [
+      "zhikao",
+      "ZK0297",
+      "84 聯考第 4 題",
+      "d",
+      "expanded"
+     ]
+    ]
+   },
+   {
+    "w": "aspect",
+    "kk": "ˈæspɛkt",
+    "pos": "n.",
+    "zh": "方面",
+    "lv": 4,
+    "at": "q39",
+    "t": [
+     [
+      "zhikao",
+      "ZK0332",
+      "81 聯考第 9 題",
+      "d",
+      "aspect"
+     ]
+    ]
+   },
+   {
+    "w": "limitation",
+    "kk": "ˌlɪmɪˈteɪʃən",
+    "pos": "n.",
+    "zh": "限制、缺點",
+    "lv": 4,
+    "at": "q39",
+    "t": [
+     [
+      "gsat",
+      "V0402",
+      "107 學測第 12 題",
+      "d",
+      "limitations"
+     ],
+     [
+      "gsat",
+      "V0223",
+      "95 學測第 13 題",
+      "d",
+      "limitation"
+     ],
+     [
+      "gsat",
+      "V0128",
+      "91 學測第 8 題",
+      "a",
+      "limitation"
+     ]
+    ]
+   },
+   {
+    "w": "inspiration",
+    "kk": "ˌɪnspəˈreɪʃən",
+    "pos": "n.",
+    "zh": "靈感",
+    "lv": 4,
+    "at": "q41",
+    "t": [
+     [
+      "gsat",
+      "V0493",
+      "115 學測第 3 題",
+      "d",
+      "inspiration"
+     ]
+    ]
+   },
+   {
+    "w": "equipment",
+    "kk": "ɪˈkwɪpmənt",
+    "pos": "n.",
+    "zh": "裝備、配備",
+    "lv": 4,
+    "at": "q41",
+    "t": [
+     [
+      "gsat",
+      "V0449",
+      "110 學測第 14 題",
+      "d",
+      "equipped"
+     ],
+     [
+      "zhikao",
+      "ZK0173",
+      "95 指考第 1 題",
+      "a",
+      "equips"
+     ]
+    ]
+   },
+   {
+    "w": "signal",
+    "kk": "ˈsɪgnəl",
+    "pos": "v.",
+    "zh": "表示、標示",
+    "lv": 3,
+    "at": "q41",
+    "t": [
+     [
+      "gsat",
+      "V0387",
+      "106 學測第 12 題",
+      "d",
+      "signal"
+     ],
+     [
+      "zhikao",
+      "ZK0207",
+      "92 指考第 3 題",
+      "d",
+      "signaled"
+     ]
+    ]
    }
   ],
   "vocab": [
@@ -4884,6 +13146,427 @@
     "k": "topic"
    }
   ],
+  "key": [
+   {
+    "w": "researcher",
+    "kk": "ˈrisɚʧɚ",
+    "pos": "n.",
+    "zh": "研究人員",
+    "lv": 4,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0423",
+      "109 學測第 3 題",
+      "d",
+      "researcher"
+     ]
+    ]
+   },
+   {
+    "w": "transparent",
+    "kk": "trænˈspɛrənt",
+    "pos": "adj.",
+    "zh": "透明的",
+    "lv": 5,
+    "at": "p1",
+    "t": [
+     [
+      "zhikao",
+      "ZK0015",
+      "109 指考補考第 5 題",
+      "a",
+      "transparent"
+     ]
+    ]
+   },
+   {
+    "w": "possess",
+    "kk": "pəˈzɛs",
+    "pos": "v.",
+    "zh": "擁有、具有",
+    "lv": 4,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0488",
+      "114 學測第 8 題",
+      "d",
+      "possessed"
+     ]
+    ]
+   },
+   {
+    "w": "amazing",
+    "kk": "əˈmeɪzɪŋ",
+    "pos": "adj.",
+    "zh": "驚人的、令人驚嘆的",
+    "lv": 3,
+    "at": "p1",
+    "h": "amaze",
+    "t": [
+     [
+      "gsat",
+      "V0422",
+      "109 學測第 2 題",
+      "a",
+      "amazed"
+     ],
+     [
+      "gsat",
+      "V0273",
+      "99 學測第 3 題",
+      "d",
+      "amazed"
+     ],
+     [
+      "gsat",
+      "V0240",
+      "96 學測第 15 題",
+      "a",
+      "amazed"
+     ],
+     [
+      "gsat",
+      "V0045",
+      "86 推薦甄選第 5 題",
+      "d",
+      "amazement"
+     ],
+     [
+      "gsat",
+      "V0016",
+      "84 推薦甄選第 6 題",
+      "d",
+      "amazingly"
+     ]
+    ]
+   },
+   {
+    "w": "associated",
+    "kk": "əˈsoʊsiˌeɪtɪd",
+    "pos": "adj.",
+    "zh": "和……有關的（associated with）",
+    "lv": 4,
+    "at": "p2",
+    "h": "associate",
+    "t": [
+     [
+      "gsat",
+      "V0449",
+      "110 學測第 14 題",
+      "d",
+      "associated"
+     ],
+     [
+      "gsat",
+      "V0408",
+      "108 學測第 3 題",
+      "d",
+      "associated"
+     ],
+     [
+      "gsat",
+      "V0367",
+      "105 學測第 7 題",
+      "d",
+      "associates"
+     ]
+    ]
+   },
+   {
+    "w": "mystery",
+    "kk": "ˈmɪstəri",
+    "pos": "n.",
+    "zh": "奧祕、謎",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0333",
+      "81 聯考第 10 題",
+      "d",
+      "mystery"
+     ]
+    ]
+   },
+   {
+    "w": "regenerate",
+    "kk": "rɪˈʤɛnəˌreɪt",
+    "pos": "v.",
+    "zh": "再生、重新長出",
+    "lv": 5,
+    "at": "p2",
+    "h": "generate",
+    "t": [
+     [
+      "zhikao",
+      "ZK0129",
+      "100 指考第 7 題",
+      "d",
+      "generated"
+     ]
+    ]
+   },
+   {
+    "w": "vision",
+    "kk": "ˈvɪʒən",
+    "pos": "n.",
+    "zh": "視力",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0301",
+      "101 學測第 1 題",
+      "d",
+      "vision"
+     ],
+     [
+      "zhikao",
+      "ZK0216",
+      "91 指考第 2 題",
+      "d",
+      "vision"
+     ]
+    ]
+   },
+   {
+    "w": "identical",
+    "kk": "aɪˈdɛntɪkəl",
+    "pos": "adj.",
+    "zh": "完全相同的、一模一樣的",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0457",
+      "111 學測第 7 題",
+      "d",
+      "identical"
+     ],
+     [
+      "zhikao",
+      "ZK0110",
+      "102 指考第 8 題",
+      "d",
+      "identical"
+     ],
+     [
+      "zhikao",
+      "ZK0097",
+      "93 補救考試第 7 題",
+      "d",
+      "identical"
+     ],
+     [
+      "zhikao",
+      "ZK0239",
+      "90 聯考第 15 題",
+      "a",
+      "identical"
+     ]
+    ]
+   },
+   {
+    "w": "process",
+    "kk": "ˈprɑsɛs",
+    "pos": "n.",
+    "zh": "過程",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0293",
+      "100 學測第 8 題",
+      "a",
+      "process"
+     ],
+     [
+      "zhikao",
+      "ZK0164",
+      "96 指考第 2 題",
+      "d",
+      "process"
+     ],
+     [
+      "gsat",
+      "V0012",
+      "84 推薦甄選第 2 題",
+      "d",
+      "process"
+     ],
+     [
+      "zhikao",
+      "ZK0324",
+      "81 聯考第 1 題",
+      "d",
+      "process"
+     ]
+    ]
+   },
+   {
+    "w": "messenger",
+    "kk": "ˈmɛsənʤɚ",
+    "pos": "n.",
+    "zh": "信使、傳遞訊息的物質（chemical messenger 化學信使）",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0053",
+      "106 指考第 3 題",
+      "d",
+      "messenger"
+     ],
+     [
+      "zhikao",
+      "ZK0155",
+      "97 指考第 3 題",
+      "d",
+      "messengers"
+     ]
+    ]
+   },
+   {
+    "w": "trigger",
+    "kk": "ˈtrɪgɚ",
+    "pos": "v.",
+    "zh": "啟動、引發",
+    "lv": 5,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0024",
+      "109 指考第 4 題",
+      "d",
+      "triggered"
+     ]
+    ]
+   },
+   {
+    "w": "concentration",
+    "kk": "ˌkɑnsənˈtreɪʃən",
+    "pos": "n.",
+    "zh": "濃度",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0335",
+      "98 指考參考試卷第 2 題",
+      "d",
+      "concentration"
+     ],
+     [
+      "gsat",
+      "V0097",
+      "89 學測第 7 題",
+      "d",
+      "concentration"
+     ],
+     [
+      "gsat",
+      "V0024",
+      "85 推薦甄選第 4 題",
+      "d",
+      "concentration"
+     ]
+    ]
+   },
+   {
+    "w": "code",
+    "kk": "koʊd",
+    "pos": "n.",
+    "zh": "密碼（genetic code 遺傳密碼）",
+    "lv": 4,
+    "at": "q43",
+    "t": [
+     [
+      "gsat",
+      "V0382",
+      "106 學測第 7 題",
+      "d",
+      "code"
+     ],
+     [
+      "zhikao",
+      "ZK0061",
+      "105 指考第 1 題",
+      "d",
+      "codes"
+     ]
+    ]
+   },
+   {
+    "w": "facilitate",
+    "kk": "fəˈsɪləˌteɪt",
+    "pos": "v.",
+    "zh": "促進、使容易",
+    "lv": 5,
+    "at": "q44",
+    "t": [
+     [
+      "zhikao",
+      "ZK0103",
+      "102 指考第 1 題",
+      "d",
+      "facilitate"
+     ],
+     [
+      "zhikao",
+      "ZK0253",
+      "89 聯考第 14 題",
+      "a",
+      "facilitate"
+     ]
+    ]
+   },
+   {
+    "w": "reassemble",
+    "kk": "ˌriəˈsɛmbəl",
+    "pos": "v.",
+    "zh": "重新組裝",
+    "lv": 4,
+    "at": "q45",
+    "h": "assemble",
+    "t": [
+     [
+      "zhikao",
+      "ZK0290",
+      "85 聯考第 7 題",
+      "a",
+      "assemble"
+     ]
+    ]
+   },
+   {
+    "w": "recycle",
+    "kk": "rɪˈsaɪkəl",
+    "pos": "v.",
+    "zh": "回收再利用",
+    "lv": 4,
+    "at": "q45",
+    "t": [
+     [
+      "gsat",
+      "V0198",
+      "94 學測第 3 題",
+      "a",
+      "recycles"
+     ]
+    ]
+   }
+  ],
   "vocab": [
    {
     "w": "zebrafish",
@@ -4902,29 +13585,12 @@
     "at": "p1"
    },
    {
-    "w": "transparent",
-    "kk": "trænˈspɛrənt",
-    "pos": "adj.",
-    "zh": "透明的",
-    "lv": 5,
-    "at": "p1"
-   },
-   {
     "w": "counterpart",
     "kk": "ˈkaʊntɚˌpɑrt",
     "pos": "n.",
     "zh": "對應的人或物",
     "lv": 6,
     "at": "p2"
-   },
-   {
-    "w": "regenerate",
-    "kk": "rɪˈʤɛnəˌreɪt",
-    "pos": "v.",
-    "zh": "再生、重新長出",
-    "lv": 5,
-    "at": "p2",
-    "h": "generate"
    },
    {
     "w": "spine",
@@ -4983,14 +13649,6 @@
     "at": "p4"
    },
    {
-    "w": "trigger",
-    "kk": "ˈtrɪgɚ",
-    "pos": "v.",
-    "zh": "啟動、引發",
-    "lv": 5,
-    "at": "p4"
-   },
-   {
     "w": "suppress",
     "kk": "səˈprɛs",
     "pos": "v.",
@@ -5029,14 +13687,6 @@
     "zh": "基因的、遺傳的",
     "lv": 5,
     "at": "q43"
-   },
-   {
-    "w": "facilitate",
-    "kk": "fəˈsɪləˌteɪt",
-    "pos": "v.",
-    "zh": "促進、使容易",
-    "lv": 5,
-    "at": "q44"
    },
    {
     "w": "stimulate",
@@ -5126,14 +13776,30 @@
     "k": "topic"
    }
   ],
-  "vocab": [
+  "key": [
    {
-    "w": "mainland",
-    "kk": "ˈmeɪnˌlænd",
+    "w": "isolation",
+    "kk": "ˌaɪsəˈleɪʃən",
     "pos": "n.",
-    "zh": "大陸",
-    "lv": 6,
-    "at": "p1"
+    "zh": "與世隔絕、孤立",
+    "lv": 4,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0370",
+      "105 學測第 10 題",
+      "d",
+      "isolation"
+     ],
+     [
+      "zhikao",
+      "ZK0210",
+      "92 指考第 6 題",
+      "d",
+      "isolation"
+     ]
+    ]
    },
    {
     "w": "profound",
@@ -5141,6 +13807,426 @@
     "pos": "adj.",
     "zh": "深遠的",
     "lv": 5,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0023",
+      "85 推薦甄選第 3 題",
+      "d",
+      "profound"
+     ]
+    ]
+   },
+   {
+    "w": "evolution",
+    "kk": "ˌɛvəˈluʃən",
+    "pos": "n.",
+    "zh": "演化",
+    "lv": 5,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0089",
+      "103 指考第 9 題",
+      "d",
+      "evolution"
+     ]
+    ]
+   },
+   {
+    "w": "tend",
+    "kk": "tɛnd",
+    "pos": "v.",
+    "zh": "往往（tend to）",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0345",
+      "103 學測第 15 題",
+      "a",
+      "tended"
+     ]
+    ]
+   },
+   {
+    "w": "shrink",
+    "kk": "ʃrɪŋk",
+    "pos": "v.",
+    "zh": "縮小、變小",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0170",
+      "92 學測補考第 5 題",
+      "d",
+      "shrink"
+     ]
+    ]
+   },
+   {
+    "w": "apt",
+    "kk": "æpt",
+    "pos": "adj.",
+    "zh": "容易……的、有……傾向的（be apt to）",
+    "lv": 5,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0473",
+      "113 學測第 3 題",
+      "d",
+      "apt"
+     ]
+    ]
+   },
+   {
+    "w": "enlarge",
+    "kk": "ɪnˈlɑrʤ",
+    "pos": "v.",
+    "zh": "變大",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0297",
+      "84 聯考第 4 題",
+      "a",
+      "enlarged"
+     ]
+    ]
+   },
+   {
+    "w": "exception",
+    "kk": "ɪkˈsɛpʃən",
+    "pos": "n.",
+    "zh": "例外",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0402",
+      "107 學測第 12 題",
+      "d",
+      "exceptions"
+     ],
+     [
+      "gsat",
+      "V0295",
+      "100 學測第 10 題",
+      "a",
+      "exceptions"
+     ],
+     [
+      "zhikao",
+      "ZK0278",
+      "86 聯考第 5 題",
+      "d",
+      "exception"
+     ]
+    ]
+   },
+   {
+    "w": "trend",
+    "kk": "trɛnd",
+    "pos": "n.",
+    "zh": "趨勢",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0482",
+      "114 學測第 2 題",
+      "d",
+      "trend"
+     ],
+     [
+      "gsat",
+      "V0268",
+      "98 學測第 13 題",
+      "d",
+      "trends"
+     ]
+    ]
+   },
+   {
+    "w": "regulate",
+    "kk": "ˈrɛgjəˌleɪt",
+    "pos": "v.",
+    "zh": "決定、控制",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0029",
+      "109 指考第 9 題",
+      "d",
+      "regulates"
+     ],
+     [
+      "zhikao",
+      "ZK0181",
+      "95 指考第 9 題",
+      "d",
+      "regulate"
+     ]
+    ]
+   },
+   {
+    "w": "competition",
+    "kk": "ˌkɑmpəˈtɪʃən",
+    "pos": "n.",
+    "zh": "競爭",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0027",
+      "85 推薦甄選第 7 題",
+      "d",
+      "competition"
+     ]
+    ]
+   },
+   {
+    "w": "advantage",
+    "kk": "ædˈvæntɪʤ",
+    "pos": "n.",
+    "zh": "優勢",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0477",
+      "113 學測第 7 題",
+      "d",
+      "advantage"
+     ],
+     [
+      "zhikao",
+      "ZK0216",
+      "91 指考第 2 題",
+      "d",
+      "advantage"
+     ]
+    ]
+   },
+   {
+    "w": "physical",
+    "kk": "ˈfɪzɪkəl",
+    "pos": "adj.",
+    "zh": "自然的（physical attributes 自然條件）",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0333",
+      "103 學測第 3 題",
+      "d",
+      "physically"
+     ],
+     [
+      "zhikao",
+      "ZK0166",
+      "96 指考第 4 題",
+      "d",
+      "physically"
+     ]
+    ]
+   },
+   {
+    "w": "ecological",
+    "kk": "ˌɛkəˈlɑʤɪkəl",
+    "pos": "adj.",
+    "zh": "生態的",
+    "lv": 5,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0059",
+      "106 指考第 9 題",
+      "a",
+      "ecological"
+     ]
+    ]
+   },
+   {
+    "w": "mere",
+    "kk": "mɪr",
+    "pos": "adj.",
+    "zh": "只有、短短的（a mere 6,000 years 短短 6,000 年）",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0381",
+      "106 學測第 6 題",
+      "d",
+      "merely"
+     ],
+     [
+      "gsat",
+      "V0253",
+      "97 學測第 13 題",
+      "d",
+      "merely"
+     ],
+     [
+      "zhikao",
+      "ZK0306",
+      "83 聯考第 3 題",
+      "d",
+      "merely"
+     ]
+    ]
+   },
+   {
+    "w": "isolated",
+    "kk": "ˈaɪsəˌleɪtɪd",
+    "pos": "adj.",
+    "zh": "隔絕的、孤立的",
+    "lv": 4,
+    "at": "p4",
+    "h": "isolate",
+    "t": [
+     [
+      "zhikao",
+      "ZK0247",
+      "89 聯考第 8 題",
+      "d",
+      "isolated"
+     ]
+    ]
+   },
+   {
+    "w": "shelter",
+    "kk": "ˈʃɛltɚ",
+    "pos": "n.",
+    "zh": "藏身處、庇護所",
+    "lv": 4,
+    "at": "q36",
+    "t": [
+     [
+      "zhikao",
+      "ZK0031",
+      "108 指考第 1 題",
+      "d",
+      "shelter"
+     ],
+     [
+      "zhikao",
+      "ZK0111",
+      "102 指考第 9 題",
+      "a",
+      "shelter"
+     ]
+    ]
+   },
+   {
+    "w": "competitive",
+    "kk": "kəmˈpɛtətɪv",
+    "pos": "adj.",
+    "zh": "有競爭力的",
+    "lv": 4,
+    "at": "q36",
+    "t": [
+     [
+      "gsat",
+      "V0297",
+      "100 學測第 12 題",
+      "d",
+      "competitive"
+     ],
+     [
+      "gsat",
+      "V0279",
+      "99 學測第 9 題",
+      "d",
+      "competitive"
+     ],
+     [
+      "gsat",
+      "V0159",
+      "92 學測第 9 題",
+      "a",
+      "competitive"
+     ]
+    ]
+   },
+   {
+    "w": "prediction",
+    "kk": "prɪˈdɪkʃən",
+    "pos": "n.",
+    "zh": "預測",
+    "lv": 4,
+    "at": "q38",
+    "t": [
+     [
+      "zhikao",
+      "ZK0214",
+      "92 指考第 10 題",
+      "d",
+      "prediction"
+     ]
+    ]
+   },
+   {
+    "w": "suggestion",
+    "kk": "səgˈʤɛsʧən",
+    "pos": "n.",
+    "zh": "建議",
+    "lv": 4,
+    "at": "q38",
+    "t": [
+     [
+      "zhikao",
+      "ZK0259",
+      "88 聯考第 6 題",
+      "d",
+      "suggestion"
+     ]
+    ]
+   },
+   {
+    "w": "illustration",
+    "kk": "ˌɪləˈstreɪʃən",
+    "pos": "n.",
+    "zh": "舉例說明、例子",
+    "lv": 4,
+    "at": "q38",
+    "t": [
+     [
+      "gsat",
+      "V0349",
+      "104 學測第 4 題",
+      "a",
+      "illustrations"
+     ]
+    ]
+   }
+  ],
+  "vocab": [
+   {
+    "w": "mainland",
+    "kk": "ˈmeɪnˌlænd",
+    "pos": "n.",
+    "zh": "大陸",
+    "lv": 6,
     "at": "p1"
    },
    {
@@ -5168,26 +14254,10 @@
     "at": "p2"
    },
    {
-    "w": "evolution",
-    "kk": "ˌɛvəˈluʃən",
-    "pos": "n.",
-    "zh": "演化",
-    "lv": 5,
-    "at": "p2"
-   },
-   {
     "w": "mammal",
     "kk": "ˈmæməl",
     "pos": "n.",
     "zh": "哺乳動物",
-    "lv": 5,
-    "at": "p2"
-   },
-   {
-    "w": "apt",
-    "kk": "æpt",
-    "pos": "adj.",
-    "zh": "容易……的、有……傾向的（be apt to）",
     "lv": 5,
     "at": "p2"
    },
@@ -5289,14 +14359,6 @@
     "at": "p4"
    },
    {
-    "w": "ecological",
-    "kk": "ˌɛkəˈlɑʤɪkəl",
-    "pos": "adj.",
-    "zh": "生態的",
-    "lv": 5,
-    "at": "p4"
-   },
-   {
     "w": "continental",
     "kk": "ˌkɑntəˈnɛntəl",
     "pos": "adj.",
@@ -5388,6 +14450,501 @@
     "k": "topic"
    }
   ],
+  "key": [
+   {
+    "w": "rebel",
+    "kk": "ˈrɛbəl",
+    "pos": "n.",
+    "zh": "反抗者、叛逆的人",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0328",
+      "102 學測第 13 題",
+      "d",
+      "rebel"
+     ],
+     [
+      "gsat",
+      "V0247",
+      "97 學測第 7 題",
+      "d",
+      "rebels"
+     ]
+    ]
+   },
+   {
+    "w": "inspire",
+    "kk": "ɪnˈspaɪr",
+    "pos": "v.",
+    "zh": "啟發",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0357",
+      "104 學測第 12 題",
+      "d",
+      "inspired"
+     ],
+     [
+      "gsat",
+      "V0303",
+      "101 學測第 3 題",
+      "d",
+      "inspire"
+     ],
+     [
+      "zhikao",
+      "ZK0207",
+      "92 指考第 3 題",
+      "a",
+      "inspired"
+     ],
+     [
+      "zhikao",
+      "ZK0222",
+      "91 指考第 8 題",
+      "d",
+      "inspired"
+     ],
+     [
+      "zhikao",
+      "ZK0266",
+      "87 聯考第 3 題",
+      "d",
+      "inspiring"
+     ]
+    ]
+   },
+   {
+    "w": "property",
+    "kk": "ˈprɑpɚti",
+    "pos": "n.",
+    "zh": "財產、地產",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "zhikao",
+      "ZK0031",
+      "108 指考第 1 題",
+      "a",
+      "property"
+     ]
+    ]
+   },
+   {
+    "w": "ownership",
+    "kk": "ˈoʊnɚˌʃɪp",
+    "pos": "n.",
+    "zh": "所有權",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0428",
+      "109 學測第 8 題",
+      "a",
+      "ownership"
+     ]
+    ]
+   },
+   {
+    "w": "consist",
+    "kk": "kənˈsɪst",
+    "pos": "v.",
+    "zh": "由……組成（consist of）",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0204",
+      "94 學測第 9 題",
+      "d",
+      "consist"
+     ]
+    ]
+   },
+   {
+    "w": "landmark",
+    "kk": "ˈlændˌmɑrk",
+    "pos": "n.",
+    "zh": "地標",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0409",
+      "108 學測第 4 題",
+      "d",
+      "landmarks"
+     ],
+     [
+      "gsat",
+      "V0185",
+      "93 學測第 5 題",
+      "a",
+      "landmark"
+     ]
+    ]
+   },
+   {
+    "w": "acquire",
+    "kk": "əˈkwaɪr",
+    "pos": "v.",
+    "zh": "取得、獲得",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0400",
+      "107 學測第 10 題",
+      "d",
+      "acquire"
+     ],
+     [
+      "gsat",
+      "V0220",
+      "95 學測第 10 題",
+      "d",
+      "acquire"
+     ]
+    ]
+   },
+   {
+    "w": "fortune",
+    "kk": "ˈfɔrʧən",
+    "pos": "n.",
+    "zh": "財富",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0294",
+      "100 學測第 9 題",
+      "d",
+      "fortune"
+     ],
+     [
+      "zhikao",
+      "ZK0127",
+      "100 指考第 5 題",
+      "d",
+      "fortunes"
+     ],
+     [
+      "gsat",
+      "V0226",
+      "96 學測第 1 題",
+      "a",
+      "fortune"
+     ]
+    ]
+   },
+   {
+    "w": "outcome",
+    "kk": "ˈaʊtˌkʌm",
+    "pos": "n.",
+    "zh": "結果",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0416",
+      "108 學測第 11 題",
+      "d",
+      "outcomes"
+     ],
+     [
+      "gsat",
+      "V0004",
+      "83 推薦甄選第 4 題",
+      "a",
+      "outcome"
+     ]
+    ]
+   },
+   {
+    "w": "modify",
+    "kk": "ˈmɑdəˌfaɪ",
+    "pos": "v.",
+    "zh": "修改",
+    "lv": 5,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0151",
+      "98 指考第 9 題",
+      "a",
+      "modified"
+     ]
+    ]
+   },
+   {
+    "w": "version",
+    "kk": "ˈvɝʒən",
+    "pos": "n.",
+    "zh": "版本",
+    "lv": 5,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0009",
+      "83 推薦甄選第 9 題",
+      "a",
+      "version"
+     ],
+     [
+      "zhikao",
+      "ZK0329",
+      "81 聯考第 6 題",
+      "d",
+      "version"
+     ]
+    ]
+   },
+   {
+    "w": "manufacturer",
+    "kk": "ˌmænjəˈfækʧɚɚ",
+    "pos": "n.",
+    "zh": "廠商、製造商",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0423",
+      "109 學測第 3 題",
+      "a",
+      "manufacturer"
+     ]
+    ]
+   },
+   {
+    "w": "triumph",
+    "kk": "ˈtraɪəmf",
+    "pos": "n.",
+    "zh": "勝利",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0306",
+      "101 學測第 6 題",
+      "d",
+      "triumph"
+     ],
+     [
+      "zhikao",
+      "ZK0333",
+      "81 聯考第 10 題",
+      "d",
+      "triumph"
+     ]
+    ]
+   },
+   {
+    "w": "opponent",
+    "kk": "əˈpoʊnənt",
+    "pos": "n.",
+    "zh": "對手",
+    "lv": 5,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0053",
+      "106 指考第 3 題",
+      "a",
+      "opponent"
+     ]
+    ]
+   },
+   {
+    "w": "obtain",
+    "kk": "əbˈteɪn",
+    "pos": "v.",
+    "zh": "取得",
+    "lv": 4,
+    "at": "q40",
+    "t": [
+     [
+      "gsat",
+      "V0276",
+      "99 學測第 6 題",
+      "d",
+      "obtain"
+     ],
+     [
+      "gsat",
+      "V0083",
+      "88 推薦甄選第 8 題",
+      "d",
+      "obtains"
+     ],
+     [
+      "gsat",
+      "V0040",
+      "85 推薦甄選第 20 題",
+      "a",
+      "obtained"
+     ]
+    ]
+   },
+   {
+    "w": "reward",
+    "kk": "rɪˈwɔrd",
+    "pos": "v.",
+    "zh": "獎勵、回報",
+    "lv": 4,
+    "at": "q40",
+    "t": [
+     [
+      "zhikao",
+      "ZK0016",
+      "109 指考補考第 6 題",
+      "d",
+      "reward"
+     ],
+     [
+      "gsat",
+      "V0386",
+      "106 學測第 11 題",
+      "d",
+      "rewarded"
+     ],
+     [
+      "gsat",
+      "V0347",
+      "104 學測第 2 題",
+      "a",
+      "reward"
+     ],
+     [
+      "gsat",
+      "V0169",
+      "92 學測補考第 4 題",
+      "d",
+      "reward"
+     ],
+     [
+      "zhikao",
+      "ZK0258",
+      "88 聯考第 5 題",
+      "d",
+      "rewarded"
+     ]
+    ]
+   },
+   {
+    "w": "purchase",
+    "kk": "ˈpɝʧəs",
+    "pos": "n.",
+    "zh": "購買",
+    "lv": 5,
+    "at": "q41",
+    "t": [
+     [
+      "zhikao",
+      "ZK0209",
+      "92 指考第 5 題",
+      "d",
+      "purchase"
+     ],
+     [
+      "zhikao",
+      "ZK0310",
+      "83 聯考第 7 題",
+      "d",
+      "purchase"
+     ]
+    ]
+   },
+   {
+    "w": "relieved",
+    "kk": "rɪˈlivd",
+    "pos": "adj.",
+    "zh": "鬆了一口氣的、放心的",
+    "lv": 4,
+    "at": "q42",
+    "h": "relieve",
+    "t": [
+     [
+      "gsat",
+      "V0424",
+      "109 學測第 4 題",
+      "d",
+      "relieved"
+     ],
+     [
+      "gsat",
+      "V0400",
+      "107 學測第 10 題",
+      "d",
+      "relieve"
+     ],
+     [
+      "gsat",
+      "V0342",
+      "103 學測第 12 題",
+      "d",
+      "relieved"
+     ],
+     [
+      "gsat",
+      "V0329",
+      "102 學測第 14 題",
+      "d",
+      "relieved"
+     ],
+     [
+      "zhikao",
+      "ZK0131",
+      "100 指考第 9 題",
+      "d",
+      "relieved"
+     ],
+     [
+      "gsat",
+      "V0272",
+      "99 學測第 2 題",
+      "a",
+      "relieve"
+     ]
+    ]
+   },
+   {
+    "w": "embarrassed",
+    "kk": "ɪmˈbærəst",
+    "pos": "adj.",
+    "zh": "尷尬的",
+    "lv": 4,
+    "at": "q42",
+    "h": "embarrass",
+    "t": [
+     [
+      "gsat",
+      "V0380",
+      "106 學測第 5 題",
+      "a",
+      "embarrassing"
+     ]
+    ]
+   }
+  ],
   "vocab": [
    {
     "w": "monopoly",
@@ -5436,22 +14993,6 @@
     "zh": "雙重的、兩套的",
     "lv": 6,
     "at": "p3"
-   },
-   {
-    "w": "modify",
-    "kk": "ˈmɑdəˌfaɪ",
-    "pos": "v.",
-    "zh": "修改",
-    "lv": 5,
-    "at": "p4"
-   },
-   {
-    "w": "version",
-    "kk": "ˈvɝʒən",
-    "pos": "n.",
-    "zh": "版本",
-    "lv": 5,
-    "at": "p4"
    },
    {
     "w": "re-launch",
@@ -5503,14 +15044,6 @@
     "at": "p4"
    },
    {
-    "w": "opponent",
-    "kk": "əˈpoʊnənt",
-    "pos": "n.",
-    "zh": "對手",
-    "lv": 5,
-    "at": "p4"
-   },
-   {
     "w": "modification",
     "kk": "ˌmɑdəfəˈkeɪʃən",
     "pos": "n.",
@@ -5533,14 +15066,6 @@
     "zh": "主張、提倡",
     "lv": 5,
     "at": "q40"
-   },
-   {
-    "w": "purchase",
-    "kk": "ˈpɝʧəs",
-    "pos": "n.",
-    "zh": "購買",
-    "lv": 5,
-    "at": "q41"
    },
    {
     "w": "displeased",
@@ -5623,6 +15148,627 @@
     "k": "topic"
    }
   ],
+  "key": [
+   {
+    "w": "zone",
+    "kk": "zoʊn",
+    "pos": "n.",
+    "zh": "區域（time zone 時區）",
+    "lv": 3,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0444",
+      "110 學測第 9 題",
+      "d",
+      "zones"
+     ]
+    ]
+   },
+   {
+    "w": "issue",
+    "kk": "ˈɪʃu",
+    "pos": "n.",
+    "zh": "議題",
+    "lv": 4,
+    "at": "p1",
+    "t": [
+     [
+      "zhikao",
+      "ZK0140",
+      "99 指考第 8 題",
+      "a",
+      "issues"
+     ],
+     [
+      "zhikao",
+      "ZK0285",
+      "85 聯考第 2 題",
+      "d",
+      "issue"
+     ],
+     [
+      "gsat",
+      "V0009",
+      "83 推薦甄選第 9 題",
+      "d",
+      "issue"
+     ]
+    ]
+   },
+   {
+    "w": "roughly",
+    "kk": "ˈrʌfli",
+    "pos": "adv.",
+    "zh": "大約",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0470",
+      "112 學測第 10 題",
+      "d",
+      "roughly"
+     ],
+     [
+      "gsat",
+      "V0239",
+      "96 學測第 14 題",
+      "a",
+      "roughly"
+     ],
+     [
+      "zhikao",
+      "ZK0101",
+      "93 補救考試第 11 題",
+      "d",
+      "roughly"
+     ],
+     [
+      "zhikao",
+      "ZK0224",
+      "91 指考第 10 題",
+      "d",
+      "roughly"
+     ],
+     [
+      "gsat",
+      "V0094",
+      "89 學測第 4 題",
+      "d",
+      "roughly"
+     ]
+    ]
+   },
+   {
+    "w": "correspond",
+    "kk": "ˌkɔrəˈspɑnd",
+    "pos": "v.",
+    "zh": "相當於、等於（correspond to）",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0450",
+      "110 學測第 15 題",
+      "d",
+      "corresponded"
+     ]
+    ]
+   },
+   {
+    "w": "consumption",
+    "kk": "kənˈsʌmpʃən",
+    "pos": "n.",
+    "zh": "消耗（量）",
+    "lv": 5,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0495",
+      "115 學測第 5 題",
+      "a",
+      "consumption"
+     ],
+     [
+      "gsat",
+      "V0093",
+      "89 學測第 3 題",
+      "d",
+      "consumption"
+     ]
+    ]
+   },
+   {
+    "w": "productivity",
+    "kk": "ˌproʊdəkˈtɪvəti",
+    "pos": "n.",
+    "zh": "生產力",
+    "lv": 5,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0199",
+      "94 學測第 4 題",
+      "d",
+      "productivities"
+     ]
+    ]
+   },
+   {
+    "w": "mostly",
+    "kk": "ˈmoʊstli",
+    "pos": "adv.",
+    "zh": "主要",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0153",
+      "92 學測第 3 題",
+      "d",
+      "mostly"
+     ],
+     [
+      "gsat",
+      "V0174",
+      "92 學測補考第 9 題",
+      "d",
+      "mostly"
+     ]
+    ]
+   },
+   {
+    "w": "facility",
+    "kk": "fəˈsɪlɪti",
+    "pos": "n.",
+    "zh": "設施、設備",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0406",
+      "108 學測第 1 題",
+      "d",
+      "facility"
+     ],
+     [
+      "gsat",
+      "V0366",
+      "105 學測第 6 題",
+      "d",
+      "facility"
+     ],
+     [
+      "zhikao",
+      "ZK0148",
+      "98 指考第 6 題",
+      "d",
+      "facilities"
+     ]
+    ]
+   },
+   {
+    "w": "annual",
+    "kk": "ˈænjuəl",
+    "pos": "adj.",
+    "zh": "每年的、全年的",
+    "lv": 4,
+    "at": "p3",
+    "t": [
+     [
+      "gsat",
+      "V0415",
+      "108 學測第 10 題",
+      "a",
+      "annual"
+     ],
+     [
+      "gsat",
+      "V0253",
+      "97 學測第 13 題",
+      "d",
+      "annually"
+     ]
+    ]
+   },
+   {
+    "w": "location",
+    "kk": "loʊˈkeɪʃən",
+    "pos": "n.",
+    "zh": "地區、地點",
+    "lv": 3,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0153",
+      "97 指考第 1 題",
+      "a",
+      "location"
+     ]
+    ]
+   },
+   {
+    "w": "various",
+    "kk": "ˈvɛriəs",
+    "pos": "adj.",
+    "zh": "各種的",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0277",
+      "99 學測第 7 題",
+      "d",
+      "various"
+     ],
+     [
+      "gsat",
+      "V0239",
+      "96 學測第 14 題",
+      "d",
+      "variously"
+     ],
+     [
+      "zhikao",
+      "ZK0190",
+      "94 指考第 8 題",
+      "d",
+      "various"
+     ],
+     [
+      "gsat",
+      "V0126",
+      "91 學測第 6 題",
+      "d",
+      "variously"
+     ],
+     [
+      "gsat",
+      "V0142",
+      "91 學測補考第 7 題",
+      "d",
+      "various"
+     ],
+     [
+      "gsat",
+      "V0112",
+      "90 學測第 7 題",
+      "d",
+      "various"
+     ]
+    ]
+   },
+   {
+    "w": "request",
+    "kk": "rɪˈkwɛst",
+    "pos": "n.",
+    "zh": "要求、請求",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0226",
+      "96 學測第 1 題",
+      "d",
+      "request"
+     ],
+     [
+      "gsat",
+      "V0168",
+      "92 學測補考第 3 題",
+      "d",
+      "request"
+     ],
+     [
+      "zhikao",
+      "ZK0314",
+      "82 聯考第 1 題",
+      "d",
+      "request"
+     ]
+    ]
+   },
+   {
+    "w": "multiple",
+    "kk": "ˈmʌltəpəl",
+    "pos": "adj.",
+    "zh": "多個的",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0487",
+      "114 學測第 7 題",
+      "d",
+      "multiple"
+     ]
+    ]
+   },
+   {
+    "w": "keen",
+    "kk": "kin",
+    "pos": "adj.",
+    "zh": "一心要、很想（be keen to）",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0049",
+      "107 指考第 9 題",
+      "d",
+      "keen"
+     ]
+    ]
+   },
+   {
+    "w": "retain",
+    "kk": "rɪˈteɪn",
+    "pos": "v.",
+    "zh": "維持、保留",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0156",
+      "97 指考第 4 題",
+      "d",
+      "retain"
+     ],
+     [
+      "zhikao",
+      "ZK0320",
+      "82 聯考第 7 題",
+      "d",
+      "retained"
+     ]
+    ]
+   },
+   {
+    "w": "prevention",
+    "kk": "prɪˈvɛnʃən",
+    "pos": "n.",
+    "zh": "避免、防止",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0004",
+      "110 指考第 4 題",
+      "d",
+      "preventions"
+     ],
+     [
+      "zhikao",
+      "ZK0165",
+      "96 指考第 3 題",
+      "d",
+      "prevention"
+     ],
+     [
+      "gsat",
+      "V0156",
+      "92 學測第 6 題",
+      "d",
+      "preventions"
+     ]
+    ]
+   },
+   {
+    "w": "operation",
+    "kk": "ˌɑpəˈreɪʃən",
+    "pos": "n.",
+    "zh": "營運、運作",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0479",
+      "113 學測第 9 題",
+      "d",
+      "operation"
+     ],
+     [
+      "gsat",
+      "V0442",
+      "110 學測第 7 題",
+      "d",
+      "operation"
+     ],
+     [
+      "gsat",
+      "V0349",
+      "104 學測第 4 題",
+      "d",
+      "operations"
+     ],
+     [
+      "gsat",
+      "V0293",
+      "100 學測第 8 題",
+      "d",
+      "operation"
+     ],
+     [
+      "zhikao",
+      "ZK0146",
+      "98 指考第 4 題",
+      "d",
+      "operation"
+     ],
+     [
+      "zhikao",
+      "ZK0164",
+      "96 指考第 2 題",
+      "d",
+      "operation"
+     ]
+    ]
+   },
+   {
+    "w": "illustrate",
+    "kk": "ˈɪləˌstreɪt",
+    "pos": "v.",
+    "zh": "說明、呈現",
+    "lv": 4,
+    "at": "q43",
+    "t": [
+     [
+      "zhikao",
+      "ZK0079",
+      "104 指考第 9 題",
+      "d",
+      "illustrating"
+     ],
+     [
+      "gsat",
+      "V0130",
+      "91 學測第 10 題",
+      "d",
+      "illustrated"
+     ]
+    ]
+   },
+   {
+    "w": "flexible",
+    "kk": "ˈflɛksəbəl",
+    "pos": "adj.",
+    "zh": "有彈性的、靈活的",
+    "lv": 4,
+    "at": "q44",
+    "t": [
+     [
+      "zhikao",
+      "ZK0006",
+      "110 指考第 6 題",
+      "d",
+      "flexible"
+     ],
+     [
+      "gsat",
+      "V0371",
+      "105 學測第 11 題",
+      "d",
+      "flexible"
+     ],
+     [
+      "gsat",
+      "V0346",
+      "104 學測第 1 題",
+      "a",
+      "flexible"
+     ],
+     [
+      "gsat",
+      "V0336",
+      "103 學測第 6 題",
+      "d",
+      "flexible"
+     ],
+     [
+      "gsat",
+      "V0261",
+      "98 學測第 6 題",
+      "d",
+      "flexible"
+     ],
+     [
+      "zhikao",
+      "ZK0223",
+      "91 指考第 9 題",
+      "d",
+      "flexibly"
+     ],
+     [
+      "zhikao",
+      "ZK0282",
+      "86 聯考第 9 題",
+      "a",
+      "flexible"
+     ]
+    ]
+   },
+   {
+    "w": "resource",
+    "kk": "ˈrisɔrs",
+    "pos": "n.",
+    "zh": "資源",
+    "lv": 3,
+    "at": "q45",
+    "t": [
+     [
+      "gsat",
+      "V0497",
+      "115 學測第 7 題",
+      "d",
+      "resource"
+     ],
+     [
+      "zhikao",
+      "ZK0113",
+      "101 指考第 1 題",
+      "d",
+      "resource"
+     ]
+    ]
+   },
+   {
+    "w": "generate",
+    "kk": "ˈʤɛnəˌreɪt",
+    "pos": "v.",
+    "zh": "產生（電力）",
+    "lv": 5,
+    "at": "q45",
+    "t": [
+     [
+      "zhikao",
+      "ZK0129",
+      "100 指考第 7 題",
+      "d",
+      "generated"
+     ]
+    ]
+   },
+   {
+    "w": "impact",
+    "kk": "ˈɪmpækt",
+    "pos": "n.",
+    "zh": "影響",
+    "lv": 4,
+    "at": "q45",
+    "t": [
+     [
+      "gsat",
+      "V0497",
+      "115 學測第 7 題",
+      "d",
+      "impact"
+     ],
+     [
+      "gsat",
+      "V0031",
+      "85 推薦甄選第 11 題",
+      "a",
+      "impact"
+     ]
+    ]
+   }
+  ],
   "vocab": [
    {
     "w": "respectively",
@@ -5690,22 +15836,6 @@
     "at": "p2"
    },
    {
-    "w": "consumption",
-    "kk": "kənˈsʌmpʃən",
-    "pos": "n.",
-    "zh": "消耗（量）",
-    "lv": 5,
-    "at": "p2"
-   },
-   {
-    "w": "productivity",
-    "kk": "ˌproʊdəkˈtɪvəti",
-    "pos": "n.",
-    "zh": "生產力",
-    "lv": 5,
-    "at": "p2"
-   },
-   {
     "w": "sunset-induced",
     "kk": "ˈsʌnˌsɛtɪnˌdust",
     "pos": "adj.",
@@ -5729,14 +15859,6 @@
     "lv": 6,
     "at": "p3",
     "h": "induce"
-   },
-   {
-    "w": "generate",
-    "kk": "ˈʤɛnəˌreɪt",
-    "pos": "v.",
-    "zh": "產生（電力）",
-    "lv": 5,
-    "at": "q45"
    },
    {
     "w": "colonization",
@@ -5828,6 +15950,406 @@
     "k": "topic"
    }
   ],
+  "key": [
+   {
+    "w": "occupy",
+    "kk": "ˈɑkjəˌpaɪ",
+    "pos": "v.",
+    "zh": "占據",
+    "lv": 4,
+    "at": "p1",
+    "t": [
+     [
+      "gsat",
+      "V0411",
+      "108 學測第 6 題",
+      "d",
+      "occupied"
+     ],
+     [
+      "gsat",
+      "V0379",
+      "106 學測第 4 題",
+      "d",
+      "occupy"
+     ],
+     [
+      "gsat",
+      "V0303",
+      "101 學測第 3 題",
+      "d",
+      "occupy"
+     ],
+     [
+      "zhikao",
+      "ZK0197",
+      "93 指考第 5 題",
+      "d",
+      "occupies"
+     ]
+    ]
+   },
+   {
+    "w": "massive",
+    "kk": "ˈmæsɪv",
+    "pos": "adj.",
+    "zh": "大規模的",
+    "lv": 5,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0405",
+      "107 學測第 15 題",
+      "a",
+      "massive"
+     ],
+     [
+      "zhikao",
+      "ZK0064",
+      "105 指考第 4 題",
+      "d",
+      "massively"
+     ]
+    ]
+   },
+   {
+    "w": "product",
+    "kk": "ˈprɑdəkt",
+    "pos": "n.",
+    "zh": "產物（waste product 廢棄物）",
+    "lv": 3,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0199",
+      "94 學測第 4 題",
+      "a",
+      "products"
+     ],
+     [
+      "zhikao",
+      "ZK0273",
+      "87 聯考第 10 題",
+      "d",
+      "products"
+     ],
+     [
+      "zhikao",
+      "ZK0333",
+      "81 聯考第 10 題",
+      "d",
+      "product"
+     ]
+    ]
+   },
+   {
+    "w": "researcher",
+    "kk": "ˈrisɚʧɚ",
+    "pos": "n.",
+    "zh": "研究人員",
+    "lv": 4,
+    "at": "p2",
+    "t": [
+     [
+      "gsat",
+      "V0423",
+      "109 學測第 3 題",
+      "d",
+      "researcher"
+     ]
+    ]
+   },
+   {
+    "w": "enthusiastic",
+    "kk": "ɪnˌθuziˈæstɪk",
+    "pos": "adj.",
+    "zh": "熱衷的、熱心的",
+    "lv": 5,
+    "at": "p3",
+    "t": [
+     [
+      "zhikao",
+      "ZK0218",
+      "91 指考第 4 題",
+      "d",
+      "enthusiastic"
+     ]
+    ]
+   },
+   {
+    "w": "advantage",
+    "kk": "ædˈvæntɪʤ",
+    "pos": "n.",
+    "zh": "優勢",
+    "lv": 3,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0477",
+      "113 學測第 7 題",
+      "d",
+      "advantage"
+     ],
+     [
+      "zhikao",
+      "ZK0216",
+      "91 指考第 2 題",
+      "d",
+      "advantage"
+     ]
+    ]
+   },
+   {
+    "w": "generate",
+    "kk": "ˈʤɛnəˌreɪt",
+    "pos": "v.",
+    "zh": "產生",
+    "lv": 5,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0129",
+      "100 指考第 7 題",
+      "d",
+      "generated"
+     ]
+    ]
+   },
+   {
+    "w": "preserve",
+    "kk": "prɪˈzɝv",
+    "pos": "v.",
+    "zh": "保留、留下",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0386",
+      "106 學測第 11 題",
+      "d",
+      "preserved"
+     ],
+     [
+      "gsat",
+      "V0275",
+      "99 學測第 5 題",
+      "a",
+      "preserve"
+     ],
+     [
+      "gsat",
+      "V0264",
+      "98 學測第 9 題",
+      "a",
+      "preserve"
+     ]
+    ]
+   },
+   {
+    "w": "minimum",
+    "kk": "ˈmɪnəməm",
+    "pos": "adj.",
+    "zh": "極少的、最低限度的",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0336",
+      "103 學測第 6 題",
+      "a",
+      "minimum"
+     ]
+    ]
+   },
+   {
+    "w": "agricultural",
+    "kk": "ˌægrəˈkʌlʧərəl",
+    "pos": "adj.",
+    "zh": "農業的",
+    "lv": 5,
+    "at": "p4",
+    "t": [
+     [
+      "zhikao",
+      "ZK0150",
+      "98 指考第 8 題",
+      "d",
+      "agriculturally"
+     ]
+    ]
+   },
+   {
+    "w": "competition",
+    "kk": "ˌkɑmpəˈtɪʃən",
+    "pos": "n.",
+    "zh": "競爭",
+    "lv": 4,
+    "at": "p4",
+    "t": [
+     [
+      "gsat",
+      "V0027",
+      "85 推薦甄選第 7 題",
+      "d",
+      "competition"
+     ]
+    ]
+   },
+   {
+    "w": "expand",
+    "kk": "ɪkˈspænd",
+    "pos": "v.",
+    "zh": "擴大（推行）",
+    "lv": 4,
+    "at": "p5",
+    "t": [
+     [
+      "gsat",
+      "V0233",
+      "96 學測第 8 題",
+      "a",
+      "expanded"
+     ],
+     [
+      "gsat",
+      "V0181",
+      "93 學測第 1 題",
+      "d",
+      "expand"
+     ],
+     [
+      "gsat",
+      "V0078",
+      "88 推薦甄選第 3 題",
+      "d",
+      "expanding"
+     ],
+     [
+      "zhikao",
+      "ZK0297",
+      "84 聯考第 4 題",
+      "d",
+      "expanded"
+     ]
+    ]
+   },
+   {
+    "w": "benefit",
+    "kk": "ˈbɛnəfɪt",
+    "pos": "n.",
+    "zh": "好處",
+    "lv": 3,
+    "at": "q41",
+    "t": [
+     [
+      "gsat",
+      "V0419",
+      "108 學測第 14 題",
+      "d",
+      "benefit"
+     ],
+     [
+      "gsat",
+      "V0151",
+      "92 學測第 1 題",
+      "d",
+      "benefited"
+     ]
+    ]
+   },
+   {
+    "w": "predict",
+    "kk": "prɪˈdɪkt",
+    "pos": "v.",
+    "zh": "預測",
+    "lv": 4,
+    "at": "q41",
+    "t": [
+     [
+      "gsat",
+      "V0408",
+      "108 學測第 3 題",
+      "a",
+      "predicted"
+     ],
+     [
+      "gsat",
+      "V0337",
+      "103 學測第 7 題",
+      "d",
+      "predict"
+     ]
+    ]
+   },
+   {
+    "w": "consumption",
+    "kk": "kənˈsʌmpʃən",
+    "pos": "n.",
+    "zh": "消耗（量）",
+    "lv": 5,
+    "at": "q41",
+    "t": [
+     [
+      "gsat",
+      "V0495",
+      "115 學測第 5 題",
+      "a",
+      "consumption"
+     ],
+     [
+      "gsat",
+      "V0093",
+      "89 學測第 3 題",
+      "d",
+      "consumption"
+     ]
+    ]
+   },
+   {
+    "w": "replace",
+    "kk": "rɪˈpleɪs",
+    "pos": "v.",
+    "zh": "取代",
+    "lv": 3,
+    "at": "q44",
+    "t": [
+     [
+      "gsat",
+      "V0431",
+      "109 學測第 11 題",
+      "d",
+      "replaced"
+     ],
+     [
+      "gsat",
+      "V0317",
+      "102 學測第 2 題",
+      "a",
+      "replaced"
+     ],
+     [
+      "zhikao",
+      "ZK0339",
+      "98 指考參考試卷第 7 題",
+      "d",
+      "replaced"
+     ],
+     [
+      "gsat",
+      "V0206",
+      "94 學測第 11 題",
+      "a",
+      "replace"
+     ]
+    ]
+   }
+  ],
   "vocab": [
    {
     "w": "prickly",
@@ -5867,14 +16389,6 @@
     "pos": "n.",
     "zh": "（墨西哥）食用仙人掌",
     "lv": 0,
-    "at": "p2"
-   },
-   {
-    "w": "massive",
-    "kk": "ˈmæsɪv",
-    "pos": "adj.",
-    "zh": "大規模的",
-    "lv": 5,
     "at": "p2"
    },
    {
@@ -5951,14 +16465,6 @@
     "at": "p3"
    },
    {
-    "w": "enthusiastic",
-    "kk": "ɪnˌθuziˈæstɪk",
-    "pos": "adj.",
-    "zh": "熱衷的、熱心的",
-    "lv": 5,
-    "at": "p3"
-   },
-   {
     "w": "utilize",
     "kk": "ˈjutəˌlaɪz",
     "pos": "v.",
@@ -5983,22 +16489,6 @@
     "at": "p4"
    },
    {
-    "w": "generate",
-    "kk": "ˈʤɛnəˌreɪt",
-    "pos": "v.",
-    "zh": "產生",
-    "lv": 5,
-    "at": "p4"
-   },
-   {
-    "w": "agricultural",
-    "kk": "ˌægrəˈkʌlʧərəl",
-    "pos": "adj.",
-    "zh": "農業的",
-    "lv": 5,
-    "at": "p4"
-   },
-   {
     "w": "pasture",
     "kk": "ˈpæsʧɚ",
     "pos": "n.",
@@ -6012,14 +16502,6 @@
     "pos": "n.",
     "zh": "食用仙人掌（nopal 的複數）",
     "lv": 0,
-    "at": "q41"
-   },
-   {
-    "w": "consumption",
-    "kk": "kənˈsʌmpʃən",
-    "pos": "n.",
-    "zh": "消耗（量）",
-    "lv": 5,
     "at": "q41"
    },
    {
