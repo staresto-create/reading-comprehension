@@ -128,6 +128,7 @@ footer .fl{font-size:13px; margin-bottom:12px; font-weight:700;}
 .vbW{font-weight:700; font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:15.5px;}
 .vbH{font-size:12px; color:var(--ink-soft); font-weight:400;}
 .vbPos{font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--ink-soft);}
+.vbKK{font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:12.5px; color:var(--ink-soft);}
 .vbZh{flex:1 1 9em; min-width:0;}
 .vbMeta{margin-left:auto; font-size:11.5px; color:var(--ink-soft); white-space:nowrap;}
 .vbLv{display:inline-block; border:1px solid var(--rule); border-radius:10px; padding:0 7px; margin-right:6px; background:#fff;}
