@@ -286,6 +286,7 @@
   .histRow .en{font-size:11px; color:var(--ink-soft);}
   .year-item .cnt .cq{display:block; color:var(--sage);}
   .qtPre{margin:0 0 6px;}
+  .diffNote{font-size:12px; line-height:1.8; color:var(--ink-soft); margin:2px 0 4px;}
   .drillNote{font-size:13px; line-height:1.8; color:var(--ink); border-left:3px solid var(--sage); background:#F4F7F2; padding:6px 10px; margin-bottom:12px;}
   .drillBtn{font-size:12px; padding:0 0 0 8px; white-space:nowrap;}
 
@@ -367,6 +368,7 @@
             <div class="cueRow"><span>補考</span><span class="pct">大考中心未公布逐題數據</span></div>
             <div class="cueRow"><span>參考試卷、試辦考試</span><span class="pct">非正式施測，沒有答對率</span></div>
           </div>
+          想專練難一點或簡單一點的題目，可以用下方的「依難易度篩選」，難、中、易怎麼分寫在那裡；清單也可以改成依每一篇的平均答對率，由難到易排列。
         </div>
       </details>
 
@@ -411,6 +413,10 @@
       <div class="cat-grid" id="orgGrid"></div>
       <div class="sec-title" id="catTitle">依題型篩選<span class="sec-note">（可複選，不選則不限）</span></div>
       <div class="cat-grid" id="catGrid"></div>
+      <div class="sec-title" id="diffTitle">依難易度篩選<span class="sec-note">（可複選，不選則不限）</span></div>
+      <div class="cat-grid" id="diffGrid"></div>
+      <div class="diffNote" id="diffNote"></div>
+      <label class="toggleRow"><input type="checkbox" id="diffSortToggle">清單依平均答對率排列，由難到易</label>
       <label class="toggleRow"><input type="checkbox" id="officialToggle">只看正式考題（不列補考、參考試卷與試辦考試）</label>
 
       <div class="sec-title">選擇年度／篇章<span class="sec-note" id="listCount"></span></div>
@@ -472,7 +478,7 @@ function saveWrongIds(w){ try{ localStorage.setItem(WRONG_KEY, JSON.stringify(w)
 function isTestMode(){ const el=document.getElementById('testModeToggle'); return !!(el && el.checked); }
 
 let PASSAGES = {}, ITEMS = [];
-let selectedExams = new Set(), selectedYears = new Set(), selectedOrgs = new Set(), selectedCats = new Set(), officialOnly = false;
+let selectedExams = new Set(), selectedYears = new Set(), selectedOrgs = new Set(), selectedCats = new Set(), selectedDiffs = new Set(), officialOnly = false, diffSort = false;
 let curPid = null, curItems = [], picks = {}, graded = false, zhOn = false, evOn = null;
 
 /* 年度分組：鍵是網址上用的代號 */
@@ -509,10 +515,14 @@ async function init(){
   }
   readHash();
   document.getElementById('officialToggle').checked = officialOnly;
+  document.getElementById('diffSortToggle').checked = diffSort;
+  document.getElementById('diffSortToggle').addEventListener('change', e => {
+    diffSort = e.target.checked; buildYearList(); writeHash();
+  });
   document.getElementById('officialToggle').addEventListener('change', e => {
     officialOnly = e.target.checked; buildYearList(); writeHash();
   });
-  buildExamGrid(); buildYearGrid(); buildOrgGrid(); buildCatGrid(); buildYearList(); renderStatsBox();
+  buildExamGrid(); buildYearGrid(); buildOrgGrid(); buildCatGrid(); buildDiffGrid(); buildYearList(); renderStatsBox();
   const pid = new URLSearchParams(location.hash.replace(/^#/,'')).get('p');
   if(pid && PASSAGES[pid]) openPassage(pid);
 }
@@ -524,6 +534,8 @@ function writeHash(){
   if(selectedYears.size) p.set('y', YEAR_GROUPS.filter(g => selectedYears.has(g.key)).map(g => g.key).join(','));
   if(selectedOrgs.size) p.set('o', ORGS.filter(g => selectedOrgs.has(g.key)).map(g => g.key).join(','));
   if(selectedCats.size) p.set('t', CATS.filter(c => selectedCats.has(c.k)).map(c => c.key).join(','));
+  if(selectedDiffs.size) p.set('d', DIFFS.filter(t => selectedDiffs.has(t.key)).map(t => t.key).join(','));
+  if(diffSort) p.set('ds','1');
   if(officialOnly) p.set('off','1');
   if(curPid && document.getElementById('practiceView').style.display !== 'none') p.set('p', curPid);
   const s = p.toString();
@@ -537,6 +549,8 @@ function readHash(){
   (p.get('y')||'').split(',').forEach(k => { if(YEAR_GROUPS.some(g => g.key === k)) selectedYears.add(k); });
   (p.get('o')||'').split(',').forEach(k => { if(ORGS.some(g => g.key === k)) selectedOrgs.add(k); });
   (p.get('t')||'').split(',').forEach(k => { const c = CATS.find(x => x.key === k); if(c) selectedCats.add(c.k); });
+  (p.get('d')||'').split(',').forEach(k => { if(DIFFS.some(t => t.key === k)) selectedDiffs.add(k); });
+  diffSort = p.get('ds') === '1';
   officialOnly = p.get('off') === '1';
 }
 
@@ -571,12 +585,48 @@ function yearOk(p){
 }
 function officialOk(p){ return !officialOnly || isOfficial(p); }
 function orgOk(p){ return selectedOrgs.size === 0 || (p.structure && selectedOrgs.has(p.structure.orgCode)); }
-function catOk(p){ return selectedCats.size === 0 || itemsOf(p.id).some(it => selectedCats.has(it.cat)); }
-/* 選定題型的題目，以及題型名稱的寫法（一類寫名稱，多類用頓號連接） */
-function drillItems(its){ return its.filter(it => selectedCats.has(it.cat)); }
-function drillName(){ return CATS.filter(c => selectedCats.has(c.k)).map(c => c.k).join('、'); }
+/* 題型與難易度都是逐題的條件：一篇裡只要有一題同時符合兩者（沒選的那一項不限），這一篇就列出 */
+function drilling(){ return selectedCats.size > 0 || selectedDiffs.size > 0; }
+function itemSel(it){
+  return (selectedCats.size === 0 || selectedCats.has(it.cat)) && (selectedDiffs.size === 0 || selectedDiffs.has(diffTier(it)));
+}
+function catOk(p){ return !drilling() || itemsOf(p.id).some(itemSel); }
+/* 選定的題目，以及名稱的寫法（一類寫名稱，多類用頓號連接；同時選了難易度，難易度放在括號裡） */
+function drillItems(its){ return its.filter(itemSel); }
+function drillName(){
+  const c = CATS.filter(x => selectedCats.has(x.k)).map(x => x.k).join('、');
+  const t = DIFFS.filter(x => selectedDiffs.has(x.key)).map(x => x.k).join('、');
+  if(c && t) return `${c}（${t}）`;
+  return c || `${t}的題目`;
+}
+/* 難易度：切點和姊妹站一致（≤25 難、≤75 中、其餘易），鑑別度為負另列「特殊」，與「難」互斥 */
+const DIFFS = [
+  { key:'hard', k:'難', range:'≤25%', say:'答對率在 25% 以下' },
+  { key:'mid', k:'中', range:'25–75%', say:'答對率高於 25%、不超過 75%' },
+  { key:'easy', k:'易', range:'＞75%', say:'答對率超過 75%' },
+  { key:'special', k:'特殊', range:'鑑別度為負', say:'鑑別度是負的' }
+];
+function diffTier(it){
+  if(typeof it.discrimination === 'number' && it.discrimination < 0) return 'special';
+  if(typeof it.accuracyRate !== 'number') return null;
+  if(it.accuracyRate <= 25) return 'hard';
+  if(it.accuracyRate <= 75) return 'mid';
+  return 'easy';
+}
+/* 一篇的平均答對率（沒有答對率的篇回傳 null） */
+function avgRate(p){
+  const r = itemsOf(p.id).map(it => it.accuracyRate).filter(x => typeof x === 'number');
+  return r.length ? Math.round(r.reduce((a,b) => a+b, 0) / r.length) : null;
+}
+function cmpDiff(a,b){
+  const ra = avgRate(a), rb = avgRate(b);
+  if(ra === null && rb === null) return cmpPassage(a,b);
+  if(ra === null) return 1;
+  if(rb === null) return -1;
+  return ra - rb || cmpPassage(a,b);
+}
 function visiblePassages(){
-  return Object.values(PASSAGES).filter(p => examOk(p) && yearOk(p) && officialOk(p) && orgOk(p) && catOk(p)).sort(cmpPassage);
+  return Object.values(PASSAGES).filter(p => examOk(p) && yearOk(p) && officialOk(p) && orgOk(p) && catOk(p)).sort(diffSort ? cmpDiff : cmpPassage);
 }
 function itemsOf(pid){ return ITEMS.filter(it => it.passageId === pid).sort((a,b) => a.no - b.no); }
 function badge(p){ return isOfficial(p) ? '' : `<span class="badge">${esc(p.examType)}</span>`; }
@@ -627,12 +677,32 @@ function buildCatGrid(){
       on => on ? selectedCats.add(c.k) : selectedCats.delete(c.k)));
   });
 }
+function buildDiffGrid(){
+  const g = document.getElementById('diffGrid'); g.innerHTML='';
+  const cnt = {};
+  DIFFS.forEach(t => {
+    const its = ITEMS.filter(it => diffTier(it) === t.key);
+    cnt[t.key] = its.length;
+    if(!its.length) return;
+    const np = new Set(its.map(it => it.passageId)).size;
+    g.appendChild(makeChip(`${t.k} ${t.range}（${np}篇・${its.length}題）`, selectedDiffs.has(t.key),
+      on => on ? selectedDiffs.add(t.key) : selectedDiffs.delete(t.key)));
+  });
+  const rated = ITEMS.filter(it => typeof it.accuracyRate === 'number').length;
+  document.getElementById('diffNote').innerHTML =
+    '難易度依大考中心公布的全體考生答對率分成三級：<b>難</b>是 25% 以下，<b>中</b>是高於 25%、不超過 75%，<b>易</b>是超過 75%。'
+    + '切點取 25%，是因為閱讀測驗每一題都是四選一，就算全部用猜的，平均也能答對 25%，低於這條線，代表全體考生的表現並不比亂猜好；75% 是取對稱的另一端。大考中心沒有公布分級的切點。<br>'
+    + `閱讀測驗的答對率大多落在中間：有答對率的 ${rated} 題裡，難 ${cnt.hard} 題、中 ${cnt.mid} 題、易 ${cnt.easy} 題`
+    + (cnt.special ? `，另有 ${cnt.special} 題鑑別度是負的，歸在「特殊」，不算進「難」` : '') + '。'
+    + `只要勾選任何一級，沒有答對率的 ${ITEMS.length - rated} 題（學測 83–90 年、補考、參考試卷與試辦考試）就不會列出。`
+    + '勾選「清單依平均答對率排列」，清單會把每一篇的題目答對率平均起來，從最低的排起，每一篇旁邊也會標出平均答對率；沒有答對率的篇章排在最後。';
+}
 function buildYearList(){
   const list = document.getElementById('yearList'); list.innerHTML='';
   const ps = visiblePassages();
   const ni = ps.reduce((s,p) => s + itemsOf(p.id).length, 0);
-  const nd = selectedCats.size ? ps.reduce((s,p) => s + drillItems(itemsOf(p.id)).length, 0) : 0;
-  document.getElementById('listCount').textContent = `（目前列出 ${ps.length} 篇、${ni} 題` + (selectedCats.size ? `，其中${drillName()} ${nd} 題）` : '）');
+  const nd = drilling() ? ps.reduce((s,p) => s + drillItems(itemsOf(p.id)).length, 0) : 0;
+  document.getElementById('listCount').textContent = `（目前列出 ${ps.length} 篇、${ni} 題` + (drilling() ? `，其中${drillName()} ${nd} 題）` : '）');
   if(ps.length === 0){
     list.innerHTML = '<div style="font-size:13px; color:var(--ink-soft); padding:8px;">目前的篩選條件沒有符合的篇章，請放寬條件。</div>';
     return;
@@ -645,7 +715,7 @@ function buildYearList(){
     row.setAttribute('role','option');
     row.setAttribute('aria-selected', curPid===p.id ? 'true' : 'false');
     row.innerHTML = `<span class="yt">${p.exam} ${esc(p.year)} · ${esc(p.title)}${badge(p)}</span>`
-                  + `<span class="cnt">第 ${p.range[0]}–${p.range[1]} 題・${its.length}題${selectedCats.size ? `<span class="cq">${selectedCats.size > 1 ? '所選題型' : drillName()} ${drillItems(its).length} 題</span>` : ''}</span>`;
+                  + `<span class="cnt">第 ${p.range[0]}–${p.range[1]} 題・${its.length}題${drilling() ? `<span class="cq">${selectedCats.size + selectedDiffs.size > 1 ? (selectedDiffs.size ? '所選題目' : '所選題型') : drillName()} ${drillItems(its).length} 題</span>` : ''}${diffSort ? `<span class="cq">${avgRate(p) === null ? '沒有答對率' : '平均答對率 ' + avgRate(p) + '%'}</span>` : ''}</span>`;
     row.onclick = () => {
       document.querySelectorAll('.year-item').forEach(r => { r.classList.remove('sel'); r.setAttribute('aria-selected','false'); });
       row.classList.add('sel'); row.setAttribute('aria-selected','true'); curPid = p.id;
@@ -829,13 +899,19 @@ function renderPractice(){
   document.getElementById('practiceBody').innerHTML = html;
 }
 
-/* 依題型篩選時，作答前說明這一篇哪幾題是所選的題型 */
+/* 依題型或難易度篩選時，作答前說明這一篇哪幾題是所選的題目 */
 function drillLine(){
   const d = drillItems(curItems);
   if(!d.length) return '';
-  const parts = CATS.filter(c => d.some(it => it.cat === c.k))
-    .map(c => `第 ${d.filter(it => it.cat === c.k).map(it => it.no).join('、')} 題是${c.k}`);
-  return `<div class="drillNote">專練${drillName()}：這一篇的${parts.join('，')}。</div>`;
+  const both = selectedCats.size && selectedDiffs.size;
+  const parts = both
+    ? d.map(it => `第 ${it.no} 題是${it.cat}，${DIFFS.find(t => t.key === diffTier(it)).say}`)
+    : selectedCats.size
+    ? CATS.filter(c => d.some(it => it.cat === c.k))
+        .map(c => `第 ${d.filter(it => it.cat === c.k).map(it => it.no).join('、')} 題是${c.k}`)
+    : DIFFS.filter(t => d.some(it => diffTier(it) === t.key))
+        .map(t => `第 ${d.filter(it => diffTier(it) === t.key).map(it => it.no).join('、')} 題${t.say}`);
+  return `<div class="drillNote">專練${drillName()}：這一篇的${parts.join(both ? '；' : '，')}。</div>`;
 }
 /* 交卷後才出現：全文中心思想藍底、段落主旨句底線、兩者都是藍底加底線 */
 const MS_TIP = '📌 提醒：不是每一段都有主旨句。開頭鋪陳的段落、承接前一段的延伸段落，還有敘事或描寫的段落，主旨常常藏在字裡行間，找不到一句可以直接畫線。遇到這種段落，與其硬找一句話，不如問自己「這一段在做什麼」（舉例？補充？延續前一段？），再用自己的話歸納出這一段的重點就可以了。';
@@ -886,7 +962,7 @@ function renderQuestion(it, inline){
   const stem = esc(parts[0]) + (parts.length > 1 ? `<span class="ins">${br(parts.slice(1).join('\n'))}</span>` : '');
   const pk = picks[it.id];
   let h = `<div class="qBlock${inline ? ' inline' : ''}" id="q-${it.id}" role="group" aria-label="第 ${it.no} 題">
-    ${!graded && selectedCats.has(it.cat) ? `<div class="qtPre">${catTag(it)}</div>` : ''}<div class="qStem" lang="en"><span class="qn">${it.no}.</span>${stem}</div>`;
+    ${!graded && selectedCats.has(it.cat) && itemSel(it) ? `<div class="qtPre">${catTag(it)}</div>` : ''}<div class="qStem" lang="en"><span class="qn">${it.no}.</span>${stem}</div>`;
   if(it.figure) h += figureHtml(it.figure, `${it.exam} ${it.year} 第 ${it.no} 題附圖`);
   h += `<div class="optList" style="border-top:none; padding-top:0;">`;
   Object.entries(it.options).forEach(([ltr, txt]) => {
