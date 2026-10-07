@@ -5844,6 +5844,13 @@
     "at": "p2"
    },
    {
+    "w": "setting",
+    "pos": "n.",
+    "zh": "情境、環境",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
     "w": "ballast",
     "pos": "n.",
     "zh": "壓艙物（ballast stone 壓艙石）",
@@ -9480,6 +9487,121 @@
     "t": "So it seems that being funny isn’t necessarily an indicator of good social skills and well-being.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "forge",
+    "pos": "v.",
+    "zh": "建立（關係）",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "self-esteem",
+    "pos": "n.",
+    "zh": "自尊、自尊心",
+    "lv": 6,
+    "at": "p1",
+    "h": "esteem"
+   },
+   {
+    "w": "antagonize",
+    "pos": "v.",
+    "zh": "引起反感、得罪",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "lighten",
+    "pos": "v.",
+    "zh": "讓（氣氛）輕鬆起來",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "perceive",
+    "pos": "v.",
+    "zh": "看作、認為（be perceived as）",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "manipulate",
+    "pos": "v.",
+    "zh": "操控",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "hilarious",
+    "pos": "adj.",
+    "zh": "非常好笑的、爆笑的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "toll",
+    "pos": "n.",
+    "zh": "損害（take a toll on 對……造成損害）",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "comedian",
+    "pos": "n.",
+    "zh": "喜劇演員",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "humiliate",
+    "pos": "v.",
+    "zh": "羞辱、讓人丟臉",
+    "lv": 6,
+    "at": "p4"
+   },
+   {
+    "w": "erode",
+    "pos": "v.",
+    "zh": "侵蝕、逐漸破壞",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "foster",
+    "pos": "v.",
+    "zh": "助長、促進",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "indicator",
+    "pos": "n.",
+    "zh": "指標",
+    "lv": 0,
+    "at": "p5"
+   },
+   {
+    "w": "interpersonal",
+    "pos": "adj.",
+    "zh": "人際的（interpersonal relationship 人際關係）",
+    "lv": 0,
+    "at": "p5"
+   },
+   {
+    "w": "over-dosage",
+    "pos": "n.",
+    "zh": "過量服用",
+    "lv": 0,
+    "at": "q38"
+   },
+   {
+    "w": "trait",
+    "pos": "n.",
+    "zh": "特質",
+    "lv": 5,
+    "at": "q39"
+   }
   ]
  },
  {
@@ -9547,6 +9669,142 @@
     "p": 4,
     "t": "We’ve been trying to fix these problems behind the scenes for quite some time; now we need your help.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "balky",
+    "pos": "adj.",
+    "zh": "（機器）時好時壞的、不聽使喚的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "component",
+    "pos": "n.",
+    "zh": "組件、零件",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "trans-Pacific",
+    "pos": "adj.",
+    "zh": "跨太平洋的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "valid",
+    "pos": "adj.",
+    "zh": "有道理的、站得住腳的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "jeopardize",
+    "pos": "v.",
+    "zh": "危及、拿……冒險",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "escort",
+    "pos": "v.",
+    "zh": "護送、押送",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "cite",
+    "pos": "v.",
+    "zh": "舉出（理由）",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "faulty",
+    "pos": "adj.",
+    "zh": "有毛病的、有瑕疵的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "maintenance",
+    "pos": "n.",
+    "zh": "維修、保養",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "intimidate",
+    "pos": "v.",
+    "zh": "威嚇、恐嚇",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "intimidation",
+    "pos": "n.",
+    "zh": "恐嚇、威脅",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "commonplace",
+    "pos": "adj.",
+    "zh": "常見的、司空見慣的",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "documented",
+    "pos": "adj.",
+    "zh": "有紀錄的",
+    "lv": 5,
+    "at": "p3",
+    "h": "document"
+   },
+   {
+    "w": "maximize",
+    "pos": "v.",
+    "zh": "讓……達到最大",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "revenue",
+    "pos": "n.",
+    "zh": "收入、營收",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "regardless",
+    "pos": "adv.",
+    "zh": "（regardless of）不管、不顧",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "compromise",
+    "pos": "v.",
+    "zh": "危及、損害",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "checkup",
+    "pos": "n.",
+    "zh": "檢查",
+    "lv": 6,
+    "at": "q42"
+   },
+   {
+    "w": "personnel",
+    "pos": "n.",
+    "zh": "人事（personnel manager 人事經理）",
+    "lv": 5,
+    "at": "q43"
    }
   ]
  },
@@ -9620,6 +9878,156 @@
     "t": "Angry Birds has even inspired works of philosophical analogy.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "stylized",
+    "pos": "adj.",
+    "zh": "風格化的、造型簡化的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "purchase",
+    "pos": "v.",
+    "zh": "購買",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "satirize",
+    "pos": "v.",
+    "zh": "諷刺",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "negotiation",
+    "pos": "n.",
+    "zh": "談判、協商",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "segment",
+    "pos": "n.",
+    "zh": "（節目的）單元、片段",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "viral",
+    "pos": "adj.",
+    "zh": "（網路上）爆紅的（go viral 在網路上爆紅）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "viewer",
+    "pos": "n.",
+    "zh": "觀眾",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "respective",
+    "pos": "adj.",
+    "zh": "各自的",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "series",
+    "pos": "n.",
+    "zh": "系列節目",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "notable",
+    "pos": "adj.",
+    "zh": "有名的、值得注意的",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "version",
+    "pos": "n.",
+    "zh": "版本",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "handset",
+    "pos": "n.",
+    "zh": "手機",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "mock-up",
+    "pos": "n.",
+    "zh": "實物模型、仿製品",
+    "lv": 5,
+    "at": "p3",
+    "h": "mock"
+   },
+   {
+    "w": "plaza",
+    "pos": "n.",
+    "zh": "廣場",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "analogy",
+    "pos": "n.",
+    "zh": "類比",
+    "lv": 6,
+    "at": "p4"
+   },
+   {
+    "w": "entitle",
+    "pos": "v.",
+    "zh": "給（作品）取名為",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "yoga",
+    "pos": "n.",
+    "zh": "瑜伽",
+    "lv": 6,
+    "at": "p4"
+   },
+   {
+    "w": "utilize",
+    "pos": "v.",
+    "zh": "利用、運用",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "gameplay",
+    "pos": "n.",
+    "zh": "遊戲玩法",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "sarcastic",
+    "pos": "adj.",
+    "zh": "諷刺的、挖苦的",
+    "lv": 0,
+    "at": "q45"
+   },
+   {
+    "w": "cite",
+    "pos": "v.",
+    "zh": "引用、舉出",
+    "lv": 5,
+    "at": "q47"
+   }
   ]
  },
  {
@@ -9682,6 +10090,92 @@
     "t": "In order to demolish a building safely, blasters must map out a careful plan ahead of time.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "demolition",
+    "pos": "n.",
+    "zh": "拆除",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "excavator",
+    "pos": "n.",
+    "zh": "挖土機",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "demolish",
+    "pos": "v.",
+    "zh": "拆除",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "blaster",
+    "pos": "n.",
+    "zh": "爆破人員",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "architectural",
+    "pos": "adj.",
+    "zh": "建築的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "blueprint",
+    "pos": "n.",
+    "zh": "藍圖、設計圖",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "jot",
+    "pos": "v.",
+    "zh": "（jot down）匆匆記下",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "topple",
+    "pos": "v.",
+    "zh": "使倒下、推倒",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "execute",
+    "pos": "v.",
+    "zh": "執行、進行",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "miniature",
+    "pos": "n.",
+    "zh": "縮小的模型",
+    "lv": 5,
+    "at": "q48"
+   },
+   {
+    "w": "architect",
+    "pos": "n.",
+    "zh": "建築師",
+    "lv": 5,
+    "at": "q48"
+   },
+   {
+    "w": "layer",
+    "pos": "n.",
+    "zh": "層",
+    "lv": 5,
+    "at": "q49"
+   }
   ]
  },
  {
@@ -9734,6 +10228,106 @@
     "p": 2,
     "t": "Truffles are harvested in Europe with the aid of female pigs or truffle dogs, which are able to detect the strong smell of mature truffles underneath the surface of the ground.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "truffle",
+    "pos": "n.",
+    "zh": "松露",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "delicacy",
+    "pos": "n.",
+    "zh": "珍饈、美味的食物",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "underneath",
+    "pos": "prep.",
+    "zh": "在……下面",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "odor",
+    "pos": "n.",
+    "zh": "氣味",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "risky",
+    "pos": "adj.",
+    "zh": "有風險的",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "edible",
+    "pos": "adj.",
+    "zh": "可以吃的",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "hover",
+    "pos": "v.",
+    "zh": "盤旋",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "subsequent",
+    "pos": "adj.",
+    "zh": "後來的、隨後的",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "specimen",
+    "pos": "n.",
+    "zh": "（一個）樣品、實物",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "gourmet",
+    "pos": "adj.",
+    "zh": "美食的（gourmet expert 美食專家）",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "recommendation",
+    "pos": "n.",
+    "zh": "建議",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "bland",
+    "pos": "adj.",
+    "zh": "味道清淡的、沒什麼味道的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "refrigerate",
+    "pos": "v.",
+    "zh": "冷藏",
+    "lv": 0,
+    "at": "q37"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q39"
    }
   ]
  },
@@ -9798,6 +10392,78 @@
     "t": "Now Europe is reforming the rules governing animal experiments by restricting the number of animals used in labs.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "stressful",
+    "pos": "adj.",
+    "zh": "讓人有壓力的、緊張的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "experimentation",
+    "pos": "n.",
+    "zh": "實驗（animal experimentation 動物實驗）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "restrictive",
+    "pos": "adj.",
+    "zh": "限制嚴格的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "comprehensive",
+    "pos": "adj.",
+    "zh": "全面的、完整的",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "recommend",
+    "pos": "v.",
+    "zh": "建議",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "finding",
+    "pos": "n.",
+    "zh": "研究結果、發現",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "hypothesis",
+    "pos": "n.",
+    "zh": "假設",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "conduct",
+    "pos": "v.",
+    "zh": "進行、實施",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "ban",
+    "pos": "n.",
+    "zh": "禁令、禁止",
+    "lv": 5,
+    "at": "q40"
+   },
+   {
+    "w": "statistical",
+    "pos": "adj.",
+    "zh": "統計的",
+    "lv": 5,
+    "at": "q42"
+   }
   ]
  },
  {
@@ -9861,6 +10527,157 @@
     "p": 2,
     "t": "The orb web is found to have two main characteristics.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "fascinating",
+    "pos": "adj.",
+    "zh": "迷人的、很吸引人的",
+    "lv": 5,
+    "at": "p1",
+    "h": "fascinate"
+   },
+   {
+    "w": "architecture",
+    "pos": "n.",
+    "zh": "建築、構造",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "structurally",
+    "pos": "adv.",
+    "zh": "結構上",
+    "lv": 5,
+    "at": "p1",
+    "h": "structural"
+   },
+   {
+    "w": "orb",
+    "pos": "n.",
+    "zh": "圓球（orb web 圓網）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "intercept",
+    "pos": "v.",
+    "zh": "攔截",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "prey",
+    "pos": "n.",
+    "zh": "獵物",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "withstand",
+    "pos": "v.",
+    "zh": "承受得住、抵擋",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "geometry",
+    "pos": "n.",
+    "zh": "幾何結構",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "radiate",
+    "pos": "v.",
+    "zh": "呈放射狀伸出",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "outward",
+    "pos": "adv.",
+    "zh": "向外",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "spiral",
+    "pos": "n.",
+    "zh": "螺旋、螺旋線",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "anchor",
+    "pos": "n.",
+    "zh": "錨（anchor thread 把網子固定在原位的固定絲）",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "vegetation",
+    "pos": "n.",
+    "zh": "植物、草木",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "composite",
+    "pos": "n.",
+    "zh": "複合材料",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "lightweight",
+    "pos": "adj.",
+    "zh": "重量輕的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "fiber",
+    "pos": "n.",
+    "zh": "纖維",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "tensile",
+    "pos": "adj.",
+    "zh": "拉伸的（tensile strength 抗拉強度）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "comparable",
+    "pos": "adj.",
+    "zh": "比得上的、差不多的",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "radius",
+    "pos": "n.",
+    "zh": "半徑（這裡指從中心向外放射的輻射絲）",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "geometrical",
+    "pos": "adj.",
+    "zh": "幾何的",
+    "lv": 0,
+    "at": "q44"
+   },
+   {
+    "w": "extendable",
+    "pos": "adj.",
+    "zh": "可以拉長的、可延展的",
+    "lv": 0,
+    "at": "q47"
    }
   ]
  },
@@ -9930,6 +10747,113 @@
     "t": "But considering the oversupply of PhDs, some people have already begun to wonder whether doing a PhD is a good choice for an individual.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "abbreviate",
+    "pos": "v.",
+    "zh": "縮寫",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "doctorate",
+    "pos": "n.",
+    "zh": "博士學位",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "originate",
+    "pos": "v.",
+    "zh": "起源",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "bachelor",
+    "pos": "n.",
+    "zh": "學士（bachelor's degree 學士學位）",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "accordingly",
+    "pos": "adv.",
+    "zh": "相應地、跟著",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "output",
+    "pos": "n.",
+    "zh": "產出、產量",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "churn",
+    "pos": "v.",
+    "zh": "（churn out）大量產出",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "outstrip",
+    "pos": "v.",
+    "zh": "超過、超出",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "doctoral",
+    "pos": "adj.",
+    "zh": "博士的（doctoral degree 博士學位）",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "professorship",
+    "pos": "n.",
+    "zh": "教授職位",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "oversupply",
+    "pos": "n.",
+    "zh": "供給過剩",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "grant",
+    "pos": "v.",
+    "zh": "授予、頒發",
+    "lv": 5,
+    "at": "q48"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q50"
+   },
+   {
+    "w": "supportive",
+    "pos": "adj.",
+    "zh": "支持的",
+    "lv": 0,
+    "at": "q51"
+   },
+   {
+    "w": "indifferent",
+    "pos": "adj.",
+    "zh": "漠不關心的、冷淡的",
+    "lv": 5,
+    "at": "q51"
+   }
   ]
  },
  {
@@ -9993,6 +10917,79 @@
     "p": 4,
     "t": "There are some interesting facts about the coins.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "presidential",
+    "pos": "adj.",
+    "zh": "總統的",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "series",
+    "pos": "n.",
+    "zh": "系列",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "mint",
+    "pos": "n.",
+    "zh": "鑄幣局（the U.S. Mint 美國鑄幣局）",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "motto",
+    "pos": "n.",
+    "zh": "座右銘、格言",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "inscription",
+    "pos": "n.",
+    "zh": "（刻在錢幣上的）字、銘文",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "nonconsecutive",
+    "pos": "adj.",
+    "zh": "不連續的",
+    "lv": 5,
+    "at": "p4",
+    "h": "consecutive"
+   },
+   {
+    "w": "deceased",
+    "pos": "adj.",
+    "zh": "已經過世的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "commuter",
+    "pos": "n.",
+    "zh": "通勤的人",
+    "lv": 5,
+    "at": "q37"
+   },
+   {
+    "w": "proverb",
+    "pos": "n.",
+    "zh": "諺語",
+    "lv": 6,
+    "at": "q38"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q39"
    }
   ]
  },
@@ -10061,6 +11058,85 @@
     "t": "Emmanuel Schwartzenberg, a former media editor of Le Figaro, the oldest and second-largest national newspaper in France, said he had strong reservations about the government project.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "decline",
+    "pos": "n.",
+    "zh": "下滑、減少",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "subscription",
+    "pos": "n.",
+    "zh": "訂閱",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "readership",
+    "pos": "n.",
+    "zh": "讀者人數、讀者群",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "reinforce",
+    "pos": "v.",
+    "zh": "強化、加深",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "blogger",
+    "pos": "n.",
+    "zh": "部落客",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "recession",
+    "pos": "n.",
+    "zh": "經濟衰退",
+    "lv": 5,
+    "at": "q40"
+   },
+   {
+    "w": "literacy",
+    "pos": "n.",
+    "zh": "識字、讀寫能力（literacy rate 識字率）",
+    "lv": 6,
+    "at": "q40"
+   },
+   {
+    "w": "incentive",
+    "pos": "n.",
+    "zh": "誘因",
+    "lv": 5,
+    "at": "q41"
+   },
+   {
+    "w": "skeptical",
+    "pos": "adj.",
+    "zh": "懷疑的",
+    "lv": 6,
+    "at": "q42"
+   },
+   {
+    "w": "indifferent",
+    "pos": "adj.",
+    "zh": "漠不關心的、冷淡的",
+    "lv": 5,
+    "at": "q42"
+   },
+   {
+    "w": "blog",
+    "pos": "n.",
+    "zh": "部落格",
+    "lv": 0,
+    "at": "q43"
+   }
   ]
  },
  {
@@ -10125,6 +11201,136 @@
     "t": "What is surprising is why this particular coffee is so rare.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "extraordinary",
+    "pos": "adj.",
+    "zh": "驚人的、非比尋常的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "civet",
+    "pos": "n.",
+    "zh": "麝香貓（palm civet 椰子狸）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "approximately",
+    "pos": "adv.",
+    "zh": "大約",
+    "lv": 6,
+    "at": "p2",
+    "h": "approximate"
+   },
+   {
+    "w": "dropping",
+    "pos": "n.",
+    "zh": "（動物的）糞便（droppings）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "tree-dwelling",
+    "pos": "adj.",
+    "zh": "住在樹上的",
+    "lv": 6,
+    "at": "p3",
+    "h": "dwelling"
+   },
+   {
+    "w": "raccoon-like",
+    "pos": "adj.",
+    "zh": "像浣熊的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "intact",
+    "pos": "adj.",
+    "zh": "完整無缺的",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "undergo",
+    "pos": "v.",
+    "zh": "經歷",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "transformation",
+    "pos": "n.",
+    "zh": "轉變",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "digestive",
+    "pos": "adj.",
+    "zh": "消化的（digestive system 消化系統）",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "retrieve",
+    "pos": "v.",
+    "zh": "取回、取出",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "caramel",
+    "pos": "n.",
+    "zh": "焦糖",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "undertone",
+    "pos": "n.",
+    "zh": "底韻、隱約的味道",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "earthy",
+    "pos": "adj.",
+    "zh": "有泥土氣息的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "gamey",
+    "pos": "adj.",
+    "zh": "有野味的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "stock",
+    "pos": "v.",
+    "zh": "（stock up on）進貨、大量購買",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "ripen",
+    "pos": "v.",
+    "zh": "成熟",
+    "lv": 0,
+    "at": "q45"
+   },
+   {
+    "w": "layer",
+    "pos": "n.",
+    "zh": "層",
+    "lv": 5,
+    "at": "q47"
+   }
   ]
  },
  {
@@ -10177,6 +11383,127 @@
     "p": 2,
     "t": "Painting and literature have become his major forms of creativity.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "playwright",
+    "pos": "n.",
+    "zh": "劇作家",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "renowned",
+    "pos": "adj.",
+    "zh": "有名的、知名的",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "sculptor",
+    "pos": "n.",
+    "zh": "雕塑家",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "contradictory",
+    "pos": "adj.",
+    "zh": "互相矛盾的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "victimize",
+    "pos": "v.",
+    "zh": "使受害、欺負",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "torment",
+    "pos": "n.",
+    "zh": "痛苦、煎熬",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "denounce",
+    "pos": "v.",
+    "zh": "譴責",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "activism",
+    "pos": "n.",
+    "zh": "社會運動、政治行動",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "commitment",
+    "pos": "n.",
+    "zh": "投入、致力",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "quest",
+    "pos": "n.",
+    "zh": "追求",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "sensual",
+    "pos": "adj.",
+    "zh": "訴諸感官的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "depiction",
+    "pos": "n.",
+    "zh": "描繪",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "complexity",
+    "pos": "n.",
+    "zh": "複雜",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "depict",
+    "pos": "v.",
+    "zh": "描繪",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "artifact",
+    "pos": "n.",
+    "zh": "人造的東西、手工製品",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "advocate",
+    "pos": "n.",
+    "zh": "提倡者、擁護者",
+    "lv": 5,
+    "at": "q49"
+   },
+   {
+    "w": "characterize",
+    "pos": "v.",
+    "zh": "描述……的特色",
+    "lv": 5,
+    "at": "q51"
    }
   ]
  },
@@ -10234,6 +11561,101 @@
     "t": "Our thought processes can also be a source of considerable stress.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "unavoidable",
+    "pos": "adj.",
+    "zh": "無法避免的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "stressor",
+    "pos": "n.",
+    "zh": "壓力源",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "trigger",
+    "pos": "v.",
+    "zh": "引發",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "physiological",
+    "pos": "adj.",
+    "zh": "生理的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "adolescence",
+    "pos": "n.",
+    "zh": "青春期",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "nutrition",
+    "pos": "n.",
+    "zh": "營養",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "chronic",
+    "pos": "adj.",
+    "zh": "長期的、慢性的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "perceive",
+    "pos": "v.",
+    "zh": "看待、理解",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "perception",
+    "pos": "n.",
+    "zh": "看法、感知",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "unmediated",
+    "pos": "adj.",
+    "zh": "未經思考過濾的、直接的",
+    "lv": 6,
+    "at": "p2",
+    "h": "mediate"
+   },
+   {
+    "w": "panic-inducing",
+    "pos": "adj.",
+    "zh": "引發恐慌的",
+    "lv": 6,
+    "at": "p2",
+    "h": "induce"
+   },
+   {
+    "w": "intensify",
+    "pos": "v.",
+    "zh": "加重、加強",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "stressful",
+    "pos": "adj.",
+    "zh": "讓人有壓力的",
+    "lv": 0,
+    "at": "q37"
+   }
   ]
  },
  {
@@ -10285,6 +11707,85 @@
     "p": 1,
     "t": "The true chameleon and the green anole are actually different animals, but they do have much in common.",
     "k": "both"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "anole",
+    "pos": "n.",
+    "zh": "安樂蜥（green anole 綠變色蜥）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "lizard",
+    "pos": "n.",
+    "zh": "蜥蜴",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "chameleon",
+    "pos": "n.",
+    "zh": "變色龍",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "subsist",
+    "pos": "v.",
+    "zh": "（subsist on）靠……維生",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "trait",
+    "pos": "n.",
+    "zh": "特點、特徵",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "whereas",
+    "pos": "conj.",
+    "zh": "然而、而",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "biologist",
+    "pos": "n.",
+    "zh": "生物學家",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "hormone",
+    "pos": "n.",
+    "zh": "荷爾蒙、激素",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "abundant",
+    "pos": "adj.",
+    "zh": "數量多的、豐富的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "deceive",
+    "pos": "v.",
+    "zh": "欺騙",
+    "lv": 5,
+    "at": "q41"
+   },
+   {
+    "w": "predator",
+    "pos": "n.",
+    "zh": "捕食者、掠食者",
+    "lv": 5,
+    "at": "q41"
    }
   ]
  },
@@ -10345,6 +11846,57 @@
     "p": 3,
     "t": "Once the goldsmiths realized that few people actually wanted to get their gold back with the notes, they began to issue more notes than the gold they had.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "stronghold",
+    "pos": "n.",
+    "zh": "據點、大本營",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "goldsmith",
+    "pos": "n.",
+    "zh": "金匠",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "depositor",
+    "pos": "n.",
+    "zh": "存款人、寄存東西的人",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "recipient",
+    "pos": "n.",
+    "zh": "收到的人",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "cumbersome",
+    "pos": "adj.",
+    "zh": "笨重的、不方便攜帶的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "currency",
+    "pos": "n.",
+    "zh": "貨幣",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "parliament",
+    "pos": "n.",
+    "zh": "國會、議會",
+    "lv": 6,
+    "at": "q44"
    }
   ]
  },
@@ -10412,6 +11964,99 @@
     "p": 4,
     "t": "Thus warfare, overpopulation, overuse of resources, and destruction of the environment appear to be active factors involved in the disappearance of Mayan cities.",
     "k": "both"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "striking",
+    "pos": "adj.",
+    "zh": "引人注目的、出色的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "architecture",
+    "pos": "n.",
+    "zh": "建築",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "astronomical",
+    "pos": "adj.",
+    "zh": "天文的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "populate",
+    "pos": "v.",
+    "zh": "居住在（densely populated 人口稠密的）",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "setting",
+    "pos": "n.",
+    "zh": "環境、背景",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "warfare",
+    "pos": "n.",
+    "zh": "戰爭",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "overpopulation",
+    "pos": "n.",
+    "zh": "人口過多",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "overuse",
+    "pos": "n.",
+    "zh": "過度使用",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "pollen",
+    "pos": "n.",
+    "zh": "花粉",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "drought",
+    "pos": "n.",
+    "zh": "乾旱",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "disappearance",
+    "pos": "n.",
+    "zh": "消失",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "overprotection",
+    "pos": "n.",
+    "zh": "過度保護",
+    "lv": 0,
+    "at": "q49"
+   },
+   {
+    "w": "shortage",
+    "pos": "n.",
+    "zh": "短缺",
+    "lv": 5,
+    "at": "q50"
    }
   ]
  },
@@ -10482,6 +12127,101 @@
     "t": "Perhaps because the program had become so widespread and successful, TOD had been criticized for excluding boys, and it was expanded in 2003 to include boys.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "workforce",
+    "pos": "n.",
+    "zh": "勞動人口、職場",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "occupational",
+    "pos": "adj.",
+    "zh": "職業的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "molecular",
+    "pos": "adj.",
+    "zh": "分子的（molecular biology 分子生物學）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "athletics",
+    "pos": "n.",
+    "zh": "體育、運動競技",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "self-esteem",
+    "pos": "n.",
+    "zh": "自尊、自信心",
+    "lv": 6,
+    "at": "p3",
+    "h": "esteem"
+   },
+   {
+    "w": "adolescence",
+    "pos": "n.",
+    "zh": "青春期",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "underrepresented",
+    "pos": "adj.",
+    "zh": "人數偏少的、比例過低的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "executive",
+    "pos": "adj.",
+    "zh": "主管的、高階的",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "widespread",
+    "pos": "adj.",
+    "zh": "普及的、普遍的",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "exclude",
+    "pos": "v.",
+    "zh": "排除、不讓……參加",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "stereotyped",
+    "pos": "adj.",
+    "zh": "刻板的（stereotyped roles 刻板角色）",
+    "lv": 5,
+    "at": "p4",
+    "h": "stereotype"
+   },
+   {
+    "w": "homemaking",
+    "pos": "n.",
+    "zh": "家務、持家",
+    "lv": 0,
+    "at": "q38"
+   },
+   {
+    "w": "rear",
+    "pos": "v.",
+    "zh": "養育（rear children 養育孩子）",
+    "lv": 5,
+    "at": "q38"
+   }
   ]
  },
  {
@@ -10547,6 +12287,148 @@
     "p": 4,
     "t": "Hair is also used as a symbol of opposition.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "outward",
+    "pos": "adj.",
+    "zh": "外表的、表面的",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "wig",
+    "pos": "n.",
+    "zh": "假髮",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "artistry",
+    "pos": "n.",
+    "zh": "藝術技巧、手藝",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "fertility",
+    "pos": "n.",
+    "zh": "生育能力",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "betray",
+    "pos": "v.",
+    "zh": "背叛、出賣",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "metaphor",
+    "pos": "n.",
+    "zh": "比喻、象徵",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "intrigue",
+    "pos": "v.",
+    "zh": "引起……的興趣",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "tempt",
+    "pos": "v.",
+    "zh": "引誘、誘惑",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "opposition",
+    "pos": "n.",
+    "zh": "反對、對立",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "punk",
+    "pos": "adj.",
+    "zh": "龐克的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "disapproval",
+    "pos": "n.",
+    "zh": "不贊成、反對",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "lifestyle",
+    "pos": "n.",
+    "zh": "生活方式",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "provocative",
+    "pos": "adj.",
+    "zh": "挑釁的、刻意惹人注意的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "liberation",
+    "pos": "n.",
+    "zh": "解放（women's liberation 婦女解放運動）",
+    "lv": 6,
+    "at": "p4"
+   },
+   {
+    "w": "underline",
+    "pos": "v.",
+    "zh": "強調、凸顯",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "attribute",
+    "pos": "n.",
+    "zh": "特質、特點",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "vitality",
+    "pos": "n.",
+    "zh": "活力",
+    "lv": 6,
+    "at": "p4"
+   },
+   {
+    "w": "symbolic",
+    "pos": "adj.",
+    "zh": "象徵的",
+    "lv": 5,
+    "at": "q40"
+   },
+   {
+    "w": "contemporary",
+    "pos": "adj.",
+    "zh": "當代的",
+    "lv": 5,
+    "at": "q40"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q43"
    }
   ]
  },
@@ -10621,6 +12503,78 @@
     "t": "So, grab a paintbrush, a trash bag, or whatever you need to help your community.",
     "k": "both"
    }
+  ],
+  "vocab": [
+   {
+    "w": "resident",
+    "pos": "n.",
+    "zh": "居民",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "orphanage",
+    "pos": "n.",
+    "zh": "孤兒院",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "donation",
+    "pos": "n.",
+    "zh": "捐款",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "recession",
+    "pos": "n.",
+    "zh": "經濟衰退",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "monetary",
+    "pos": "adj.",
+    "zh": "金錢的、財務上的",
+    "lv": 6,
+    "at": "p4"
+   },
+   {
+    "w": "charitable",
+    "pos": "adj.",
+    "zh": "慈善的",
+    "lv": 6,
+    "at": "p4"
+   },
+   {
+    "w": "recommend",
+    "pos": "v.",
+    "zh": "推薦",
+    "lv": 5,
+    "at": "q44"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q47"
+   },
+   {
+    "w": "juvenile",
+    "pos": "adj.",
+    "zh": "青少年的",
+    "lv": 5,
+    "at": "q47"
+   },
+   {
+    "w": "delinquency",
+    "pos": "n.",
+    "zh": "犯罪、不良行為（juvenile delinquency 青少年犯罪）",
+    "lv": 0,
+    "at": "q47"
+   }
   ]
  },
  {
@@ -10686,6 +12640,52 @@
     "t": "Unfortunately, without the threat of consequences, students are just not changing their behavior.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "copyrighted",
+    "pos": "adj.",
+    "zh": "有版權的",
+    "lv": 5,
+    "at": "p1",
+    "h": "copyright"
+   },
+   {
+    "w": "randomly",
+    "pos": "adv.",
+    "zh": "隨意地",
+    "lv": 5,
+    "at": "p2",
+    "h": "random"
+   },
+   {
+    "w": "blog",
+    "pos": "n.",
+    "zh": "部落格",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "lawsuit",
+    "pos": "n.",
+    "zh": "訴訟（settle a lawsuit 和解了結訴訟）",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "tactic",
+    "pos": "n.",
+    "zh": "手段、策略（scare tactic 恐嚇手段）",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "extraordinary",
+    "pos": "adj.",
+    "zh": "驚人的、非比尋常的",
+    "lv": 5,
+    "at": "p4"
+   }
   ]
  },
  {
@@ -10749,6 +12749,71 @@
     "t": "Though already 50 years old, Lego is still the same product it was in the 1950s.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "workshop",
+    "pos": "n.",
+    "zh": "工作坊、工作室",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "stumble",
+    "pos": "v.",
+    "zh": "（stumble on）無意間發現",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "verb",
+    "pos": "n.",
+    "zh": "動詞",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "retailer",
+    "pos": "n.",
+    "zh": "零售商",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "immense",
+    "pos": "adj.",
+    "zh": "巨大的",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "versatile",
+    "pos": "adj.",
+    "zh": "用途廣的、多變化的",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "interlocking",
+    "pos": "adj.",
+    "zh": "可以互相扣合的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "patent",
+    "pos": "v.",
+    "zh": "取得專利",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "compatible",
+    "pos": "adj.",
+    "zh": "相容的、可以搭配使用的",
+    "lv": 5,
+    "at": "p4"
+   }
   ]
  },
  {
@@ -10810,6 +12875,51 @@
     "p": 3,
     "t": "But the primary approval must come from me, and I feel secure now that I can live with that knowledge safely locked in my mind.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "anorexia",
+    "pos": "n.",
+    "zh": "厭食症（anorexia nervosa 神經性厭食症）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "subconscious",
+    "pos": "adj.",
+    "zh": "潛意識的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "alter",
+    "pos": "v.",
+    "zh": "改變",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "solely",
+    "pos": "adv.",
+    "zh": "只、完全",
+    "lv": 5,
+    "at": "p3",
+    "h": "sole"
+   },
+   {
+    "w": "acknowledgment",
+    "pos": "n.",
+    "zh": "認可、承認",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "abuse",
+    "pos": "n.",
+    "zh": "虐待（child abuse 虐待兒童）",
+    "lv": 5,
+    "at": "q53"
    }
   ]
  },
@@ -10874,6 +12984,29 @@
     "p": 3,
     "t": "Conflicts have arisen over the way in which ethnic groups were split apart and thrown together.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "trigger",
+    "pos": "v.",
+    "zh": "引發",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "partly",
+    "pos": "adv.",
+    "zh": "部分地",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "territorial",
+    "pos": "adj.",
+    "zh": "領土的",
+    "lv": 0,
+    "at": "q54"
    }
   ]
  },
@@ -10952,6 +13085,93 @@
     "t": "Fond of saying that “the man who dies rich dies disgraced,” Carnegie then turned his attention to giving away his fortune.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "playwright",
+    "pos": "n.",
+    "zh": "劇作家",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "benefactor",
+    "pos": "n.",
+    "zh": "捐助者、贊助人",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "refining",
+    "pos": "n.",
+    "zh": "精煉",
+    "lv": 6,
+    "at": "p3",
+    "h": "refine"
+   },
+   {
+    "w": "convert",
+    "pos": "v.",
+    "zh": "轉換、轉變",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "overwhelm",
+    "pos": "v.",
+    "zh": "壓得人喘不過氣",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "degrade",
+    "pos": "v.",
+    "zh": "墮落、使降低人格",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "disgrace",
+    "pos": "v.",
+    "zh": "使丟臉、使蒙羞",
+    "lv": 6,
+    "at": "p5"
+   },
+   {
+    "w": "abhor",
+    "pos": "v.",
+    "zh": "憎惡、厭惡",
+    "lv": 0,
+    "at": "p5"
+   },
+   {
+    "w": "sponsor",
+    "pos": "v.",
+    "zh": "資助、贊助",
+    "lv": 5,
+    "at": "p5"
+   },
+   {
+    "w": "institution",
+    "pos": "n.",
+    "zh": "機構",
+    "lv": 5,
+    "at": "p5"
+   },
+   {
+    "w": "characterize",
+    "pos": "v.",
+    "zh": "描述……的特色",
+    "lv": 5,
+    "at": "q48"
+   },
+   {
+    "w": "refinement",
+    "pos": "n.",
+    "zh": "精煉",
+    "lv": 6,
+    "at": "q49"
+   }
   ]
  },
  {
@@ -11022,6 +13242,114 @@
     "p": 4,
     "t": "Once your child is diagnosed with AD/HD, it is important to let the school know so that they can provide appropriate academic and social support.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "hyperactivity",
+    "pos": "n.",
+    "zh": "過動",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "neurological",
+    "pos": "adj.",
+    "zh": "神經的、神經方面的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "biological",
+    "pos": "adj.",
+    "zh": "生物的、生理的",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "genetic",
+    "pos": "adj.",
+    "zh": "遺傳的、基因的",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "symptom",
+    "pos": "n.",
+    "zh": "症狀",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "impulsivity",
+    "pos": "n.",
+    "zh": "衝動",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "inattentive",
+    "pos": "adj.",
+    "zh": "不專心的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "hyperactive",
+    "pos": "adj.",
+    "zh": "過動的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "impulsive",
+    "pos": "adj.",
+    "zh": "衝動的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "blurt",
+    "pos": "v.",
+    "zh": "（blurt out）脫口而出",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "diagnose",
+    "pos": "v.",
+    "zh": "診斷",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "confidential",
+    "pos": "adj.",
+    "zh": "機密的、保密的",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "accommodation",
+    "pos": "n.",
+    "zh": "調整、配合（make accommodations 為了配合需要做調整）",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "attentive",
+    "pos": "adj.",
+    "zh": "專心的、注意力集中的",
+    "lv": 0,
+    "at": "q51"
+   },
+   {
+    "w": "over-cautiously",
+    "pos": "adv.",
+    "zh": "過度謹慎地",
+    "lv": 5,
+    "at": "q51",
+    "h": "cautious"
    }
   ]
  },
@@ -11094,6 +13422,94 @@
     "p": 4,
     "t": "So, take some time to learn more about the problems that conflict diamonds create, and then follow your heart the next time you shop for a diamond.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "terrorize",
+    "pos": "v.",
+    "zh": "恐嚇、讓人活在恐懼中",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "smuggle",
+    "pos": "v.",
+    "zh": "走私",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "legitimate",
+    "pos": "adj.",
+    "zh": "合法的",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "document",
+    "pos": "v.",
+    "zh": "記錄",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "originate",
+    "pos": "v.",
+    "zh": "來自、源自",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "chaos",
+    "pos": "n.",
+    "zh": "混亂",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "mainstream",
+    "pos": "adj.",
+    "zh": "主流的",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "exceptionally",
+    "pos": "adv.",
+    "zh": "格外地、特別地",
+    "lv": 5,
+    "at": "q53",
+    "h": "exceptional"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q54"
+   },
+   {
+    "w": "penalize",
+    "pos": "v.",
+    "zh": "處罰",
+    "lv": 0,
+    "at": "q55"
+   },
+   {
+    "w": "indifferent",
+    "pos": "adj.",
+    "zh": "漠不關心的",
+    "lv": 5,
+    "at": "q56"
+   },
+   {
+    "w": "disapproving",
+    "pos": "adj.",
+    "zh": "不贊成的、不以為然的",
+    "lv": 5,
+    "at": "q56",
+    "h": "disapprove"
    }
   ]
  },
