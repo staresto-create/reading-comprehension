@@ -10259,6 +10259,65 @@
     "t": "The most important thing was to make children understand why they sing these songs and to preserve and pass on their culture.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "cappella",
+    "pos": "n.",
+    "zh": "無伴奏合唱（a cappella）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "instrumental",
+    "pos": "adj.",
+    "zh": "樂器的、器樂的（instrumental music 演奏音樂）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "boost",
+    "pos": "v.",
+    "zh": "提升、增強",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "ballad",
+    "pos": "n.",
+    "zh": "歌謠、民謠",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "re-understand",
+    "pos": "v.",
+    "zh": "重新認識、重新理解",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "blurred",
+    "pos": "adj.",
+    "zh": "模糊的",
+    "lv": 5,
+    "at": "p3",
+    "h": "blur"
+   },
+   {
+    "w": "visualize",
+    "pos": "v.",
+    "zh": "在腦中想像、具體想像出",
+    "lv": 0,
+    "at": "q42"
+   },
+   {
+    "w": "vague",
+    "pos": "adj.",
+    "zh": "模糊的、不清楚的",
+    "lv": 5,
+    "at": "q43"
+   }
   ]
  },
  {
@@ -10315,6 +10374,106 @@
     "p": 1,
     "t": "But what they do not realize is that overtreatment—too many scans, too many blood tests, too many procedures—may pose harm.",
     "k": "both"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "overtreatment",
+    "pos": "n.",
+    "zh": "過度醫療、過度治療",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "scan",
+    "pos": "n.",
+    "zh": "掃描檢查",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "invasive",
+    "pos": "adj.",
+    "zh": "侵入性的（檢查或治療）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "immune",
+    "pos": "adj.",
+    "zh": "免疫的",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "recommend",
+    "pos": "v.",
+    "zh": "建議",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "specialist",
+    "pos": "n.",
+    "zh": "專科醫師",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "hospitalize",
+    "pos": "v.",
+    "zh": "讓（病人）住院",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "precaution",
+    "pos": "n.",
+    "zh": "預防措施（as a precaution 以防萬一）",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "oversee",
+    "pos": "v.",
+    "zh": "監督、負責照料",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "stabilize",
+    "pos": "v.",
+    "zh": "穩定下來",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "beneficial",
+    "pos": "adj.",
+    "zh": "有益的",
+    "lv": 5,
+    "at": "q45"
+   },
+   {
+    "w": "confirmation",
+    "pos": "n.",
+    "zh": "證實、確認",
+    "lv": 0,
+    "at": "q48"
+   },
+   {
+    "w": "diagnosis",
+    "pos": "n.",
+    "zh": "診斷",
+    "lv": 5,
+    "at": "q48"
+   },
+   {
+    "w": "interpretation",
+    "pos": "n.",
+    "zh": "解讀、判讀",
+    "lv": 5,
+    "at": "q48"
    }
   ]
  },
@@ -10407,6 +10566,141 @@
     "t": "In 1968, he began to turn away from photography and returned to his passion for drawing and painting.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "humane",
+    "pos": "adj.",
+    "zh": "有人情味的、人道的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "spontaneous",
+    "pos": "adj.",
+    "zh": "自然而然的、不做作的",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "photojournalism",
+    "pos": "n.",
+    "zh": "新聞攝影",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "textile",
+    "pos": "n.",
+    "zh": "紡織品（textile manufacturer 紡織業者）",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "frugal",
+    "pos": "adj.",
+    "zh": "節儉的、儉樸的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "adulthood",
+    "pos": "n.",
+    "zh": "成年（時期）",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "communism",
+    "pos": "n.",
+    "zh": "共產主義",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "antelope",
+    "pos": "n.",
+    "zh": "羚羊",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "boar",
+    "pos": "n.",
+    "zh": "野豬",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "handheld",
+    "pos": "adj.",
+    "zh": "手持的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "fleeting",
+    "pos": "adj.",
+    "zh": "短暫的、一閃即逝的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "assassination",
+    "pos": "n.",
+    "zh": "暗殺、刺殺",
+    "lv": 0,
+    "at": "p5"
+   },
+   {
+    "w": "subsequent",
+    "pos": "adj.",
+    "zh": "後來的、隨後的",
+    "lv": 5,
+    "at": "p5"
+   },
+   {
+    "w": "document",
+    "pos": "v.",
+    "zh": "記錄（以照片、文字）",
+    "lv": 5,
+    "at": "p5"
+   },
+   {
+    "w": "darkroom",
+    "pos": "n.",
+    "zh": "暗房",
+    "lv": 0,
+    "at": "p6"
+   },
+   {
+    "w": "naturalist",
+    "pos": "n.",
+    "zh": "崇尚自然的人、自然主義者",
+    "lv": 0,
+    "at": "p6"
+   },
+   {
+    "w": "decisive",
+    "pos": "adj.",
+    "zh": "決定性的（The Decisive Moment《決定性瞬間》）",
+    "lv": 6,
+    "at": "p6"
+   },
+   {
+    "w": "span",
+    "pos": "v.",
+    "zh": "橫跨（一段時間）",
+    "lv": 6,
+    "at": "p6"
+   },
+   {
+    "w": "assassinate",
+    "pos": "v.",
+    "zh": "暗殺、刺殺",
+    "lv": 6,
+    "at": "q51"
+   }
   ]
  },
  {
@@ -10478,6 +10772,136 @@
     "t": "The remedy is as simple as standing up and taking activity breaks.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "car-commuting",
+    "pos": "adj.",
+    "zh": "開車通勤的",
+    "lv": 5,
+    "at": "p1",
+    "h": "commute"
+   },
+   {
+    "w": "desk-bound",
+    "pos": "adj.",
+    "zh": "整天坐辦公桌的",
+    "lv": 5,
+    "at": "p1",
+    "h": "bound"
+   },
+   {
+    "w": "lifestyle",
+    "pos": "n.",
+    "zh": "生活方式",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "deadly",
+    "pos": "adj.",
+    "zh": "致命的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "epidemic",
+    "pos": "n.",
+    "zh": "（疾病的）大流行、蔓延",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "metabolism",
+    "pos": "n.",
+    "zh": "新陳代謝",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "enzyme",
+    "pos": "n.",
+    "zh": "酵素",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "artery",
+    "pos": "n.",
+    "zh": "動脈",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "diabetes",
+    "pos": "n.",
+    "zh": "糖尿病",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "essence",
+    "pos": "n.",
+    "zh": "本質（in essence 本質上、總之）",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "sedentary",
+    "pos": "adj.",
+    "zh": "久坐不動的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "recommend",
+    "pos": "v.",
+    "zh": "建議",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "exerciser",
+    "pos": "n.",
+    "zh": "運動的人",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "overall",
+    "pos": "adv.",
+    "zh": "整體來說",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "counteract",
+    "pos": "v.",
+    "zh": "抵消、消除（影響）",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "risky",
+    "pos": "adj.",
+    "zh": "有風險的",
+    "lv": 5,
+    "at": "q54"
+   },
+   {
+    "w": "commute",
+    "pos": "v.",
+    "zh": "通勤",
+    "lv": 5,
+    "at": "q55"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論",
+    "lv": 6,
+    "at": "q56"
+   }
   ]
  },
  {
@@ -10531,7 +10955,37 @@
    "1964 年，摩里森離婚，從此專心寫作。有一天，她把當年替寫作社團寫的那篇故事翻出來，決定擴寫成小說。她取材自童年的記憶，再加上自己的想像，讓書中的角色有了自己的生命。《最藍的眼睛》終於在 1970 年出版。從 1970 年到 1992 年，摩里森又出版了五本小說。",
    "摩里森在小說裡融入非裔美國人過去的種種：他們的奮鬥、面對的問題和文化記憶。例如在《所羅門之歌》裡，摩里森講述一個非裔美國男子在自己的文化中尋找自我認同的故事。她的小說和其他作品替她贏得好幾個獎項。1993 年，摩里森獲得諾貝爾文學獎，是第八位得到這項榮譽的女性，也是第一位獲獎的非裔美國女性。"
   ],
-  "ms": []
+  "ms": [],
+  "vocab": [
+   {
+    "w": "myth",
+    "pos": "n.",
+    "zh": "神話、傳說",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "prose",
+    "pos": "n.",
+    "zh": "散文",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "discrimination",
+    "pos": "n.",
+    "zh": "歧視（racial discrimination 種族歧視）",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "adolescent",
+    "pos": "adj.",
+    "zh": "青少年的",
+    "lv": 5,
+    "at": "q44"
+   }
+  ]
  },
  {
   "id": "g103p2",
@@ -10601,6 +11055,99 @@
     "t": "Below is an excerpt from an interview with Zeke Emanuel, a health-policy expert, on his famous brothers.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "excerpt",
+    "pos": "n.",
+    "zh": "節錄、摘錄",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "bioethicist",
+    "pos": "n.",
+    "zh": "生命倫理學家",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "architect",
+    "pos": "n.",
+    "zh": "規劃者、設計者（這裡指參與制定法案的人）",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "idiocy",
+    "pos": "n.",
+    "zh": "蠢事",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "jot",
+    "pos": "v.",
+    "zh": "簡短記下",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "attribute",
+    "pos": "v.",
+    "zh": "把……歸因於（attribute A to B）",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "admonition",
+    "pos": "n.",
+    "zh": "告誡、勸告",
+    "lv": 0,
+    "at": "p5"
+   },
+   {
+    "w": "tweet",
+    "pos": "v.",
+    "zh": "發推文（在 Twitter 上發文）",
+    "lv": 0,
+    "at": "p7"
+   },
+   {
+    "w": "fascination",
+    "pos": "n.",
+    "zh": "著迷、吸引人的事物（a source of fascination 大家感興趣的對象）",
+    "lv": 6,
+    "at": "p10"
+   },
+   {
+    "w": "superagent",
+    "pos": "n.",
+    "zh": "超級經紀人",
+    "lv": 0,
+    "at": "p11"
+   },
+   {
+    "w": "cruise",
+    "pos": "n.",
+    "zh": "郵輪旅行（take a cruise 搭郵輪旅遊）",
+    "lv": 5,
+    "at": "p11"
+   },
+   {
+    "w": "pina colada",
+    "pos": "n.",
+    "zh": "鳳梨可樂達（一種調酒）",
+    "lv": 0,
+    "at": "p11"
+   },
+   {
+    "w": "glorify",
+    "pos": "v.",
+    "zh": "頌揚、美化",
+    "lv": 0,
+    "at": "q47"
+   }
   ]
  },
  {
@@ -10668,6 +11215,100 @@
     "t": "There is a lot of excitement and fear surrounding MOOCs.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "massive",
+    "pos": "adj.",
+    "zh": "大規模的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "interactive",
+    "pos": "adj.",
+    "zh": "互動的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "via",
+    "pos": "prep.",
+    "zh": "透過、經由",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "reading",
+    "pos": "n.",
+    "zh": "閱讀材料",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "forum",
+    "pos": "n.",
+    "zh": "討論區、論壇",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "envision",
+    "pos": "v.",
+    "zh": "設想、預想",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "striking",
+    "pos": "adj.",
+    "zh": "引人注目的、顯著的",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "prestigious",
+    "pos": "adj.",
+    "zh": "有名望的、一流的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "cash-strapped",
+    "pos": "adj.",
+    "zh": "缺錢的、手頭很緊的",
+    "lv": 5,
+    "at": "p2",
+    "h": "strap"
+   },
+   {
+    "w": "enrollment",
+    "pos": "n.",
+    "zh": "入學人數、註冊人數",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "arouse",
+    "pos": "v.",
+    "zh": "引起、激起",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "disappearance",
+    "pos": "n.",
+    "zh": "消失",
+    "lv": 0,
+    "at": "q52"
+   },
+   {
+    "w": "overreliance",
+    "pos": "n.",
+    "zh": "過度依賴",
+    "lv": 0,
+    "at": "q52"
+   }
   ]
  },
  {
@@ -10724,6 +11365,123 @@
     "p": 2,
     "t": "If and when cars go completely driverless, the benefits will be enormous.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "periodic",
+    "pos": "adj.",
+    "zh": "週期性的、時不時的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "automotive",
+    "pos": "adj.",
+    "zh": "汽車的（automotive industry 汽車業）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "reverse-park",
+    "pos": "v.",
+    "zh": "倒車入庫、倒車停車",
+    "lv": 5,
+    "at": "p2",
+    "h": "reverse"
+   },
+   {
+    "w": "destination",
+    "pos": "n.",
+    "zh": "目的地",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "prototype",
+    "pos": "n.",
+    "zh": "原型（車）、樣品",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "freeway",
+    "pos": "n.",
+    "zh": "高速公路",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "takeaway",
+    "pos": "adj.",
+    "zh": "外帶的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "disabled",
+    "pos": "adj.",
+    "zh": "身心障礙的",
+    "lv": 6,
+    "at": "p2",
+    "h": "disable"
+   },
+   {
+    "w": "mobility",
+    "pos": "n.",
+    "zh": "行動能力",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "crippling",
+    "pos": "adj.",
+    "zh": "沉重得讓人吃不消的",
+    "lv": 5,
+    "at": "p2",
+    "h": "cripple"
+   },
+   {
+    "w": "reckless",
+    "pos": "adj.",
+    "zh": "魯莽的",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "accelerator",
+    "pos": "n.",
+    "zh": "油門",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "commute",
+    "pos": "v.",
+    "zh": "通勤",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "cyclist",
+    "pos": "n.",
+    "zh": "騎腳踏車的人",
+    "lv": 0,
+    "at": "q53"
+   },
+   {
+    "w": "infrastructure",
+    "pos": "n.",
+    "zh": "基礎設施",
+    "lv": 5,
+    "at": "q54"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論",
+    "lv": 6,
+    "at": "q56"
    }
   ]
  },
@@ -10793,6 +11551,57 @@
     "t": "Swiss generals decided to issue each soldier a standard knife to serve both as a screwdriver and a can opener.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "screwdriver",
+    "pos": "n.",
+    "zh": "螺絲起子",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "dismantle",
+    "pos": "v.",
+    "zh": "拆開、拆卸",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "lifesaver",
+    "pos": "n.",
+    "zh": "救星",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "purchaser",
+    "pos": "n.",
+    "zh": "採購人員、買方",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "corkscrew",
+    "pos": "n.",
+    "zh": "開瓶器",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "multi-functional",
+    "pos": "adj.",
+    "zh": "多功能的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "purchase",
+    "pos": "v.",
+    "zh": "購買、採購",
+    "lv": 5,
+    "at": "q43"
+   }
   ]
  },
  {
@@ -10855,6 +11664,64 @@
     "t": "It is estimated that there are currently over 500,000 pieces of man-made trash orbiting the Earth at speeds of up to 17,500 miles per hour.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "comet",
+    "pos": "n.",
+    "zh": "彗星",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "mortal",
+    "pos": "adj.",
+    "zh": "致命的（in mortal danger 有生命危險）",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "astronaut",
+    "pos": "n.",
+    "zh": "太空人",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "spacewalk",
+    "pos": "n.",
+    "zh": "太空漫步",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "spacecraft",
+    "pos": "n.",
+    "zh": "太空船",
+    "lv": 6,
+    "at": "p4"
+   },
+   {
+    "w": "collide",
+    "pos": "v.",
+    "zh": "相撞（collide with）",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "fragment",
+    "pos": "n.",
+    "zh": "碎片",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "shuttle",
+    "pos": "n.",
+    "zh": "太空梭（space shuttle）",
+    "lv": 5,
+    "at": "p4"
+   }
   ]
  },
  {
@@ -10915,6 +11782,43 @@
     "t": "This shows that when the test is taken plays a crucial role in the test result.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "non-alcoholic",
+    "pos": "adj.",
+    "zh": "不含酒精的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "crucial",
+    "pos": "adj.",
+    "zh": "關鍵的",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "conduct",
+    "pos": "v.",
+    "zh": "進行、實施",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "consumption",
+    "pos": "n.",
+    "zh": "喝下、飲用",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "participant",
+    "pos": "n.",
+    "zh": "參與者、受試者",
+    "lv": 5,
+    "at": "q51"
+   }
   ]
  },
  {
@@ -10967,6 +11871,113 @@
     "p": 2,
     "t": "As such, the dot signifies piety and serves as a constant reminder to keep God in the front of a believer’s thoughts.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "indicator",
+    "pos": "n.",
+    "zh": "標誌、指標",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "marital",
+    "pos": "adj.",
+    "zh": "婚姻的（marital status 婚姻狀態）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "dialect",
+    "pos": "n.",
+    "zh": "方言",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "bindi",
+    "pos": "n.",
+    "zh": "吉祥痣（印度女性點在額頭中央的圓點）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "forehead",
+    "pos": "n.",
+    "zh": "額頭",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "inward",
+    "pos": "adv.",
+    "zh": "向內",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "signify",
+    "pos": "v.",
+    "zh": "象徵、代表",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "piety",
+    "pos": "n.",
+    "zh": "虔誠",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "reminder",
+    "pos": "n.",
+    "zh": "提醒（的東西）",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "believer",
+    "pos": "n.",
+    "zh": "信徒",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "preference",
+    "pos": "n.",
+    "zh": "偏好、喜好",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "decorative",
+    "pos": "adj.",
+    "zh": "裝飾用的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "variation",
+    "pos": "n.",
+    "zh": "變化、樣式",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "highlight",
+    "pos": "v.",
+    "zh": "凸顯、強調",
+    "lv": 5,
+    "at": "q53"
+   },
+   {
+    "w": "subjective",
+    "pos": "adj.",
+    "zh": "主觀的",
+    "lv": 6,
+    "at": "q54"
    }
   ]
  },
@@ -11033,6 +12044,143 @@
     "t": "The kilt can be worn with accessories.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "kilt",
+    "pos": "n.",
+    "zh": "蘇格蘭裙",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "garment",
+    "pos": "n.",
+    "zh": "衣服、服裝",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "overlapping",
+    "pos": "adj.",
+    "zh": "重疊的",
+    "lv": 6,
+    "at": "p1",
+    "h": "overlap"
+   },
+   {
+    "w": "layer",
+    "pos": "n.",
+    "zh": "層",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "bulging",
+    "pos": "n.",
+    "zh": "鼓起、隆起",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "fabric",
+    "pos": "n.",
+    "zh": "布料",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "buckled",
+    "pos": "adj.",
+    "zh": "扣上皮帶扣的、扣緊的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "distinctive",
+    "pos": "adj.",
+    "zh": "有特色的、與眾不同的",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "sett",
+    "pos": "n.",
+    "zh": "（蘇格蘭格子布的）格紋圖案",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "formalize",
+    "pos": "v.",
+    "zh": "正式確立、使規範化",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "accessory",
+    "pos": "n.",
+    "zh": "配件",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "decorative",
+    "pos": "adj.",
+    "zh": "裝飾用的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "elaborate",
+    "pos": "adj.",
+    "zh": "精緻的、精心製作的",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "jewel-ornamented",
+    "pos": "adj.",
+    "zh": "鑲有寶石的",
+    "lv": 6,
+    "at": "p3",
+    "h": "ornament"
+   },
+   {
+    "w": "sporran",
+    "pos": "n.",
+    "zh": "毛皮袋（蘇格蘭裙前面掛的小袋子）",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "pouch",
+    "pos": "n.",
+    "zh": "小袋子",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "underneath",
+    "pos": "adv.",
+    "zh": "在下面、在裡面",
+    "lv": 6,
+    "at": "q41"
+   },
+   {
+    "w": "institution",
+    "pos": "n.",
+    "zh": "機構、團體",
+    "lv": 5,
+    "at": "q42"
+   },
+   {
+    "w": "ruby",
+    "pos": "adj.",
+    "zh": "紅寶石色的、深紅色的",
+    "lv": 0,
+    "at": "q43"
+   }
   ]
  },
  {
@@ -11097,6 +12245,123 @@
     "t": "Whitfield said she came to understand that the only thing she had lost in this misfortunate event was the ability to walk.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "nightclub",
+    "pos": "n.",
+    "zh": "夜總會",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "onstage",
+    "pos": "adv.",
+    "zh": "到舞台上",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "wheelchair",
+    "pos": "n.",
+    "zh": "輪椅",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "soulful",
+    "pos": "adj.",
+    "zh": "充滿感情的、深情的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "witty",
+    "pos": "adj.",
+    "zh": "風趣的、機智的",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "persistent",
+    "pos": "adj.",
+    "zh": "堅持不懈的",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "parlor",
+    "pos": "n.",
+    "zh": "店（pizza parlor 披薩店）",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "rehearsal",
+    "pos": "n.",
+    "zh": "排練",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "midst",
+    "pos": "n.",
+    "zh": "當中（in the midst of 在……之中）",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "random",
+    "pos": "adj.",
+    "zh": "隨機的、無差別的",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "paralyzed",
+    "pos": "adj.",
+    "zh": "癱瘓的",
+    "lv": 6,
+    "at": "p4",
+    "h": "paralyze"
+   },
+   {
+    "w": "realization",
+    "pos": "n.",
+    "zh": "領悟、意識到",
+    "lv": 6,
+    "at": "p4"
+   },
+   {
+    "w": "misfortunate",
+    "pos": "adj.",
+    "zh": "不幸的",
+    "lv": 0,
+    "at": "p5"
+   },
+   {
+    "w": "asset",
+    "pos": "n.",
+    "zh": "資產、寶貴的東西",
+    "lv": 5,
+    "at": "p5"
+   },
+   {
+    "w": "depressed",
+    "pos": "adj.",
+    "zh": "沮喪的、消沉的",
+    "lv": 5,
+    "at": "q47",
+    "h": "depress"
+   },
+   {
+    "w": "disabled",
+    "pos": "adj.",
+    "zh": "身心障礙的",
+    "lv": 6,
+    "at": "q48",
+    "h": "disable"
+   }
   ]
  },
  {
@@ -11160,6 +12425,36 @@
     "p": 1,
     "t": "Forks trace their origins back to the ancient Greeks.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "tine",
+    "pos": "n.",
+    "zh": "（叉子的）叉齒",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "ridicule",
+    "pos": "v.",
+    "zh": "嘲笑",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "diner",
+    "pos": "n.",
+    "zh": "用餐的人",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "four-tined",
+    "pos": "adj.",
+    "zh": "四個叉齒的",
+    "lv": 0,
+    "at": "p4"
    }
   ]
  },
@@ -11231,6 +12526,22 @@
     "t": "Taking pictures of zoo animals requires a little more patience.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "annoyance",
+    "pos": "n.",
+    "zh": "不耐煩、惱怒",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "arouse",
+    "pos": "v.",
+    "zh": "引起、激起（食慾）",
+    "lv": 5,
+    "at": "q54"
+   }
   ]
  },
  {
@@ -11288,6 +12599,57 @@
     "p": 3,
     "t": "Speech that is slow, because it is laced with pauses or errors, is a more reliable indicator of lying than the opposite.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "persist",
+    "pos": "v.",
+    "zh": "持續",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "dominance",
+    "pos": "n.",
+    "zh": "支配地位、優勢",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "initiate",
+    "pos": "v.",
+    "zh": "主動開始、發起",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "widespread",
+    "pos": "adj.",
+    "zh": "普遍的、廣泛的",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "indicator",
+    "pos": "n.",
+    "zh": "指標、跡象",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "non-verbal",
+    "pos": "adj.",
+    "zh": "非語言的（non-verbal communication 肢體語言等非語言溝通）",
+    "lv": 0,
+    "at": "q44"
+   },
+   {
+    "w": "verbal",
+    "pos": "adj.",
+    "zh": "言語的、口語的",
+    "lv": 5,
+    "at": "q44"
    }
   ]
  },
@@ -11368,6 +12730,36 @@
     "t": "The researchers believe that the elephants’ emotional reactions are due to their different interpretations of the smells and the sights.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "conduct",
+    "pos": "v.",
+    "zh": "進行、實施",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "garment",
+    "pos": "n.",
+    "zh": "衣服",
+    "lv": 6,
+    "at": "p4"
+   },
+   {
+    "w": "interpretation",
+    "pos": "n.",
+    "zh": "解讀、理解",
+    "lv": 5,
+    "at": "p5"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論",
+    "lv": 6,
+    "at": "q48"
+   }
   ]
  },
  {
@@ -11421,7 +12813,44 @@
    "接下來五年裡，Deborah 的膝蓋又受傷了三次，傷勢讓她上場的時間很有限。她得在物理治療診所花上數不清的時間接受治療。因為常常去那裡，她對物理治療這一行產生了熱情和敬意。Deborah 開始在人生中看見新的曙光。",
    "Deborah 目前是大學四年級，專心攻讀物理治療學位。畢業後，Deborah 打算運用她的知識，教大家怎麼好好照顧自己的身體，以及怎麼面對她自己記憶猶新的那種絕望感。"
   ],
-  "ms": []
+  "ms": [],
+  "vocab": [
+   {
+    "w": "shuffle",
+    "pos": "v.",
+    "zh": "拖著腳步移動",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "sideways",
+    "pos": "adv.",
+    "zh": "往側邊、橫向地",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "sideline",
+    "pos": "n.",
+    "zh": "場邊（on the sidelines 在場邊）",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "therapy",
+    "pos": "n.",
+    "zh": "治療（physical therapy 物理治療）",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "opponent",
+    "pos": "n.",
+    "zh": "對手",
+    "lv": 5,
+    "at": "q51"
+   }
+  ]
  },
  {
   "id": "g100p4",
@@ -11475,6 +12904,71 @@
     "p": 3,
     "t": "New trees are often produced from sprouts, little baby trees, which form at the base of the trunk.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "redwood",
+    "pos": "n.",
+    "zh": "紅杉",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "longevity",
+    "pos": "n.",
+    "zh": "長壽",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "stout",
+    "pos": "adj.",
+    "zh": "粗壯的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "spongy",
+    "pos": "adj.",
+    "zh": "像海綿一樣鬆軟的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "intact",
+    "pos": "adj.",
+    "zh": "完整無損的",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "resistant",
+    "pos": "adj.",
+    "zh": "耐……的、抗……的（fire resistant 耐火的）",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "sprout",
+    "pos": "n.",
+    "zh": "新芽、幼苗",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "nourish",
+    "pos": "v.",
+    "zh": "滋養、供給養分",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "sustain",
+    "pos": "v.",
+    "zh": "維持、延續",
+    "lv": 5,
+    "at": "q56"
    }
   ]
  },
@@ -11550,6 +13044,71 @@
     "t": "In the 20th century, the ocarina was popular among the general public, and the application of ocarina music was extended to video games.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "ocarina",
+    "pos": "n.",
+    "zh": "陶笛",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "variation",
+    "pos": "n.",
+    "zh": "變體、不同的形式",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "xun",
+    "pos": "n.",
+    "zh": "塤（中國的陶製吹奏樂器）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "earthenware",
+    "pos": "n.",
+    "zh": "陶土、陶器",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "imperial",
+    "pos": "adj.",
+    "zh": "皇帝的、帝國的（imperial court 朝廷）",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "worship",
+    "pos": "n.",
+    "zh": "祭祀、崇拜",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "ceremony",
+    "pos": "n.",
+    "zh": "典禮、儀式",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "modify",
+    "pos": "v.",
+    "zh": "修改、改良",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "pastime",
+    "pos": "n.",
+    "zh": "消遣、休閒活動",
+    "lv": 6,
+    "at": "p3"
+   }
   ]
  },
  {
@@ -11607,6 +13166,36 @@
     "p": 2,
     "t": "In other words, Canadian parents are more lenient with their children than parents in France and Italy.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "lenient",
+    "pos": "adj.",
+    "zh": "寬容的、不嚴格的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "individualization",
+    "pos": "n.",
+    "zh": "個人化、重視個人",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "comprehension",
+    "pos": "n.",
+    "zh": "理解、體諒",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "exclude",
+    "pos": "v.",
+    "zh": "排除",
+    "lv": 5,
+    "at": "p2"
    }
   ]
  },
@@ -11675,6 +13264,72 @@
     "t": "In recent years, however, researchers have developed a few accurate measurements of happiness.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "gauge",
+    "pos": "v.",
+    "zh": "衡量、測量",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "depressed",
+    "pos": "adj.",
+    "zh": "沮喪的、消沉的",
+    "lv": 5,
+    "at": "p2",
+    "h": "depress"
+   },
+   {
+    "w": "likewise",
+    "pos": "adv.",
+    "zh": "同樣地",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "smiler",
+    "pos": "n.",
+    "zh": "微笑的人（fake smilers 假笑的人）",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "booster",
+    "pos": "n.",
+    "zh": "提升……的方法",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "optimism",
+    "pos": "n.",
+    "zh": "樂觀",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "assess",
+    "pos": "v.",
+    "zh": "評估",
+    "lv": 5,
+    "at": "q50"
+   },
+   {
+    "w": "enhance",
+    "pos": "v.",
+    "zh": "提升",
+    "lv": 6,
+    "at": "q50"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論",
+    "lv": 6,
+    "at": "q52"
+   }
   ]
  },
  {
@@ -11738,6 +13393,107 @@
     "p": 3,
     "t": "What is known, however, is that people make decisions based on probabilities, which are constantly being calculated and refined in their heads.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "antisocial",
+    "pos": "adj.",
+    "zh": "孤僻的、不合群的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "overweight",
+    "pos": "adj.",
+    "zh": "過重的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "sustain",
+    "pos": "v.",
+    "zh": "維持、持續（注意力）",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "cognitive",
+    "pos": "adj.",
+    "zh": "認知的",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "gamer",
+    "pos": "n.",
+    "zh": "玩電玩的人",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "non-video",
+    "pos": "adj.",
+    "zh": "不玩電玩的（non-video gamers 平常不玩電玩的人）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "ironically",
+    "pos": "adv.",
+    "zh": "諷刺的是、出乎意料的是",
+    "lv": 6,
+    "at": "p2",
+    "h": "ironic"
+   },
+   {
+    "w": "simulated",
+    "pos": "adj.",
+    "zh": "模擬的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "probability",
+    "pos": "n.",
+    "zh": "機率、可能性",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "refine",
+    "pos": "v.",
+    "zh": "修正、使更精確",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "auditory",
+    "pos": "adj.",
+    "zh": "聽覺的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "unfit",
+    "pos": "adj.",
+    "zh": "身體狀況不好的、不健康的",
+    "lv": 0,
+    "at": "q53"
+   },
+   {
+    "w": "healthful",
+    "pos": "adj.",
+    "zh": "有益健康的",
+    "lv": 6,
+    "at": "q54"
+   },
+   {
+    "w": "finding",
+    "pos": "n.",
+    "zh": "研究結果、發現",
+    "lv": 0,
+    "at": "q54"
    }
   ]
  },
