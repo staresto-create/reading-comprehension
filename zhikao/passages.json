@@ -13567,6 +13567,57 @@
     "t": "Japanese companies have been accused of over-packaging; but within the Japanese cultural context, that’s not really true.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "wrapper",
+    "pos": "n.",
+    "zh": "包裝紙、包裝膜",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "seaweed",
+    "pos": "n.",
+    "zh": "海苔、海藻",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "storage",
+    "pos": "n.",
+    "zh": "存放、儲藏（storage space 收納空間）",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "attain",
+    "pos": "v.",
+    "zh": "取得、達到",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "trillion",
+    "pos": "n.",
+    "zh": "兆",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "graphic",
+    "pos": "adj.",
+    "zh": "平面的、圖像的（graphic design 平面設計）",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "differentiate",
+    "pos": "v.",
+    "zh": "區別、使與眾不同",
+    "lv": 6,
+    "at": "p2"
+   }
   ]
  },
  {
@@ -13636,6 +13687,155 @@
     "p": 4,
     "t": "Ranchers had won the war against the wolf.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "endurance",
+    "pos": "n.",
+    "zh": "耐力",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "warrior",
+    "pos": "n.",
+    "zh": "戰士",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "drape",
+    "pos": "v.",
+    "zh": "披上、覆蓋",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "stealth",
+    "pos": "n.",
+    "zh": "悄然無聲、偷偷摸摸的行動",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "stamina",
+    "pos": "n.",
+    "zh": "持久力、體力",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "raid",
+    "pos": "v.",
+    "zh": "突襲（raiding party 突襲隊）",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "elite",
+    "pos": "adj.",
+    "zh": "精銳的、菁英的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "rancher",
+    "pos": "n.",
+    "zh": "牧場主人",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "bounty",
+    "pos": "n.",
+    "zh": "懸賞金",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "carcass",
+    "pos": "n.",
+    "zh": "（動物的）屍體",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "submit",
+    "pos": "v.",
+    "zh": "提交、送交",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "exterminate",
+    "pos": "v.",
+    "zh": "消滅、根除",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "ranger",
+    "pos": "n.",
+    "zh": "（公園的）管理員、巡守員",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "cub",
+    "pos": "n.",
+    "zh": "幼獸（這裡指小狼）",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "bison",
+    "pos": "n.",
+    "zh": "美洲野牛",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "howl",
+    "pos": "n.",
+    "zh": "嚎叫",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "predator",
+    "pos": "n.",
+    "zh": "捕食者、掠食者",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "adore",
+    "pos": "v.",
+    "zh": "敬愛、非常喜愛",
+    "lv": 5,
+    "at": "q49"
+   },
+   {
+    "w": "livestock",
+    "pos": "n.",
+    "zh": "家畜、牲畜",
+    "lv": 6,
+    "at": "q49"
+   },
+   {
+    "w": "advocate",
+    "pos": "v.",
+    "zh": "提倡、主張",
+    "lv": 5,
+    "at": "q50"
+   },
+   {
+    "w": "disappearance",
+    "pos": "n.",
+    "zh": "消失",
+    "lv": 0,
+    "at": "q51"
    }
   ]
  },
@@ -13710,6 +13910,227 @@
     "t": "Despite these strong reactions from the pro-abortionists, the right of life takes precedence over a woman’s right to choice.",
     "k": "both"
    }
+  ],
+  "vocab": [
+   {
+    "w": "ultrasound",
+    "pos": "n.",
+    "zh": "超音波",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "scan",
+    "pos": "v.",
+    "zh": "掃描",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "expectant",
+    "pos": "adj.",
+    "zh": "即將生孩子的（expectant parents 準爸媽）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "outspoken",
+    "pos": "adj.",
+    "zh": "直言不諱的、毫不掩飾的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "refreshing",
+    "pos": "adj.",
+    "zh": "讓人耳目一新的",
+    "lv": 6,
+    "at": "p2",
+    "h": "refresh"
+   },
+   {
+    "w": "pro-abortion",
+    "pos": "adj.",
+    "zh": "支持墮胎的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "activist",
+    "pos": "n.",
+    "zh": "運動人士",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "commentator",
+    "pos": "n.",
+    "zh": "評論員",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "sociologist",
+    "pos": "n.",
+    "zh": "社會學家",
+    "lv": 6,
+    "at": "p4",
+    "h": "sociology"
+   },
+   {
+    "w": "ridicule",
+    "pos": "v.",
+    "zh": "嘲笑",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "anti-abortion",
+    "pos": "adj.",
+    "zh": "反墮胎的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "intoxicated",
+    "pos": "adj.",
+    "zh": "陶醉的、沉醉的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "fetus",
+    "pos": "n.",
+    "zh": "胎兒",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "abortion",
+    "pos": "n.",
+    "zh": "墮胎",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "hostile",
+    "pos": "adj.",
+    "zh": "有敵意的",
+    "lv": 5,
+    "at": "p5"
+   },
+   {
+    "w": "sonogram",
+    "pos": "n.",
+    "zh": "超音波影像",
+    "lv": 0,
+    "at": "p5"
+   },
+   {
+    "w": "blurry",
+    "pos": "adj.",
+    "zh": "模糊的",
+    "lv": 0,
+    "at": "p5"
+   },
+   {
+    "w": "abortionist",
+    "pos": "n.",
+    "zh": "支持墮胎的人",
+    "lv": 0,
+    "at": "p5"
+   },
+   {
+    "w": "aghast",
+    "pos": "adj.",
+    "zh": "驚駭的、嚇呆的",
+    "lv": 0,
+    "at": "p5"
+   },
+   {
+    "w": "blur",
+    "pos": "v.",
+    "zh": "使模糊",
+    "lv": 5,
+    "at": "p5"
+   },
+   {
+    "w": "distinction",
+    "pos": "n.",
+    "zh": "區別、分別",
+    "lv": 5,
+    "at": "p5"
+   },
+   {
+    "w": "pro-abortionist",
+    "pos": "n.",
+    "zh": "支持墮胎的人",
+    "lv": 0,
+    "at": "p6"
+   },
+   {
+    "w": "precedence",
+    "pos": "n.",
+    "zh": "優先（take precedence over 優先於）",
+    "lv": 0,
+    "at": "p6"
+   },
+   {
+    "w": "neutral",
+    "pos": "adj.",
+    "zh": "中立的",
+    "lv": 5,
+    "at": "q53"
+   },
+   {
+    "w": "indifferent",
+    "pos": "adj.",
+    "zh": "漠不關心的、冷淡的",
+    "lv": 5,
+    "at": "q53"
+   },
+   {
+    "w": "disbelief",
+    "pos": "n.",
+    "zh": "不相信、懷疑",
+    "lv": 6,
+    "at": "q54"
+   },
+   {
+    "w": "scorn",
+    "pos": "n.",
+    "zh": "輕蔑、鄙視",
+    "lv": 6,
+    "at": "q54"
+   },
+   {
+    "w": "applause",
+    "pos": "n.",
+    "zh": "鼓掌、讚許",
+    "lv": 5,
+    "at": "q54"
+   },
+   {
+    "w": "anti-abortionist",
+    "pos": "n.",
+    "zh": "反對墮胎的人",
+    "lv": 0,
+    "at": "q55"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q56"
+   },
+   {
+    "w": "abort",
+    "pos": "v.",
+    "zh": "墮胎、終止妊娠",
+    "lv": 0,
+    "at": "q56"
+   }
   ]
  },
  {
@@ -13768,6 +14189,86 @@
     "t": "While New York built skyscrapers because land was scarce, Dubai is doing it to get on the world map.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "craze",
+    "pos": "n.",
+    "zh": "熱潮、一窩蜂的流行",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "industrializing",
+    "pos": "adj.",
+    "zh": "正在工業化的",
+    "lv": 6,
+    "at": "p1",
+    "h": "industrialize"
+   },
+   {
+    "w": "antenna",
+    "pos": "n.",
+    "zh": "天線",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "piling",
+    "pos": "n.",
+    "zh": "地基樁",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "plunge",
+    "pos": "v.",
+    "zh": "向下深入、插入",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "swoon",
+    "pos": "v.",
+    "zh": "（swoon over）讚嘆不已、為之傾倒",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "shuttle",
+    "pos": "n.",
+    "zh": "太空梭（space shuttle）",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "silvery",
+    "pos": "adj.",
+    "zh": "銀色的、閃著銀光的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "reign",
+    "pos": "n.",
+    "zh": "統治、稱霸",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "industrialization",
+    "pos": "n.",
+    "zh": "工業化",
+    "lv": 0,
+    "at": "q47"
+   },
+   {
+    "w": "distort",
+    "pos": "v.",
+    "zh": "扭曲",
+    "lv": 0,
+    "at": "q49"
+   }
   ]
  },
  {
@@ -13820,7 +14321,109 @@
    "大約就在這時候，演講講到一半，湯普森醫師開始察覺聽眾有點坐不住。大家在竊竊私語，腳在地上動來動去，第四排有個人好像在看報紙。儘管如此，湯普森醫師還是硬著頭皮講下去，因為他把最精彩的部分留在最後。他大量引用英國權威醫學期刊《刺胳針》上一篇基因研究的文章，心想聽眾一定會佩服他對這本期刊這麼熟悉。",
    "演講結束了。湯普森醫師原本以為會有一群熱情的聽眾圍上來，向他道賀、發問，結果他卻發現自己孤零零地站在那裡。最後，商會會長走了過來。湯普森醫師說：「我有種感覺，這場演講好像不太成功。我實在想不通，我花了好大的力氣，想讓演講有趣一點。」會長回答：「噢，演講內容很好，只是換一群聽眾，效果可能會好一些。庫賈氏病跟這些人的日常生活實在沾不上邊。你知道，現在是一月，要是你談的是怎麼預防流感，大家一定聽得全神貫注！」"
   ],
-  "ms": []
+  "ms": [],
+  "vocab": [
+   {
+    "w": "flourishing",
+    "pos": "adj.",
+    "zh": "興旺的、生意興隆的",
+    "lv": 6,
+    "at": "p1",
+    "h": "flourish"
+   },
+   {
+    "w": "stride",
+    "pos": "v.",
+    "zh": "大步走",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "lectern",
+    "pos": "n.",
+    "zh": "講台、演講台",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "immune",
+    "pos": "adj.",
+    "zh": "免疫的（immune system 免疫系統）",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "halfway",
+    "pos": "adv.",
+    "zh": "在中途、到一半",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "shuffle",
+    "pos": "v.",
+    "zh": "拖著（腳）動來動去",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "plow",
+    "pos": "v.",
+    "zh": "（plow on）硬著頭皮繼續做下去",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "extensively",
+    "pos": "adv.",
+    "zh": "大量地、廣泛地",
+    "lv": 5,
+    "at": "p3",
+    "h": "extensive"
+   },
+   {
+    "w": "genetic",
+    "pos": "adj.",
+    "zh": "基因的、遺傳的",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "familiarity",
+    "pos": "n.",
+    "zh": "熟悉",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "prestigious",
+    "pos": "adj.",
+    "zh": "有聲望的、權威的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "enthusiastic",
+    "pos": "adj.",
+    "zh": "熱情的",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "regardless",
+    "pos": "adv.",
+    "zh": "（regardless of）不管、不論",
+    "lv": 5,
+    "at": "q50"
+   },
+   {
+    "w": "arouse",
+    "pos": "v.",
+    "zh": "引起、喚起",
+    "lv": 5,
+    "at": "q53"
+   }
+  ]
  },
  {
   "id": "z94p3",
@@ -13880,6 +14483,99 @@
     "p": 3,
     "t": "To solve the problems, the level of economic development in a market should be assessed, for example, by the level of revenue, buying power of local consumers, and by the state of infrastructure in the foreign market.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "venture",
+    "pos": "v.",
+    "zh": "冒險進入、大膽投入",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "geographical",
+    "pos": "adj.",
+    "zh": "地理的",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "alien",
+    "pos": "n.",
+    "zh": "外來者",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "harassment",
+    "pos": "n.",
+    "zh": "騷擾",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "interference",
+    "pos": "n.",
+    "zh": "干預、干擾",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "activist",
+    "pos": "n.",
+    "zh": "運動人士",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "assess",
+    "pos": "v.",
+    "zh": "評估",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "revenue",
+    "pos": "n.",
+    "zh": "收入、營收",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "infrastructure",
+    "pos": "n.",
+    "zh": "基礎建設",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "indicator",
+    "pos": "n.",
+    "zh": "指標",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "dissimilar",
+    "pos": "adj.",
+    "zh": "不同的、不一樣的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "accordingly",
+    "pos": "adv.",
+    "zh": "因此、所以",
+    "lv": 6,
+    "at": "p4"
+   },
+   {
+    "w": "bound",
+    "pos": "adj.",
+    "zh": "（be bound by）和……緊密相連、重視（be bound by family ties 重視家庭的連結）",
+    "lv": 5,
+    "at": "p4"
    }
   ]
  },
@@ -13970,6 +14666,36 @@
     "t": "Mr. Higgs added: “Parents are recognizing that films are a chance to persuade a reluctant reader to pick up a book and give it a try.”",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "certification",
+    "pos": "n.",
+    "zh": "（電影的）分級",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "series",
+    "pos": "n.",
+    "zh": "系列",
+    "lv": 5,
+    "at": "p5"
+   },
+   {
+    "w": "surge",
+    "pos": "n.",
+    "zh": "激增、高漲",
+    "lv": 6,
+    "at": "p5"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q49"
+   }
   ]
  },
  {
@@ -14025,6 +14751,94 @@
     "p": 2,
     "t": "However, seismologists and engineers say that the government’s use of three building codes formulated to counter the threat of earthquakes may have spared the island from a death toll far higher than that now being revealed.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "quake",
+    "pos": "n.",
+    "zh": "地震",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "virtually",
+    "pos": "adv.",
+    "zh": "幾乎、實際上",
+    "lv": 5,
+    "at": "p1",
+    "h": "virtual"
+   },
+   {
+    "w": "sediment",
+    "pos": "n.",
+    "zh": "沉積物",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "widespread",
+    "pos": "adj.",
+    "zh": "普遍的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "occurrence",
+    "pos": "n.",
+    "zh": "發生的事情、情況",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "seismologist",
+    "pos": "n.",
+    "zh": "地震學家",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "formulate",
+    "pos": "v.",
+    "zh": "制定、規劃",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "toll",
+    "pos": "n.",
+    "zh": "死傷人數（death toll 死亡人數）",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "conduct",
+    "pos": "v.",
+    "zh": "進行、實施",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "whereas",
+    "pos": "conj.",
+    "zh": "然而、而",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "resident",
+    "pos": "n.",
+    "zh": "居民",
+    "lv": 5,
+    "at": "q50"
+   },
+   {
+    "w": "qualified",
+    "pos": "adj.",
+    "zh": "合格的、有資格的",
+    "lv": 5,
+    "at": "q51",
+    "h": "qualify"
    }
   ]
  },
@@ -14099,6 +14913,113 @@
     "t": "It is now clear that, when used properly, laboratories can provide a valuable extra dimension to language teaching.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "undoubtedly",
+    "pos": "adv.",
+    "zh": "無疑地、當然",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "booth",
+    "pos": "n.",
+    "zh": "隔間、小隔間",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "herald",
+    "pos": "v.",
+    "zh": "宣告、稱讚為（be heralded as）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "repetitive",
+    "pos": "adj.",
+    "zh": "重複的、反覆的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "breakthrough",
+    "pos": "n.",
+    "zh": "突破",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "materialize",
+    "pos": "v.",
+    "zh": "實現、成為事實",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "decline",
+    "pos": "n.",
+    "zh": "下滑、衰退",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "boredom",
+    "pos": "n.",
+    "zh": "無聊、厭倦",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "revival",
+    "pos": "n.",
+    "zh": "復興、重新流行",
+    "lv": 6,
+    "at": "p4"
+   },
+   {
+    "w": "interactive",
+    "pos": "adj.",
+    "zh": "互動的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "computational",
+    "pos": "adj.",
+    "zh": "電腦運算的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "dimension",
+    "pos": "n.",
+    "zh": "面向、層面",
+    "lv": 5,
+    "at": "p5"
+   },
+   {
+    "w": "comprehension",
+    "pos": "n.",
+    "zh": "理解（listening comprehension 聽力理解）",
+    "lv": 5,
+    "at": "p5"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q55"
+   },
+   {
+    "w": "maintenance",
+    "pos": "n.",
+    "zh": "維修、保養",
+    "lv": 5,
+    "at": "q56"
+   }
   ]
  },
  {
@@ -14145,6 +15066,93 @@
     "p": 1,
     "t": "These days, even a walk in the woods can be transformed into an “extreme” sport.",
     "k": "both"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "geocaching",
+    "pos": "n.",
+    "zh": "地理藏寶（用 GPS 找寶藏的戶外遊戲）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "trek",
+    "pos": "n.",
+    "zh": "長途健行",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "cache",
+    "pos": "n.",
+    "zh": "藏起來的東西、寶藏",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "goodies",
+    "pos": "n.",
+    "zh": "（口語）好東西、小玩意",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "obscure",
+    "pos": "adj.",
+    "zh": "不起眼的、偏僻的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "coordinate",
+    "pos": "n.",
+    "zh": "座標",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "geocacher",
+    "pos": "n.",
+    "zh": "玩地理藏寶的人",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "resort",
+    "pos": "n.",
+    "zh": "度假村",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "pronoun",
+    "pos": "n.",
+    "zh": "代名詞",
+    "lv": 0,
+    "at": "q47"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q48"
+   },
+   {
+    "w": "exclusively",
+    "pos": "adv.",
+    "zh": "只有、專門",
+    "lv": 5,
+    "at": "q48",
+    "h": "exclusive"
+   },
+   {
+    "w": "participant",
+    "pos": "n.",
+    "zh": "參加的人",
+    "lv": 5,
+    "at": "q48"
    }
   ]
  },
@@ -14218,6 +15226,135 @@
     "t": "So how do the engineers make a doll actually see?",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "multiplication",
+    "pos": "n.",
+    "zh": "乘法",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "prodigy",
+    "pos": "n.",
+    "zh": "天才、神童",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "programming",
+    "pos": "n.",
+    "zh": "程式設計",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "blond",
+    "pos": "adj.",
+    "zh": "金髮的",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "breakthrough",
+    "pos": "adj.",
+    "zh": "突破性的",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "popularize",
+    "pos": "v.",
+    "zh": "使普及、推廣",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "innovation",
+    "pos": "n.",
+    "zh": "創新",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "inanimate",
+    "pos": "adj.",
+    "zh": "沒有生命的",
+    "lv": 6,
+    "at": "p3",
+    "h": "animate"
+   },
+   {
+    "w": "affordable",
+    "pos": "adj.",
+    "zh": "價格實惠的、負擔得起的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "minibot",
+    "pos": "n.",
+    "zh": "小型機器人",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "multistep",
+    "pos": "adj.",
+    "zh": "多個步驟的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "preprogrammed",
+    "pos": "adj.",
+    "zh": "預先設定好程式的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "scan",
+    "pos": "v.",
+    "zh": "掃描",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "radius",
+    "pos": "n.",
+    "zh": "半徑、範圍",
+    "lv": 6,
+    "at": "p4"
+   },
+   {
+    "w": "belly",
+    "pos": "n.",
+    "zh": "肚子",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "microprocessor",
+    "pos": "n.",
+    "zh": "微處理器",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "utter",
+    "pos": "v.",
+    "zh": "說出、發出（聲音）",
+    "lv": 6,
+    "at": "p4"
+   },
+   {
+    "w": "pronoun",
+    "pos": "n.",
+    "zh": "代名詞",
+    "lv": 0,
+    "at": "q51"
+   }
   ]
  },
  {
@@ -14283,6 +15420,205 @@
     "t": "The Guggenheim is arguably Wright’s most eloquent presentation and certainly the most important building of his late career.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "architect",
+    "pos": "n.",
+    "zh": "建築師",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "evolve",
+    "pos": "v.",
+    "zh": "演變、發展",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "completion",
+    "pos": "n.",
+    "zh": "完成、落成",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "resultant",
+    "pos": "adj.",
+    "zh": "最後產生的、結果的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "testify",
+    "pos": "v.",
+    "zh": "（testify to）證明",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "architectural",
+    "pos": "adj.",
+    "zh": "建築的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "adventurous",
+    "pos": "adj.",
+    "zh": "勇於冒險的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "characterize",
+    "pos": "v.",
+    "zh": "是……的特色",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "disenchantment",
+    "pos": "n.",
+    "zh": "失望、不滿",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "overbuilt",
+    "pos": "adj.",
+    "zh": "建築過多的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "overpopulated",
+    "pos": "adj.",
+    "zh": "人口過多的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "congestion",
+    "pos": "n.",
+    "zh": "擁擠、壅塞",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "architecture",
+    "pos": "n.",
+    "zh": "建築",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "rigid",
+    "pos": "adj.",
+    "zh": "僵硬的、死板的",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "geometry",
+    "pos": "n.",
+    "zh": "幾何",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "symphony",
+    "pos": "n.",
+    "zh": "交響樂（這裡比喻各種形狀和諧的組合）",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "arc",
+    "pos": "n.",
+    "zh": "弧形",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "overpower",
+    "pos": "v.",
+    "zh": "壓過、蓋過",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "regularity",
+    "pos": "n.",
+    "zh": "規律",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "geometric",
+    "pos": "adj.",
+    "zh": "幾何的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "plasticity",
+    "pos": "n.",
+    "zh": "可塑性",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "vibrant",
+    "pos": "adj.",
+    "zh": "充滿活力的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "refreshing",
+    "pos": "adj.",
+    "zh": "讓人耳目一新的",
+    "lv": 6,
+    "at": "p4",
+    "h": "refresh"
+   },
+   {
+    "w": "arguably",
+    "pos": "adv.",
+    "zh": "可以說是",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "eloquent",
+    "pos": "adj.",
+    "zh": "有說服力的、表現力強的",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "enthusiastic",
+    "pos": "adj.",
+    "zh": "熱衷的",
+    "lv": 5,
+    "at": "q54"
+   },
+   {
+    "w": "resident",
+    "pos": "n.",
+    "zh": "居民",
+    "lv": 5,
+    "at": "q54"
+   },
+   {
+    "w": "outskirts",
+    "pos": "n.",
+    "zh": "郊區、市郊",
+    "lv": 6,
+    "at": "q55"
+   }
   ]
  },
  {
@@ -14329,6 +15665,64 @@
     "p": 1,
     "t": "The city is incredibly urbanized, but beneath its modern appearance lies an unmistakable Thai-ness.",
     "k": "both"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "urbanized",
+    "pos": "adj.",
+    "zh": "都市化的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "unmistakable",
+    "pos": "adj.",
+    "zh": "不會弄錯的、明顯的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "cater",
+    "pos": "v.",
+    "zh": "（cater to）迎合、滿足",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "institute",
+    "pos": "n.",
+    "zh": "機構、學院（art institute 美術館）",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "contemporary",
+    "pos": "adj.",
+    "zh": "當代的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "unbearable",
+    "pos": "adj.",
+    "zh": "讓人受不了的",
+    "lv": 0,
+    "at": "q46"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q48"
+   },
+   {
+    "w": "souvenir",
+    "pos": "n.",
+    "zh": "紀念品",
+    "lv": 5,
+    "at": "q48"
    }
   ]
  },
@@ -14403,6 +15797,113 @@
     "t": "The nine-month-old boy’s face was covered with a white cloth, which was again said to be a precautionary measure taken by the star to protect his children from becoming kidnappers’ targets.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "provoke",
+    "pos": "v.",
+    "zh": "引起、激起",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "veil",
+    "pos": "n.",
+    "zh": "面紗",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "kidnapper",
+    "pos": "n.",
+    "zh": "綁匪",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "outlandish",
+    "pos": "adj.",
+    "zh": "古怪的、奇特的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "burgundy-colored",
+    "pos": "adj.",
+    "zh": "酒紅色的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "aide",
+    "pos": "n.",
+    "zh": "助理、隨從",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "kidnap",
+    "pos": "v.",
+    "zh": "綁架",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "outrage",
+    "pos": "n.",
+    "zh": "憤慨、眾怒",
+    "lv": 6,
+    "at": "p4"
+   },
+   {
+    "w": "dangle",
+    "pos": "v.",
+    "zh": "懸空晃著、吊著",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "precautionary",
+    "pos": "adj.",
+    "zh": "預防的（precautionary measure 預防措施）",
+    "lv": 0,
+    "at": "p5"
+   },
+   {
+    "w": "unfit",
+    "pos": "adj.",
+    "zh": "不適任的、不稱職的",
+    "lv": 0,
+    "at": "p6"
+   },
+   {
+    "w": "prosecutor",
+    "pos": "n.",
+    "zh": "檢察官",
+    "lv": 0,
+    "at": "p6"
+   },
+   {
+    "w": "inquiry",
+    "pos": "n.",
+    "zh": "調查",
+    "lv": 5,
+    "at": "p6"
+   },
+   {
+    "w": "brochure",
+    "pos": "n.",
+    "zh": "簡介手冊（travel brochure 旅遊手冊）",
+    "lv": 6,
+    "at": "q50"
+   },
+   {
+    "w": "precision",
+    "pos": "n.",
+    "zh": "精確",
+    "lv": 6,
+    "at": "q52"
+   }
   ]
  },
  {
@@ -14474,6 +15975,157 @@
     "t": "Barnett argues that bag-matching would deter bombers far more than electronic-detection systems.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "corporate",
+    "pos": "adj.",
+    "zh": "公司的、企業的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "screwdriver",
+    "pos": "n.",
+    "zh": "螺絲起子",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "surefire",
+    "pos": "adj.",
+    "zh": "保證有效的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "suitcase",
+    "pos": "n.",
+    "zh": "行李箱",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "en",
+    "pos": "adv.",
+    "zh": "（en route）在途中、前往……的路上",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "embrace",
+    "pos": "v.",
+    "zh": "採用、欣然接受",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "electronic-detection",
+    "pos": "adj.",
+    "zh": "電子偵測的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "short-haul",
+    "pos": "adj.",
+    "zh": "短程的",
+    "lv": 5,
+    "at": "p3",
+    "h": "haul"
+   },
+   {
+    "w": "agenda",
+    "pos": "n.",
+    "zh": "議程（back on the agenda 重新列入討論）",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "implement",
+    "pos": "v.",
+    "zh": "實施、執行",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "bankruptcy",
+    "pos": "n.",
+    "zh": "破產",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "feasibility",
+    "pos": "n.",
+    "zh": "可行性",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "deter",
+    "pos": "v.",
+    "zh": "嚇阻",
+    "lv": 6,
+    "at": "p5"
+   },
+   {
+    "w": "detection",
+    "pos": "n.",
+    "zh": "偵測",
+    "lv": 0,
+    "at": "p5"
+   },
+   {
+    "w": "potent",
+    "pos": "adj.",
+    "zh": "有效的、強而有力的",
+    "lv": 6,
+    "at": "p5"
+   },
+   {
+    "w": "contemplate",
+    "pos": "v.",
+    "zh": "考慮",
+    "lv": 5,
+    "at": "p5"
+   },
+   {
+    "w": "hijacking",
+    "pos": "n.",
+    "zh": "劫機",
+    "lv": 6,
+    "at": "q56",
+    "h": "hijack"
+   },
+   {
+    "w": "pronoun",
+    "pos": "n.",
+    "zh": "代名詞",
+    "lv": 0,
+    "at": "q58"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q59"
+   },
+   {
+    "w": "highlight",
+    "pos": "v.",
+    "zh": "強調、凸顯",
+    "lv": 5,
+    "at": "q60"
+   },
+   {
+    "w": "advocate",
+    "pos": "v.",
+    "zh": "提倡、主張",
+    "lv": 5,
+    "at": "q60"
+   }
   ]
  },
  {
@@ -14522,6 +16174,78 @@
     "p": 1,
     "t": "The difference between the Eskimo igloo and the Indian tepee was insulation: the igloo’s walls were solid and airtight whereas those of the tepee permitted a great deal of air to enter.",
     "k": "both"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "airtight",
+    "pos": "adj.",
+    "zh": "密不透風的",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "igloo",
+    "pos": "n.",
+    "zh": "（愛斯基摩人的）冰屋",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "fluid",
+    "pos": "n.",
+    "zh": "體液（body fluid）",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "perspiration",
+    "pos": "n.",
+    "zh": "流汗、汗水",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "tepee",
+    "pos": "n.",
+    "zh": "（印第安人的）圓錐形帳篷",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "shiver",
+    "pos": "v.",
+    "zh": "發抖",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "insulation",
+    "pos": "n.",
+    "zh": "隔絕、隔熱",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "whereas",
+    "pos": "conj.",
+    "zh": "然而、而",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "conservation",
+    "pos": "n.",
+    "zh": "保育",
+    "lv": 5,
+    "at": "q51"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q52"
    }
   ]
  },
@@ -14574,7 +16298,67 @@
    "大約中午時分，Soapy 經過一家高級餐廳，決定進去白吃一頓大餐。到了要付帳的時候，他告訴經理自己沒有錢，還建議經理叫人來逮捕他。經理看出他在打什麼主意，就要 Soapy 跟他進廚房，那裡有一大堆髒盤子等著洗。三個小時以後，筋疲力盡的 Soapy 回到了街上。",
    "後來夜晚來臨，天氣冷得 Soapy 沒辦法睡在中央公園。他到處遊蕩，最後發現自己站在一座教堂前面。唱詩班正在練唱一首歌。「我們以前常在教堂唱這首歌。我曾經很有前途，現在卻落到這個地步。我得改變才行。對，我要接受上星期那份卡車司機的工作。」就在這時候，那個警察又出現了，以破壞公物的罪名逮捕他。警察把 Soapy 帶到夜間法庭，法官判他入獄三個月。"
   ],
-  "ms": []
+  "ms": [],
+  "vocab": [
+   {
+    "w": "scheme",
+    "pos": "n.",
+    "zh": "計畫、計謀",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "harass",
+    "pos": "v.",
+    "zh": "騷擾",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "verbally",
+    "pos": "adv.",
+    "zh": "口頭上地、用言語",
+    "lv": 5,
+    "at": "p2",
+    "h": "verbal"
+   },
+   {
+    "w": "overwhelmed",
+    "pos": "adj.",
+    "zh": "感動得不知所措的",
+    "lv": 5,
+    "at": "p2",
+    "h": "overwhelm"
+   },
+   {
+    "w": "choir",
+    "pos": "n.",
+    "zh": "唱詩班",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "vandalism",
+    "pos": "n.",
+    "zh": "故意破壞（公物）",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "slap",
+    "pos": "v.",
+    "zh": "打（耳光）",
+    "lv": 5,
+    "at": "q55"
+   },
+   {
+    "w": "dignified",
+    "pos": "adj.",
+    "zh": "有尊嚴的、體面的",
+    "lv": 0,
+    "at": "q57"
+   }
+  ]
  },
  {
   "id": "z91p3",
@@ -14638,6 +16422,86 @@
     "t": "Even before Prince Albert died, Queen Victoria was known as a very serious woman.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "monarch",
+    "pos": "n.",
+    "zh": "君主",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "stern",
+    "pos": "adj.",
+    "zh": "嚴厲的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "mourn",
+    "pos": "v.",
+    "zh": "哀悼",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "customary",
+    "pos": "adj.",
+    "zh": "習慣上的、慣例的",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "widow",
+    "pos": "n.",
+    "zh": "寡婦",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "stuffy",
+    "pos": "adj.",
+    "zh": "古板的、拘謹的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "beloved",
+    "pos": "adj.",
+    "zh": "心愛的",
+    "lv": 5,
+    "at": "q58"
+   },
+   {
+    "w": "lonesome",
+    "pos": "adj.",
+    "zh": "寂寞的",
+    "lv": 6,
+    "at": "q60"
+   },
+   {
+    "w": "workaholic",
+    "pos": "n.",
+    "zh": "工作狂",
+    "lv": 0,
+    "at": "q60"
+   },
+   {
+    "w": "compromising",
+    "pos": "adj.",
+    "zh": "願意讓步的、妥協的",
+    "lv": 5,
+    "at": "q60",
+    "h": "compromise"
+   },
+   {
+    "w": "sorrowful",
+    "pos": "adj.",
+    "zh": "悲傷的",
+    "lv": 6,
+    "at": "q61"
+   }
   ]
  },
  {
@@ -14688,6 +16552,129 @@
     "p": 2,
     "t": "And when Amai sees through Boll’s façade to his inner depressed state, she recognizes a shadowy reflection of the despair and exhaustion that possessed the Japanese after the war, and begins to comprehend the price he has paid for victory.",
     "k": "thesis"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "self-justifying",
+    "pos": "adj.",
+    "zh": "自我辯解的",
+    "lv": 5,
+    "at": "p1",
+    "h": "justify"
+   },
+   {
+    "w": "paralyze",
+    "pos": "v.",
+    "zh": "使癱瘓、使停擺",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "haunt",
+    "pos": "v.",
+    "zh": "（景象、念頭）縈繞心頭、揮之不去",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "devastation",
+    "pos": "n.",
+    "zh": "毀壞、浩劫",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "concede",
+    "pos": "v.",
+    "zh": "承認",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "salvation",
+    "pos": "n.",
+    "zh": "救贖",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "blast",
+    "pos": "n.",
+    "zh": "爆炸",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "documentary",
+    "pos": "n.",
+    "zh": "紀錄片（documentary filmmaker 紀錄片導演）",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "redeem",
+    "pos": "v.",
+    "zh": "（redeem oneself）贖罪、彌補過錯",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "façade",
+    "pos": "n.",
+    "zh": "外表、表面",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "depressed",
+    "pos": "adj.",
+    "zh": "消沉的、沮喪的",
+    "lv": 5,
+    "at": "p2",
+    "h": "depress"
+   },
+   {
+    "w": "shadowy",
+    "pos": "adj.",
+    "zh": "模糊的、隱約的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "despair",
+    "pos": "n.",
+    "zh": "絕望",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "exhaustion",
+    "pos": "n.",
+    "zh": "疲憊",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "comprehend",
+    "pos": "v.",
+    "zh": "理解、體會",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "recurring",
+    "pos": "adj.",
+    "zh": "一再出現的",
+    "lv": 0,
+    "at": "q64"
+   },
+   {
+    "w": "justify",
+    "pos": "v.",
+    "zh": "為……辯護、找理由",
+    "lv": 5,
+    "at": "q65"
    }
   ]
  }
