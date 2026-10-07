@@ -19229,7 +19229,44 @@
   "zh": [
    "信不信由你，美國人最愛的零食是洋芋片。洋芋片最早是怎麼做出來的，背後有一段故事。也許有人以為，是某個天才想出了第一片洋芋片，但事情並不是這樣發生的。想像一下 1853 年紐約州薩拉托加泉的一家高雅餐廳。Moon Lake 餐廳的菜單上有炸薯條，這是傑佛遜從法國帶回來的一道很受歡迎的菜。這種薯條切得很厚，炸到金黃色、外皮酥脆。有一天晚上，餐廳裡一位客人覺得他的薯條太厚，把薯條退回廚房。廚師把一些馬鈴薯切得比之前薄，做給這位抱怨的客人。他還是不滿意，又把薯條退回去！這時廚師火大了，決定完全照客人的要求做：把馬鈴薯切得越薄越好。這樣薯條就會脆到客人沒辦法用叉子吃。薄得像紙一樣、炸得焦黃的馬鈴薯片送上桌時，客人很滿意。他吃得非常開心，其他客人也開始點這種新的馬鈴薯。廚師想讓客人別再抱怨，結果卻和他原本的盤算不一樣。不久，Saratoga Chips 出現在菜單上，而且大受歡迎，大家還想帶一些回家。餐廳開始賣小包裝的洋芋片。幾年後，洋芋片在美國各地都買得到。但是因為馬鈴薯得用手削皮，這件工作很費時，洋芋片常常缺貨。1920 年代，有人發明了削馬鈴薯皮的機器，很快洋芋片就多得是了。洋芋片逐漸流傳到全世界，從那時起一直很受歡迎。"
   ],
-  "ms": []
+  "ms": [],
+  "vocab": [
+   {
+    "w": "crisp",
+    "pos": "adj.",
+    "zh": "酥脆的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "diner",
+    "pos": "n.",
+    "zh": "（餐廳裡）用餐的客人",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "chore",
+    "pos": "n.",
+    "zh": "瑣碎又費事的工作",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "stock",
+    "pos": "n.",
+    "zh": "存貨（out of stock 缺貨）",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "abundance",
+    "pos": "n.",
+    "zh": "大量、充足（in abundance 大量的）",
+    "lv": 6,
+    "at": "p1"
+   }
+  ]
  },
  {
   "id": "g90p2",
@@ -19300,6 +19337,36 @@
     "t": "Dumas’s life sometimes was just like his action novels.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "racism",
+    "pos": "n.",
+    "zh": "種族歧視",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "mansion",
+    "pos": "n.",
+    "zh": "豪宅、大宅邸",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "fascinate",
+    "pos": "v.",
+    "zh": "讓人著迷",
+    "lv": 5,
+    "at": "q45"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q46"
+   }
   ]
  },
  {
@@ -19355,6 +19422,50 @@
     "t": "Daphne said that her dream for the future is to see ivory banned, all stored ivory destroyed and no one wearing an ivory ornament ever again.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "orphanage",
+    "pos": "n.",
+    "zh": "孤兒院",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "mischievous",
+    "pos": "adj.",
+    "zh": "調皮的、愛惡作劇的",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "companionship",
+    "pos": "n.",
+    "zh": "陪伴、作伴",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "refuge",
+    "pos": "n.",
+    "zh": "保護區、避難所",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "ban",
+    "pos": "v.",
+    "zh": "禁止",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "ornament",
+    "pos": "n.",
+    "zh": "飾品、裝飾品",
+    "lv": 6,
+    "at": "p4"
+   }
   ]
  },
  {
@@ -19409,6 +19520,43 @@
     "t": "Even the most ordinary objects can present to us powerful images.",
     "k": "both"
    }
+  ],
+  "vocab": [
+   {
+    "w": "extraordinary",
+    "pos": "adj.",
+    "zh": "非比尋常的、特別的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "wilderness",
+    "pos": "n.",
+    "zh": "荒野",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "starvation",
+    "pos": "n.",
+    "zh": "飢餓、餓死",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "adventurous",
+    "pos": "adj.",
+    "zh": "愛冒險的、勇於冒險的",
+    "lv": 0,
+    "at": "q54"
+   },
+   {
+    "w": "stimulate",
+    "pos": "v.",
+    "zh": "激發、刺激",
+    "lv": 5,
+    "at": "q55"
+   }
   ]
  },
  {
@@ -19453,7 +19601,16 @@
    "有一天，Nasreddin 向鄰居 Ali 借了一個大鍋。隔天他歸還的時候，大鍋裡面放了一個小鍋。「那不是我的。」Ali 說。「是你的。」Nasreddin 說：「你的鍋子待在我家的時候，生了一個寶寶。」",
    "一個星期以後，Nasreddin 又請 Ali 把鍋子借給他。Ali 很樂意地答應了，想看看 Nasreddin 會不會再還他兩個鍋子。一個星期過去了，接著又過了一個星期。最後 Ali 失去耐心，上門去討他的鍋子。「很抱歉，你的鍋子死了。」Nasreddin 說。「死了！」Ali 說：「鍋子怎麼會死？」「這個嘛，我跟你說你的鍋子生了寶寶，你不是相信了嗎？」"
   ],
-  "ms": []
+  "ms": [],
+  "vocab": [
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q43"
+   }
+  ]
  },
  {
   "id": "g89p2",
@@ -19511,6 +19668,30 @@
     "t": "When a lot of dead mail has piled up, the dead mail offices hold public auctions.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "illegible",
+    "pos": "adj.",
+    "zh": "字跡難以辨認的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "auction",
+    "pos": "n.",
+    "zh": "拍賣會",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "bidder",
+    "pos": "n.",
+    "zh": "出價的人（the highest bidder 出價最高的人）",
+    "lv": 5,
+    "at": "p3",
+    "h": "bid"
+   }
   ]
  },
  {
@@ -19553,7 +19734,44 @@
    "我像一朵雲，孤獨地漫遊，高高飄過山谷和丘陵；忽然間，我看見一大群、一大片金黃色的水仙花，在湖邊、在樹下，隨著微風輕輕飄動、翩翩起舞。",
    "水仙花連綿不斷，就像銀河裡閃閃發亮的星星；它們沿著海灣的邊緣，排成看不到盡頭的一長列。我一眼望去就看到上萬朵，每一朵都搖著頭，跳著輕快的舞。"
   ],
-  "ms": []
+  "ms": [],
+  "vocab": [
+   {
+    "w": "o'er",
+    "pos": "prep.",
+    "zh": "（詩裡的寫法）＝ over，越過、在……上方",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "vale",
+    "pos": "n.",
+    "zh": "（詩裡的用字）山谷",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "daffodil",
+    "pos": "n.",
+    "zh": "水仙花",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "twinkle",
+    "pos": "v.",
+    "zh": "閃爍、閃閃發亮",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "sprightly",
+    "pos": "adj.",
+    "zh": "輕快的、活潑的",
+    "lv": 0,
+    "at": "p2"
+   }
+  ]
  },
  {
   "id": "g89p4",
@@ -19609,6 +19827,73 @@
     "p": 1,
     "t": "A linguist is always listening, never off-duty.",
     "k": "thesis"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "linguist",
+    "pos": "n.",
+    "zh": "語言學家",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "solemnly",
+    "pos": "adv.",
+    "zh": "一本正經地、嚴肅地",
+    "lv": 6,
+    "at": "p2",
+    "h": "solemn"
+   },
+   {
+    "w": "sternly",
+    "pos": "adv.",
+    "zh": "嚴厲地",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "idiotic",
+    "pos": "adj.",
+    "zh": "愚蠢的、蠢透了的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "jolly",
+    "pos": "adj.",
+    "zh": "愉快的、歡樂的",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "participant",
+    "pos": "n.",
+    "zh": "參加的人",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "lengthy",
+    "pos": "adj.",
+    "zh": "很長的、冗長的",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "obliged",
+    "pos": "adj.",
+    "zh": "欠人情的（be obliged to someone 欠某人一份情）",
+    "lv": 6,
+    "at": "p4",
+    "h": "oblige"
+   },
+   {
+    "w": "linguistic",
+    "pos": "adj.",
+    "zh": "語言學的",
+    "lv": 0,
+    "at": "p4"
    }
   ]
  },
@@ -19669,6 +19954,15 @@
     "t": "There is no record of whether Shaw ever sent the tickets.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "playwright",
+    "pos": "n.",
+    "zh": "劇作家",
+    "lv": 6,
+    "at": "p1"
+   }
   ]
  },
  {
@@ -19724,6 +20018,30 @@
     "p": 2,
     "t": "The following two paragraphs are examples of these two kinds.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "unlocked",
+    "pos": "adj.",
+    "zh": "沒上鎖的",
+    "lv": 5,
+    "at": "p3",
+    "h": "unlock"
+   },
+   {
+    "w": "jackknife",
+    "pos": "n.",
+    "zh": "折疊刀",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "mollusk",
+    "pos": "n.",
+    "zh": "軟體動物",
+    "lv": 0,
+    "at": "p4"
    }
   ]
  },
@@ -19788,6 +20106,93 @@
     "t": "While it does have its share of resort hotels, shopping centers and good restaurants, and a smattering of museums, art galleries and night spots, its main attractions lie outdoors.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "stunning",
+    "pos": "adj.",
+    "zh": "令人驚嘆的、極美的",
+    "lv": 6,
+    "at": "p1",
+    "h": "stun"
+   },
+   {
+    "w": "breathtaking",
+    "pos": "adj.",
+    "zh": "美得令人屏息的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "gash",
+    "pos": "n.",
+    "zh": "深長的切口、裂口",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "rugged",
+    "pos": "adj.",
+    "zh": "崎嶇的",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "extinct",
+    "pos": "adj.",
+    "zh": "（火山）不再活動的（extinct volcano 死火山）",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "volcano",
+    "pos": "n.",
+    "zh": "火山",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "localized",
+    "pos": "adj.",
+    "zh": "集中在小範圍的、局部的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "thrive",
+    "pos": "v.",
+    "zh": "（thrive on）熱愛、樂在其中",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "resort",
+    "pos": "n.",
+    "zh": "度假勝地（resort hotel 度假飯店）",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "smattering",
+    "pos": "n.",
+    "zh": "少數、零星幾個（a smattering of）",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "scuba",
+    "pos": "n.",
+    "zh": "水肺（scuba diving 水肺潛水）",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "geographical",
+    "pos": "adj.",
+    "zh": "地理的",
+    "lv": 6,
+    "at": "q45"
+   }
   ]
  },
  {
@@ -19833,6 +20238,57 @@
     "p": 1,
     "t": "The decomposers are a vital link in the natural cycle of life and death.",
     "k": "both"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "ecological",
+    "pos": "adj.",
+    "zh": "生態的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "organism",
+    "pos": "n.",
+    "zh": "生物、有機體",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "decomposer",
+    "pos": "n.",
+    "zh": "分解者",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "fungi",
+    "pos": "n.",
+    "zh": "真菌（fungus 的複數）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "carbon",
+    "pos": "n.",
+    "zh": "碳（carbon dioxide 二氧化碳）",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "dioxide",
+    "pos": "n.",
+    "zh": "二氧化物（carbon dioxide 二氧化碳）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "decomposition",
+    "pos": "n.",
+    "zh": "分解、腐爛",
+    "lv": 0,
+    "at": "q49"
    }
   ]
  },
@@ -19924,6 +20380,108 @@
     "t": "Glenn, who retires from the U.S. Senate next month, joins a list of individuals and sports teams honored with more than one ticker-tape parade.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "swirl",
+    "pos": "n.",
+    "zh": "漩渦、飛旋",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "confetti",
+    "pos": "n.",
+    "zh": "五彩碎紙（遊行或慶祝時灑的）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "shredded",
+    "pos": "adj.",
+    "zh": "切碎的、撕碎的",
+    "lv": 6,
+    "at": "p1",
+    "h": "shred"
+   },
+   {
+    "w": "salute",
+    "pos": "v.",
+    "zh": "向……致敬、慶祝",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "ticker-tape",
+    "pos": "n.",
+    "zh": "紙帶（ticker-tape parade 紙花遊行，從高樓灑下碎紙條歡迎英雄的遊行）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "turnout",
+    "pos": "n.",
+    "zh": "出席人數、到場人數",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "sparse",
+    "pos": "adj.",
+    "zh": "稀疏的、稀稀落落的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "spectator",
+    "pos": "n.",
+    "zh": "觀眾",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "restrained",
+    "pos": "adj.",
+    "zh": "克制的、平靜的",
+    "lv": 6,
+    "at": "p3",
+    "h": "restrain"
+   },
+   {
+    "w": "inflated",
+    "pos": "adj.",
+    "zh": "誇大的、灌水的（數字）",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "enthusiastic",
+    "pos": "adj.",
+    "zh": "熱烈的、熱情的",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "newlywed",
+    "pos": "n.",
+    "zh": "新婚的人",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "grant",
+    "pos": "v.",
+    "zh": "（take something for granted）把……視為理所當然",
+    "lv": 5,
+    "at": "p5"
+   },
+   {
+    "w": "blizzard",
+    "pos": "n.",
+    "zh": "暴風雪",
+    "lv": 0,
+    "at": "p6"
+   }
   ]
  },
  {
@@ -19989,6 +20547,86 @@
     "t": "There was quite a bit of controversy over the choice of a robot as a commencement speaker.",
     "k": "both"
    }
+  ],
+  "vocab": [
+   {
+    "w": "commencement",
+    "pos": "n.",
+    "zh": "畢業典禮",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "suburban",
+    "pos": "adj.",
+    "zh": "郊區的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "extension",
+    "pos": "n.",
+    "zh": "延伸",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "workload",
+    "pos": "n.",
+    "zh": "工作量",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "amplified",
+    "pos": "adj.",
+    "zh": "擴音的、放大的",
+    "lv": 6,
+    "at": "p2",
+    "h": "amplify"
+   },
+   {
+    "w": "controversy",
+    "pos": "n.",
+    "zh": "爭議",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "degrading",
+    "pos": "adj.",
+    "zh": "貶低人的、有辱人格的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "innovative",
+    "pos": "adj.",
+    "zh": "有創意的、創新的",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "controversial",
+    "pos": "adj.",
+    "zh": "有爭議的",
+    "lv": 5,
+    "at": "q41"
+   },
+   {
+    "w": "productivity",
+    "pos": "n.",
+    "zh": "生產力、工作效率",
+    "lv": 5,
+    "at": "q43"
+   },
+   {
+    "w": "brainchild",
+    "pos": "n.",
+    "zh": "（某人）想出來的點子、構想",
+    "lv": 0,
+    "at": "q43"
+   }
   ]
  },
  {
@@ -20036,6 +20674,29 @@
     "p": 1,
     "t": "Accused of neglecting this part of our education, my father still instituted a summer school for my brother and me.",
     "k": "both"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "institute",
+    "pos": "v.",
+    "zh": "開辦、設立",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "navigation",
+    "pos": "n.",
+    "zh": "航海、航行技術",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "cruise",
+    "pos": "n.",
+    "zh": "航行",
+    "lv": 5,
+    "at": "p1"
    }
   ]
  },
@@ -20147,6 +20808,115 @@
     "t": "A giant egg-timer will be set up in the Place de la Concorde and its sand will begin running after a solar eclipse scheduled on April 11, 1999.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "millennium",
+    "pos": "n.",
+    "zh": "千禧年",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "ecological",
+    "pos": "adj.",
+    "zh": "生態的",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "dignified",
+    "pos": "adj.",
+    "zh": "有尊嚴的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "architect",
+    "pos": "n.",
+    "zh": "建築師",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "pillar",
+    "pos": "n.",
+    "zh": "柱子",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "petal",
+    "pos": "n.",
+    "zh": "花瓣",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "erect",
+    "pos": "v.",
+    "zh": "建造、豎立",
+    "lv": 5,
+    "at": "p5"
+   },
+   {
+    "w": "franc",
+    "pos": "n.",
+    "zh": "法郎（法國以前的貨幣）",
+    "lv": 0,
+    "at": "p5"
+   },
+   {
+    "w": "consecrate",
+    "pos": "v.",
+    "zh": "尊為、奉為",
+    "lv": 0,
+    "at": "p7"
+   },
+   {
+    "w": "illuminate",
+    "pos": "v.",
+    "zh": "打上燈光、照亮",
+    "lv": 6,
+    "at": "p8"
+   },
+   {
+    "w": "notably",
+    "pos": "adv.",
+    "zh": "特別是、尤其是",
+    "lv": 6,
+    "at": "p8",
+    "h": "notable"
+   },
+   {
+    "w": "luminous",
+    "pos": "adj.",
+    "zh": "發光的",
+    "lv": 0,
+    "at": "p8"
+   },
+   {
+    "w": "stained",
+    "pos": "adj.",
+    "zh": "著色的（stained glass 彩繪玻璃）",
+    "lv": 5,
+    "at": "p8",
+    "h": "stain"
+   },
+   {
+    "w": "laser",
+    "pos": "n.",
+    "zh": "雷射",
+    "lv": 5,
+    "at": "p9"
+   },
+   {
+    "w": "eclipse",
+    "pos": "n.",
+    "zh": "（日、月）蝕（solar eclipse 日蝕）",
+    "lv": 6,
+    "at": "p10"
+   }
   ]
  },
  {
@@ -20214,6 +20984,58 @@
     "t": "It’s an admirable project, and it is worth finding out if a similar one operates in your hometown.",
     "k": "both"
    }
+  ],
+  "vocab": [
+   {
+    "w": "dispose",
+    "pos": "v.",
+    "zh": "丟棄、處理（dispose of）",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "surplus",
+    "pos": "adj.",
+    "zh": "多餘的、用不到的",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "scheme",
+    "pos": "n.",
+    "zh": "計畫、方案",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "disabled",
+    "pos": "adj.",
+    "zh": "身心障礙的",
+    "lv": 6,
+    "at": "p3",
+    "h": "disable"
+   },
+   {
+    "w": "donor",
+    "pos": "n.",
+    "zh": "捐贈者",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "disposable",
+    "pos": "adj.",
+    "zh": "拋棄式的、用完就丟的",
+    "lv": 6,
+    "at": "q42"
+   },
+   {
+    "w": "donate",
+    "pos": "v.",
+    "zh": "捐贈",
+    "lv": 5,
+    "at": "q43"
+   }
   ]
  },
  {
@@ -20265,6 +21087,64 @@
     "p": 2,
     "t": "It would be difficult to put a value on the things rescued by the Disk Doctor.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "architect",
+    "pos": "n.",
+    "zh": "建築師",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "script",
+    "pos": "n.",
+    "zh": "劇本、腳本",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "manuscript",
+    "pos": "n.",
+    "zh": "手稿、原稿",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "diagnosis",
+    "pos": "n.",
+    "zh": "診斷",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "prescription",
+    "pos": "n.",
+    "zh": "處方",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "prescribe",
+    "pos": "v.",
+    "zh": "開（藥方）、建議",
+    "lv": 5,
+    "at": "q44"
+   },
+   {
+    "w": "priceless",
+    "pos": "adj.",
+    "zh": "無價的、非常珍貴的",
+    "lv": 6,
+    "at": "q45"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q47"
    }
   ]
  },
@@ -20325,6 +21205,57 @@
     "p": 2,
     "t": "Here are a few tips to help us create enduring relationships.",
     "k": "both"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "accordingly",
+    "pos": "adv.",
+    "zh": "因此、所以",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "evolve",
+    "pos": "v.",
+    "zh": "逐步發展",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "intimacy",
+    "pos": "n.",
+    "zh": "親密",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "sexuality",
+    "pos": "n.",
+    "zh": "性、性方面的關係",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "thrive",
+    "pos": "v.",
+    "zh": "茁壯成長",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "organism",
+    "pos": "n.",
+    "zh": "有機體",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "embryo",
+    "pos": "n.",
+    "zh": "胚胎",
+    "lv": 0,
+    "at": "p2"
    }
   ]
  },
@@ -20404,6 +21335,78 @@
     "p": 7,
     "t": "It is not immediately known whether the “Kawasaki” can be repaired on the fishing island of Penghu, or when the Vladimirs will be able to set off again and continue their around-the-world voyage.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "cruise",
+    "pos": "n.",
+    "zh": "航行、乘船旅行（around-the-world cruise 環球航行）",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "coastline",
+    "pos": "n.",
+    "zh": "海岸線",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "mainland",
+    "pos": "n.",
+    "zh": "大陸（相對於島嶼）",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "mainsail",
+    "pos": "n.",
+    "zh": "主帆",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "twin-mast",
+    "pos": "adj.",
+    "zh": "雙桅的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "smash",
+    "pos": "v.",
+    "zh": "打碎、撞壞",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "batter",
+    "pos": "v.",
+    "zh": "猛烈吹打、重創",
+    "lv": 6,
+    "at": "p5"
+   },
+   {
+    "w": "rear",
+    "pos": "adj.",
+    "zh": "後面的",
+    "lv": 5,
+    "at": "p5"
+   },
+   {
+    "w": "shred",
+    "pos": "n.",
+    "zh": "碎片、碎條（be torn into shreds 撕成碎片）",
+    "lv": 6,
+    "at": "p5"
+   },
+   {
+    "w": "rudder",
+    "pos": "n.",
+    "zh": "舵",
+    "lv": 0,
+    "at": "p5"
    }
   ]
  },
@@ -20486,6 +21489,15 @@
     "t": "Please try to take a few days off and come to join us.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "unabridged",
+    "pos": "adj.",
+    "zh": "未刪節的、完整的（unabridged dictionary 大部頭的完整版字典）",
+    "lv": 0,
+    "at": "p4"
+   }
   ]
  },
  {
@@ -20547,6 +21559,79 @@
     "p": 3,
     "t": "If it is necessary to stay more than 14 days and less than 30 days, nationals of the specific countries holding a 14-day non-visa entry should in the meantime apply for a landing-visa with the authorized office in the CKS airport from the Bureau of Consular Affairs of the Ministry of Foreign Affairs.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "visa",
+    "pos": "n.",
+    "zh": "簽證",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "consulate",
+    "pos": "n.",
+    "zh": "領事館",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "authorize",
+    "pos": "v.",
+    "zh": "授權",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "exempt",
+    "pos": "v.",
+    "zh": "免除（be exempted from 免辦、不必）",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "duration",
+    "pos": "n.",
+    "zh": "期間、持續的時間",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "non-visa",
+    "pos": "adj.",
+    "zh": "免簽證的（non-visa entry 免簽證入境）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "onward",
+    "pos": "adj.",
+    "zh": "往前的、接下去的（onward ticket 離境的機票）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "meantime",
+    "pos": "n.",
+    "zh": "期間（in the meantime 在這段期間）",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "landing-visa",
+    "pos": "n.",
+    "zh": "落地簽證",
+    "lv": 5,
+    "at": "p3",
+    "h": "visa"
+   },
+   {
+    "w": "valid",
+    "pos": "adj.",
+    "zh": "有效的",
+    "lv": 5,
+    "at": "q44"
    }
   ]
  },
@@ -20615,6 +21700,22 @@
     "t": "Scientists now relate left and right hemispheres to the way different individuals learn languages.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "hemisphere",
+    "pos": "n.",
+    "zh": "（大腦的）半球",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "implication",
+    "pos": "n.",
+    "zh": "啟示、含意",
+    "lv": 5,
+    "at": "q48"
+   }
   ]
  },
  {
@@ -20668,6 +21769,65 @@
     "t": "But how long will it be before criminal gangs, like the Mafia, start to use computer experts to help them in their crimes?",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "hacking",
+    "pos": "n.",
+    "zh": "入侵電腦系統",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "hacker",
+    "pos": "n.",
+    "zh": "駭客",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "preceding",
+    "pos": "adj.",
+    "zh": "前面的、上述的",
+    "lv": 6,
+    "at": "q41",
+    "h": "precede"
+   },
+   {
+    "w": "dismantle",
+    "pos": "v.",
+    "zh": "拆開、拆解",
+    "lv": 0,
+    "at": "q41"
+   },
+   {
+    "w": "widespread",
+    "pos": "adj.",
+    "zh": "普遍的",
+    "lv": 5,
+    "at": "q42"
+   },
+   {
+    "w": "literate",
+    "pos": "adj.",
+    "zh": "懂……的（computer literate 懂電腦的）",
+    "lv": 6,
+    "at": "q42"
+   },
+   {
+    "w": "elaborate",
+    "pos": "adj.",
+    "zh": "精密的、複雜的",
+    "lv": 5,
+    "at": "q43"
+   },
+   {
+    "w": "multi-media",
+    "pos": "adj.",
+    "zh": "多媒體的",
+    "lv": 0,
+    "at": "q43"
+   }
   ]
  },
  {
@@ -20713,6 +21873,92 @@
     "p": 1,
     "t": "The present design of the oversized automobile is largely responsible not only for increasing death toll on the highways but also for the rapid depletion of our resources of petroleum, for the pollution of our environment, and for the congestion and inconvenience of our cities.",
     "k": "both"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "collision",
+    "pos": "n.",
+    "zh": "碰撞、車禍",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "attributable",
+    "pos": "adj.",
+    "zh": "可歸咎於……的（be attributable to）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "oversized",
+    "pos": "adj.",
+    "zh": "特大號的、超大型的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "toll",
+    "pos": "n.",
+    "zh": "死傷人數（death toll 死亡人數）",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "depletion",
+    "pos": "n.",
+    "zh": "耗盡、枯竭",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "petroleum",
+    "pos": "n.",
+    "zh": "石油",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "congestion",
+    "pos": "n.",
+    "zh": "（交通）擁擠、壅塞",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "ban",
+    "pos": "v.",
+    "zh": "禁止",
+    "lv": 5,
+    "at": "q45"
+   },
+   {
+    "w": "occupant",
+    "pos": "n.",
+    "zh": "（車上的）乘客、乘坐的人",
+    "lv": 0,
+    "at": "q45"
+   },
+   {
+    "w": "assumption",
+    "pos": "n.",
+    "zh": "假設、推測",
+    "lv": 5,
+    "at": "q46"
+   },
+   {
+    "w": "derive",
+    "pos": "v.",
+    "zh": "來自、源自（derive from）",
+    "lv": 5,
+    "at": "q46"
+   },
+   {
+    "w": "verify",
+    "pos": "v.",
+    "zh": "證實、查證",
+    "lv": 0,
+    "at": "q46"
    }
   ]
  },
@@ -20772,7 +22018,110 @@
    "這三隻鯨魚用廂型車載到麻州波士頓的新英格蘭水族館，在一個 60,000 加侖的水槽裡養了七個月。只有少數幾個人照顧牠們，以免牠們太習慣人類。",
    "今年夏初，這三隻鯨魚確定夠健康，可以回到大西洋了。野放一個月後，有人看到了牠們。牠們和一群 50 隻鯨魚在一起，距離野放的地點大約 60 英里。"
   ],
-  "ms": []
+  "ms": [],
+  "vocab": [
+   {
+    "w": "seagoing",
+    "pos": "adj.",
+    "zh": "在海上生活的、遠洋的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "mammal",
+    "pos": "n.",
+    "zh": "哺乳動物",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "whale-stranding",
+    "pos": "n.",
+    "zh": "鯨魚擱淺",
+    "lv": 5,
+    "at": "p1",
+    "h": "strand"
+   },
+   {
+    "w": "ashore",
+    "pos": "adv.",
+    "zh": "上岸、到岸上",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "self-destructive",
+    "pos": "adj.",
+    "zh": "自我毀滅的",
+    "lv": 5,
+    "at": "p2",
+    "h": "destructive"
+   },
+   {
+    "w": "accustomed",
+    "pos": "adj.",
+    "zh": "習慣於……的（become accustomed to）",
+    "lv": 6,
+    "at": "p3",
+    "h": "accustom"
+   },
+   {
+    "w": "genetic",
+    "pos": "adj.",
+    "zh": "遺傳的、基因的",
+    "lv": 5,
+    "at": "q47"
+   },
+   {
+    "w": "spawning",
+    "pos": "adj.",
+    "zh": "產卵的（spawning ground 產卵地）",
+    "lv": 0,
+    "at": "q47"
+   },
+   {
+    "w": "facilitate",
+    "pos": "v.",
+    "zh": "促進、幫助",
+    "lv": 5,
+    "at": "q48"
+   },
+   {
+    "w": "respiration",
+    "pos": "n.",
+    "zh": "呼吸",
+    "lv": 0,
+    "at": "q48"
+   },
+   {
+    "w": "nutrition",
+    "pos": "n.",
+    "zh": "營養",
+    "lv": 5,
+    "at": "q48"
+   },
+   {
+    "w": "amongst",
+    "pos": "prep.",
+    "zh": "＝ among，在……之中",
+    "lv": 0,
+    "at": "q49"
+   },
+   {
+    "w": "deem",
+    "pos": "v.",
+    "zh": "認為、視為",
+    "lv": 6,
+    "at": "q49"
+   },
+   {
+    "w": "suicidal",
+    "pos": "adj.",
+    "zh": "自殺的、自我毀滅的",
+    "lv": 0,
+    "at": "q50"
+   }
+  ]
  },
  {
   "id": "g83p1",
@@ -20835,6 +22184,15 @@
     "t": "The medal was named after Andrew Carnegie.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "recipient",
+    "pos": "n.",
+    "zh": "獲得者、領受的人",
+    "lv": 5,
+    "at": "q33"
+   }
   ]
  },
  {
@@ -20883,7 +22241,23 @@
    "到了頂樓，迎接 Willig 的有警察，也有記者。有些警察還向他要簽名。接著警方想把他關進監獄，控告他未經許可攀爬大樓，觸犯法律。不只這樣，市政府還打算向他求償 25 萬美元。警察局說，這筆錢是用來支付緊急調派特殊裝備和 80 名警察去救他的費用。",
    "到了第二天，市府官員重新評估了整件事。市長 Abraham Beame 在市政廳舉行記者會，結果記者會變成了表揚 George Willig 的典禮。Beame 宣布市政府不會處罰這位「人蒼蠅」（The Human Fly），只會照他爬的 110 層樓，每一層罰他一美分。市政府沒有處罰 Willig，反而把他當成敢於挑戰不可能、而且成功完成挑戰的英雄。"
   ],
-  "ms": []
+  "ms": [],
+  "vocab": [
+   {
+    "w": "immense",
+    "pos": "adj.",
+    "zh": "巨大的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "ceremony",
+    "pos": "n.",
+    "zh": "典禮",
+    "lv": 5,
+    "at": "p3"
+   }
+  ]
  },
  {
   "id": "g83p3",
@@ -20950,6 +22324,29 @@
     "p": 3,
     "t": "A great step forward was the use of movable type.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "diminish",
+    "pos": "v.",
+    "zh": "減少、降低",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "movable",
+    "pos": "adj.",
+    "zh": "可移動的（movable type 活字）",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "likewise",
+    "pos": "adv.",
+    "zh": "同樣地、也",
+    "lv": 5,
+    "at": "p4"
    }
   ]
  }
