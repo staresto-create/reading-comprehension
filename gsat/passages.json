@@ -16674,6 +16674,43 @@
     "t": "When we change our attitudes toward ourselves, the whole world changes.",
     "k": "both"
    }
+  ],
+  "vocab": [
+   {
+    "w": "fantasize",
+    "pos": "v.",
+    "zh": "幻想（fantasize about）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "everlasting",
+    "pos": "adj.",
+    "zh": "永遠的、永恆的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "highlight",
+    "pos": "v.",
+    "zh": "凸顯、強調",
+    "lv": 5,
+    "at": "q41"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q43"
+   },
+   {
+    "w": "indifferent",
+    "pos": "adj.",
+    "zh": "漠不關心的、不在乎的（be indifferent to）",
+    "lv": 5,
+    "at": "q44"
+   }
   ]
  },
  {
@@ -16742,6 +16779,78 @@
     "t": "Bam was best known for its 2,000-year-old castle built out of mud, straw, and the trunks of palm trees.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "devastate",
+    "pos": "v.",
+    "zh": "重創、嚴重破壞",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "quake",
+    "pos": "n.",
+    "zh": "地震",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "grieve",
+    "pos": "v.",
+    "zh": "悲傷、哀痛",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "crumble",
+    "pos": "v.",
+    "zh": "崩塌、碎裂",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "dwelling",
+    "pos": "n.",
+    "zh": "住所、民宅",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "marketplace",
+    "pos": "n.",
+    "zh": "市集",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "mosque",
+    "pos": "n.",
+    "zh": "清真寺",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "architect",
+    "pos": "n.",
+    "zh": "建築師",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "provincial",
+    "pos": "adj.",
+    "zh": "省的（provincial capital 省會、省的首府）",
+    "lv": 6,
+    "at": "p5"
+   },
+   {
+    "w": "vow",
+    "pos": "v.",
+    "zh": "發誓、誓言",
+    "lv": 5,
+    "at": "p5"
+   }
   ]
  },
  {
@@ -16789,7 +16898,44 @@
    "時差是在不同時區之間旅行造成的，對經常旅行的人來說，正成為一個常見的問題：49% 的人覺得時差只是件麻煩事，45% 的人覺得是真正的問題。時差是體內的生理時鐘失調造成的，可能引起消化問題、疲倦和睡眠障礙。",
    "一般來說，如果只是移到隔壁的時區，我們的生理時鐘只會稍微失調；但是一旦跨越三、四個時區，時差就成了問題。每差一個小時，身體大約需要一天才能恢復。不過，時差問題有多嚴重，也要看旅行的方向。如果往北或往南走，我們不會注意到任何差別，因為通常沒有時區的變化。然而，如果往西走，就體內的時鐘來說，我們會比當地時間超前，可能因此出現問題。另一方面，從西往東的旅程，會讓我們比當地時間落後。這種旅程通常需要花更大的力氣調整，因為我們追不上新的時間表。所以，從紐約到洛杉磯的旅行，引起的問題往往比從洛杉磯到紐約少。"
   ],
-  "ms": []
+  "ms": [],
+  "vocab": [
+   {
+    "w": "nuisance",
+    "pos": "n.",
+    "zh": "麻煩事、討厭的事",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "disruption",
+    "pos": "n.",
+    "zh": "擾亂、失調（sleep disruption 睡眠障礙）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "biological",
+    "pos": "adj.",
+    "zh": "生物的、生理的（biological clock 生理時鐘）",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "digestive",
+    "pos": "adj.",
+    "zh": "消化的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "lessen",
+    "pos": "v.",
+    "zh": "減輕、減少",
+    "lv": 6,
+    "at": "q52"
+   }
+  ]
  },
  {
   "id": "g94p4",
@@ -16856,6 +17002,106 @@
     "t": "Red imported fire ants can cause a number of problems.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "backyard",
+    "pos": "n.",
+    "zh": "後院",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "thrive",
+    "pos": "v.",
+    "zh": "興旺、大量繁衍",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "colonize",
+    "pos": "v.",
+    "zh": "（動植物）在新的地方落地生根、占據",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "hectare",
+    "pos": "n.",
+    "zh": "公頃",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "infest",
+    "pos": "v.",
+    "zh": "（害蟲）大量出沒、侵擾",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "mound",
+    "pos": "n.",
+    "zh": "土堆（這裡指蟻丘）",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "farmland",
+    "pos": "n.",
+    "zh": "農田",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "pasture",
+    "pos": "n.",
+    "zh": "牧場、牧草地",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "quail",
+    "pos": "n.",
+    "zh": "鵪鶉",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "electromagnetic",
+    "pos": "adj.",
+    "zh": "電磁的（electromagnetic field 電磁場）",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "insulation",
+    "pos": "n.",
+    "zh": "絕緣材料、絕緣層",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "livestock",
+    "pos": "n.",
+    "zh": "家畜、牲畜",
+    "lv": 6,
+    "at": "p4"
+   },
+   {
+    "w": "reproduce",
+    "pos": "v.",
+    "zh": "繁殖",
+    "lv": 6,
+    "at": "q54"
+   },
+   {
+    "w": "agricultural",
+    "pos": "adj.",
+    "zh": "農業的",
+    "lv": 5,
+    "at": "q55"
+   }
   ]
  },
  {
@@ -16911,6 +17157,57 @@
     "t": "While the twins knew that genetics might have played a role in their condition, they recognized that their eating habits might have also contributed to their heart problems.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "transplant",
+    "pos": "n.",
+    "zh": "移植（heart transplant 心臟移植）",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "donor",
+    "pos": "n.",
+    "zh": "捐贈者",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "roomful",
+    "pos": "n.",
+    "zh": "一屋子（的人或東西）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "genetics",
+    "pos": "n.",
+    "zh": "遺傳、遺傳學",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "overdo",
+    "pos": "v.",
+    "zh": "做過頭（overdo it）",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "medication",
+    "pos": "n.",
+    "zh": "藥物（be on medication 在吃藥）",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "lifespan",
+    "pos": "n.",
+    "zh": "壽命",
+    "lv": 0,
+    "at": "q42"
+   }
   ]
  },
  {
@@ -16965,6 +17262,29 @@
     "p": 2,
     "t": "The British Museum has not signed the declaration, but says it fully supports it.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "declaration",
+    "pos": "n.",
+    "zh": "聲明、宣言",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "artifact",
+    "pos": "n.",
+    "zh": "（古代）文物、手工藝品",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "mummy",
+    "pos": "n.",
+    "zh": "木乃伊",
+    "lv": 0,
+    "at": "p1"
    }
   ]
  },
@@ -17034,6 +17354,72 @@
     "p": 4,
     "t": "On land as in the sea, living lights can be deceiving.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "lure",
+    "pos": "v.",
+    "zh": "引誘",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "prey",
+    "pos": "n.",
+    "zh": "獵物",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "predator",
+    "pos": "n.",
+    "zh": "捕食者、掠食者",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "headlamp",
+    "pos": "n.",
+    "zh": "頭燈",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "zigzag",
+    "pos": "adj.",
+    "zh": "鋸齒狀的、之字形的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "firefly",
+    "pos": "n.",
+    "zh": "螢火蟲",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "overhead",
+    "pos": "adv.",
+    "zh": "在頭頂上、在上空",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "underside",
+    "pos": "n.",
+    "zh": "下方、底面",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "deceiving",
+    "pos": "adj.",
+    "zh": "會騙人的、讓人誤會的",
+    "lv": 5,
+    "at": "p4",
+    "h": "deceive"
    }
   ]
  },
@@ -17105,6 +17491,66 @@
     "t": "There is no death; only a change of worlds—the author delivers these reassurances to readers in this book, based on the customs of the Plains Indians in America.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "beloved",
+    "pos": "adj.",
+    "zh": "心愛的、敬愛的",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "ritual",
+    "pos": "n.",
+    "zh": "儀式",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "eternal",
+    "pos": "adj.",
+    "zh": "永恆的（eternal life 長生不死）",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "bidder",
+    "pos": "n.",
+    "zh": "出價的人（the highest bidder 出價最高的人）",
+    "lv": 5,
+    "at": "p4",
+    "h": "bid"
+   },
+   {
+    "w": "execute",
+    "pos": "v.",
+    "zh": "處死",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "cactus",
+    "pos": "n.",
+    "zh": "仙人掌",
+    "lv": 0,
+    "at": "p6"
+   },
+   {
+    "w": "ridge",
+    "pos": "n.",
+    "zh": "山脊",
+    "lv": 5,
+    "at": "p7"
+   },
+   {
+    "w": "abundantly",
+    "pos": "adv.",
+    "zh": "非常、充分地（abundantly beautiful 美麗非凡）",
+    "lv": 5,
+    "at": "p8",
+    "h": "abundant"
+   }
   ]
  },
  {
@@ -17151,7 +17597,59 @@
    "媽媽在催她了。Amy 確定金手鍊牢牢戴在手腕上，然後把毛衣和外套都穿上，這樣就不必用手拿。她們只能帶自己拿得動的東西，而她的兩個行李箱已經裝滿了。",
    "媽媽最後一次環顧屋子，一個房間走過一個房間。Amy 跟在後面，努力回想每個房間擺滿家具、地毯、畫和書的時候是什麼樣子。她們走出去，最後一次看看爸爸心愛的花園。Amy 知道，要是爸爸現在在這裡，他一定會摘一朵最漂亮的康乃馨送給媽媽。媽媽會笑得很開心，把花插在她最好的水晶花瓶裡。可是現在花園看起來破舊又光禿禿的，就像 Amy 此刻的心情——孤單，好像沒有人要了。"
   ],
-  "ms": []
+  "ms": [],
+  "vocab": [
+   {
+    "w": "thrust",
+    "pos": "v.",
+    "zh": "塞給、用力推（thrust something at someone）",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "dangle",
+    "pos": "v.",
+    "zh": "懸掛、晃來晃去",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "suitcase",
+    "pos": "n.",
+    "zh": "行李箱",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "carnation",
+    "pos": "n.",
+    "zh": "康乃馨",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "crystal",
+    "pos": "n.",
+    "zh": "水晶（crystal vase 水晶花瓶）",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "shabby",
+    "pos": "adj.",
+    "zh": "破舊的",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "explicitly",
+    "pos": "adv.",
+    "zh": "明確地",
+    "lv": 5,
+    "at": "q42",
+    "h": "explicit"
+   }
+  ]
  },
  {
   "id": "g92bp2",
@@ -17209,6 +17707,92 @@
     "t": "The soybean is an almost perfect source of protein.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "barley",
+    "pos": "n.",
+    "zh": "大麥",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "livestock",
+    "pos": "n.",
+    "zh": "家畜、牲畜",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "soy",
+    "pos": "n.",
+    "zh": "黃豆（soy protein 黃豆蛋白）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "fiber",
+    "pos": "n.",
+    "zh": "纖維",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "beneficial",
+    "pos": "adj.",
+    "zh": "有益的",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "digestive",
+    "pos": "adj.",
+    "zh": "消化的（digestive disorders 消化方面的疾病）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "cholesterol",
+    "pos": "n.",
+    "zh": "膽固醇",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "fatty",
+    "pos": "adj.",
+    "zh": "脂肪的（fatty acid 脂肪酸）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "clot",
+    "pos": "v.",
+    "zh": "（血液）凝結",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "undertake",
+    "pos": "v.",
+    "zh": "進行、從事",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "substitute",
+    "pos": "n.",
+    "zh": "替代品",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "healthful",
+    "pos": "adj.",
+    "zh": "有益健康的",
+    "lv": 6,
+    "at": "q44"
+   }
   ]
  },
  {
@@ -17252,7 +17836,59 @@
    "哥哥姊姊通常很早就培養出領導的傾向，主要是因為父母把照顧弟妹的責任交給他們。在一般情況下，老大通常最有追求成就的動力，這主要是父母期望的結果。研究也指出，老大一般比其他孩子保守，因為父母的管教大多落在他們身上。老大習慣照顧別人，比較可能走向教書、從政這類需要領導能力的職業。他們從很小就習慣自己一個人做事，所以比較不善交際、也比較不知變通，可能不容易交到知心的朋友。",
    "相對地，後來出生的孩子比較可能輕鬆隨和、善於交際，因為父母已經比較放鬆了。不過，後來出生的孩子往往企圖心比較小，替別人做決定的時候可能會不自在。這也許可以說明，為什麼年紀小的孩子傾向選擇音樂、藝術、寫作這類創作領域。後來出生的孩子可能是好的推銷員，因為面對哥哥姊姊時，說服也許是他們唯一的工具。年紀小的孩子往往永遠是家裡的「寶寶」，大家喜歡和他們相處，但他們有時太依賴別人。"
   ],
-  "ms": []
+  "ms": [],
+  "vocab": [
+   {
+    "w": "parental",
+    "pos": "adj.",
+    "zh": "父母的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "firstborn",
+    "pos": "adj.",
+    "zh": "第一個出生的（firstborn children 老大）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "accustomed",
+    "pos": "adj.",
+    "zh": "習慣於……的（become accustomed to）",
+    "lv": 6,
+    "at": "p1",
+    "h": "accustom"
+   },
+   {
+    "w": "sociable",
+    "pos": "adj.",
+    "zh": "善於交際的",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "sibling",
+    "pos": "n.",
+    "zh": "兄弟姊妹",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "overdependent",
+    "pos": "adj.",
+    "zh": "過度依賴的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q50"
+   }
+  ]
  },
  {
   "id": "g92bp4",
@@ -17309,6 +17945,78 @@
     "t": "Given the harm caused by the burning of medical waste, physicians and nurses have the responsibility to take a lead in reducing the use of plastics in the hospitals.",
     "k": "both"
    }
+  ],
+  "vocab": [
+   {
+    "w": "dioxin",
+    "pos": "n.",
+    "zh": "戴奧辛",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "byproduct",
+    "pos": "n.",
+    "zh": "副產品",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "childbearing",
+    "pos": "adj.",
+    "zh": "懷孕生子的、生育的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "breastfeeding",
+    "pos": "adj.",
+    "zh": "吃母奶的（breastfeeding baby 吃母奶的嬰兒）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "vulnerable",
+    "pos": "adj.",
+    "zh": "容易受傷害的、脆弱的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "disposable",
+    "pos": "n.",
+    "zh": "拋棄式用品",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "reusable",
+    "pos": "n.",
+    "zh": "可重複使用的用品",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "dispose",
+    "pos": "v.",
+    "zh": "丟棄、處理（dispose of）",
+    "lv": 6,
+    "at": "q53"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q55"
+   },
+   {
+    "w": "lessen",
+    "pos": "v.",
+    "zh": "減輕、減少",
+    "lv": 6,
+    "at": "q55"
+   }
   ]
  },
  {
@@ -17351,7 +18059,23 @@
    "我通常搭地鐵上班，早上 8 點以前到公司。開始工作以前，我會換上制服，照照鏡子，確定自己看起來整整齊齊。早上 8 點半，我開始值班。我通常 12 點到 1 點吃午餐，上午和下午一般各休息 15 分鐘。下午 4 點半，我下班。",
    "我非常喜歡我的工作。我會遇到各式各樣的人，和每個人說話。很多人問我問題，我就提供他們需要的資訊。我盡量幫上忙。我總是把樓層報得很清楚，而且一直在移動。大部分男士進了我的車廂會脫帽，有時候我得請乘客把菸熄掉。有些人對我微笑，有些人卻理都不理我。事實上，我的生活可以說是由一連串的「上上下下」組成的（ups and downs 也指人生的起起落落）。"
   ],
-  "ms": []
+  "ms": [],
+  "vocab": [
+   {
+    "w": "series",
+    "pos": "n.",
+    "zh": "一連串、一系列（a series of）",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q42"
+   }
+  ]
  },
  {
   "id": "g92p2",
@@ -17408,6 +18132,44 @@
     "p": 2,
     "t": "The ancient Greeks and Romans were also fascinated by the idea of magic.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "pharaoh",
+    "pos": "n.",
+    "zh": "（古埃及的）法老",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "pyramid",
+    "pos": "n.",
+    "zh": "金字塔",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "fascinated",
+    "pos": "adj.",
+    "zh": "著迷的（be fascinated by）",
+    "lv": 5,
+    "at": "p2",
+    "h": "fascinate"
+   },
+   {
+    "w": "deception",
+    "pos": "n.",
+    "zh": "欺騙、障眼法",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "freak",
+    "pos": "n.",
+    "zh": "怪胎、怪人",
+    "lv": 6,
+    "at": "p3"
    }
   ]
  },
@@ -17473,6 +18235,58 @@
     "t": "The third kind is called “health spas,” or “faith healing.”",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "herb",
+    "pos": "n.",
+    "zh": "草藥",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "healer",
+    "pos": "n.",
+    "zh": "治療者、療者（folk healer 民俗療者）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "flourish",
+    "pos": "v.",
+    "zh": "興盛、蓬勃發展",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "spa",
+    "pos": "n.",
+    "zh": "療養所（health spa 健康療養所）",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "shrine",
+    "pos": "n.",
+    "zh": "聖所、神殿",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "depressed",
+    "pos": "adj.",
+    "zh": "心情低落的、沮喪的",
+    "lv": 5,
+    "at": "p3",
+    "h": "depress"
+   },
+   {
+    "w": "crucial",
+    "pos": "adj.",
+    "zh": "關鍵的、非常重要的",
+    "lv": 5,
+    "at": "q51"
+   }
   ]
  },
  {
@@ -17535,6 +18349,101 @@
     "t": "Fashion designer Tommy Hilfiger was fully aware of the power of youth culture.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "innovative",
+    "pos": "adj.",
+    "zh": "有創意的、創新的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "generate",
+    "pos": "v.",
+    "zh": "產生、創造（營收）",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "rap",
+    "pos": "n.",
+    "zh": "饒舌音樂",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "exceed",
+    "pos": "v.",
+    "zh": "超過",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "sustained",
+    "pos": "adj.",
+    "zh": "持續的",
+    "lv": 5,
+    "at": "p2",
+    "h": "sustain"
+   },
+   {
+    "w": "bra",
+    "pos": "n.",
+    "zh": "胸罩",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "virginity",
+    "pos": "n.",
+    "zh": "童貞、處女之身",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "adolescent",
+    "pos": "adj.",
+    "zh": "青少年的（adolescent girls 少女）",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "sponsor",
+    "pos": "v.",
+    "zh": "贊助",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "terminal",
+    "pos": "n.",
+    "zh": "終端機（這裡指店裡的遊戲機）",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "payoff",
+    "pos": "n.",
+    "zh": "成果、回報",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "purchasing",
+    "pos": "n.",
+    "zh": "購買（purchasing power 購買力）",
+    "lv": 5,
+    "at": "q54",
+    "h": "purchase"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論、推斷",
+    "lv": 6,
+    "at": "q55"
+   }
   ]
  },
  {
@@ -17590,6 +18499,43 @@
     "p": 3,
     "t": "A culture’s folk tales, fables, songs, and proverbs are an important part of its literature.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "unbelievable",
+    "pos": "adj.",
+    "zh": "令人難以置信的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "fable",
+    "pos": "n.",
+    "zh": "寓言",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "proverb",
+    "pos": "n.",
+    "zh": "諺語",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "factual",
+    "pos": "adj.",
+    "zh": "根據事實的、真實的",
+    "lv": 0,
+    "at": "q42"
+   },
+   {
+    "w": "overstate",
+    "pos": "v.",
+    "zh": "誇大",
+    "lv": 0,
+    "at": "q42"
    }
   ]
  },
@@ -17655,6 +18601,78 @@
     "t": "What is the real reason many collectors want autographs?",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "sizable",
+    "pos": "adj.",
+    "zh": "相當大的、有點規模的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "collector",
+    "pos": "n.",
+    "zh": "收藏家",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "manuscript",
+    "pos": "n.",
+    "zh": "手稿",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "executive",
+    "pos": "adj.",
+    "zh": "執行的（chief executive officer 執行長）",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "handwritten",
+    "pos": "adj.",
+    "zh": "手寫的、親筆寫的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "document",
+    "pos": "n.",
+    "zh": "文件（historical documents 歷史文件）",
+    "lv": 5,
+    "at": "q45"
+   },
+   {
+    "w": "overall",
+    "pos": "adj.",
+    "zh": "整體的（overall tone 整體語氣）",
+    "lv": 5,
+    "at": "q46"
+   },
+   {
+    "w": "factual",
+    "pos": "adj.",
+    "zh": "陳述事實的、客觀的",
+    "lv": 0,
+    "at": "q46"
+   },
+   {
+    "w": "ironic",
+    "pos": "adj.",
+    "zh": "諷刺的、反諷的",
+    "lv": 6,
+    "at": "q46"
+   },
+   {
+    "w": "enthusiastic",
+    "pos": "adj.",
+    "zh": "熱情的、熱衷的",
+    "lv": 5,
+    "at": "q46"
+   }
   ]
  },
  {
@@ -17704,6 +18722,36 @@
     "p": 1,
     "t": "A new study by the Department of Health in Taiwan shows that more than half of the adult population in Taiwan lacks an understanding of important health problems.",
     "k": "both"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "healthcare",
+    "pos": "n.",
+    "zh": "保健、醫療照護",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "medication",
+    "pos": "n.",
+    "zh": "用藥、藥物",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "nicotine",
+    "pos": "n.",
+    "zh": "尼古丁",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "outlook",
+    "pos": "n.",
+    "zh": "前景",
+    "lv": 6,
+    "at": "p1"
    }
   ]
  },
@@ -17775,6 +18823,36 @@
     "t": "Salesmen expect digital cameras to be popular gifts this holiday season.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "snapper",
+    "pos": "n.",
+    "zh": "（口語）相機（point-and-shoot snapper 對準就拍的簡單相機）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "gadget",
+    "pos": "n.",
+    "zh": "小玩意、新奇的小裝置",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "preview",
+    "pos": "v.",
+    "zh": "預覽",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "storage",
+    "pos": "n.",
+    "zh": "儲存",
+    "lv": 5,
+    "at": "p3"
+   }
   ]
  },
  {
@@ -17830,7 +18908,8 @@
     "t": "In a radio interview, Dom expressed his disappointment and explained how the accident took place.",
     "k": "topic"
    }
-  ]
+  ],
+  "vocab": []
  },
  {
   "id": "g91p2",
@@ -17885,6 +18964,29 @@
     "p": 3,
     "t": "The main reason is that these stories offer us chances to get away from this real, frustrating world and allow us to find some magical solutions to our problems.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "fantasize",
+    "pos": "v.",
+    "zh": "幻想（fantasize about）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "nick",
+    "pos": "n.",
+    "zh": "（in the nick of time）及時、在緊要關頭",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "ridicule",
+    "pos": "v.",
+    "zh": "嘲笑、取笑",
+    "lv": 0,
+    "at": "q46"
    }
   ]
  },
@@ -17942,6 +19044,51 @@
     "t": "Anderson eventually triumphed over racism.",
     "k": "both"
    }
+  ],
+  "vocab": [
+   {
+    "w": "racism",
+    "pos": "n.",
+    "zh": "種族歧視",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "widespread",
+    "pos": "adj.",
+    "zh": "普遍的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "choir",
+    "pos": "n.",
+    "zh": "唱詩班、合唱團",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "gathering",
+    "pos": "n.",
+    "zh": "聚會",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "soloist",
+    "pos": "n.",
+    "zh": "獨唱家、獨奏者",
+    "lv": 5,
+    "at": "p2",
+    "h": "solo"
+   },
+   {
+    "w": "delegate",
+    "pos": "n.",
+    "zh": "代表",
+    "lv": 5,
+    "at": "p2"
+   }
   ]
  },
  {
@@ -17998,6 +19145,44 @@
     "p": 3,
     "t": "Why have so many companies started allowing their employees to wear casual clothes?",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "wrinkled",
+    "pos": "adj.",
+    "zh": "起皺的、皺巴巴的",
+    "lv": 6,
+    "at": "p1",
+    "h": "wrinkle"
+   },
+   {
+    "w": "khaki",
+    "pos": "adj.",
+    "zh": "卡其色的（khaki pants 卡其褲）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "conduct",
+    "pos": "v.",
+    "zh": "進行、實施",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "morale",
+    "pos": "n.",
+    "zh": "士氣",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "productivity",
+    "pos": "n.",
+    "zh": "生產力、工作效率",
+    "lv": 5,
+    "at": "p3"
    }
   ]
  },

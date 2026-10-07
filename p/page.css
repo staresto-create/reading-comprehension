@@ -130,3 +130,4 @@ footer .fl{font-size:13px; margin-bottom:12px; font-weight:700;}
 .vbMeta{margin-left:auto; font-size:11.5px; color:var(--ink-soft); white-space:nowrap;}
 .vbLv{display:inline-block; border:1px solid var(--rule); border-radius:10px; padding:0 7px; margin-right:6px; background:#fff;}
 .vbLv.off{border-color:var(--gold); color:var(--gold);}
+.vbNone{font-size:13.5px; line-height:1.7; margin:4px 0 2px;}

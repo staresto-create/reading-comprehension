@@ -307,6 +307,7 @@
   .vbMeta{margin-left:auto; font-size:11.5px; color:var(--ink-soft); white-space:nowrap;}
   .vbLv{display:inline-block; border:1px solid var(--rule); border-radius:10px; padding:0 7px; margin-right:6px; background:#fff;}
   .vbLv.off{border-color:var(--gold); color:var(--gold);}
+.vbNone{font-size:13.5px; line-height:1.7; margin:4px 0 2px;}
   .drillNote{font-size:13px; line-height:1.8; color:var(--ink); border-left:3px solid var(--sage); background:#F4F7F2; padding:6px 10px; margin-bottom:12px;}
   .drillBtn{font-size:12px; padding:0 0 0 8px; white-space:nowrap;}
 
@@ -1002,7 +1003,11 @@ const VB_NOTE = '這裡列出這一篇的文章和題目裡，大考中心《高
 function vbAt(a){ return a[0] === 'p' ? `第 ${a.slice(1)} 段` : `第 ${a.slice(1)} 題`; }
 function renderVocab(p){
   const V = p.vocab;
-  if(!V || !V.length) return '';
+  if(!V) return '';
+  if(!V.length) return `<details class="vbBox"${vbOpen ? ' open' : ''} ontoggle="vbOpen = this.open"><summary>這一篇的生字表 <span class="vbSub">（沒有要列的字）</span></summary>
+    <div class="vbNote">${VB_NOTE}</div>
+    <p class="vbNone">這一篇的文章、題目和選項裡，沒有五、六級的字，也沒有需要列出的詞彙表外的字。</p>
+  </details>`;
   const rows = V.map(v => `<li class="vbRow"><span class="vbW" lang="en">${esc(v.w)}${v.h ? ` <span class="vbH">（詞彙表：<span lang="en">${esc(v.h)}</span>）</span>` : ''}</span><span class="vbPos" lang="en">${esc(v.pos)}</span><span class="vbZh">${esc(v.zh)}</span><span class="vbMeta"><span class="vbLv${v.lv ? '' : ' off'}">${VB_LV[v.lv]}</span>${vbAt(v.at)}</span></li>`).join('');
   return `<details class="vbBox"${vbOpen ? ' open' : ''} ontoggle="vbOpen = this.open"><summary>這一篇的生字表 <span class="vbSub">（${V.length} 個字）</span></summary>
     <div class="vbNote">${VB_NOTE}</div>
