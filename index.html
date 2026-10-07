@@ -287,6 +287,11 @@
   .year-item .cnt .cq{display:block; color:var(--sage);}
   .qtPre{margin:0 0 6px;}
   .diffNote{font-size:12px; line-height:1.8; color:var(--ink-soft); margin:2px 0 4px;}
+  .rhBox{font-size:13px; line-height:1.85; color:var(--ink); border:1px solid var(--rule); border-left:3px solid var(--crimson); border-radius:3px; background:#FDFAF3; padding:7px 12px; margin:0 0 12px;}
+  .rhBox summary{cursor:pointer; font-weight:700; color:var(--crimson); font-size:13px;}
+  .rhBox summary .rhSub{font-weight:400; color:var(--ink-soft); font-size:12px;}
+  .rhBox p{margin:8px 0 0;}
+  .rhBox .stLink{margin-left:0;}
   .drillNote{font-size:13px; line-height:1.8; color:var(--ink); border-left:3px solid var(--sage); background:#F4F7F2; padding:6px 10px; margin-bottom:12px;}
   .drillBtn{font-size:12px; padding:0 0 0 8px; white-space:nowrap;}
 
@@ -334,7 +339,7 @@
           每一篇交卷之後，答案下方會出現「這一篇的文章結構」，寫出這篇文章的<b>文體</b>（記敘文、說明文、論說文等）、<b>組織方式</b>（時序發展、因果關係、問題解決等）、<b>關鍵轉折詞</b>和<b>綱要</b>。綱要裡括號中的英文是原文的轉折詞或關鍵字句，可以回到文章找出它們的位置，看作者怎麼一步一步把文章接起來。<br><br>          為什麼要看結構？臺師大英語系劉宇挺教授分析 110 年試辦考試時指出，大考的閱讀文章「每一篇閱讀幾乎都是架構完整、結構縝密之寫作範例」，每一段的主題句都反映了該段的內容（<a href="https://sites.google.com/view/smengverliu/%E8%A3%9C%E5%85%85%E8%B3%87%E6%BA%90/%E5%A4%A7%E8%80%83%E8%A7%A3%E6%9E%90" target="_blank" rel="noopener">〈大考解析〉</a>）。也就是說，讀的時候先抓每一段的主題句，再看段落之間怎麼接，比一句一句往下讀更容易抓到重點。<br><br>
 
           九種組織方式各在做什麼、讀的時候怎麼辨識、怎麼自己動手驗證，整理在<a href="structures.html">如何辨識文章的組織方式</a>。每一類都用一篇大考文章畫成圖形組織，再列出大考怎麼考這一類文章，並說明每個錯誤選項錯在哪裡。頁末另外說明新聞報導的<a href="structures.html#news">倒金字塔寫法</a>：新聞把最重要的事情寫在第一段，這是新聞的寫法，不是另一種組織方式。交卷後「這一篇的文章結構」組織方式那一列，也有連結直接連到那一類的說明；連結會另外開一個分頁，原本交卷後的畫面不會不見。<br><br>
-          文章結構放在交卷之後，是因為綱要等於先講出各段在說什麼，先看就失去練習的意義。想專練某一種結構，可以用下方的「依組織方式篩選」；也可以到<a href="p/">篇目一覽</a>，依組織方式瀏覽全部 246 篇。
+          文章結構放在交卷之後，是因為綱要等於先講出各段在說什麼，先看就失去練習的意義。作答前想要一點方向，可以打開題目上方的「讀法提示」：裡面只寫這一篇的組織方式怎麼讀、主旨句怎麼找，不寫綱要，也不露出答案；有題目直接問文章怎麼組織的篇，提示不會說出組織方式。想專練某一種結構，可以用下方的「依組織方式篩選」；也可以到<a href="p/">篇目一覽</a>，依組織方式瀏覽全部 246 篇。
         </div>
       </details>
 
@@ -479,7 +484,7 @@ function isTestMode(){ const el=document.getElementById('testModeToggle'); retur
 
 let PASSAGES = {}, ITEMS = [];
 let selectedExams = new Set(), selectedYears = new Set(), selectedOrgs = new Set(), selectedCats = new Set(), selectedDiffs = new Set(), officialOnly = false, diffSort = false;
-let curPid = null, curItems = [], picks = {}, graded = false, zhOn = false, evOn = null;
+let curPid = null, curItems = [], picks = {}, graded = false, zhOn = false, evOn = null, hintOpen = false;
 
 /* 年度分組：鍵是網址上用的代號 */
 const YEAR_GROUPS = [
@@ -815,7 +820,7 @@ function goHome(){
   buildYearList(); writeHash(); window.scrollTo(0,0);
 }
 function openPassage(pid){
-  curPid = pid; graded = false; picks = {}; zhOn = false; evOn = null;
+  curPid = pid; graded = false; picks = {}; zhOn = false; evOn = null; hintOpen = false;
   curItems = itemsOf(pid);
   document.getElementById('homeView').style.display='none';
   document.getElementById('historyView').style.display='none';
@@ -865,6 +870,7 @@ function renderPractice(){
     ${flag}
     ${graded ? '' : '<div style="font-size:12.5px; color:var(--ink-soft); line-height:1.8; margin-bottom:12px;">先讀文章，再作答下方的題目。全部答完前也可以交卷，沒答的算答錯。</div>'}
     ${graded ? '' : drillLine()}
+    ${graded ? '' : readHint(p)}
     ${graded && p.zh ? `<div class="zhBar"><button type="button" class="ghost-btn zhBtn" aria-pressed="${zhOn}" onclick="toggleZh()">${zhOn ? '收起逐段中譯' : '顯示逐段中譯'}</button>${evOn ? `<button type="button" class="link-btn" onclick="clearEv()">取消依據句標示</button>` : ''}</div>` : ''}
     ${graded && p.ms ? msLegend(p) : ''}
     <div class="passage" lang="en">`;
@@ -899,6 +905,43 @@ function renderPractice(){
   document.getElementById('practiceBody').innerHTML = html;
 }
 
+/* 讀法提示（作答前，預設收起）：只寫這一篇的組織方式怎麼讀、主旨句怎麼找，不寫綱要，也不露出答案。
+   說法和 structures.html 各類的「怎麼辨識」一致；有題目直接問組織方式或論點怎麼發展的篇，不說出組織方式。 */
+const ORG_HINT = {
+  chr:'這一篇照時間先後往下寫，後一段發生的事情接在前一段後面。讀的時候圈出每一段的時間標記，例如年代、Later、then、after、not … until，隨時知道現在講到哪一個時候。',
+  cau:'這一篇在回答「為什麼會這樣」或「這樣會怎麼樣」。讀的時候找出帶出原因的 because、due to、reason，和帶出結果的 so、thus、as a result、lead to、result in，分清楚哪個是原因、哪個是結果，不要把方向弄反。',
+  lst:'這一篇把一個主題拆成幾個面向、特點或理由，一段講一項，各項的地位相等。讀的時候先找預告有幾項的句子，例如 some、a few、several 接上 ideas、tips、reasons，再用 First、Another、In addition、Moreover 數出每一項，問自己每一段在講哪一項。',
+  pbs:'這一篇先說出一個問題，交代它有多嚴重、為什麼會發生，再說明怎麼解決，最後常交代辦法的成效或限制。讀的時候找出點出問題的 problem、challenge、threat，和引出辦法的 solution、deal with、In order to，找到把全篇分成「問題」和「辦法」兩半的那個轉折。',
+  exm:'這一篇先提出一個主張，再舉具體的例子證明它；重點在主張，例子只是證據。讀的時候先找出全篇要證明的那一句，再看 for example、for instance、such as 帶出的例子各在支持什麼。',
+  cmp:'這一篇把兩樣（或兩樣以上）東西放在一起，說明哪裡相同、哪裡不同，也可能是對照一件事情的正反兩面。讀的時候找出說相同的 both、also、similarly，和說不同的 but、however、whereas、while、unlike，把兩邊的內容一項一項對起來。',
+  cls:'這一篇依一個標準，把一個主題分成幾類，再一類一類說明。讀的時候先找出宣告分類的句子，例如 can be grouped into、divided into、There are three kinds of …，看出分類標準，再看每一段在講哪一類。',
+  def:'這一篇圍繞一個名詞或概念，先說它是什麼，再交代它從哪裡來、有什麼特徵、能怎麼用。讀的時候找出下定義的句子，例如 X is a/an … that／which …，以及 means、refers to、in other words 這類引出解釋的字詞。',
+  dsc:'這一篇像用文字畫一幅畫，把看到、聽到、感覺到的細節一一寫出來。讀的時候留意表示位置的介系詞、寫出顏色、形狀、聲音、動作的字詞，以及 as、like 帶出的比喻，在腦中把景象畫出來。'
+};
+function asksOrg(it){ return it.qtype === '組織方式' || (it.qtype === '寫作手法' && /develop|organi[sz]/i.test(it.stem)); }
+function readHint(p){
+  const st = p.structure, code = st && st.orgCode;
+  let org;
+  if(code && ORG_HINT[code] && !curItems.some(asksOrg)){
+    org = `<p><b>組織方式：${esc(st.org)}</b>。${ORG_HINT[code]}<a class="stLink" href="structures.html#${code}" target="_blank" rel="noopener">這一類怎麼辨識 →</a></p>`;
+  } else {
+    org = '<p><b>組織方式</b>：這一篇有一題問文章怎麼安排內容，所以這裡不先說出組織方式。讀的時候留意每一段開頭的轉折詞和時間標記，想一想各段之間是什麼關係：照時間先後、說原因和結果、一項一項並列，還是先說問題再說辦法。'
+      + '<a class="stLink" href="structures.html" target="_blank" rel="noopener">九種組織方式怎麼辨識 →</a></p>';
+  }
+  const ms = p.ms || [], n = p.paras.length, u = (st && st.genre === '詩歌') ? '節' : '段', w = u === '節' ? '考題收錄的這首詩有' : '全文';
+  const hasThesis = ms.some(m => m.k !== 'topic');
+  const nTopic = new Set(ms.filter(m => m.k !== 'thesis').map(m => m.p)).size;
+  let main = hasThesis ? '這一篇有一句話直接點出全文中心思想，讀的時候試著把它找出來。'
+                       : `這一篇沒有一句話直接點出全文中心思想，讀完以後，要用自己的話說出各${u}共同在講什麼。`;
+  if(n > 1){
+    if(nTopic === n) main += `${w} ${n} ${u}，每一${u}都有主旨句。`;
+    else if(nTopic > 0) main += `${w} ${n} ${u}，其中 ${nTopic} ${u}有主旨句；其他${u}要自己歸納這一${u}在做什麼，例如舉例、補充，還是延續前一${u}。`;
+    else main += `${w} ${n} ${u}，各${u}都沒有一句話直接點出這一${u}的主旨，要自己歸納每一${u}在做什麼。`;
+  }
+  if(ms.length) main += '交卷之後，文章上會用藍底和底線標出這些句子，可以對照自己找得對不對。';
+  return `<details class="rhBox"${hintOpen ? ' open' : ''} ontoggle="hintOpen = this.open"><summary>讀法提示 <span class="rhSub">（不會露出答案，想自己讀的可以不打開）</span></summary>`
+    + org + `<p><b>主旨</b>：${main}</p></details>`;
+}
 /* 依題型或難易度篩選時，作答前說明這一篇哪幾題是所選的題目 */
 function drillLine(){
   const d = drillItems(curItems);
