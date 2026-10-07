@@ -13548,6 +13548,79 @@
     "t": "Most people probably don’t feel sympathy for these endangered creatures, but they do need protecting.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "nowhere",
+    "pos": "adv.",
+    "zh": "任何地方都沒有（found nowhere else 別的地方都找不到）",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "weta",
+    "pos": "n.",
+    "zh": "威塔（紐西蘭特有的巨型昆蟲）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "bulky",
+    "pos": "adj.",
+    "zh": "笨重的、龐大的",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "nocturnal",
+    "pos": "adj.",
+    "zh": "夜行性的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "ounce",
+    "pos": "n.",
+    "zh": "盎司（重量單位，約 28 公克）",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "evolve",
+    "pos": "v.",
+    "zh": "演化",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "unaccustomed",
+    "pos": "adj.",
+    "zh": "不習慣的（be unaccustomed to）",
+    "lv": 6,
+    "at": "p3",
+    "h": "accustom"
+   },
+   {
+    "w": "daytime",
+    "pos": "n.",
+    "zh": "白天",
+    "lv": 0,
+    "at": "q43"
+   },
+   {
+    "w": "lifespan",
+    "pos": "n.",
+    "zh": "壽命",
+    "lv": 0,
+    "at": "q43"
+   },
+   {
+    "w": "interpretation",
+    "pos": "n.",
+    "zh": "解讀、理解",
+    "lv": 5,
+    "at": "q44"
+   }
   ]
  },
  {
@@ -13606,6 +13679,120 @@
     "p": 2,
     "t": "In the United States, parents and educators have come to regard the prom as an important lesson in social skills.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "prom",
+    "pos": "n.",
+    "zh": "（高中的）畢業舞會",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "rite",
+    "pos": "n.",
+    "zh": "儀式（rite of passage 成年禮、人生重要階段的儀式）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "educator",
+    "pos": "n.",
+    "zh": "教育工作者",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "prom-goer",
+    "pos": "n.",
+    "zh": "參加畢業舞會的人",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "excessive",
+    "pos": "adj.",
+    "zh": "過度的",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "consumption",
+    "pos": "n.",
+    "zh": "消費",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "tuxedo",
+    "pos": "n.",
+    "zh": "晚禮服（男性）",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "limousine",
+    "pos": "n.",
+    "zh": "豪華禮車",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "disco",
+    "pos": "n.",
+    "zh": "迪斯可舞廳",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "extravaganza",
+    "pos": "n.",
+    "zh": "盛大的狂歡活動",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "lavish",
+    "pos": "adj.",
+    "zh": "奢華的",
+    "lv": 6,
+    "at": "p4"
+   },
+   {
+    "w": "traumatic",
+    "pos": "adj.",
+    "zh": "讓人痛苦難受的、造成創傷的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "adolescent",
+    "pos": "n.",
+    "zh": "青少年",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "dreadful",
+    "pos": "adj.",
+    "zh": "糟透的、可怕的",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "ceremony",
+    "pos": "n.",
+    "zh": "典禮",
+    "lv": 5,
+    "at": "q45"
+   },
+   {
+    "w": "glamorous",
+    "pos": "adj.",
+    "zh": "光鮮亮麗的、豪華的",
+    "lv": 6,
+    "at": "q46"
    }
   ]
  },
@@ -13682,6 +13869,142 @@
     "p": 6,
     "t": "Generally, the biggest complaint among home exchangers has to do with different standards of cleanliness.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "swap",
+    "pos": "v.",
+    "zh": "交換",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "buck",
+    "pos": "n.",
+    "zh": "（口語）美元（save bucks 省錢）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "rental",
+    "pos": "n.",
+    "zh": "租用（car rental 租車）",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "facilitate",
+    "pos": "v.",
+    "zh": "促成、協助",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "listing",
+    "pos": "n.",
+    "zh": "刊登的物件（列在網站上的房屋）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "villa",
+    "pos": "n.",
+    "zh": "別墅",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "suburban",
+    "pos": "adj.",
+    "zh": "郊區的",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "via",
+    "pos": "prep.",
+    "zh": "透過、經由",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "subsequent",
+    "pos": "adj.",
+    "zh": "後續的",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "swapper",
+    "pos": "n.",
+    "zh": "交換房屋的人",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "risky",
+    "pos": "adj.",
+    "zh": "有風險的",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "theft",
+    "pos": "n.",
+    "zh": "偷竊、竊盜",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "recommend",
+    "pos": "v.",
+    "zh": "建議",
+    "lv": 5,
+    "at": "p5"
+   },
+   {
+    "w": "exchanger",
+    "pos": "n.",
+    "zh": "交換的一方",
+    "lv": 0,
+    "at": "p5"
+   },
+   {
+    "w": "less-than-sparkling",
+    "pos": "adj.",
+    "zh": "不怎麼乾淨的、沒那麼閃亮的",
+    "lv": 5,
+    "at": "p6",
+    "h": "sparkle"
+   },
+   {
+    "w": "dedicate",
+    "pos": "v.",
+    "zh": "奉獻、致力於",
+    "lv": 5,
+    "at": "q50"
+   },
+   {
+    "w": "matchmaker",
+    "pos": "n.",
+    "zh": "媒合者、仲介",
+    "lv": 0,
+    "at": "q51"
+   },
+   {
+    "w": "lawsuit",
+    "pos": "n.",
+    "zh": "訴訟（file a lawsuit 提告）",
+    "lv": 5,
+    "at": "q52"
+   },
+   {
+    "w": "beforehand",
+    "pos": "adv.",
+    "zh": "事先",
+    "lv": 6,
+    "at": "q52"
    }
   ]
  },
@@ -13760,6 +14083,116 @@
     "t": "Motivated by such signs of success, thousands of kids from the villages surrounding Bekoji have moved into town.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "herder",
+    "pos": "n.",
+    "zh": "牧人、放牧的人",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "highland",
+    "pos": "n.",
+    "zh": "高地（the highlands 高原地區）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "outnumber",
+    "pos": "v.",
+    "zh": "數量超過",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "yield",
+    "pos": "v.",
+    "zh": "產生、培育出",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "tempting",
+    "pos": "adj.",
+    "zh": "誘人的、讓人忍不住想……的",
+    "lv": 5,
+    "at": "p2",
+    "h": "tempt"
+   },
+   {
+    "w": "volcano",
+    "pos": "n.",
+    "zh": "火山",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "high-altitude",
+    "pos": "adj.",
+    "zh": "高海拔的",
+    "lv": 6,
+    "at": "p2",
+    "h": "altitude"
+   },
+   {
+    "w": "firewood",
+    "pos": "n.",
+    "zh": "木柴",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "trait",
+    "pos": "n.",
+    "zh": "特徵",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "disproportionately",
+    "pos": "adv.",
+    "zh": "不成比例地、特別（長）地",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "advantageous",
+    "pos": "adj.",
+    "zh": "有利的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "sprint",
+    "pos": "v.",
+    "zh": "衝刺、全速跑",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "extraordinarily",
+    "pos": "adv.",
+    "zh": "特別地、非常",
+    "lv": 5,
+    "at": "q53",
+    "h": "extraordinary"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論",
+    "lv": 6,
+    "at": "q56"
+   },
+   {
+    "w": "sponsor",
+    "pos": "v.",
+    "zh": "贊助",
+    "lv": 5,
+    "at": "q56"
+   }
   ]
  },
  {
@@ -13821,6 +14254,64 @@
     "p": 3,
     "t": "There will be no “naked apes”; the exhibits will be wearing swimsuits and have a bag-shower to cool off if the weather gets warm.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "enclosure",
+    "pos": "n.",
+    "zh": "圍起來的場地、圍欄",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "chimpanzee",
+    "pos": "n.",
+    "zh": "黑猩猩",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "gorilla",
+    "pos": "n.",
+    "zh": "大猩猩",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "vet",
+    "pos": "n.",
+    "zh": "獸醫",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "behavioral",
+    "pos": "adj.",
+    "zh": "行為的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "stimulation",
+    "pos": "n.",
+    "zh": "刺激（behavioral stimulation devices 讓動物活動、動腦的器材）",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "conservation",
+    "pos": "n.",
+    "zh": "（動物、自然的）保育",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "generate",
+    "pos": "v.",
+    "zh": "籌得、產生（資金）",
+    "lv": 5,
+    "at": "p2"
    }
   ]
  },
@@ -13888,6 +14379,43 @@
     "t": "It is, therefore, very important to be familiar with the characteristics of the people you wish to serve.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "interior",
+    "pos": "adj.",
+    "zh": "室內的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "scheme",
+    "pos": "n.",
+    "zh": "配置、組合（color scheme 色彩搭配）",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "texture",
+    "pos": "n.",
+    "zh": "質感、紋理",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "perceive",
+    "pos": "v.",
+    "zh": "感覺到、察覺",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "tempo",
+    "pos": "n.",
+    "zh": "節奏、步調",
+    "lv": 6,
+    "at": "p4"
+   }
   ]
  },
  {
@@ -13930,7 +14458,44 @@
   "zh": [
    "George Leigh Mallory（1886–1924）是英國的登山先驅，曾參與早期征服世界最高峰聖母峰的嘗試。他參加了英國在 1921、1922 和 1924 年的三次攀登。1922 年的遠征，他爬到了 27,000 英尺的高度，後來因為一場雪崩撤退，七名雪巴登山者在那場雪崩中喪生。1924 年那次是他最後一次攀登。6 月 8 日，Mallory 和他的搭檔 Sandy Irvine 從高地營出發。地質學家 Noel Odell 還趁著風雪短暫停歇的時候，看見他們朝第二台階前進。在那之後就再也沒有他們的消息，兩人消失在聖母峰廣大的北壁上。1960 年，中國登山者走完了 Mallory 和 Irvine 當年嘗試的同一條路線。據報導，當時一名中國登山者發現一具相信是 Irvine 的遺體。1999 年，美國登山者 Conrad Anker 在 26,760 英尺處找到 Mallory 已經凍僵的遺體。從破爛衣服上的名牌，確認了這是 Mallory。Mallory 遺體的出現，讓這場爭論再度熱烈起來：最早登上聖母峰峰頂的，是 Mallory 和 Irvine 嗎？還是像官方記載的，是 Edmund Hillary 爵士和雪巴人 Tenzing Norgay 在 1953 年 6 月登頂？這場爭論還在持續，不過有一件事是確定的：1923 年 3 月，《紐約時報》的記者訪問 George Mallory，問他：「你為什麼想爬聖母峰？」他的回答後來非常有名，他說：「因為山就在那裡。」"
   ],
-  "ms": []
+  "ms": [],
+  "vocab": [
+   {
+    "w": "mountaineer",
+    "pos": "n.",
+    "zh": "登山家",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "expedition",
+    "pos": "n.",
+    "zh": "探險、遠征（隊）",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "avalanche",
+    "pos": "n.",
+    "zh": "雪崩",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "geologist",
+    "pos": "n.",
+    "zh": "地質學家",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "cite",
+    "pos": "v.",
+    "zh": "引用、記載",
+    "lv": 5,
+    "at": "p1"
+   }
+  ]
  },
  {
   "id": "g95rp4",
@@ -13994,6 +14559,52 @@
     "p": 4,
     "t": "The second task is about the application of logical thinking to everyday questions, concepts, and ideas that are often taken for granted.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "mathematician",
+    "pos": "n.",
+    "zh": "數學家",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "crucially",
+    "pos": "adv.",
+    "zh": "關鍵的是、重要的是",
+    "lv": 5,
+    "at": "p2",
+    "h": "crucial"
+   },
+   {
+    "w": "granted",
+    "pos": "adj.",
+    "zh": "（take for granted）視為理所當然",
+    "lv": 5,
+    "at": "p4",
+    "h": "grant"
+   },
+   {
+    "w": "conceptual",
+    "pos": "adj.",
+    "zh": "概念的",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "perception",
+    "pos": "n.",
+    "zh": "感知、知覺",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "ultimate",
+    "pos": "adj.",
+    "zh": "終極的、最根本的",
+    "lv": 5,
+    "at": "q55"
    }
   ]
  },
@@ -14075,6 +14686,86 @@
     "t": "Now it’s very calm and quiet here.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "jingle",
+    "pos": "n.",
+    "zh": "（電話等的）叮噹響聲、鈴聲",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "fertilize",
+    "pos": "v.",
+    "zh": "施肥",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "sauna",
+    "pos": "n.",
+    "zh": "三溫暖、蒸氣浴室",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "embrace",
+    "pos": "v.",
+    "zh": "欣然接受",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "doodle",
+    "pos": "v.",
+    "zh": "隨手塗鴉",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "pencilwomanship",
+    "pos": "n.",
+    "zh": "（玩笑造字）女性的鉛筆字功夫",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "inter-office",
+    "pos": "adj.",
+    "zh": "辦公室之間的、公司內部的",
+    "lv": 0,
+    "at": "p5"
+   },
+   {
+    "w": "correspondence",
+    "pos": "n.",
+    "zh": "往來信件、公文",
+    "lv": 6,
+    "at": "p5"
+   },
+   {
+    "w": "overdo",
+    "pos": "v.",
+    "zh": "做過頭（overdo it）",
+    "lv": 6,
+    "at": "p7"
+   },
+   {
+    "w": "peasant-like",
+    "pos": "adj.",
+    "zh": "像農民一樣的",
+    "lv": 5,
+    "at": "q41",
+    "h": "peasant"
+   },
+   {
+    "w": "daytime",
+    "pos": "n.",
+    "zh": "白天",
+    "lv": 0,
+    "at": "q43"
+   }
   ]
  },
  {
@@ -14127,6 +14818,72 @@
     "p": 1,
     "t": "Now they will be famous for one more thing: the world’s first green airport.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "evolution",
+    "pos": "n.",
+    "zh": "演化（theory of evolution 演化論）",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "lizard",
+    "pos": "n.",
+    "zh": "蜥蜴",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "sandy",
+    "pos": "adj.",
+    "zh": "沙質的（sandy beach 沙灘）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "runway",
+    "pos": "n.",
+    "zh": "跑道",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "asphalt",
+    "pos": "n.",
+    "zh": "柏油",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "carbon",
+    "pos": "n.",
+    "zh": "碳（carbon footprint 碳足跡）",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "footprint",
+    "pos": "n.",
+    "zh": "足跡（carbon footprint 碳足跡）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "unsustainable",
+    "pos": "adj.",
+    "zh": "無法永續的、難以持續的",
+    "lv": 5,
+    "at": "p3",
+    "h": "sustainable"
+   },
+   {
+    "w": "exhaustion",
+    "pos": "n.",
+    "zh": "耗盡",
+    "lv": 0,
+    "at": "q48"
    }
   ]
  },
@@ -14192,6 +14949,121 @@
     "t": "The researchers therefore had to study a lot of cows grazing in lots of different places at different times of day, in order to average out these factors and see whether cattle could act like compass needles.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "folklore",
+    "pos": "n.",
+    "zh": "民間傳說",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "mole",
+    "pos": "n.",
+    "zh": "鼴鼠（mole rat 鼴形鼠）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "magnetism",
+    "pos": "n.",
+    "zh": "磁性、磁力",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "navigate",
+    "pos": "v.",
+    "zh": "辨認方向、導航",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "mammal",
+    "pos": "n.",
+    "zh": "哺乳動物",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "perceive",
+    "pos": "v.",
+    "zh": "察覺、感知",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "grazing",
+    "pos": "adj.",
+    "zh": "吃草的（grazing animals 草食性放牧動物）",
+    "lv": 6,
+    "at": "p3",
+    "h": "graze"
+   },
+   {
+    "w": "orient",
+    "pos": "v.",
+    "zh": "使朝向（orient oneself 調整自己的方向）",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "minimize",
+    "pos": "v.",
+    "zh": "減到最低",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "maximize",
+    "pos": "v.",
+    "zh": "增加到最大",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "compass",
+    "pos": "n.",
+    "zh": "羅盤、指南針",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "preference",
+    "pos": "n.",
+    "zh": "偏好、傾向",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "termite",
+    "pos": "n.",
+    "zh": "白蟻",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "honeybee",
+    "pos": "n.",
+    "zh": "蜜蜂",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "hemisphere",
+    "pos": "n.",
+    "zh": "半球",
+    "lv": 6,
+    "at": "p4"
+   },
+   {
+    "w": "sensitivity",
+    "pos": "n.",
+    "zh": "敏感度",
+    "lv": 5,
+    "at": "q49"
+   }
   ]
  },
  {
@@ -14256,6 +15128,92 @@
     "t": "Another strategy is not to diet in front of your children.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "distrust",
+    "pos": "n.",
+    "zh": "不信任",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "pickiest",
+    "pos": "adj.",
+    "zh": "最挑剔的（picky 的最高級；picky eater 挑食的人）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "understandable",
+    "pos": "adj.",
+    "zh": "可以理解的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "nutrition",
+    "pos": "n.",
+    "zh": "營養",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "curriculum",
+    "pos": "n.",
+    "zh": "課程",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "radish",
+    "pos": "n.",
+    "zh": "小紅蘿蔔、櫻桃蘿蔔",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "preference",
+    "pos": "n.",
+    "zh": "偏好、喜好",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "perception",
+    "pos": "n.",
+    "zh": "看法、認知",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "healthful",
+    "pos": "adj.",
+    "zh": "有益健康的",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "milkshake",
+    "pos": "n.",
+    "zh": "奶昔",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "erratic",
+    "pos": "adj.",
+    "zh": "不穩定的、反覆無常的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "advocate",
+    "pos": "v.",
+    "zh": "提倡、主張",
+    "lv": 5,
+    "at": "q53"
+   }
   ]
  },
  {
@@ -14313,6 +15271,44 @@
     "t": "Interestingly, when there are few howler monkeys in an area, the howling routine takes on a different pattern.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "howler",
+    "pos": "n.",
+    "zh": "吼猴（howler monkey）",
+    "lv": 5,
+    "at": "p1",
+    "h": "howl"
+   },
+   {
+    "w": "wildlife",
+    "pos": "n.",
+    "zh": "野生動物（wildlife sanctuary 野生動物保護區）",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "sanctuary",
+    "pos": "n.",
+    "zh": "保護區",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "whereabouts",
+    "pos": "n.",
+    "zh": "下落、所在的位置",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "territorial",
+    "pos": "adj.",
+    "zh": "宣示領域的、地盤的",
+    "lv": 0,
+    "at": "p2"
+   }
   ]
  },
  {
@@ -14364,6 +15360,50 @@
     "p": 1,
     "t": "Eventually, the demand for a road across the mountains led to the building of the Going-to-the-Sun Road.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "glacier",
+    "pos": "n.",
+    "zh": "冰河",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "feat",
+    "pos": "n.",
+    "zh": "壯舉、了不起的成就",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "marvel",
+    "pos": "v.",
+    "zh": "驚嘆（marvel at）",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "scenic",
+    "pos": "adj.",
+    "zh": "風景優美的",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "horseback",
+    "pos": "n.",
+    "zh": "馬背（horseback riding 騎馬）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "highlight",
+    "pos": "v.",
+    "zh": "凸顯、強調",
+    "lv": 5,
+    "at": "p3"
    }
   ]
  },
@@ -14428,6 +15468,71 @@
     "t": "Ice sculptures are used as decorations in some cuisines, especially in Asia.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "sculpting",
+    "pos": "n.",
+    "zh": "雕刻",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "clarity",
+    "pos": "n.",
+    "zh": "清澈、透明度",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "kg",
+    "pos": "n.",
+    "zh": "公斤（kilogram 的縮寫）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "cm",
+    "pos": "n.",
+    "zh": "公分（centimeter 的縮寫）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "sculptor",
+    "pos": "n.",
+    "zh": "雕刻家",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "chisel",
+    "pos": "n.",
+    "zh": "鑿子",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "cuisine",
+    "pos": "n.",
+    "zh": "料理、菜餚",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "banquet",
+    "pos": "n.",
+    "zh": "宴會（wedding banquet 喜宴）",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "ice-sculpted",
+    "pos": "adj.",
+    "zh": "用冰雕成的",
+    "lv": 0,
+    "at": "p3"
+   }
   ]
  },
  {
@@ -14488,6 +15593,43 @@
     "p": 4,
     "t": "The new study emphasizes that pain has both physical and psychological elements.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "beforehand",
+    "pos": "adv.",
+    "zh": "事先",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "pulse",
+    "pos": "n.",
+    "zh": "（短暫的）一陣（熱）",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "upcoming",
+    "pos": "adj.",
+    "zh": "即將到來的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "participant",
+    "pos": "n.",
+    "zh": "參與者、受試者",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "killer",
+    "pos": "n.",
+    "zh": "（pain killer）止痛藥",
+    "lv": 0,
+    "at": "q56"
    }
   ]
  },
@@ -14556,6 +15698,50 @@
     "t": "If children really love candy, dentists recommend that they eat chocolate instead.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "pediatric",
+    "pos": "adj.",
+    "zh": "兒科的（pediatric dentist 兒童牙醫）",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "cavity",
+    "pos": "n.",
+    "zh": "蛀牙、蛀洞",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "cracker",
+    "pos": "n.",
+    "zh": "餅乾、蘇打餅",
+    "lv": 6,
+    "at": "p2"
+   },
+   {
+    "w": "recommend",
+    "pos": "v.",
+    "zh": "建議",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "dissolve",
+    "pos": "v.",
+    "zh": "溶化",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "tannin",
+    "pos": "n.",
+    "zh": "單寧（一種植物成分）",
+    "lv": 0,
+    "at": "p3"
+   }
   ]
  },
  {
@@ -14615,6 +15801,50 @@
     "t": "The level of quality of PBS programs, whether in national and international news, entertainment, or education, is excellent.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "non-profit",
+    "pos": "adj.",
+    "zh": "非營利的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "viewer",
+    "pos": "n.",
+    "zh": "觀眾",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "noteworthy",
+    "pos": "adj.",
+    "zh": "值得注意的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "donation",
+    "pos": "n.",
+    "zh": "捐款",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "governmental",
+    "pos": "adj.",
+    "zh": "政府的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "tele-course",
+    "pos": "n.",
+    "zh": "電視教學課程",
+    "lv": 0,
+    "at": "p3"
+   }
   ]
  },
  {
@@ -14664,6 +15894,78 @@
     "p": 1,
     "t": "Last week Jay McCarroll and The HSUS (The Humane Society of the United States) made a bold fur-free statement on the runway, marking a new chapter for the fashion industry and animal protection.",
     "k": "both"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "runway",
+    "pos": "n.",
+    "zh": "伸展台",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "patchwork",
+    "pos": "n.",
+    "zh": "拼布",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "fabric",
+    "pos": "n.",
+    "zh": "布料",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "nylon",
+    "pos": "n.",
+    "zh": "尼龍",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "polyester",
+    "pos": "n.",
+    "zh": "聚酯纖維",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "embrace",
+    "pos": "v.",
+    "zh": "擁抱、接受",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "compassion",
+    "pos": "n.",
+    "zh": "同情心、慈悲心",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "executive",
+    "pos": "adj.",
+    "zh": "執行的（executive vice president 執行副總裁）",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "vice",
+    "pos": "adj.",
+    "zh": "副的（vice president 副總裁）",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "recommend",
+    "pos": "v.",
+    "zh": "建議",
+    "lv": 5,
+    "at": "q51"
    }
   ]
  },
@@ -14736,6 +16038,92 @@
     "t": "Therefore, parents and teachers should try to recognize, understand, and make use of the biological differences that make a girl a girl, and a boy a boy.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "cling",
+    "pos": "v.",
+    "zh": "堅持（想法）、緊抓著不放（cling to）",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "biological",
+    "pos": "adj.",
+    "zh": "生理上的、生物的",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "inattentive",
+    "pos": "adj.",
+    "zh": "不專心的",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "likewise",
+    "pos": "adv.",
+    "zh": "同樣地",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "amygdala",
+    "pos": "n.",
+    "zh": "杏仁核（腦中掌管情緒的部位）",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "cerebral",
+    "pos": "adj.",
+    "zh": "大腦的（cerebral cortex 大腦皮質）",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "cortex",
+    "pos": "n.",
+    "zh": "皮質（cerebral cortex 大腦皮質）",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "adolescent",
+    "pos": "adj.",
+    "zh": "青春期的",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "proponent",
+    "pos": "n.",
+    "zh": "支持者、提倡者",
+    "lv": 0,
+    "at": "p4"
+   },
+   {
+    "w": "yield",
+    "pos": "v.",
+    "zh": "產生、帶來",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "striking",
+    "pos": "adj.",
+    "zh": "顯著的",
+    "lv": 5,
+    "at": "p4"
+   },
+   {
+    "w": "interpersonal",
+    "pos": "adj.",
+    "zh": "人際的",
+    "lv": 0,
+    "at": "p4"
+   }
   ]
  },
  {
@@ -14791,6 +16179,65 @@
     "p": 2,
     "t": "The phenomenon of stress is the constant interaction between mind and body.",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "grader",
+    "pos": "n.",
+    "zh": "……年級學生（eleventh graders 十一年級生，相當於高二）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "ulcer",
+    "pos": "n.",
+    "zh": "潰瘍",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "bodily",
+    "pos": "adj.",
+    "zh": "身體的",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "stimulus",
+    "pos": "n.",
+    "zh": "刺激",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "physiological",
+    "pos": "adj.",
+    "zh": "生理的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "hormone",
+    "pos": "n.",
+    "zh": "荷爾蒙、激素",
+    "lv": 5,
+    "at": "p3"
+   },
+   {
+    "w": "underlined",
+    "pos": "adj.",
+    "zh": "畫底線的",
+    "lv": 5,
+    "at": "q42",
+    "h": "underline"
+   },
+   {
+    "w": "risky",
+    "pos": "adj.",
+    "zh": "有風險的",
+    "lv": 5,
+    "at": "q43"
    }
   ]
  },
@@ -14859,6 +16306,80 @@
     "t": "Tea is enjoyed worldwide as a refreshing and stimulating drink.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "brew",
+    "pos": "v.",
+    "zh": "沖泡、釀造（brewed beverage 沖泡飲料）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "beverage",
+    "pos": "n.",
+    "zh": "飲料",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "cultivation",
+    "pos": "n.",
+    "zh": "栽種",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "oolong",
+    "pos": "n.",
+    "zh": "烏龍茶",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "fermentation",
+    "pos": "n.",
+    "zh": "發酵",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "scent",
+    "pos": "n.",
+    "zh": "香氣",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "charcoal",
+    "pos": "n.",
+    "zh": "木炭",
+    "lv": 0,
+    "at": "p2"
+   },
+   {
+    "w": "refreshing",
+    "pos": "adj.",
+    "zh": "提神的、令人神清氣爽的",
+    "lv": 6,
+    "at": "p4",
+    "h": "refresh"
+   },
+   {
+    "w": "stimulating",
+    "pos": "adj.",
+    "zh": "有刺激作用的、提神的",
+    "lv": 5,
+    "at": "p4",
+    "h": "stimulate"
+   },
+   {
+    "w": "infer",
+    "pos": "v.",
+    "zh": "推論",
+    "lv": 6,
+    "at": "q48"
+   }
   ]
  },
  {
@@ -14922,6 +16443,58 @@
     "t": "When the mission is over, the crew members get ready to return to Earth.",
     "k": "topic"
    }
+  ],
+  "vocab": [
+   {
+    "w": "astronaut",
+    "pos": "n.",
+    "zh": "太空人",
+    "lv": 6,
+    "at": "p1"
+   },
+   {
+    "w": "shuttle",
+    "pos": "n.",
+    "zh": "太空梭（space shuttle）",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "conduct",
+    "pos": "v.",
+    "zh": "進行",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "microgravity",
+    "pos": "n.",
+    "zh": "微重力",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "radiation",
+    "pos": "n.",
+    "zh": "輻射",
+    "lv": 5,
+    "at": "p2"
+   },
+   {
+    "w": "glide",
+    "pos": "v.",
+    "zh": "滑行",
+    "lv": 6,
+    "at": "p3"
+   },
+   {
+    "w": "underlined",
+    "pos": "adj.",
+    "zh": "畫底線的",
+    "lv": 5,
+    "at": "q50",
+    "h": "underline"
+   }
   ]
  },
  {
@@ -14981,6 +16554,58 @@
     "p": 4,
     "t": "How does Hirsch explain this difference?",
     "k": "topic"
+   }
+  ],
+  "vocab": [
+   {
+    "w": "neuroscientist",
+    "pos": "n.",
+    "zh": "神經科學家",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "resonance",
+    "pos": "n.",
+    "zh": "共振（magnetic resonance imaging 核磁共振造影）",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "bilingual",
+    "pos": "adj.",
+    "zh": "雙語的",
+    "lv": 0,
+    "at": "p1"
+   },
+   {
+    "w": "scanner",
+    "pos": "n.",
+    "zh": "掃描器",
+    "lv": 5,
+    "at": "p1",
+    "h": "scan"
+   },
+   {
+    "w": "disrupt",
+    "pos": "v.",
+    "zh": "干擾、打斷",
+    "lv": 5,
+    "at": "p1"
+   },
+   {
+    "w": "activated",
+    "pos": "adj.",
+    "zh": "啟動的、活化的",
+    "lv": 0,
+    "at": "p3"
+   },
+   {
+    "w": "programming",
+    "pos": "n.",
+    "zh": "（大腦裡的）程式設定、運作模式",
+    "lv": 0,
+    "at": "p4"
    }
   ]
  },
