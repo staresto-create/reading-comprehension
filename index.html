@@ -602,6 +602,15 @@ function yearNum(p){
   const m = String(p.year).match(/(\d+)/);
   return m ? parseInt(m[1],10) : 0;
 }
+/* 清單、標題、附圖說明用的卷別：正式考試照資料寫（學測 114年），其他寫完整（學測 115年參考試卷），和靜態頁 pages.py 的 ylab 一致 */
+function yLab(p){
+  if(p.examType === '正式考試') return `${p.exam} ${p.year}`;
+  const m = String(p.year).match(/^(\d+)課綱/);
+  const suf = p.examType === '參考試卷' ? '參考試卷' + (m ? `（${m[1]} 課綱）` : '')
+            : p.examType === '試辦考試' ? '試辦考試'
+            : String(p.year).split('年').slice(1).join('年');
+  return `${p.exam} ${yearNum(p)}年${suf}`;
+}
 function isOfficial(x){ return x.examType === '正式考試'; }
 function typeRank(p){
   if(p.examType === '正式考試') return 0;
@@ -754,7 +763,7 @@ function buildYearList(){
     row.className = 'year-item' + (isOfficial(p) ? '' : ' unofficial') + (curPid===p.id ? ' sel' : '');
     row.setAttribute('role','option');
     row.setAttribute('aria-selected', curPid===p.id ? 'true' : 'false');
-    row.innerHTML = `<span class="yt">${p.exam} ${esc(p.year)} · ${esc(p.title)}${badge(p)}</span>`
+    row.innerHTML = `<span class="yt">${esc(yLab(p))} · ${esc(p.title)}${badge(p)}</span>`
                   + `<span class="cnt">第 ${p.range[0]}–${p.range[1]} 題・${its.length}題${drilling() ? `<span class="cq">${selectedCats.size + selectedDiffs.size > 1 ? (selectedDiffs.size ? '所選題目' : '所選題型') : drillName()} ${drillItems(its).length} 題</span>` : ''}${diffSort ? `<span class="cq">${avgRate(p) === null ? '沒有答對率' : '平均答對率 ' + avgRate(p) + '%'}</span>` : ''}</span>`;
     row.onclick = () => {
       document.querySelectorAll('.year-item').forEach(r => { r.classList.remove('sel'); r.setAttribute('aria-selected','false'); });
@@ -884,7 +893,7 @@ function renderPractice(){
   const p = PASSAGES[curPid];
   const done = curItems.filter(it => picks[it.id]).length, total = curItems.length;
   document.getElementById('progText').innerHTML =
-    `<span>${p.exam} ${esc(p.year)}</span><span>已答 ${done} / ${total}</span>`;
+    `<span>${esc(yLab(p))}</span><span>已答 ${done} / ${total}</span>`;
   document.getElementById('progBar').style.width = (done/total*100)+'%';
 
   const tags = [
@@ -900,7 +909,7 @@ function renderPractice(){
     ? `<div class="flagNote">${esc(p.flagNote)}${twins ? `<div class="twinBtns">${twins}</div>` : ''}</div>` : '';
 
   let html = `<div class="card${isOfficial(p) ? '' : ' unofficial'}">
-    <h2 class="pTitle" style="margin:0 0 6px;">${p.exam} ${esc(p.year)} · ${esc(p.title)}${badge(p)}</h2>
+    <h2 class="pTitle" style="margin:0 0 6px;">${esc(yLab(p))} · ${esc(p.title)}${badge(p)}</h2>
     <div class="tagRow">${tags}</div>
     ${flag}
     ${graded ? '' : '<div style="font-size:12.5px; color:var(--ink-soft); line-height:1.8; margin-bottom:12px;">先讀文章，再作答下方的題目。全部答完前也可以交卷，沒答的算答錯。</div>'}
@@ -917,7 +926,7 @@ function renderPractice(){
     (inline[idx+1] || []).forEach(it => { html += renderQuestion(it, true); });
   });
   html += `</div>`;
-  if(p.figure) html += figureHtml(p.figure, `${p.exam} ${p.year} 閱讀測驗第 ${p.range[0]}–${p.range[1]} 題文章附圖`);
+  if(p.figure) html += figureHtml(p.figure, `${yLab(p)} 閱讀測驗第 ${p.range[0]}–${p.range[1]} 題文章附圖`);
   curItems.filter(it => !it.afterParagraph).forEach(it => { html += renderQuestion(it, false); });
 
   if(!graded){
@@ -1073,7 +1082,7 @@ function renderQuestion(it, inline){
   const pk = picks[it.id];
   let h = `<div class="qBlock${inline ? ' inline' : ''}" id="q-${it.id}" role="group" aria-label="第 ${it.no} 題">
     ${!graded && selectedCats.has(it.cat) && itemSel(it) ? `<div class="qtPre">${catTag(it)}</div>` : ''}<div class="qStem" lang="en"><span class="qn">${it.no}.</span>${stem}</div>`;
-  if(it.figure) h += figureHtml(it.figure, `${it.exam} ${it.year} 第 ${it.no} 題附圖`);
+  if(it.figure) h += figureHtml(it.figure, `${yLab(it)} 第 ${it.no} 題附圖`);
   h += `<div class="optList" style="border-top:none; padding-top:0;">`;
   Object.entries(it.options).forEach(([ltr, txt]) => {
     let cls = 'optRow';

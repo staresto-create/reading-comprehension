@@ -61613,6 +61613,74 @@
     "lv": 6,
     "at": "q43"
    }
+  ],
+  "col": [
+   {
+    "e": "be convinced that + 子句",
+    "zh": "深信……",
+    "at": "p1",
+    "src": "I was convinced that my suffering was due to my size"
+   },
+   {
+    "e": "be due to + N",
+    "zh": "起因於……",
+    "at": "p1",
+    "src": "my suffering was due to my size"
+   },
+   {
+    "e": "fantasize about + N",
+    "zh": "幻想……",
+    "at": "p2",
+    "src": "We fantasize about what it will be like"
+   },
+   {
+    "e": "a long-awaited goal",
+    "zh": "期待已久的目標",
+    "at": "p2",
+    "src": "the long-awaited goal"
+   },
+   {
+    "e": "realize a dream",
+    "zh": "實現夢想",
+    "at": "p2",
+    "src": "to realize this dream"
+   },
+   {
+    "e": "gain back + N",
+    "zh": "（體重）又回來了",
+    "at": "p3",
+    "src": "we often gain back what we have lost"
+   },
+   {
+    "e": "keep it off",
+    "zh": "（體重）不再回升",
+    "at": "p3",
+    "src": "we will keep it off"
+   },
+   {
+    "e": "fulfill a promise",
+    "zh": "實現承諾",
+    "at": "p3",
+    "src": "being thin will finally fulfill its promise"
+   },
+   {
+    "e": "vary with + N",
+    "zh": "隨……而不同",
+    "at": "p4",
+    "src": "Beauty standards vary with culture"
+   },
+   {
+    "e": "in vain",
+    "zh": "徒勞無功",
+    "at": "p4",
+    "src": "strive hard to change our body, but in vain"
+   },
+   {
+    "e": "make friends with + N",
+    "zh": "和……做朋友",
+    "at": "p4",
+    "src": "make friends with and cherish ourselves"
+   }
   ]
  },
  {
@@ -61954,6 +62022,50 @@
     "lv": 5,
     "at": "p5"
    }
+  ],
+  "col": [
+   {
+    "e": "be left homeless",
+    "zh": "無家可歸",
+    "at": "p1",
+    "src": "thousands more were left homeless"
+   },
+   {
+    "e": "be made from + N",
+    "zh": "由……製成",
+    "at": "p2",
+    "src": "Bam's buildings were made mostly from baked mud"
+   },
+   {
+    "e": "be best known for + N",
+    "zh": "最為人所知的是……",
+    "at": "p3",
+    "src": "Bam was best known for its 2,000-year-old castle"
+   },
+   {
+    "e": "be built out of + N",
+    "zh": "用……建成",
+    "at": "p3",
+    "src": "built out of mud, straw, and the trunks of palm trees"
+   },
+   {
+    "e": "a trading post",
+    "zh": "貿易站",
+    "at": "p4",
+    "src": "as a trading post on the Silk Road"
+   },
+   {
+    "e": "in the face of + N",
+    "zh": "面對……",
+    "at": "p5",
+    "src": "In the face of this tragedy"
+   },
+   {
+    "e": "vow + to V／that + 子句",
+    "zh": "發誓……",
+    "at": "p5",
+    "src": "vowed, “We will rebuild Bam stronger than before.”"
+   }
   ]
  },
  {
@@ -62241,6 +62353,60 @@
     "zh": "減輕、減少",
     "lv": 6,
     "at": "q52"
+   }
+  ],
+  "col": [
+   {
+    "e": "time zones",
+    "zh": "時區",
+    "at": "p1",
+    "src": "traveling between time zones"
+   },
+   {
+    "e": "frequent travelers",
+    "zh": "常出門旅行的人",
+    "at": "p1"
+   },
+   {
+    "e": "lead to + N",
+    "zh": "導致……",
+    "at": "p1",
+    "src": "may lead to digestive problems"
+   },
+   {
+    "e": "biological clock",
+    "zh": "生理時鐘",
+    "at": "p1",
+    "src": "the internal biological clock"
+   },
+   {
+    "e": "generally speaking",
+    "zh": "一般來說",
+    "at": "p2"
+   },
+   {
+    "e": "get over + N",
+    "zh": "從……恢復過來",
+    "at": "p2",
+    "src": "The body takes about one day to get over each hour of time difference"
+   },
+   {
+    "e": "in advance of + N",
+    "zh": "比……超前",
+    "at": "p2",
+    "src": "we will be in advance of ourselves"
+   },
+   {
+    "e": "as far as + N + is concerned",
+    "zh": "就……而言",
+    "at": "p2",
+    "src": "as far as our internal clock is concerned"
+   },
+   {
+    "e": "catch up with + N",
+    "zh": "趕上……",
+    "at": "p2",
+    "src": "to catch up with the new time schedule"
    }
   ]
  },
@@ -62752,6 +62918,49 @@
     "lv": 6,
     "at": "q54"
    }
+  ],
+  "col": [
+   {
+    "e": "gain entry to + N",
+    "zh": "進入……",
+    "at": "p1",
+    "src": "the red fire ant gained entry to the United States"
+   },
+   {
+    "e": "at work",
+    "zh": "在工作中、在活動中",
+    "at": "p3",
+    "src": "With multiple queens at work"
+   },
+   {
+    "e": "strip A of B",
+    "zh": "把 B 從 A 剝光",
+    "at": "p4",
+    "src": "They can quickly strip fruit trees of their fruit"
+   },
+   {
+    "e": "fair game",
+    "zh": "可以任意下手的對象",
+    "at": "p4",
+    "src": "Small birds … are fair game to the expanding colony"
+   },
+   {
+    "e": "be attracted to + N",
+    "zh": "喜歡接近……",
+    "at": "p4",
+    "src": "They appear to be attracted to electromagnetic fields"
+   },
+   {
+    "e": "worst of all",
+    "zh": "最糟的是",
+    "at": "p4"
+   },
+   {
+    "e": "be fatal to + N",
+    "zh": "對……致命",
+    "at": "p4",
+    "src": "their stings can be fatal to livestock and humans"
+   }
   ]
  },
  {
@@ -63039,6 +63248,61 @@
     "lv": 0,
     "at": "q42"
    }
+  ],
+  "col": [
+   {
+    "e": "a sense of humor",
+    "zh": "幽默感",
+    "at": "p1"
+   },
+   {
+    "e": "make history",
+    "zh": "創下歷史",
+    "at": "p1",
+    "src": "who made history in February 2002"
+   },
+   {
+    "e": "on record",
+    "zh": "有紀錄以來",
+    "at": "p1",
+    "src": "the first time on record"
+   },
+   {
+    "e": "with a grin",
+    "zh": "咧嘴笑著",
+    "at": "p2",
+    "src": "Alfred said with a grin"
+   },
+   {
+    "e": "play a role in + N",
+    "zh": "在……之中有一份影響",
+    "at": "p3",
+    "src": "genetics might have played a role in their condition"
+   },
+   {
+    "e": "contribute to + N",
+    "zh": "是造成……的原因之一",
+    "at": "p3",
+    "src": "might have also contributed to their heart problems"
+   },
+   {
+    "e": "eating habits",
+    "zh": "飲食習慣",
+    "at": "p3",
+    "src": "their eating habits"
+   },
+   {
+    "e": "overdo it",
+    "zh": "做得太過頭",
+    "at": "p3",
+    "src": "I overdid it on all the food that tasted good"
+   },
+   {
+    "e": "be on medication",
+    "zh": "正在服藥",
+    "at": "p4",
+    "src": "He was still on medication"
+   }
   ]
  },
  {
@@ -63294,6 +63558,62 @@
     "zh": "木乃伊",
     "lv": 0,
     "at": "p1"
+   }
+  ],
+  "col": [
+   {
+    "e": "hand over + N",
+    "zh": "交出……",
+    "at": "p1",
+    "src": "reluctantly handed over 363 pieces of gold"
+   },
+   {
+    "e": "a court case",
+    "zh": "官司",
+    "at": "p1",
+    "src": "after a court case"
+   },
+   {
+    "e": "calls for + N",
+    "zh": "要求……的呼聲",
+    "at": "p1",
+    "src": "increasing calls for the return of artistic objects"
+   },
+   {
+    "e": "sign a declaration",
+    "zh": "簽署聲明",
+    "at": "p1",
+    "src": "have signed a declaration"
+   },
+   {
+    "e": "country of origin",
+    "zh": "原產國",
+    "at": "p1",
+    "src": "their countries of origin"
+   },
+   {
+    "e": "provide access to + N",
+    "zh": "讓人能接觸到……",
+    "at": "p1",
+    "src": "these museums have provided access to these artistic objects"
+   },
+   {
+    "e": "put + N + on show",
+    "zh": "展出……",
+    "at": "p1",
+    "src": "put Egyptian mummies on show"
+   },
+   {
+    "e": "face pressure to + V",
+    "zh": "面臨……的壓力",
+    "at": "p2",
+    "src": "it has faced growing pressure to hand back the Elgin Marbles"
+   },
+   {
+    "e": "achieve one's aim",
+    "zh": "達成目標",
+    "at": "p2",
+    "src": "to continue to achieve its aim"
    }
   ]
  },
@@ -63659,6 +63979,50 @@
     "lv": 5,
     "at": "p4",
     "h": "deceive"
+   }
+  ],
+  "col": [
+   {
+    "e": "signal to + sb",
+    "zh": "向某人發出信號",
+    "at": "p1",
+    "src": "to signal to others of their species"
+   },
+   {
+    "e": "lure prey",
+    "zh": "引誘獵物",
+    "at": "p1",
+    "src": "to lure prey toward them"
+   },
+   {
+    "e": "escape from + N",
+    "zh": "逃離……",
+    "at": "p1",
+    "src": "to escape from predators"
+   },
+   {
+    "e": "night falls",
+    "zh": "夜幕降臨",
+    "at": "p2",
+    "src": "When night falls over the Red Sea"
+   },
+   {
+    "e": "spread out",
+    "zh": "散開",
+    "at": "p2",
+    "src": "the fish may spread out evenly"
+   },
+   {
+    "e": "attract a mate",
+    "zh": "吸引配偶",
+    "at": "p3",
+    "src": "use light to attract a mate"
+   },
+   {
+    "e": "signal back to + sb",
+    "zh": "回應某人的信號",
+    "at": "p3",
+    "src": "a female signals back to the male"
    }
   ]
  },
@@ -64044,6 +64408,56 @@
     "lv": 5,
     "at": "p7"
    }
+  ],
+  "col": [
+   {
+    "e": "suffer a heart attack",
+    "zh": "心臟病發作",
+    "at": "p2",
+    "src": "has suffered a heart attack"
+   },
+   {
+    "e": "keep + sb + company",
+    "zh": "陪伴某人",
+    "at": "p2",
+    "src": "Dooley keeps Peanuts company"
+   },
+   {
+    "e": "attend to + sb",
+    "zh": "照顧某人",
+    "at": "p2",
+    "src": "while the adults in the family attend to Grandfather"
+   },
+   {
+    "e": "the highest bidder",
+    "zh": "出價最高的人",
+    "at": "p4",
+    "src": "to sell the water to the highest bidder"
+   },
+   {
+    "e": "be sentenced to + V",
+    "zh": "判決……",
+    "at": "p4",
+    "src": "is jailed and sentenced to be executed"
+   },
+   {
+    "e": "call a meeting",
+    "zh": "召開會議",
+    "at": "p6",
+    "src": "a young girl calls a family meeting"
+   },
+   {
+    "e": "be rich in + N",
+    "zh": "富有……",
+    "at": "p6",
+    "src": "her poor family is rich in things that matter in life"
+   },
+   {
+    "e": "read like + N",
+    "zh": "讀起來像……",
+    "at": "p8",
+    "src": "The book reads like a prayer"
+   }
   ]
  },
  {
@@ -64294,6 +64708,38 @@
     "zh": "破舊的",
     "lv": 6,
     "at": "p3"
+   }
+  ],
+  "col": [
+   {
+    "e": "give + sb + a hug",
+    "zh": "擁抱某人",
+    "at": "p1",
+    "src": "Amy gave Laura a big hug"
+   },
+   {
+    "e": "the minute + 子句",
+    "zh": "一……就……",
+    "at": "p1",
+    "src": "Amy loved it the minute she saw it"
+   },
+   {
+    "e": "take a last look around + N",
+    "zh": "最後再看一眼……",
+    "at": "p3",
+    "src": "Mama took a last look around the house"
+   },
+   {
+    "e": "from room to room",
+    "zh": "一間一間地",
+    "at": "p3",
+    "src": "going from room to room"
+   },
+   {
+    "e": "be filled with + N",
+    "zh": "充滿……",
+    "at": "p3",
+    "src": "when they were filled with furniture and rugs and pictures and books"
    }
   ]
  },
@@ -64714,6 +65160,74 @@
     "zh": "有益健康的",
     "lv": 6,
     "at": "q44"
+   }
+  ],
+  "col": [
+   {
+    "e": "date before + N",
+    "zh": "早在……之前就有",
+    "at": "p1",
+    "src": "a plant whose use dates before recorded history"
+   },
+   {
+    "e": "value + N + highly",
+    "zh": "非常重視……",
+    "at": "p1",
+    "src": "the Chinese have valued highly the soybean"
+   },
+   {
+    "e": "be rich in + N",
+    "zh": "富含……",
+    "at": "p1",
+    "src": "rich in protein"
+   },
+   {
+    "e": "range from A to B",
+    "zh": "從 A 到 B 都有",
+    "at": "p1",
+    "src": "ranging from livestock to silk worms"
+   },
+   {
+    "e": "a source of protein",
+    "zh": "蛋白質的來源",
+    "at": "p2",
+    "src": "an almost perfect source of protein"
+   },
+   {
+    "e": "be beneficial in + V-ing",
+    "zh": "有助於……",
+    "at": "p2",
+    "src": "is beneficial in preventing digestive disorders"
+   },
+   {
+    "e": "be free of + N",
+    "zh": "不含……",
+    "at": "p2",
+    "src": "The soybean is free of cholesterol"
+   },
+   {
+    "e": "a minimum of + 數量",
+    "zh": "至少……",
+    "at": "p2",
+    "src": "consuming a minimum of 25 grams of soy protein a day"
+   },
+   {
+    "e": "in view of + N",
+    "zh": "鑑於……",
+    "at": "p3",
+    "src": "In view of all these strengths"
+   },
+   {
+    "e": "undertake a project",
+    "zh": "進行計畫",
+    "at": "p3",
+    "src": "undertook a research project"
+   },
+   {
+    "e": "a meat substitute",
+    "zh": "肉類的替代品",
+    "at": "p3",
+    "src": "using it as a meat substitute"
    }
   ]
  },
@@ -65263,6 +65777,71 @@
     "lv": 6,
     "at": "q50"
    }
+  ],
+  "col": [
+   {
+    "e": "be motivated toward + N",
+    "zh": "有追求……的動力",
+    "at": "p1",
+    "src": "the most strongly motivated toward achievement"
+   },
+   {
+    "e": "under normal circumstances",
+    "zh": "在正常情況下",
+    "at": "p1"
+   },
+   {
+    "e": "be accustomed to + V-ing",
+    "zh": "習慣……",
+    "at": "p1",
+    "src": "they become accustomed … to acting alone"
+   },
+   {
+    "e": "have difficulty + V-ing",
+    "zh": "很難……",
+    "at": "p1",
+    "src": "they may have difficulty making close friends"
+   },
+   {
+    "e": "make close friends",
+    "zh": "交到知心朋友",
+    "at": "p1",
+    "src": "they may have difficulty making close friends"
+   },
+   {
+    "e": "by contrast",
+    "zh": "相較之下",
+    "at": "p2"
+   },
+   {
+    "e": "make decisions for + sb",
+    "zh": "替某人做決定",
+    "at": "p2",
+    "src": "uncomfortable making decisions for others"
+   },
+   {
+    "e": "tend to + V",
+    "zh": "往往……",
+    "at": "p2",
+    "src": "younger children tend to favor the creative fields"
+   },
+   {
+    "e": "deal with + N",
+    "zh": "應付……",
+    "at": "p2",
+    "src": "the only tool they had to deal with older siblings"
+   },
+   {
+    "e": "at times",
+    "zh": "有時候",
+    "at": "p2"
+   },
+   {
+    "e": "be dependent on + N",
+    "zh": "依賴……",
+    "at": "p2",
+    "src": "overdependent on others"
+   }
   ]
  },
  {
@@ -65808,6 +66387,73 @@
     "lv": 6,
     "at": "q55"
    }
+  ],
+  "col": [
+   {
+    "e": "a source of + N",
+    "zh": "……的來源",
+    "at": "p1",
+    "src": "medical waste is a major source of dioxin pollution"
+   },
+   {
+    "e": "be linked to + N",
+    "zh": "和……有關",
+    "at": "p1",
+    "src": "Linked to the dioxin issue is the use of PVC plastic"
+   },
+   {
+    "e": "build up",
+    "zh": "累積起來",
+    "at": "p1",
+    "src": "builds up over time"
+   },
+   {
+    "e": "as a consequence",
+    "zh": "結果",
+    "at": "p1"
+   },
+   {
+    "e": "be exposed to + N",
+    "zh": "暴露在……之中",
+    "at": "p1",
+    "src": "is constantly exposed to this poisonous substance"
+   },
+   {
+    "e": "pose a problem",
+    "zh": "造成問題",
+    "at": "p1",
+    "src": "This poses special problems for childbearing women"
+   },
+   {
+    "e": "be vulnerable to + N",
+    "zh": "對……特別沒有抵抗力",
+    "at": "p1",
+    "src": "the most vulnerable member of society to this chemical"
+   },
+   {
+    "e": "account for + 比例",
+    "zh": "占……",
+    "at": "p2",
+    "src": "Plastics used to account for as little as 10% of medical waste"
+   },
+   {
+    "e": "make up + 比例",
+    "zh": "占……",
+    "at": "p2",
+    "src": "They now make up as much as 30%"
+   },
+   {
+    "e": "take a lead in + V-ing",
+    "zh": "帶頭……",
+    "at": "p2",
+    "src": "have the responsibility to take a lead in reducing the use of plastics"
+   },
+   {
+    "e": "contribute to + N",
+    "zh": "是造成……的原因之一",
+    "at": "p2",
+    "src": "contributing to it on the outside"
+   }
   ]
  },
  {
@@ -65981,6 +66627,50 @@
     "zh": "推論、推斷",
     "lv": 6,
     "at": "q42"
+   }
+  ],
+  "col": [
+   {
+    "e": "go on duty",
+    "zh": "開始上班、值勤",
+    "at": "p1",
+    "src": "At 8:30 in the morning, I go on duty"
+   },
+   {
+    "e": "go off duty",
+    "zh": "下班",
+    "at": "p1",
+    "src": "At 4:30 in the afternoon, I go off duty"
+   },
+   {
+    "e": "take a break",
+    "zh": "休息一下",
+    "at": "p1",
+    "src": "take a fifteen-minute break"
+   },
+   {
+    "e": "call out + N",
+    "zh": "大聲報出……",
+    "at": "p2",
+    "src": "I always call out floors very clearly"
+   },
+   {
+    "e": "on the move",
+    "zh": "一直在動",
+    "at": "p2",
+    "src": "I am constantly on the move"
+   },
+   {
+    "e": "put out + N",
+    "zh": "熄掉（菸、火）",
+    "at": "p2",
+    "src": "to put out their cigarettes"
+   },
+   {
+    "e": "ups and downs",
+    "zh": "起起落落",
+    "at": "p2",
+    "src": "a series of “ups” and “downs."
    }
   ]
  },
@@ -66217,6 +66907,43 @@
     "zh": "怪胎、怪人",
     "lv": 6,
     "at": "p3"
+   }
+  ],
+  "col": [
+   {
+    "e": "be good at + N",
+    "zh": "擅長……",
+    "at": "p1",
+    "src": "which he was particularly good at"
+   },
+   {
+    "e": "be fascinated by + N",
+    "zh": "對……著迷",
+    "at": "p2",
+    "src": "were also fascinated by the idea of magic"
+   },
+   {
+    "e": "the art of deception",
+    "zh": "障眼法",
+    "at": "p2"
+   },
+   {
+    "e": "by oneself",
+    "zh": "自己（不靠別人）",
+    "at": "p2",
+    "src": "for doors to open by themselves"
+   },
+   {
+    "e": "think of A as B",
+    "zh": "把 A 看作 B",
+    "at": "p3",
+    "src": "Magicians were thought of as freaks"
+   },
+   {
+    "e": "come along",
+    "zh": "出現",
+    "at": "p3",
+    "src": "the magician Robert Houdin came along"
    }
   ]
  },
@@ -66618,6 +67345,43 @@
     "pos": "n.",
     "zh": "聖所、神殿",
     "lv": 0,
+    "at": "p3"
+   }
+  ],
+  "col": [
+   {
+    "e": "figure out + N",
+    "zh": "想出、弄清楚……",
+    "at": "p1",
+    "src": "they figure out what treatments may work"
+   },
+   {
+    "e": "date from + 時間",
+    "zh": "起源於……",
+    "at": "p1",
+    "src": "is believed to date from the 4th century BC"
+   },
+   {
+    "e": "be aware of + N",
+    "zh": "察覺到……",
+    "at": "p2",
+    "src": "they are not so aware of it"
+   },
+   {
+    "e": "say a spell",
+    "zh": "唸咒語",
+    "at": "p3",
+    "src": "or say a spell"
+   },
+   {
+    "e": "the sick",
+    "zh": "病人",
+    "at": "p3",
+    "src": "for the sick"
+   },
+   {
+    "e": "get plenty of sleep",
+    "zh": "睡得充足",
     "at": "p3"
    }
   ]
@@ -67308,6 +68072,55 @@
     "lv": 6,
     "at": "q55"
    }
+  ],
+  "col": [
+   {
+    "e": "rely on + N",
+    "zh": "依靠……",
+    "at": "p1",
+    "src": "they rely on themselves for their fashion ideas"
+   },
+   {
+    "e": "drive fashion trends",
+    "zh": "帶動時尚潮流",
+    "at": "p1",
+    "src": "innovative enough to drive fashion trends"
+   },
+   {
+    "e": "It is reported that + 子句",
+    "zh": "據報導……",
+    "at": "p1"
+   },
+   {
+    "e": "a good illustration of + N",
+    "zh": "說明……的好例子",
+    "at": "p2",
+    "src": "a good illustration of how influential youth culture is"
+   },
+   {
+    "e": "hit the charts",
+    "zh": "登上排行榜",
+    "at": "p2",
+    "src": "Madonna hit the charts"
+   },
+   {
+    "e": "in full view",
+    "zh": "完全露出來",
+    "at": "p2",
+    "src": "with her bra in full view"
+   },
+   {
+    "e": "be aware of + N",
+    "zh": "知道……",
+    "at": "p3",
+    "src": "was fully aware of the power of youth culture"
+   },
+   {
+    "e": "pick up on + N",
+    "zh": "察覺到……",
+    "at": "p3",
+    "src": "Picking up on teens' interest in computer games"
+   }
   ]
  },
  {
@@ -67573,6 +68386,64 @@
     "zh": "誇大",
     "lv": 0,
     "at": "q42"
+   }
+  ],
+  "col": [
+   {
+    "e": "pass down + N",
+    "zh": "把……流傳下來",
+    "at": "p1",
+    "src": "stories passed down by word of mouth"
+   },
+   {
+    "e": "by word of mouth",
+    "zh": "口耳相傳",
+    "at": "p1"
+   },
+   {
+    "e": "triumph over + N",
+    "zh": "戰勝……",
+    "at": "p1",
+    "src": "usually triumph over their enemies"
+   },
+   {
+    "e": "down-to-earth",
+    "zh": "務實的、平易近人的",
+    "at": "p1",
+    "src": "Folk tales are both down-to-earth and highly imaginative"
+   },
+   {
+    "e": "have some basis in fact",
+    "zh": "有些事實根據",
+    "at": "p2",
+    "src": "had some basis in fact"
+   },
+   {
+    "e": "grow out of + N",
+    "zh": "從……發展出來",
+    "at": "p2",
+    "src": "grew out of the lives of real people"
+   },
+   {
+    "e": "turn A into B",
+    "zh": "把 A 變成 B",
+    "at": "p2",
+    "src": "folk tales can turn humble people into heroes"
+   },
+   {
+    "e": "a tall tale",
+    "zh": "誇大不實的故事",
+    "at": "p2"
+   },
+   {
+    "e": "in other words",
+    "zh": "換句話說",
+    "at": "p2"
+   },
+   {
+    "e": "gain a better understanding of + N",
+    "zh": "更了解……",
+    "at": "p3"
    }
   ]
  },
@@ -67969,6 +68840,55 @@
     "lv": 6,
     "at": "q46"
    }
+  ],
+  "col": [
+   {
+    "e": "give away + N",
+    "zh": "把……送出去",
+    "at": "p1",
+    "src": "athletes and VIPs gave away their signatures for free"
+   },
+   {
+    "e": "for free",
+    "zh": "免費",
+    "at": "p1"
+   },
+   {
+    "e": "collect dust",
+    "zh": "積灰塵、閒置",
+    "at": "p1",
+    "src": "sit on a shelf and collect dust"
+   },
+   {
+    "e": "big business",
+    "zh": "大生意",
+    "at": "p1",
+    "src": "autographs … are big business"
+   },
+   {
+    "e": "demand payment for + N",
+    "zh": "要求為……付費",
+    "at": "p2",
+    "src": "Many athletes and VIPs demand payment for their signatures"
+   },
+   {
+    "e": "flock to + 地方",
+    "zh": "成群湧到……",
+    "at": "p3",
+    "src": "fans across the U.S. are flocking to sports shows"
+   },
+   {
+    "e": "have + sb + V",
+    "zh": "請某人做……",
+    "at": "p3",
+    "src": "to have their heroes sign anything"
+   },
+   {
+    "e": "connect with + sb",
+    "zh": "和某人有連結",
+    "at": "p4",
+    "src": "To connect with someone famous"
+   }
   ]
  },
  {
@@ -68275,6 +69195,43 @@
     "pos": "n.",
     "zh": "前景",
     "lv": 6,
+    "at": "p1"
+   }
+  ],
+  "col": [
+   {
+    "e": "take part in + N",
+    "zh": "參加……",
+    "at": "p1",
+    "src": "More than 2,000 adults took part in the survey"
+   },
+   {
+    "e": "have no cure",
+    "zh": "沒有治癒的方法",
+    "at": "p1",
+    "src": "the common cold has no cure"
+   },
+   {
+    "e": "be no use",
+    "zh": "沒有用",
+    "at": "p1",
+    "src": "taking medicine is absolutely no use at all"
+   },
+   {
+    "e": "large doses of + N",
+    "zh": "大劑量的……",
+    "at": "p1",
+    "src": "give their patients large doses of useless drugs"
+   },
+   {
+    "e": "lead to + N",
+    "zh": "導致……",
+    "at": "p1",
+    "src": "such a misunderstanding will lead to more illness"
+   },
+   {
+    "e": "senior citizens",
+    "zh": "年長者",
     "at": "p1"
    }
   ]
@@ -68657,6 +69614,62 @@
     "lv": 5,
     "at": "p3"
    }
+  ],
+  "col": [
+   {
+    "e": "come out right",
+    "zh": "（照片）拍得好",
+    "at": "p1",
+    "src": "pictures that didn’t come out right"
+   },
+   {
+    "e": "spend money on + N",
+    "zh": "花錢在……上",
+    "at": "p1",
+    "src": "you aren’t spending money on film"
+   },
+   {
+    "e": "a sure sign",
+    "zh": "明確的跡象",
+    "at": "p2",
+    "src": "The wide selection is a sure sign"
+   },
+   {
+    "e": "must-have items",
+    "zh": "必備的東西",
+    "at": "p2",
+    "src": "to must-have items"
+   },
+   {
+    "e": "make the switch",
+    "zh": "改用（新的東西）",
+    "at": "p3",
+    "src": "many buyers have been willing to make the switch"
+   },
+   {
+    "e": "a share of the market",
+    "zh": "市場占有率",
+    "at": "p4",
+    "src": "capturing a growing share of the consumer market"
+   },
+   {
+    "e": "come down",
+    "zh": "（價格）下降",
+    "at": "p5",
+    "src": "The prices have come down"
+   },
+   {
+    "e": "go up",
+    "zh": "（品質）提升",
+    "at": "p5",
+    "src": "the quality has gone up"
+   },
+   {
+    "e": "fail to + V",
+    "zh": "沒能……",
+    "at": "p5",
+    "src": "because you failed to reload the film"
+   }
   ]
  },
  {
@@ -68892,7 +69905,57 @@
     ]
    }
   ],
-  "vocab": []
+  "vocab": [],
+  "col": [
+   {
+    "e": "be keen on + V-ing",
+    "zh": "熱衷於……",
+    "at": "p1",
+    "src": "were keen on rowing boats"
+   },
+   {
+    "e": "make a plan to + V",
+    "zh": "計畫……",
+    "at": "p1",
+    "src": "They made a plan to row across the Pacific Ocean"
+   },
+   {
+    "e": "set out from + 地方",
+    "zh": "從……出發",
+    "at": "p2",
+    "src": "They set out from Japan"
+   },
+   {
+    "e": "escape unharmed",
+    "zh": "安然逃生",
+    "at": "p2",
+    "src": "they both escaped unharmed"
+   },
+   {
+    "e": "take place",
+    "zh": "發生",
+    "at": "p3",
+    "src": "how the accident took place"
+   },
+   {
+    "e": "run + sb + down",
+    "zh": "撞倒某人",
+    "at": "p4",
+    "src": "ran us down"
+   },
+   {
+    "e": "on board",
+    "zh": "在船上",
+    "at": "p4",
+    "src": "to stay on board the boat"
+   },
+   {
+    "e": "above everything",
+    "zh": "比什麼都重要",
+    "at": "p4",
+    "src": "That above everything is the most important"
+   }
+  ]
  },
  {
   "id": "g91p2",
@@ -69253,6 +70316,59 @@
     "zh": "嘲笑、取笑",
     "lv": 0,
     "at": "q46"
+   }
+  ],
+  "col": [
+   {
+    "e": "happy endings",
+    "zh": "圓滿的結局",
+    "at": "p1"
+   },
+   {
+    "e": "every once in a while",
+    "zh": "偶爾",
+    "at": "p1"
+   },
+   {
+    "e": "go one's way",
+    "zh": "事情照某人的意思發展",
+    "at": "p1",
+    "src": "things always go our way"
+   },
+   {
+    "e": "overcome evil",
+    "zh": "戰勝邪惡",
+    "at": "p2",
+    "src": "the power of good to overcome evil"
+   },
+   {
+    "e": "… alike",
+    "zh": "……都一樣",
+    "at": "p3",
+    "src": "children and adults alike"
+   },
+   {
+    "e": "get away from + N",
+    "zh": "逃離……",
+    "at": "p3",
+    "src": "to get away from this real, frustrating world"
+   },
+   {
+    "e": "in the nick of time",
+    "zh": "在千鈞一髮之際",
+    "at": "p3"
+   },
+   {
+    "e": "at will",
+    "zh": "隨心所欲",
+    "at": "p3",
+    "src": "Peter Pan can fly at will"
+   },
+   {
+    "e": "take revenge on + sb",
+    "zh": "向某人報仇",
+    "at": "p3",
+    "src": "to take revenge on his uncle, aunt and cousin"
    }
   ]
  },
@@ -69774,6 +70890,50 @@
     "lv": 5,
     "at": "p2"
    }
+  ],
+  "col": [
+   {
+    "e": "equal opportunities",
+    "zh": "平等的機會",
+    "at": "p1",
+    "src": "were not given equal opportunities in education or employment"
+   },
+   {
+    "e": "gain fame as + N",
+    "zh": "以……成名",
+    "at": "p1",
+    "src": "gained fame as a concert singer"
+   },
+   {
+    "e": "apply for + N",
+    "zh": "申請……",
+    "at": "p1",
+    "src": "When she applied for admission to a local music school"
+   },
+   {
+    "e": "turn + sb + down",
+    "zh": "拒絕某人",
+    "at": "p1",
+    "src": "she was turned down because she was black"
+   },
+   {
+    "e": "be widely praised",
+    "zh": "廣受好評",
+    "at": "p1",
+    "src": "Her voice was widely praised throughout Europe"
+   },
+   {
+    "e": "praise A as B",
+    "zh": "稱讚 A 是 B",
+    "at": "p2",
+    "src": "praised her voice as “heard only once in a hundred years.”"
+   },
+   {
+    "e": "triumph over + N",
+    "zh": "戰勝……",
+    "at": "p2",
+    "src": "Anderson eventually triumphed over racism"
+   }
   ]
  },
  {
@@ -70187,6 +71347,54 @@
     "pos": "n.",
     "zh": "士氣",
     "lv": 6,
+    "at": "p3"
+   }
+  ],
+  "col": [
+   {
+    "e": "hardly ever",
+    "zh": "幾乎從不",
+    "at": "p1",
+    "src": "He hardly ever wears a necktie"
+   },
+   {
+    "e": "casual clothes",
+    "zh": "便服",
+    "at": "p1"
+   },
+   {
+    "e": "start out as + N",
+    "zh": "一開始是……",
+    "at": "p2",
+    "src": "What started out as an extra one-day-a-week benefit"
+   },
+   {
+    "e": "a dress code",
+    "zh": "服裝規定",
+    "at": "p3",
+    "src": "if it has a casual dress code"
+   },
+   {
+    "e": "dress up for + N",
+    "zh": "為……盛裝打扮",
+    "at": "p3",
+    "src": "don’t want to dress up for work"
+   },
+   {
+    "e": "improve morale",
+    "zh": "提振士氣",
+    "at": "p3",
+    "src": "casual dress improves employee morale"
+   },
+   {
+    "e": "have a negative impact on + N",
+    "zh": "對……有負面影響",
+    "at": "p3",
+    "src": "casual dress has a negative impact on productivity"
+   },
+   {
+    "e": "save money",
+    "zh": "省錢",
     "at": "p3"
    }
   ]
