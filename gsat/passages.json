@@ -10156,7 +10156,8 @@
    {
     "e": "leave + sb + behind",
     "zh": "丟下某人",
-    "at": "p2"
+    "at": "p2",
+    "src": "resist leaving their sick or dying behind"
    },
    {
     "e": "be reluctant to + V",

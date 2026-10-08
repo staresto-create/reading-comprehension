@@ -8140,7 +8140,8 @@
    {
     "e": "engage the enemy",
     "zh": "和敵人交戰",
-    "at": "p2"
+    "at": "p2",
+    "src": "engaging the enemy"
    },
    {
     "e": "en route to + N",
@@ -22128,7 +22129,8 @@
    {
     "e": "be hotly discussed",
     "zh": "（議題）討論得很熱烈",
-    "at": "p3"
+    "at": "p3",
+    "src": "has been hotly discussed"
    },
    {
     "e": "a lack of + N",
@@ -49049,7 +49051,8 @@
    {
     "e": "earn a fortune",
     "zh": "賺大錢",
-    "at": "p3"
+    "at": "p3",
+    "src": "earned a fortune"
    },
    {
     "e": "convert A into B",
@@ -56093,7 +56096,8 @@
    {
     "e": "show a marked decline",
     "zh": "明顯下滑",
-    "at": "p2"
+    "at": "p2",
+    "src": "showed a marked decline"
    },
    {
     "e": "live up to expectations",
@@ -59966,7 +59970,8 @@
    {
     "e": "become standard practice",
     "zh": "成為標準做法",
-    "at": "p2"
+    "at": "p2",
+    "src": "Bag-matching became standard practice"
    },
    {
     "e": "bring down + N",
