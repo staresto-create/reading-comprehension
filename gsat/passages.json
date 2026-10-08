@@ -49968,6 +49968,62 @@
     "lv": 0,
     "at": "q43"
    }
+  ],
+  "col": [
+   {
+    "e": "be found nowhere else",
+    "zh": "其他地方都找不到",
+    "at": "p1",
+    "src": "is found nowhere else on earth"
+   },
+   {
+    "e": "give + sb + a nickname",
+    "zh": "給……取綽號",
+    "at": "p1",
+    "src": "New Zealanders have given it the nickname weta"
+   },
+   {
+    "e": "at the sight of + N",
+    "zh": "一看到……",
+    "at": "p1",
+    "src": "feel disgusted at the sight of these bulky, slow-moving creatures"
+   },
+   {
+    "e": "after dark",
+    "zh": "天黑以後",
+    "at": "p2",
+    "src": "only after dark"
+   },
+   {
+    "e": "at a time",
+    "zh": "一次",
+    "at": "p2",
+    "src": "hop up to two feet at a time"
+   },
+   {
+    "e": "feel sympathy for + N",
+    "zh": "同情……",
+    "at": "p3",
+    "src": "Most people probably don’t feel sympathy for these endangered creatures"
+   },
+   {
+    "e": "need + V-ing",
+    "zh": "需要（有人）……",
+    "at": "p3",
+    "src": "they do need protecting"
+   },
+   {
+    "e": "be unaccustomed to + N",
+    "zh": "不習慣……",
+    "at": "p3",
+    "src": "unaccustomed to its presence"
+   },
+   {
+    "e": "pose a serious threat to + N",
+    "zh": "對……構成嚴重威脅",
+    "at": "p3",
+    "src": "poses a serious threat to the native weta population"
+   }
   ]
  },
  {
@@ -50411,6 +50467,66 @@
     "zh": "光鮮亮麗的、豪華的",
     "lv": 6,
     "at": "q46"
+   }
+  ],
+  "col": [
+   {
+    "e": "a rite of passage",
+    "zh": "人生必經的儀式",
+    "at": "p1",
+    "src": "It has also been a rite of passage for young Americans"
+   },
+   {
+    "e": "refer to + N",
+    "zh": "指的是……",
+    "at": "p2",
+    "src": "referring to formal dances"
+   },
+   {
+    "e": "regard A as B",
+    "zh": "把 A 看作 B",
+    "at": "p2",
+    "src": "have come to regard the prom as an important lesson in social skills"
+   },
+   {
+    "e": "social skills",
+    "zh": "社交技巧",
+    "at": "p2"
+   },
+   {
+    "e": "dress up for the occasion",
+    "zh": "為這個場合盛裝打扮",
+    "at": "p3",
+    "src": "not fancily dressed up for the occasion"
+   },
+   {
+    "e": "dance to music",
+    "zh": "隨著音樂跳舞",
+    "at": "p3",
+    "src": "Couples danced to music"
+   },
+   {
+    "e": "excessive consumption",
+    "zh": "過度消費",
+    "at": "p3"
+   },
+   {
+    "e": "more or less",
+    "zh": "多少有點",
+    "at": "p4",
+    "src": "proms have always been more or less traumatic events"
+   },
+   {
+    "e": "fit in with + N",
+    "zh": "融入……",
+    "at": "p4",
+    "src": "fitting in with their peers"
+   },
+   {
+    "e": "meet the needs of + N",
+    "zh": "滿足……的需求",
+    "at": "p4",
+    "src": "to meet the needs of particular students"
    }
   ]
  },
@@ -51174,6 +51290,110 @@
     "lv": 6,
     "at": "q52"
    }
+  ],
+  "col": [
+   {
+    "e": "save money on + N",
+    "zh": "在……上省錢",
+    "at": "p1",
+    "src": "you can save bucks on car rentals"
+   },
+   {
+    "e": "gain popularity",
+    "zh": "流行起來",
+    "at": "p2",
+    "src": "trading online is gaining popularity"
+   },
+   {
+    "e": "in operation",
+    "zh": "營運中",
+    "at": "p2",
+    "src": "with several sites in operation"
+   },
+   {
+    "e": "bill oneself as + N",
+    "zh": "自稱是……",
+    "at": "p2",
+    "src": "this company bills itself as the world’s largest home exchange club"
+   },
+   {
+    "e": "make contact",
+    "zh": "聯絡",
+    "at": "p3",
+    "src": "Initial contact is made via e-mail"
+   },
+   {
+    "e": "a cause for concern",
+    "zh": "讓人擔心的理由",
+    "at": "p4",
+    "src": "These are reasonable causes for concern"
+   },
+   {
+    "e": "as + sb + puts it",
+    "zh": "正如某人所說",
+    "at": "p4",
+    "src": "As one swapper puts it"
+   },
+   {
+    "e": "ahead of time",
+    "zh": "事先",
+    "at": "p5",
+    "src": "discuss such matters ahead of time"
+   },
+   {
+    "e": "fill out + N",
+    "zh": "填寫……",
+    "at": "p5",
+    "src": "They may fill out an agreement"
+   },
+   {
+    "e": "spell out + N",
+    "zh": "詳細寫明……",
+    "at": "p5",
+    "src": "spelling out who shoulders which responsibilities"
+   },
+   {
+    "e": "shoulder responsibilities",
+    "zh": "承擔責任",
+    "at": "p5",
+    "src": "who shoulders which responsibilities"
+   },
+   {
+    "e": "a problem arises",
+    "zh": "出問題",
+    "at": "p5",
+    "src": "if a problem arises"
+   },
+   {
+    "e": "hold up in court",
+    "zh": "在法庭上站得住腳",
+    "at": "p5",
+    "src": "if the agreement would hold up in court"
+   },
+   {
+    "e": "have to do with + N",
+    "zh": "和……有關",
+    "at": "p6",
+    "src": "has to do with different standards of cleanliness"
+   },
+   {
+    "e": "be supposed to + V",
+    "zh": "應該要……",
+    "at": "p6",
+    "src": "Swappers are supposed to make sure their home is in order"
+   },
+   {
+    "e": "in order",
+    "zh": "整齊、井然有序",
+    "at": "p6",
+    "src": "their home is in order"
+   },
+   {
+    "e": "sour + sb + on + N",
+    "zh": "讓某人對……失去興致",
+    "at": "p6",
+    "src": "would not sour them on future exchanges"
+   }
   ]
  },
  {
@@ -51782,6 +52002,77 @@
     "lv": 5,
     "at": "q56"
    }
+  ],
+  "col": [
+   {
+    "e": "time stands still",
+    "zh": "時間彷彿靜止",
+    "at": "p1",
+    "src": "time almost stands still"
+   },
+   {
+    "e": "It is tempting to + V",
+    "zh": "讓人很想……",
+    "at": "p2",
+    "src": "It’s tempting … to focus on the special conditions of the place"
+   },
+   {
+    "e": "above sea level",
+    "zh": "海拔",
+    "at": "p2",
+    "src": "nearly 10,000 feet above sea level"
+   },
+   {
+    "e": "cover great distances",
+    "zh": "走很遠的路",
+    "at": "p2",
+    "src": "covering great distances to fetch water and firewood"
+   },
+   {
+    "e": "fetch water",
+    "zh": "打水、取水",
+    "at": "p2"
+   },
+   {
+    "e": "take the case of + N",
+    "zh": "以……為例",
+    "at": "p3",
+    "src": "Take the case of Million Abate"
+   },
+   {
+    "e": "be forced to + V",
+    "zh": "不得不……",
+    "at": "p3",
+    "src": "Forced to quit school in fifth grade"
+   },
+   {
+    "e": "quit school",
+    "zh": "輟學",
+    "at": "p3"
+   },
+   {
+    "e": "live from hand to mouth",
+    "zh": "勉強餬口",
+    "at": "p4",
+    "src": "Most families in Bekoji live from hand to mouth"
+   },
+   {
+    "e": "a way out",
+    "zh": "出路",
+    "at": "p4",
+    "src": "distance running offers the younger generation a way out"
+   },
+   {
+    "e": "as a reward",
+    "zh": "作為獎勵",
+    "at": "p4"
+   },
+   {
+    "e": "be motivated by + N",
+    "zh": "因為……而有了動力",
+    "at": "p5",
+    "src": "Motivated by such signs of success"
+   }
   ]
  },
  {
@@ -52122,6 +52413,44 @@
     "zh": "刺激（behavioral stimulation devices 讓動物活動、動腦的器材）",
     "lv": 6,
     "at": "p1"
+   }
+  ],
+  "col": [
+   {
+    "e": "at a time",
+    "zh": "一次",
+    "at": "p1",
+    "src": "Six people at a time"
+   },
+   {
+    "e": "participate in + N",
+    "zh": "參加……",
+    "at": "p1",
+    "src": "to participate in the month-long project"
+   },
+   {
+    "e": "raise awareness of + N",
+    "zh": "喚起對……的重視",
+    "at": "p2",
+    "src": "raise awareness of the need for conservation"
+   },
+   {
+    "e": "generate funds",
+    "zh": "籌措資金",
+    "at": "p2",
+    "src": "to generate funds for the nation's largest chimpanzee enclosure"
+   },
+   {
+    "e": "cool off",
+    "zh": "涼快一下",
+    "at": "p3",
+    "src": "to cool off if the weather gets warm"
+   },
+   {
+    "e": "turn + adj.",
+    "zh": "變得……",
+    "at": "p3",
+    "src": "If it turns chilly"
    }
   ]
  },
@@ -52697,6 +53026,61 @@
     "lv": 6,
     "at": "p4"
    }
+  ],
+  "col": [
+   {
+    "e": "be attracted to + N",
+    "zh": "喜歡、想要接近……",
+    "at": "p1",
+    "src": "People are attracted to a restaurant by more than just good food"
+   },
+   {
+    "e": "a result of + N",
+    "zh": "……造成的結果",
+    "at": "p1",
+    "src": "Their physical and emotional response is a result of the atmosphere"
+   },
+   {
+    "e": "be exposed to + N",
+    "zh": "接觸到……",
+    "at": "p1",
+    "src": "the total environment to which customers are exposed"
+   },
+   {
+    "e": "be made up of + N",
+    "zh": "由……組成",
+    "at": "p1",
+    "src": "Atmosphere is made up of the building design"
+   },
+   {
+    "e": "escape from + N",
+    "zh": "逃離……",
+    "at": "p2",
+    "src": "People want to escape from their problems"
+   },
+   {
+    "e": "repeat customers",
+    "zh": "回頭客",
+    "at": "p2"
+   },
+   {
+    "e": "provide contrast",
+    "zh": "帶來反差",
+    "at": "p3",
+    "src": "a noisy cafeteria might provide needed contrast"
+   },
+   {
+    "e": "take careful consideration",
+    "zh": "需要仔細考慮",
+    "at": "p4",
+    "src": "Designing the “right” atmosphere takes careful consideration"
+   },
+   {
+    "e": "a target group",
+    "zh": "目標族群",
+    "at": "p4",
+    "src": "the target group"
+   }
   ]
  },
  {
@@ -53001,6 +53385,50 @@
     "zh": "引用、記載",
     "lv": 5,
     "at": "p1"
+   }
+  ],
+  "col": [
+   {
+    "e": "be engaged in + N",
+    "zh": "參與、從事……",
+    "at": "p1",
+    "src": "was engaged in early attempts to conquer the world’s tallest mountain"
+   },
+   {
+    "e": "participate in + N",
+    "zh": "參加……",
+    "at": "p1",
+    "src": "He participated in three British attempts"
+   },
+   {
+    "e": "lose one's life",
+    "zh": "喪命",
+    "at": "p1",
+    "src": "seven Sherpa climbers lost their lives"
+   },
+   {
+    "e": "depart from + 地方",
+    "zh": "從……出發",
+    "at": "p1",
+    "src": "departed from the high camp on June 8"
+   },
+   {
+    "e": "make a positive identification",
+    "zh": "確認身分",
+    "at": "p1",
+    "src": "A positive identification was made"
+   },
+   {
+    "e": "heat up the debate",
+    "zh": "讓爭論再度升溫",
+    "at": "p1",
+    "src": "has again heated up the debate"
+   },
+   {
+    "e": "reach the summit",
+    "zh": "登頂",
+    "at": "p1",
+    "src": "reach the summit in June of 1953"
    }
   ]
  },
@@ -53368,6 +53796,55 @@
     "zh": "概念的",
     "lv": 0,
     "at": "p4"
+   }
+  ],
+  "col": [
+   {
+    "e": "an expert on + N",
+    "zh": "……方面的專家",
+    "at": "p1",
+    "src": "an expert on the history of the practice of philosophy"
+   },
+   {
+    "e": "seek knowledge",
+    "zh": "追求知識",
+    "at": "p2",
+    "src": "the time to seek knowledge"
+   },
+   {
+    "e": "broadly speaking",
+    "zh": "大致來說",
+    "at": "p3"
+   },
+   {
+    "e": "search for truth",
+    "zh": "追求真理",
+    "at": "p3",
+    "src": "The first is to search for truth"
+   },
+   {
+    "e": "have a go at + N",
+    "zh": "試試看……",
+    "at": "p3",
+    "src": "doesn’t mean everyone else shouldn’t have a go at it"
+   },
+   {
+    "e": "take + N + for granted",
+    "zh": "把……視為理所當然",
+    "at": "p4",
+    "src": "ideas that are often taken for granted"
+   },
+   {
+    "e": "serve to + V",
+    "zh": "有助於……",
+    "at": "p4",
+    "src": "This kind of conceptual analysis serves to clarify debate"
+   },
+   {
+    "e": "There is no point + V-ing",
+    "zh": "……沒有意義",
+    "at": "p4",
+    "src": "There is no point arguing about justice"
    }
   ]
  },
@@ -53886,6 +54363,79 @@
     "lv": 0,
     "at": "q43"
    }
+  ],
+  "col": [
+   {
+    "e": "To Whom It May Concern",
+    "zh": "敬啟者（不知道收信人姓名時的開頭）",
+    "at": "p1"
+   },
+   {
+    "e": "be forwarded to + sb",
+    "zh": "轉寄給某人",
+    "at": "p2",
+    "src": "Your address was forwarded to us by Why Bother Magazine"
+   },
+   {
+    "e": "follow the advice",
+    "zh": "照著建議做",
+    "at": "p3",
+    "src": "We closely followed the advice in your article"
+   },
+   {
+    "e": "replace A with B",
+    "zh": "把 A 換成 B",
+    "at": "p3",
+    "src": "we replaced all our telephones with carrier pigeons"
+   },
+   {
+    "e": "have an effect on + N",
+    "zh": "對……有影響",
+    "at": "p3",
+    "src": "has had a remarkable effect on everyone"
+   },
+   {
+    "e": "the bottom line",
+    "zh": "最終的盈虧",
+    "at": "p3",
+    "src": "We have to think of the bottom line"
+   },
+   {
+    "e": "a side benefit",
+    "zh": "附帶的好處",
+    "at": "p3",
+    "src": "As a side benefit"
+   },
+   {
+    "e": "sell off + N",
+    "zh": "把……賣掉",
+    "at": "p4",
+    "src": "we sold the computers off to Stab, Grab, Grit, and Nasty"
+   },
+   {
+    "e": "embrace technology",
+    "zh": "接受新的技術",
+    "at": "p4",
+    "src": "We have completely embraced paper technology"
+   },
+   {
+    "e": "now that + 子句",
+    "zh": "既然……",
+    "at": "p4",
+    "src": "Now that we all use pencils"
+   },
+   {
+    "e": "be on the increase",
+    "zh": "正在增加",
+    "at": "p4",
+    "src": "doodling is on the increase"
+   },
+   {
+    "e": "insure against + N",
+    "zh": "為……投保",
+    "at": "p7",
+    "src": "Insure against overdoing it"
+   }
   ]
  },
  {
@@ -54292,6 +54842,73 @@
     "zh": "耗盡",
     "lv": 0,
     "at": "q48"
+   }
+  ],
+  "col": [
+   {
+    "e": "off the coast of + 地方",
+    "zh": "在……外海",
+    "at": "p2",
+    "src": "This group of islands off the coast of Ecuador"
+   },
+   {
+    "e": "It is estimated that + 子句",
+    "zh": "據估計……",
+    "at": "p2"
+   },
+   {
+    "e": "in place of + N",
+    "zh": "取代……",
+    "at": "p2",
+    "src": "concrete runways in place of asphalt"
+   },
+   {
+    "e": "carbon footprint",
+    "zh": "碳足跡",
+    "at": "p2",
+    "src": "which has a greater carbon footprint"
+   },
+   {
+    "e": "couldn't come at a better time",
+    "zh": "來得正是時候",
+    "at": "p2",
+    "src": "This new development couldn’t be coming at a better time"
+   },
+   {
+    "e": "be driven by + N",
+    "zh": "由……推動",
+    "at": "p3",
+    "src": "economies that are driven almost completely by tourism"
+   },
+   {
+    "e": "put stress on + N",
+    "zh": "對……造成壓力",
+    "at": "p3",
+    "src": "These increases put great stress on the islands’ resources"
+   },
+   {
+    "e": "be criticized for + V-ing",
+    "zh": "因為……招來批評",
+    "at": "p3",
+    "src": "Air travel is especially criticized for exhausting natural resources"
+   },
+   {
+    "e": "exhaust natural resources",
+    "zh": "耗盡天然資源",
+    "at": "p3",
+    "src": "exhausting natural resources"
+   },
+   {
+    "e": "make efforts to + V",
+    "zh": "努力……",
+    "at": "p3",
+    "src": "efforts are being made to reduce the environmental impact"
+   },
+   {
+    "e": "environmental impact",
+    "zh": "對環境的影響",
+    "at": "p3",
+    "src": "the environmental impact of the tourism industry"
    }
   ]
  },
@@ -54814,6 +55431,38 @@
     "lv": 5,
     "at": "q49"
    }
+  ],
+  "col": [
+   {
+    "e": "tell which way is north",
+    "zh": "分辨哪一邊是北方",
+    "at": "p1",
+    "src": "in telling which way is north"
+   },
+   {
+    "e": "stitch together + N",
+    "zh": "把……拼接起來",
+    "at": "p2",
+    "src": "a website that stitches together satellite photographs"
+   },
+   {
+    "e": "orient oneself",
+    "zh": "讓自己朝向某個方向",
+    "at": "p3",
+    "src": "Grazing animals are known to orient themselves in a way that"
+   },
+   {
+    "e": "wind chill",
+    "zh": "風寒效應",
+    "at": "p3",
+    "src": "minimizes wind chill from the north"
+   },
+   {
+    "e": "average out + N",
+    "zh": "把……的影響平均掉",
+    "at": "p3",
+    "src": "in order to average out these factors"
+   }
   ]
  },
  {
@@ -55292,6 +55941,92 @@
     "lv": 5,
     "at": "q53"
    }
+  ],
+  "col": [
+   {
+    "e": "a distrust of + N",
+    "zh": "對……的不信任",
+    "at": "p1",
+    "src": "Children normally have a distrust of new foods"
+   },
+   {
+    "e": "expose A to B",
+    "zh": "讓 A 接觸 B",
+    "at": "p1",
+    "src": "expose their children to healthy dieting habits"
+   },
+   {
+    "e": "a picky eater",
+    "zh": "挑食的人",
+    "at": "p2",
+    "src": "even the pickiest eater"
+   },
+   {
+    "e": "a varied diet",
+    "zh": "多樣化的飲食",
+    "at": "p2",
+    "src": "learn to like a more varied diet"
+   },
+   {
+    "e": "at hand",
+    "zh": "就在手邊",
+    "at": "p2",
+    "src": "With hot stoves, boiling water and sharp knives at hand"
+   },
+   {
+    "e": "involve + sb + in + N",
+    "zh": "讓某人參與……",
+    "at": "p2",
+    "src": "involving children in meal preparation"
+   },
+   {
+    "e": "get + sb + to + V",
+    "zh": "讓某人……",
+    "at": "p2",
+    "src": "getting them to try new foods"
+   },
+   {
+    "e": "take part in + N",
+    "zh": "參加……",
+    "at": "p2",
+    "src": "took part in a nutrition curriculum"
+   },
+   {
+    "e": "be intended to + V",
+    "zh": "用意是……",
+    "at": "p2",
+    "src": "intended to get them to eat more vegetables"
+   },
+   {
+    "e": "cut up + N",
+    "zh": "把……切碎",
+    "at": "p2",
+    "src": "if kids cut them up"
+   },
+   {
+    "e": "be tuned into + N",
+    "zh": "很留意……",
+    "at": "p3",
+    "src": "Kids are tuned into their parents’ eating preferences"
+   },
+   {
+    "e": "given + N",
+    "zh": "考慮到……",
+    "at": "p3",
+    "src": "Given this powerful effect"
+   },
+   {
+    "e": "lose weight",
+    "zh": "減重",
+    "at": "p3",
+    "src": "parents who are trying to lose weight"
+   },
+   {
+    "e": "put + sb + at risk for + N",
+    "zh": "讓某人面臨……的風險",
+    "at": "p3",
+    "src": "parents may be putting them at risk for eating disorders"
+   }
   ]
  },
  {
@@ -55561,6 +56296,61 @@
     "zh": "宣示領域的、地盤的",
     "lv": 0,
     "at": "p2"
+   }
+  ],
+  "col": [
+   {
+    "e": "be named for + N",
+    "zh": "以……命名",
+    "at": "p1",
+    "src": "Howler monkeys are named for the long loud cries"
+   },
+   {
+    "e": "fight for + N",
+    "zh": "爭奪……",
+    "at": "p1",
+    "src": "to fight for food, mates, or territory"
+   },
+   {
+    "e": "check out + N",
+    "zh": "查看……",
+    "at": "p1",
+    "src": "to check out where their nearest competitors are"
+   },
+   {
+    "e": "take on a pattern",
+    "zh": "呈現某種模式",
+    "at": "p2",
+    "src": "the howling routine takes on a different pattern"
+   },
+   {
+    "e": "check on + N",
+    "zh": "查看、確認……",
+    "at": "p2",
+    "src": "to check on the whereabouts of their competitors"
+   },
+   {
+    "e": "from a distance",
+    "zh": "從遠處",
+    "at": "p2",
+    "src": "use recorded howler sounds from a distance"
+   },
+   {
+    "e": "feel the need to + V",
+    "zh": "覺得需要……",
+    "at": "p2",
+    "src": "the monkeys feel the need to make the territorial calls"
+   },
+   {
+    "e": "in the wild",
+    "zh": "在野外",
+    "at": "p2"
+   },
+   {
+    "e": "check in with + sb",
+    "zh": "和某人聯絡、報到",
+    "at": "p2",
+    "src": "to check in with the neighbors"
    }
   ]
  },
@@ -56021,6 +56811,44 @@
     "lv": 0,
     "at": "p2"
    }
+  ],
+  "col": [
+   {
+    "e": "lead to + N",
+    "zh": "導致……",
+    "at": "p1",
+    "src": "the demand for a road across the mountains led to the building of the Going-to-the-Sun Road"
+   },
+   {
+    "e": "an engineering feat",
+    "zh": "工程上的壯舉",
+    "at": "p2",
+    "src": "The road is considered an engineering feat"
+   },
+   {
+    "e": "marvel at + N",
+    "zh": "對……感到驚嘆",
+    "at": "p2",
+    "src": "visitors to the park marvel at how such a road could have been built"
+   },
+   {
+    "e": "change the way + 子句",
+    "zh": "改變……的方式",
+    "at": "p2",
+    "src": "has changed the way visitors experience the Glacier National Park"
+   },
+   {
+    "e": "be named (as) + N",
+    "zh": "獲選為……",
+    "at": "p3",
+    "src": "They were named as a World Heritage Site in 1995"
+   },
+   {
+    "e": "international recognition",
+    "zh": "國際肯定",
+    "at": "p3",
+    "src": "This international recognition"
+   }
   ]
  },
  {
@@ -56418,6 +57246,56 @@
     "zh": "用冰雕成的",
     "lv": 0,
     "at": "p3"
+   }
+  ],
+  "col": [
+   {
+    "e": "be suitable for + N／V-ing",
+    "zh": "適合……",
+    "at": "p1",
+    "src": "so that it is suitable for sculpting"
+   },
+   {
+    "e": "be available from + N",
+    "zh": "可以向……取得",
+    "at": "p1",
+    "src": "are available from the Clinebell Company in Colorado"
+   },
+   {
+    "e": "take place",
+    "zh": "進行、發生",
+    "at": "p2",
+    "src": "If the sculpting does not take place in a cold environment"
+   },
+   {
+    "e": "in as little as + 時間",
+    "zh": "最快只要……",
+    "at": "p2",
+    "src": "can be completed in as little as ten minutes"
+   },
+   {
+    "e": "be designed for + V-ing",
+    "zh": "專門用來……",
+    "at": "p2",
+    "src": "specifically designed for cutting ice"
+   },
+   {
+    "e": "a long tradition of + N",
+    "zh": "悠久的……傳統",
+    "at": "p2",
+    "src": "has a long tradition of magnificent ice sculptures"
+   },
+   {
+    "e": "hold a dinner party",
+    "zh": "舉辦晚宴",
+    "at": "p3",
+    "src": "When holding a dinner party"
+   },
+   {
+    "e": "a wedding banquet",
+    "zh": "喜宴",
+    "at": "p3",
+    "src": "in a wedding banquet"
    }
   ]
  },
@@ -56943,6 +57821,50 @@
     "lv": 0,
     "at": "q56"
    }
+  ],
+  "col": [
+   {
+    "e": "convince oneself that + 子句",
+    "zh": "說服自己……",
+    "at": "p1",
+    "src": "if you convince yourself beforehand that the pain won’t be so bad"
+   },
+   {
+    "e": "react to + N",
+    "zh": "對……有反應",
+    "at": "p1",
+    "src": "the part of your brain that reacts to severe pain"
+   },
+   {
+    "e": "give out + N",
+    "zh": "發出……",
+    "at": "p2",
+    "src": "a device that gave out 20-second-long pulses of heat"
+   },
+   {
+    "e": "associate A with B",
+    "zh": "把 A 和 B 聯想在一起",
+    "at": "p2",
+    "src": "learned to associate the length of the silent pause with the intensity of the upcoming heat pulse"
+   },
+   {
+    "e": "The 比較級 …, the 比較級 …",
+    "zh": "越……就越……",
+    "at": "p2",
+    "src": "The longer the pause, the stronger the heat pulse would be"
+   },
+   {
+    "e": "be involved in + N",
+    "zh": "和……有關",
+    "at": "p3",
+    "src": "the parts of the brain involved in learning, memory, emotion, and touch"
+   },
+   {
+    "e": "cope with + N",
+    "zh": "應付、面對……",
+    "at": "p4",
+    "src": "helping people cope with painful medical treatments"
+   }
   ]
  },
  {
@@ -57193,6 +58115,50 @@
     "zh": "單寧（一種植物成分）",
     "lv": 0,
     "at": "p3"
+   }
+  ],
+  "col": [
+   {
+    "e": "get rid of + N",
+    "zh": "丟掉、除去……",
+    "at": "p1",
+    "src": "try to get rid of half of the candy"
+   },
+   {
+    "e": "separate A from B",
+    "zh": "把 A 和 B 分開",
+    "at": "p1",
+    "src": "separate the good kinds of treats from the bad"
+   },
+   {
+    "e": "It is not A that matters, but B",
+    "zh": "重要的不是 A，而是 B",
+    "at": "p2",
+    "src": "It is not exactly what a child eats that truly matters, but how much time it stays in his mouth"
+   },
+   {
+    "e": "get stuck between + N",
+    "zh": "卡在……之間",
+    "at": "p2",
+    "src": "they get stuck between teeth"
+   },
+   {
+    "e": "take a long time to + V",
+    "zh": "要花很長的時間才能……",
+    "at": "p2",
+    "src": "Hard candies take a long time to consume"
+   },
+   {
+    "e": "no matter what + 子句",
+    "zh": "不論……",
+    "at": "p3",
+    "src": "no matter what a child eats"
+   },
+   {
+    "e": "fight cavities",
+    "zh": "預防蛀牙",
+    "at": "p3",
+    "src": "the best way to fight cavities"
    }
   ]
  },
@@ -57571,6 +58537,26 @@
     "zh": "電視教學課程",
     "lv": 0,
     "at": "p3"
+   }
+  ],
+  "col": [
+   {
+    "e": "dramatic growth",
+    "zh": "大幅成長",
+    "at": "p2",
+    "src": "the growth … has been dramatic"
+   },
+   {
+    "e": "survive on + N",
+    "zh": "靠……維持下去",
+    "at": "p2",
+    "src": "survive on very limited budgets"
+   },
+   {
+    "e": "take a course",
+    "zh": "修課",
+    "at": "p3",
+    "src": "take courses this way"
    }
   ]
  },
@@ -57968,6 +58954,61 @@
     "zh": "副的（vice president 副總裁）",
     "lv": 6,
     "at": "p3"
+   }
+  ],
+  "col": [
+   {
+    "e": "make a statement",
+    "zh": "表明立場",
+    "at": "p1",
+    "src": "made a bold fur-free statement on the runway"
+   },
+   {
+    "e": "mark a new chapter",
+    "zh": "開啟新的一頁",
+    "at": "p1",
+    "src": "marking a new chapter for the fashion industry"
+   },
+   {
+    "e": "in place of + N",
+    "zh": "取代……",
+    "at": "p2",
+    "src": "what did Jay McCarroll use in place of fur?"
+   },
+   {
+    "e": "all sorts of + N",
+    "zh": "各式各樣的……",
+    "at": "p2",
+    "src": "all sorts of combinations of fabrics"
+   },
+   {
+    "e": "you name it",
+    "zh": "凡是想得到的都有",
+    "at": "p2"
+   },
+   {
+    "e": "anything but + N",
+    "zh": "除了……什麼都可以",
+    "at": "p2",
+    "src": "Anything but fur and leather"
+   },
+   {
+    "e": "share a bond with + N",
+    "zh": "和……有情感連結",
+    "at": "p3",
+    "src": "we share a bond with animals every day"
+   },
+   {
+    "e": "say no to + N",
+    "zh": "拒絕……",
+    "at": "p3",
+    "src": "Saying no to fur"
+   },
+   {
+    "e": "show one's respect to + sb",
+    "zh": "向某人表達敬意",
+    "at": "p3",
+    "src": "we want to show our respect to leading designers"
    }
   ]
  },
@@ -58400,6 +59441,62 @@
     "zh": "人際的",
     "lv": 0,
     "at": "p4"
+   }
+  ],
+  "col": [
+   {
+    "e": "be due to + N",
+    "zh": "起因於……",
+    "at": "p1",
+    "src": "were mainly due to differences in how they were treated"
+   },
+   {
+    "e": "cling to a belief",
+    "zh": "堅守某種看法",
+    "at": "p1",
+    "src": "It’s hard to cling to that belief today"
+   },
+   {
+    "e": "raise children",
+    "zh": "養育孩子",
+    "at": "p1",
+    "src": "important in raising and educating children"
+   },
+   {
+    "e": "be born with + N",
+    "zh": "天生就有……",
+    "at": "p2",
+    "src": "girls are born with more sensitive hearing than boys"
+   },
+   {
+    "e": "be seated in + N",
+    "zh": "位於……",
+    "at": "p3",
+    "src": "negative emotions are seated in an area of the brain"
+   },
+   {
+    "e": "enable + sb + to + V",
+    "zh": "讓某人能夠……",
+    "at": "p3",
+    "src": "enabling them to talk about their feelings"
+   },
+   {
+    "e": "point out that + 子句",
+    "zh": "指出……",
+    "at": "p4",
+    "src": "Dr. Sax … points out that"
+   },
+   {
+    "e": "yield benefits",
+    "zh": "帶來好處",
+    "at": "p4",
+    "src": "has yielded striking educational, social, and interpersonal benefits"
+   },
+   {
+    "e": "make use of + N",
+    "zh": "利用……",
+    "at": "p4",
+    "src": "make use of the biological differences"
    }
   ]
  },
@@ -58974,6 +60071,54 @@
     "lv": 5,
     "at": "q43"
    }
+  ],
+  "col": [
+   {
+    "e": "be stressed out",
+    "zh": "壓力很大",
+    "at": "p1",
+    "src": "Who is more stressed out"
+   },
+   {
+    "e": "promote healing",
+    "zh": "促進痊癒",
+    "at": "p2",
+    "src": "can reduce pain and promote healing"
+   },
+   {
+    "e": "high blood pressure",
+    "zh": "高血壓",
+    "at": "p2"
+   },
+   {
+    "e": "a heart attack",
+    "zh": "心臟病發作",
+    "at": "p2"
+   },
+   {
+    "e": "disturb the balance",
+    "zh": "打亂平衡",
+    "at": "p3",
+    "src": "a response that disturbs the body’s normal physiological balance"
+   },
+   {
+    "e": "save one's life",
+    "zh": "救某人一命",
+    "at": "p3",
+    "src": "can sometimes save a person’s life"
+   },
+   {
+    "e": "keep + N + under control",
+    "zh": "控制住……",
+    "at": "p3",
+    "src": "How can stress be kept under control?"
+   },
+   {
+    "e": "grab a copy",
+    "zh": "買一本",
+    "at": "p3",
+    "src": "grab a copy and start learning"
+   }
   ]
  },
  {
@@ -59225,6 +60370,32 @@
     "zh": "推論",
     "lv": 6,
     "at": "q48"
+   }
+  ],
+  "col": [
+   {
+    "e": "consist of + N",
+    "zh": "包括……",
+    "at": "p2",
+    "src": "Black tea preparation consists mainly of picking young leaves"
+   },
+   {
+    "e": "distinct characteristics",
+    "zh": "明顯的特色",
+    "at": "p3",
+    "src": "have distinct characteristics"
+   },
+   {
+    "e": "grow／live to be + 數字",
+    "zh": "長到……、活到……",
+    "at": "p3",
+    "src": "can grow to be 2.75 meters high, can live to be 100 years old"
+   },
+   {
+    "e": "a refreshing drink",
+    "zh": "提神的飲料",
+    "at": "p4",
+    "src": "a refreshing and stimulating drink"
    }
   ]
  },
@@ -59677,6 +60848,50 @@
     "lv": 6,
     "at": "p3"
    }
+  ],
+  "col": [
+   {
+    "e": "set out + N",
+    "zh": "安排、規畫……",
+    "at": "p1",
+    "src": "all the projects set out for the mission"
+   },
+   {
+    "e": "conduct experiments",
+    "zh": "做實驗",
+    "at": "p1",
+    "src": "astronauts conduct experiments on the shuttle"
+   },
+   {
+    "e": "be essential to + V",
+    "zh": "對……不可或缺",
+    "at": "p1",
+    "src": "regular exercise is essential to keep the astronauts healthy"
+   },
+   {
+    "e": "protect + N + from + N",
+    "zh": "保護……不受……傷害",
+    "at": "p2",
+    "src": "They are protected by a space suit from the radiation of the Sun"
+   },
+   {
+    "e": "keep + sb + from + V-ing",
+    "zh": "讓某人不會……",
+    "at": "p2",
+    "src": "keeps the astronauts from feeling the extreme heat or cold"
+   },
+   {
+    "e": "get ready to + V",
+    "zh": "準備好……",
+    "at": "p3",
+    "src": "the crew members get ready to return to Earth"
+   },
+   {
+    "e": "bring + N + to a complete stop",
+    "zh": "讓……完全停下來",
+    "at": "p3",
+    "src": "to bring it to a complete stop"
+   }
   ]
  },
  {
@@ -60006,6 +61221,50 @@
     "zh": "（大腦裡的）程式設定、運作模式",
     "lv": 0,
     "at": "p4"
+   }
+  ],
+  "col": [
+   {
+    "e": "find evidence that + 子句",
+    "zh": "找到……的證據",
+    "at": "p1",
+    "src": "has recently found evidence that"
+   },
+   {
+    "e": "consist of + N",
+    "zh": "由……組成",
+    "at": "p1",
+    "src": "One group consisted of those who had learned a second language as children"
+   },
+   {
+    "e": "out loud",
+    "zh": "出聲地",
+    "at": "p1",
+    "src": "They couldn’t speak out loud"
+   },
+   {
+    "e": "no matter what + 子句",
+    "zh": "不論……",
+    "at": "p2",
+    "src": "no matter what language they were speaking"
+   },
+   {
+    "e": "native tongue",
+    "zh": "母語",
+    "at": "p3",
+    "src": "their native tongue"
+   },
+   {
+    "e": "take over + N",
+    "zh": "接手……",
+    "at": "p4",
+    "src": "a different part of the brain must take over a new language"
+   },
+   {
+    "e": "acquire a language",
+    "zh": "習得語言",
+    "at": "p4",
+    "src": "we may acquire languages differently as children"
    }
   ]
  },
