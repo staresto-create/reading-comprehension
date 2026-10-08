@@ -1020,6 +1020,10 @@ function msLegend(p){
 const VB_LV = {3:'三級', 4:'四級', 5:'五級', 6:'六級', 0:'表外'};
 const VB_NOTE2 = '生字表分成兩部分，級數都依大考中心《高中英文參考詞彙表》（111 學年度起適用）。大考中心的考試說明寫到，學測的詞彙以第一到第五級為主，偶爾會用到第六級以上的字（<a href="https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J018586101460336585&amp;sid=0O211573150658099894" target="_blank" rel="noopener">〈學科能力測驗英文考科考試說明〉</a>）。「關鍵字彙」是這一篇裡第三到第五級、而且在歷屆學測或指考詞彙題的選項裡出現過的字（答案和誘答都算）；每個字下面列出考過的題目，點題號可以到學測單字題庫或指考單字題庫作答，考的字形和這一篇不同時，題號後面寫出考的字形。「參考字彙」是其他比較難的字：詞彙題還沒考過的第五級字、第六級的字，以及詞彙表沒有收的字（標「表外」）。第一、二級的字比較基本，不列。字後面的中括號是 KK 音標（美式發音）。中文寫的是這個字在這一篇裡的意思，不是字典列的全部意思。文中的字形和詞彙表不一樣時，括號裡寫詞彙表收的字，查字典時查這個字。人名、地名這類專有名詞，詞彙表不收，這裡也不列。';
 const VB_SITE = {gsat:['https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-','學測單字題庫'], zhikao:['https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-','指考單字題庫']};
+const COL_NOTE = '「字詞搭配」是要整組記的說法，分兩種：一種是哪兩個字配在一起，例如 pose a serious risk（造成嚴重的風險）、in unison（齊聲），換成意思相近的字就不自然；另一種是這個字後面要接什麼，寫成公式，例如 be resistant to + N（對……有抵抗力）。公式裡的 + N 表示接名詞，+ V 接原形動詞，+ V-ing 接動名詞，sb 指人，sth 指事物，「時間」「地方」這類中文表示那裡要填的東西。名稱不必背，看得出這一條寫的是「配對」還是「接法」就夠了；記住搭配和接法，這個字你才用得出來，不會只是看得懂。一看就懂的組合和專有名詞不列。每一條寫的是查字典時的基本形，文中的寫法不同時，下面附上原文。';
+function colRow(c){
+  return `<li class="vbRow"><span class="vbW" lang="en">${esc(c.e)}</span><span class="vbZh">${esc(c.zh)}</span><span class="vbMeta">${vbAt(c.at)}</span>${c.src ? `<span class="vbT">原文：<span lang="en">${esc(c.src)}</span></span>` : ''}</li>`;
+}
 function vbRow(v, key){
   let h = `<li class="vbRow"><span class="vbW" lang="en">${esc(v.w)}${v.h ? ` <span class="vbH">（詞彙表：<span lang="en">${esc(v.h)}</span>）</span>` : ''}</span>${v.kk ? `<span class="vbKK">[${esc(v.kk)}]</span>` : ''}<span class="vbPos" lang="en">${esc(v.pos)}</span><span class="vbZh">${esc(v.zh)}</span><span class="vbMeta"><span class="vbLv${v.lv ? '' : ' off'}">${VB_LV[v.lv]}</span>${vbAt(v.at)}</span>`;
   if(key){
@@ -1034,10 +1038,12 @@ function renderVocab(p){
   const K = p.key, R = p.vocab || [];
   const kh = K.length ? `<ul class="vbList">${K.map(v => vbRow(v, true)).join('')}</ul>` : '<p class="vbNone">這一篇沒有詞彙題考過的第三到第五級字。</p>';
   const rh = R.length ? `<ul class="vbList">${R.map(v => vbRow(v, false)).join('')}</ul>` : '<p class="vbNone">這一篇沒有要列的參考字彙。</p>';
-  return `<details class="vbBox"${vbOpen ? ' open' : ''} ontoggle="vbOpen = this.open"><summary>這一篇的生字表 <span class="vbSub">（關鍵字彙 ${K.length} 個、參考字彙 ${R.length} 個）</span></summary>
+  const C = p.col || [];
+  const ch = C.length ? `<h3 class="vbHd">字詞搭配 <span class="vbHs">配對與接法</span></h3><div class="vbNote">${COL_NOTE}</div><ul class="vbList">${C.map(colRow).join('')}</ul>` : '';
+  return `<details class="vbBox"${vbOpen ? ' open' : ''} ontoggle="vbOpen = this.open"><summary>這一篇的生字表 <span class="vbSub">（關鍵字彙 ${K.length} 個、參考字彙 ${R.length} 個${C.length ? `、字詞搭配 ${C.length} 組` : ''}）</span></summary>
     <div class="vbNote">${VB_NOTE2}</div>
     <h3 class="vbHd">關鍵字彙 <span class="vbHs">第三到第五級、詞彙題考過的字</span></h3>${kh}
-    <h3 class="vbHd">參考字彙 <span class="vbHs">詞彙題沒考過的五級字、六級字、詞彙表外的字</span></h3>${rh}
+    <h3 class="vbHd">參考字彙 <span class="vbHs">詞彙題沒考過的五級字、六級字、詞彙表外的字</span></h3>${rh}${ch}
   </details>`;
 }
 function vbAt(a){ return a[0] === 'p' ? `第 ${a.slice(1)} 段` : `第 ${a.slice(1)} 題`; }
