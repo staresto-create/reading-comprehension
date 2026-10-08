@@ -71636,6 +71636,55 @@
     "lv": 6,
     "at": "p1"
    }
+  ],
+  "col": [
+   {
+    "e": "believe it or not",
+    "zh": "信不信由你",
+    "at": "p1"
+   },
+   {
+    "e": "think up + N",
+    "zh": "想出……",
+    "at": "p1",
+    "src": "somewhere a genius thought up the first potato chips"
+   },
+   {
+    "e": "send + N + back",
+    "zh": "退回……",
+    "at": "p1",
+    "src": "sent them back to the kitchen"
+   },
+   {
+    "e": "as + adj. + as possible",
+    "zh": "盡可能……",
+    "at": "p1",
+    "src": "slice the potatoes as thin as possible"
+   },
+   {
+    "e": "turn out",
+    "zh": "結果是……",
+    "at": "p1",
+    "src": "did not turn out as he had planned"
+   },
+   {
+    "e": "by hand",
+    "zh": "用手、手工",
+    "at": "p1",
+    "src": "the potatoes had to be peeled by hand"
+   },
+   {
+    "e": "out of stock",
+    "zh": "缺貨",
+    "at": "p1",
+    "src": "potato chips were often out of stock"
+   },
+   {
+    "e": "in abundance",
+    "zh": "大量地",
+    "at": "p1",
+    "src": "there were potato chips in abundance"
+   }
   ]
  },
  {
@@ -71918,6 +71967,38 @@
     "zh": "推論、推斷",
     "lv": 6,
     "at": "q46"
+   }
+  ],
+  "col": [
+   {
+    "e": "be made into + N",
+    "zh": "改編成……",
+    "at": "p2",
+    "src": "was recently made into a movie"
+   },
+   {
+    "e": "overcome poverty",
+    "zh": "克服貧窮",
+    "at": "p3",
+    "src": "Dumas overcame poverty"
+   },
+   {
+    "e": "participate in + N",
+    "zh": "參加……",
+    "at": "p4",
+    "src": "He participated in three revolutions"
+   },
+   {
+    "e": "make a fortune",
+    "zh": "發大財",
+    "at": "p4",
+    "src": "After making a fortune by writing novels"
+   },
+   {
+    "e": "be open to the public",
+    "zh": "對外開放",
+    "at": "p4",
+    "src": "opened to the public"
    }
   ]
  },
@@ -72303,6 +72384,44 @@
     "zh": "飾品、裝飾品",
     "lv": 6,
     "at": "p4"
+   }
+  ],
+  "col": [
+   {
+    "e": "be left alone",
+    "zh": "落單",
+    "at": "p1",
+    "src": "the baby was left alone"
+   },
+   {
+    "e": "depend on + N",
+    "zh": "依靠……",
+    "at": "p2",
+    "src": "which depends on private contributions"
+   },
+   {
+    "e": "under the care of + N",
+    "zh": "在……的照顧下",
+    "at": "p3",
+    "src": "once under the care of the orphanage"
+   },
+   {
+    "e": "earn a reputation as + N",
+    "zh": "贏得……的名聲",
+    "at": "p3",
+    "src": "earning a reputation as a confident, naughty and mischievous youngster"
+   },
+   {
+    "e": "introduce + sb + to + N",
+    "zh": "讓某人認識……",
+    "at": "p3",
+    "src": "have gradually introduced her to the ways of the wild"
+   },
+   {
+    "e": "give + sb + a chance",
+    "zh": "給某人機會",
+    "at": "p4",
+    "src": "give the young a chance"
    }
   ]
  },
@@ -72717,6 +72836,61 @@
     "lv": 5,
     "at": "q55"
    }
+  ],
+  "col": [
+   {
+    "e": "such is the case with + N",
+    "zh": "……就是這樣的例子",
+    "at": "p1",
+    "src": "Such is the case with an old leather shoe"
+   },
+   {
+    "e": "at first glance",
+    "zh": "乍看之下",
+    "at": "p1"
+   },
+   {
+    "e": "by accident",
+    "zh": "不小心地",
+    "at": "p1",
+    "src": "dropped by accident"
+   },
+   {
+    "e": "throw away + N",
+    "zh": "丟掉……",
+    "at": "p1",
+    "src": "did she throw away goods that she didn’t need"
+   },
+   {
+    "e": "die of + N",
+    "zh": "死於……",
+    "at": "p2",
+    "src": "many died of starvation"
+   },
+   {
+    "e": "make it to + 地方",
+    "zh": "成功抵達……",
+    "at": "p2",
+    "src": "made it to Alaska"
+   },
+   {
+    "e": "turn back",
+    "zh": "折返",
+    "at": "p2",
+    "src": "Perhaps she had to turn back in defeat"
+   },
+   {
+    "e": "for sure",
+    "zh": "確定地",
+    "at": "p2",
+    "src": "No one will ever know for sure"
+   },
+   {
+    "e": "take part in + N",
+    "zh": "參與……",
+    "at": "p2",
+    "src": "she took part in one of the greatest adventures"
+   }
   ]
  },
  {
@@ -72817,6 +72991,26 @@
     "zh": "推論、推斷",
     "lv": 6,
     "at": "q43"
+   }
+  ],
+  "col": [
+   {
+    "e": "lend + sb + N",
+    "zh": "借某物給某人",
+    "at": "p2",
+    "src": "asked Ali to lend him the pot again"
+   },
+   {
+    "e": "give + sb + back + N",
+    "zh": "把……還給某人",
+    "at": "p2",
+    "src": "would again give him back two pots"
+   },
+   {
+    "e": "lose patience",
+    "zh": "失去耐心",
+    "at": "p2",
+    "src": "Ali lost patience"
    }
   ]
  },
@@ -72970,6 +73164,56 @@
     "lv": 5,
     "at": "p3",
     "h": "bid"
+   }
+  ],
+  "col": [
+   {
+    "e": "a return address",
+    "zh": "寄件人地址",
+    "at": "p1",
+    "src": "there is no return address"
+   },
+   {
+    "e": "throw + N + away",
+    "zh": "把……丟掉",
+    "at": "p1",
+    "src": "The post office cannot just throw the mail away"
+   },
+   {
+    "e": "end up in + 地方",
+    "zh": "最後落到……",
+    "at": "p1",
+    "src": "can end up in these offices"
+   },
+   {
+    "e": "deal with + N",
+    "zh": "處理……",
+    "at": "p2",
+    "src": "a variety of ways to deal with all of these pieces of dead mail"
+   },
+   {
+    "e": "in the hope that + 子句",
+    "zh": "希望……",
+    "at": "p2",
+    "src": "in the hope that something inside will show"
+   },
+   {
+    "e": "pile up",
+    "zh": "堆積起來",
+    "at": "p3",
+    "src": "When a lot of dead mail has piled up"
+   },
+   {
+    "e": "hold an auction",
+    "zh": "舉辦拍賣會",
+    "at": "p3",
+    "src": "the dead mail offices hold public auctions"
+   },
+   {
+    "e": "the highest bidder",
+    "zh": "出價最高的人",
+    "at": "p3",
+    "src": "sold to the highest bidder"
    }
   ]
  },
@@ -73169,6 +73413,20 @@
     "zh": "輕快的、活潑的",
     "lv": 0,
     "at": "p2"
+   }
+  ],
+  "col": [
+   {
+    "e": "all at once",
+    "zh": "突然",
+    "at": "p1",
+    "src": "When all at once I saw a crowd"
+   },
+   {
+    "e": "at a glance",
+    "zh": "一眼看去",
+    "at": "p2",
+    "src": "Ten thousand saw I at a glance"
    }
   ]
  },
@@ -73544,6 +73802,74 @@
     "lv": 0,
     "at": "p4"
    }
+  ],
+  "col": [
+   {
+    "e": "off duty",
+    "zh": "下班、不在工作",
+    "at": "p1",
+    "src": "never off-duty"
+   },
+   {
+    "e": "turn up",
+    "zh": "出現",
+    "at": "p1",
+    "src": "three people turned up at my house"
+   },
+   {
+    "e": "be laid out as + N",
+    "zh": "布置成……",
+    "at": "p1",
+    "src": "it was laid out as a studio"
+   },
+   {
+    "e": "count from A to B",
+    "zh": "從 A 數到 B",
+    "at": "p1",
+    "src": "count from one to twenty"
+   },
+   {
+    "e": "in turn",
+    "zh": "輪流",
+    "at": "p2",
+    "src": "each in turn solemnly counted"
+   },
+   {
+    "e": "be criticized for + V-ing",
+    "zh": "因為……招來批評",
+    "at": "p2",
+    "src": "I was sternly criticized for having such an idiotic job"
+   },
+   {
+    "e": "take a telephone call",
+    "zh": "接電話",
+    "at": "p2",
+    "src": "I had to take a telephone call in another room"
+   },
+   {
+    "e": "pay attention to + N",
+    "zh": "注意……",
+    "at": "p3",
+    "src": "paid no more attention to the microphones"
+   },
+   {
+    "e": "give + sb + the option of + V-ing",
+    "zh": "讓某人可以選擇……",
+    "at": "p4",
+    "src": "gave them the option of destroying the tape"
+   },
+   {
+    "e": "be obliged to + sb",
+    "zh": "欠某人人情",
+    "at": "p4",
+    "src": "I was morally obliged to them"
+   },
+   {
+    "e": "when it comes to + N",
+    "zh": "說到……",
+    "at": "p4",
+    "src": "when it came to the buying of drinks"
+   }
   ]
  },
  {
@@ -73708,6 +74034,19 @@
     "zh": "劇作家",
     "lv": 6,
     "at": "p1"
+   }
+  ],
+  "col": [
+   {
+    "e": "It is said that + 子句",
+    "zh": "據說……",
+    "at": "p1"
+   },
+   {
+    "e": "get the better of + N",
+    "zh": "占上風",
+    "at": "p2",
+    "src": "managed to get the better of this exchange"
    }
   ]
  },
@@ -73896,6 +74235,44 @@
     "zh": "軟體動物",
     "lv": 0,
     "at": "p4"
+   }
+  ],
+  "col": [
+   {
+    "e": "write for + N",
+    "zh": "為了……而寫",
+    "at": "p1",
+    "src": "Authors write for many reasons"
+   },
+   {
+    "e": "happen to + V",
+    "zh": "剛好……",
+    "at": "p3",
+    "src": "which happened to be unlocked"
+   },
+   {
+    "e": "the minute + 子句",
+    "zh": "一……就……",
+    "at": "p3",
+    "src": "the minute he opened the door"
+   },
+   {
+    "e": "push away + N",
+    "zh": "把……推開",
+    "at": "p3",
+    "src": "pushing away a basketball"
+   },
+   {
+    "e": "no way to + V",
+    "zh": "不是……的方式",
+    "at": "p3",
+    "src": "This is no way to treat a friend!"
+   },
+   {
+    "e": "be shaped like + N",
+    "zh": "形狀像……",
+    "at": "p4",
+    "src": "shaped like boxes, fans, or tops"
    }
   ]
  },
@@ -74238,6 +74615,56 @@
     "lv": 6,
     "at": "q45"
    }
+  ],
+  "col": [
+   {
+    "e": "stunning scenery",
+    "zh": "令人驚嘆的風景",
+    "at": "p1",
+    "src": "some of the state’s most stunning scenery"
+   },
+   {
+    "e": "stand at the center of + N",
+    "zh": "位在……的中央",
+    "at": "p2",
+    "src": "stands at the center of the nearly round island"
+   },
+   {
+    "e": "an extinct volcano",
+    "zh": "死火山",
+    "at": "p2",
+    "src": "This extinct volcano"
+   },
+   {
+    "e": "recover from + N",
+    "zh": "從……恢復",
+    "at": "p3",
+    "src": "continues to recover from its 1992 visit from Iniki"
+   },
+   {
+    "e": "as + adj. + as ever",
+    "zh": "和以往一樣……",
+    "at": "p3",
+    "src": "Kauai remains as beautiful as ever"
+   },
+   {
+    "e": "thrive on + N",
+    "zh": "熱愛、在……中如魚得水",
+    "at": "p4",
+    "src": "people who thrive on crowds or nightlife"
+   },
+   {
+    "e": "have one's share of + N",
+    "zh": "也有不少……",
+    "at": "p4",
+    "src": "it does have its share of resort hotels"
+   },
+   {
+    "e": "lie outdoors",
+    "zh": "在戶外",
+    "at": "p4",
+    "src": "its main attractions lie outdoors"
+   }
   ]
  },
  {
@@ -74522,6 +74949,60 @@
     "zh": "分解、腐爛",
     "lv": 0,
     "at": "q49"
+   }
+  ],
+  "col": [
+   {
+    "e": "in ecological terms",
+    "zh": "從生態的角度來看",
+    "at": "p1"
+   },
+   {
+    "e": "take in + N",
+    "zh": "攝取……",
+    "at": "p1",
+    "src": "takes in as food"
+   },
+   {
+    "e": "waste matter",
+    "zh": "廢物",
+    "at": "p1"
+   },
+   {
+    "e": "break down A into B",
+    "zh": "把 A 分解成 B",
+    "at": "p1",
+    "src": "break down nature’s wastes into ever smaller pieces"
+   },
+   {
+    "e": "make + N + available to + N",
+    "zh": "讓……可以取得",
+    "at": "p1",
+    "src": "making them available to other living things"
+   },
+   {
+    "e": "die out",
+    "zh": "滅絕",
+    "at": "p1",
+    "src": "all plant life would die out"
+   },
+   {
+    "e": "give out + N",
+    "zh": "放出……",
+    "at": "p1",
+    "src": "the oxygen that plants give out"
+   },
+   {
+    "e": "grind to a halt",
+    "zh": "慢慢停擺",
+    "at": "p1",
+    "src": "life would grind to a halt"
+   },
+   {
+    "e": "a vital link",
+    "zh": "關鍵的一環",
+    "at": "p1",
+    "src": "The decomposers are a vital link"
    }
   ]
  },
@@ -75068,6 +75549,44 @@
     "lv": 0,
     "at": "p6"
    }
+  ],
+  "col": [
+   {
+    "e": "an estimated + 數量",
+    "zh": "估計有……",
+    "at": "p2",
+    "src": "An estimated 3,474 tons of confetti"
+   },
+   {
+    "e": "rain down",
+    "zh": "像下雨般落下",
+    "at": "p2",
+    "src": "rained down along a seven-mile route"
+   },
+   {
+    "e": "by … standards",
+    "zh": "以……的標準來看",
+    "at": "p3",
+    "src": "sparse by New York standards"
+   },
+   {
+    "e": "take + N + for granted",
+    "zh": "把……視為理所當然",
+    "at": "p5",
+    "src": "too many Americans take the achievements of the space program for granted"
+   },
+   {
+    "e": "look up",
+    "zh": "抬頭看",
+    "at": "p6",
+    "src": "You could hardly even look up"
+   },
+   {
+    "e": "be honored with + N",
+    "zh": "獲得……的殊榮",
+    "at": "p7",
+    "src": "honored with more than one ticker-tape parade"
+   }
   ]
  },
  {
@@ -75372,6 +75891,50 @@
     "lv": 0,
     "at": "q43"
    }
+  ],
+  "col": [
+   {
+    "e": "deliver an address",
+    "zh": "發表演說",
+    "at": "p1",
+    "src": "delivered the commencement address"
+   },
+   {
+    "e": "under one's own power",
+    "zh": "靠自己的動力",
+    "at": "p2",
+    "src": "arrived on the stage under its own power"
+   },
+   {
+    "e": "proceed to + V",
+    "zh": "接著……",
+    "at": "p2",
+    "src": "proceeded to tell the audience"
+   },
+   {
+    "e": "describe A as B",
+    "zh": "把 A 描述成 B",
+    "at": "p2",
+    "src": "The robot described itself as an extension of a person"
+   },
+   {
+    "e": "be followed by + N",
+    "zh": "接在後面的是……",
+    "at": "p3",
+    "src": "Robot Redford was followed by a person"
+   },
+   {
+    "e": "the need for + N",
+    "zh": "……的必要",
+    "at": "p3",
+    "src": "spoke about the need for cooperation"
+   },
+   {
+    "e": "controversy over + N",
+    "zh": "對……的爭議",
+    "at": "p4",
+    "src": "quite a bit of controversy over the choice of a robot"
+   }
   ]
  },
  {
@@ -75638,6 +76201,55 @@
     "pos": "n.",
     "zh": "航行",
     "lv": 5,
+    "at": "p1"
+   }
+  ],
+  "col": [
+   {
+    "e": "be accused of + V-ing",
+    "zh": "因為……招來指責",
+    "at": "p1",
+    "src": "Accused of neglecting this part of our education"
+   },
+   {
+    "e": "consist of + V-ing",
+    "zh": "包括……",
+    "at": "p1",
+    "src": "part of which consisted of tying several knots"
+   },
+   {
+    "e": "tie a knot",
+    "zh": "打結",
+    "at": "p1",
+    "src": "tying several knots"
+   },
+   {
+    "e": "be referred to as + N",
+    "zh": "稱為……",
+    "at": "p1",
+    "src": "what was grandly referred to as a cruise"
+   },
+   {
+    "e": "on board",
+    "zh": "在船上",
+    "at": "p1",
+    "src": "spending the night on board"
+   },
+   {
+    "e": "be loaded down with + N",
+    "zh": "裝滿了……",
+    "at": "p1",
+    "src": "loaded down … with enough food for a week"
+   },
+   {
+    "e": "plot a course",
+    "zh": "規畫航線",
+    "at": "p1",
+    "src": "to formally plot our course"
+   },
+   {
+    "e": "in the distance",
+    "zh": "在遠處",
     "at": "p1"
    }
   ]
@@ -76055,6 +76667,44 @@
     "zh": "（日、月）蝕（solar eclipse 日蝕）",
     "lv": 6,
     "at": "p10"
+   }
+  ],
+  "col": [
+   {
+    "e": "transform A into B",
+    "zh": "把 A 變成 B",
+    "at": "p1",
+    "src": "would transform the “city of light” into the “capital of light.”"
+   },
+   {
+    "e": "be made of + N",
+    "zh": "由……製成",
+    "at": "p3",
+    "src": "It will be made of timber"
+   },
+   {
+    "e": "be responsible for + N",
+    "zh": "負責……",
+    "at": "p3",
+    "src": "who were also responsible for the Europe section"
+   },
+   {
+    "e": "be topped with + N",
+    "zh": "頂端有……",
+    "at": "p4",
+    "src": "will be topped with a flower of five metal petals"
+   },
+   {
+    "e": "show off + N",
+    "zh": "展示……",
+    "at": "p8",
+    "src": "to show off its stained glass windows"
+   },
+   {
+    "e": "set up + N",
+    "zh": "設置……",
+    "at": "p10",
+    "src": "A giant egg-timer will be set up"
    }
   ]
  },
@@ -76505,6 +77155,38 @@
     "lv": 5,
     "at": "q43"
    }
+  ],
+  "col": [
+   {
+    "e": "dispose of + N",
+    "zh": "處理掉……",
+    "at": "p1",
+    "src": "how to dispose of the old items"
+   },
+   {
+    "e": "in response to + N",
+    "zh": "因應……",
+    "at": "p2",
+    "src": "in response to this situation"
+   },
+   {
+    "e": "household possessions",
+    "zh": "家當",
+    "at": "p3",
+    "src": "lost all their household possessions"
+   },
+   {
+    "e": "be worth + V-ing",
+    "zh": "值得……",
+    "at": "p4",
+    "src": "it is worth finding out"
+   },
+   {
+    "e": "make a difference to + N",
+    "zh": "對……有幫助、帶來改變",
+    "at": "p4",
+    "src": "can make such a difference to others"
+   }
   ]
  },
  {
@@ -76851,6 +77533,74 @@
     "zh": "推論、推斷",
     "lv": 6,
     "at": "q47"
+   }
+  ],
+  "col": [
+   {
+    "e": "set up a company",
+    "zh": "成立公司",
+    "at": "p1",
+    "src": "set up a company called"
+   },
+   {
+    "e": "give + N + to charity",
+    "zh": "把……捐給慈善機構",
+    "at": "p1",
+    "src": "give all the money they earn to charity"
+   },
+   {
+    "e": "no matter how + adj.",
+    "zh": "不管多麼……",
+    "at": "p1",
+    "src": "no matter how precious the data on the disk is"
+   },
+   {
+    "e": "a blank check",
+    "zh": "空白支票",
+    "at": "p1",
+    "src": "even sent him a blank check"
+   },
+   {
+    "e": "put a value on + N",
+    "zh": "替……估價",
+    "at": "p2",
+    "src": "It would be difficult to put a value on the things rescued"
+   },
+   {
+    "e": "in person",
+    "zh": "親自",
+    "at": "p2",
+    "src": "Jack had to go in person to Thatcher's office"
+   },
+   {
+    "e": "for security reasons",
+    "zh": "基於安全考量",
+    "at": "p2",
+    "src": "‘for security reasons’"
+   },
+   {
+    "e": "by post",
+    "zh": "用郵寄",
+    "at": "p3",
+    "src": "Disks are usually sent to the Disk Doctor by post"
+   },
+   {
+    "e": "be in a hurry",
+    "zh": "很趕",
+    "at": "p3",
+    "src": "people are in such a hurry"
+   },
+   {
+    "e": "save + sb + from + N",
+    "zh": "讓某人免於……",
+    "at": "p3",
+    "src": "Jack saved me from a heart attack"
+   },
+   {
+    "e": "take notice of + N",
+    "zh": "注意……",
+    "at": "p3",
+    "src": "most people don’t take any notice of the doctor’s advice"
    }
   ]
  },
@@ -77258,6 +78008,62 @@
     "lv": 0,
     "at": "p2"
    }
+  ],
+  "col": [
+   {
+    "e": "exchange looks",
+    "zh": "互相看一眼",
+    "at": "p1",
+    "src": "they exchange looks, feelings, thoughts, ideas, and energy"
+   },
+   {
+    "e": "interact with + N",
+    "zh": "和……互動",
+    "at": "p1",
+    "src": "how they interact with each other"
+   },
+   {
+    "e": "establish a relationship",
+    "zh": "建立關係",
+    "at": "p1",
+    "src": "will want to establish lasting relationships"
+   },
+   {
+    "e": "a building block",
+    "zh": "基本的構成要素",
+    "at": "p2",
+    "src": "As the key building block for enduring relationships"
+   },
+   {
+    "e": "get to know + sb",
+    "zh": "逐漸認識某人",
+    "at": "p2",
+    "src": "as two persons get to know each other"
+   },
+   {
+    "e": "open one's heart",
+    "zh": "敞開心胸",
+    "at": "p2",
+    "src": "experience safety in opening their hearts"
+   },
+   {
+    "e": "be limited to + N",
+    "zh": "只限於……",
+    "at": "p2",
+    "src": "intimacy is often limited to the sexual bond"
+   },
+   {
+    "e": "heart to heart",
+    "zh": "以心交心",
+    "at": "p2",
+    "src": "by relating heart to heart"
+   },
+   {
+    "e": "enable + sb + to + V",
+    "zh": "讓某人能夠……",
+    "at": "p2",
+    "src": "intimacy enables us to thrive and grow"
+   }
   ]
  },
  {
@@ -77511,6 +78317,32 @@
     "lv": 0,
     "at": "p5"
    }
+  ],
+  "col": [
+   {
+    "e": "break down",
+    "zh": "故障",
+    "at": "p1",
+    "src": "after their sailboat broke down"
+   },
+   {
+    "e": "on the high seas",
+    "zh": "在公海上",
+    "at": "p3",
+    "src": "by strong winds on the high seas"
+   },
+   {
+    "e": "be torn into shreds",
+    "zh": "撕成碎片",
+    "at": "p5",
+    "src": "the rear sail was torn into shreds"
+   },
+   {
+    "e": "set off",
+    "zh": "出發",
+    "at": "p7",
+    "src": "when the Vladimirs will be able to set off again"
+   }
   ]
  },
  {
@@ -77690,6 +78522,32 @@
     "zh": "未刪節的、完整的（unabridged dictionary 大部頭的完整版字典）",
     "lv": 0,
     "at": "p4"
+   }
+  ],
+  "col": [
+   {
+    "e": "be accepted at + 學校",
+    "zh": "獲……錄取",
+    "at": "p3",
+    "src": "been accepted at Taipei University"
+   },
+   {
+    "e": "be proud of + sb",
+    "zh": "以某人為榮",
+    "at": "p4",
+    "src": "We are both very proud of you"
+   },
+   {
+    "e": "take a few days off",
+    "zh": "請幾天假",
+    "at": "p5",
+    "src": "try to take a few days off"
+   },
+   {
+    "e": "look forward to + V-ing",
+    "zh": "期待……",
+    "at": "p5",
+    "src": "We are looking forward to seeing you"
    }
   ]
  },
@@ -78091,6 +78949,36 @@
     "zh": "有效的",
     "lv": 5,
     "at": "q44"
+   }
+  ],
+  "col": [
+   {
+    "e": "generally speaking",
+    "zh": "一般來說",
+    "at": "p1"
+   },
+   {
+    "e": "apply for + N",
+    "zh": "申請……",
+    "at": "p1",
+    "src": "should apply for entry visas"
+   },
+   {
+    "e": "as of + 日期",
+    "zh": "從……起",
+    "at": "p2",
+    "src": "As of May 1, 1995"
+   },
+   {
+    "e": "be exempted from + V-ing",
+    "zh": "可以免……",
+    "at": "p2",
+    "src": "are exempted from securing visas"
+   },
+   {
+    "e": "in the meantime",
+    "zh": "在這段期間",
+    "at": "p3"
    }
   ]
  },
@@ -78539,6 +79427,55 @@
     "lv": 5,
     "at": "q48"
    }
+  ],
+  "col": [
+   {
+    "e": "make progress",
+    "zh": "有進展",
+    "at": "p1",
+    "src": "they have made some progress"
+   },
+   {
+    "e": "be responsible for + N",
+    "zh": "負責……",
+    "at": "p1",
+    "src": "certain parts of the brain are responsible for learning, memory, and language"
+   },
+   {
+    "e": "play an important role in + N",
+    "zh": "在……扮演重要角色",
+    "at": "p2",
+    "src": "play extremely important roles in learning and communicating"
+   },
+   {
+    "e": "deal with + N",
+    "zh": "處理……",
+    "at": "p2",
+    "src": "The left hemisphere deals with rules"
+   },
+   {
+    "e": "short-term memory",
+    "zh": "短期記憶",
+    "at": "p2"
+   },
+   {
+    "e": "relate A to B",
+    "zh": "把 A 和 B 連在一起",
+    "at": "p3",
+    "src": "relate left and right hemispheres to the way different individuals learn languages"
+   },
+   {
+    "e": "concentrate on + V-ing",
+    "zh": "專注在……",
+    "at": "p3",
+    "src": "concentrate on memorizing rules and lists"
+   },
+   {
+    "e": "fall into + N",
+    "zh": "屬於（某一類）",
+    "at": "p3",
+    "src": "Most people fall into one of these types"
+   }
   ]
  },
  {
@@ -78949,6 +79886,37 @@
     "lv": 0,
     "at": "q43"
    }
+  ],
+  "col": [
+   {
+    "e": "break into + N",
+    "zh": "侵入……",
+    "at": "p1",
+    "src": "Breaking into the computer codes"
+   },
+   {
+    "e": "break a code",
+    "zh": "破解密碼",
+    "at": "p2",
+    "src": "someone who can break computer codes"
+   },
+   {
+    "e": "at the moment",
+    "zh": "目前",
+    "at": "p2"
+   },
+   {
+    "e": "How long will it be before + 子句?",
+    "zh": "還要多久……就會……？",
+    "at": "p2",
+    "src": "how long will it be before criminal gangs … start to use computer experts"
+   },
+   {
+    "e": "blow open + N",
+    "zh": "炸開……",
+    "at": "p2",
+    "src": "to blow open bank safes"
+   }
   ]
  },
  {
@@ -79240,6 +80208,55 @@
     "zh": "證實、查證",
     "lv": 0,
     "at": "q46"
+   }
+  ],
+  "col": [
+   {
+    "e": "scientific evidence",
+    "zh": "科學證據",
+    "at": "p1",
+    "src": "There is increasing scientific evidence"
+   },
+   {
+    "e": "die of + N",
+    "zh": "死於……",
+    "at": "p1",
+    "src": "a woman who died of a heart attack"
+   },
+   {
+    "e": "result in + N",
+    "zh": "造成……",
+    "at": "p1",
+    "src": "resulting in a collision in which five people died"
+   },
+   {
+    "e": "be attributable to + N",
+    "zh": "可歸因於……",
+    "at": "p1",
+    "src": "Those unnecessary deaths are attributable in part to the woman's choice"
+   },
+   {
+    "e": "in part",
+    "zh": "部分地",
+    "at": "p1"
+   },
+   {
+    "e": "reduce the chances of + N",
+    "zh": "降低……的可能",
+    "at": "p1",
+    "src": "would have reduced the chances of serious injury or death"
+   },
+   {
+    "e": "be responsible for + N",
+    "zh": "是造成……的原因",
+    "at": "p1",
+    "src": "is largely responsible not only for increasing death toll"
+   },
+   {
+    "e": "death toll",
+    "zh": "死亡人數",
+    "at": "p1",
+    "src": "increasing death toll on the highways"
    }
   ]
  },
@@ -79584,6 +80601,43 @@
     "lv": 0,
     "at": "q50"
    }
+  ],
+  "col": [
+   {
+    "e": "swim ashore",
+    "zh": "游上岸",
+    "at": "p2",
+    "src": "As many as 60 pilot whales swam ashore"
+   },
+   {
+    "e": "as many as + 數字",
+    "zh": "多達……",
+    "at": "p2"
+   },
+   {
+    "e": "on one's own",
+    "zh": "獨自",
+    "at": "p2",
+    "src": "too young to survive on their own"
+   },
+   {
+    "e": "be accustomed to + N",
+    "zh": "習慣……",
+    "at": "p3",
+    "src": "would not become too accustomed to human beings"
+   },
+   {
+    "e": "be pronounced + adj.",
+    "zh": "經判定是……",
+    "at": "p4",
+    "src": "the three whales were pronounced fit enough"
+   },
+   {
+    "e": "set + N + free",
+    "zh": "釋放……",
+    "at": "p4",
+    "src": "from where they had been set free"
+   }
   ]
  },
  {
@@ -79720,6 +80774,68 @@
     "zh": "獲得者、領受的人",
     "lv": 5,
     "at": "q33"
+   }
+  ],
+  "col": [
+   {
+    "e": "stand by",
+    "zh": "袖手旁觀",
+    "at": "p1",
+    "src": "while others may stand by"
+   },
+   {
+    "e": "be rewarded for + N",
+    "zh": "因……獲得獎勵",
+    "at": "p2",
+    "src": "heroes are rewarded for their brave acts"
+   },
+   {
+    "e": "face danger",
+    "zh": "面對危險",
+    "at": "p2",
+    "src": "face danger to save the lives of others"
+   },
+   {
+    "e": "be named after + sb",
+    "zh": "以某人命名",
+    "at": "p3",
+    "src": "The medal was named after Andrew Carnegie"
+   },
+   {
+    "e": "lose one's life",
+    "zh": "喪命",
+    "at": "p3",
+    "src": "who lost his life trying to save two other boys"
+   },
+   {
+    "e": "save + sb + from + V-ing",
+    "zh": "救某人免於……",
+    "at": "p3",
+    "src": "to save two other boys from drowning"
+   },
+   {
+    "e": "set aside + N",
+    "zh": "撥出（錢、時間）",
+    "at": "p3",
+    "src": "set aside money to honor heroes"
+   },
+   {
+    "e": "be in need",
+    "zh": "有困難、需要幫助",
+    "at": "p3",
+    "src": "Sometimes these heroes are in need"
+   },
+   {
+    "e": "have + N + in common",
+    "zh": "有……共同點",
+    "at": "p4",
+    "src": "All these heroes have one thing in common"
+   },
+   {
+    "e": "put A ahead of B",
+    "zh": "把 A 放在 B 前面",
+    "at": "p4",
+    "src": "They put someone else's safety ahead of their own"
    }
   ]
  },
@@ -80036,7 +81152,63 @@
     ]
    }
   ],
-  "vocab": []
+  "vocab": [],
+  "col": [
+   {
+    "e": "take the elevator",
+    "zh": "搭電梯",
+    "at": "p1",
+    "src": "He did not take the elevator"
+   },
+   {
+    "e": "ask + sb + for + N",
+    "zh": "向某人要……",
+    "at": "p2",
+    "src": "asked him for his autograph"
+   },
+   {
+    "e": "charge + sb + with + N",
+    "zh": "控告某人……",
+    "at": "p2",
+    "src": "charged him with violation of law"
+   },
+   {
+    "e": "sue + sb + for + 金額",
+    "zh": "向某人求償……",
+    "at": "p2",
+    "src": "to sue him for a quarter of a million dollars"
+   },
+   {
+    "e": "host a news conference",
+    "zh": "召開記者會",
+    "at": "p3",
+    "src": "hosted a news conference"
+   },
+   {
+    "e": "turn into + N",
+    "zh": "變成……",
+    "at": "p3",
+    "src": "turned into a ceremony"
+   },
+   {
+    "e": "in one's honor",
+    "zh": "為了向某人致敬",
+    "at": "p3",
+    "src": "in George Willig's honor"
+   },
+   {
+    "e": "be fined + 金額",
+    "zh": "罰款……",
+    "at": "p3",
+    "src": "he would be fined a penny for each of the 110 floors"
+   },
+   {
+    "e": "meet the challenge",
+    "zh": "迎接挑戰",
+    "at": "p3",
+    "src": "met the challenge"
+   }
+  ]
  },
  {
   "id": "g83p3",
@@ -80218,6 +81390,43 @@
     "zh": "可移動的（movable type 活字）",
     "lv": 0,
     "at": "p3"
+   }
+  ],
+  "col": [
+   {
+    "e": "means of communication",
+    "zh": "溝通的工具",
+    "at": "p1",
+    "src": "one of the most important means of communication"
+   },
+   {
+    "e": "one … at a time",
+    "zh": "一次一個……",
+    "at": "p2",
+    "src": "one letter at a time"
+   },
+   {
+    "e": "by hand",
+    "zh": "用手、手工",
+    "at": "p2"
+   },
+   {
+    "e": "a step forward",
+    "zh": "一大進步",
+    "at": "p3",
+    "src": "A great step forward"
+   },
+   {
+    "e": "take + N + apart",
+    "zh": "把……拆開",
+    "at": "p3",
+    "src": "the letters could be taken apart"
+   },
+   {
+    "e": "establish a printing press",
+    "zh": "成立印刷廠",
+    "at": "p4",
+    "src": "established a printing press at Westminster"
    }
   ]
  }
