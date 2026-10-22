@@ -17,13 +17,13 @@ h1{font-family:'Noto Serif TC',serif; font-size:21px; line-height:1.5; margin:0 
 h2{font-family:'Noto Serif TC',serif; font-size:17px; margin:0 0 12px;
   padding-bottom:8px; border-bottom:1px dashed var(--rule);}
 .badge{display:inline-block; font-family:'Noto Sans TC',sans-serif; font-size:11px; line-height:1.5;
-  border:1px solid var(--crimson); color:var(--crimson); background:#fff; border-radius:3px;
+  border:1px solid var(--crimson); color:var(--crimson); background:var(--surface); border-radius:3px;
   padding:0 6px; margin-left:6px; white-space:nowrap; vertical-align:3px; font-weight:400;}
 .ptitle{font-size:13.5px; color:var(--ink-soft); margin-bottom:10px;}
 .tags{display:flex; flex-wrap:wrap; gap:6px; margin-bottom:12px;}
-.tag{font-size:12px; padding:2px 9px; border-radius:11px; background:#F3EFE0; color:var(--ink-soft);}
+.tag{font-size:12px; padding:2px 9px; border-radius:11px; background:var(--tint-chip); color:var(--ink-soft);}
 .hint{font-size:12.5px; color:var(--ink-soft); line-height:1.8; margin:0;}
-.flagNote{font-size:13px; line-height:1.85; background:#FFFBEA; border-left:3px solid var(--gold);
+.flagNote{font-size:13px; line-height:1.85; background:var(--tint-note); border-left:3px solid var(--gold);
   padding:8px 12px; border-radius:2px; margin-bottom:12px;}
 .twinLinks{display:flex; flex-wrap:wrap; gap:10px; margin-top:6px;}
 .passage p{margin:0 0 14px; font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif','Noto Sans TC',serif;
@@ -36,23 +36,23 @@ figure.fig figcaption{font-size:11.5px; color:var(--ink-soft); margin-top:6px; l
 .stem{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif','Noto Sans TC',serif;
   font-size:15px; line-height:1.85; margin:0 0 8px;}
 .stem .qn{font-weight:700; color:var(--crimson); margin-right:6px;}
-.stem .ins{display:block; margin-top:8px; padding:8px 12px; background:#F3EFE0; border-left:3px solid var(--gold); border-radius:2px;}
+.stem .ins{display:block; margin-top:8px; padding:8px 12px; background:var(--tint-chip); border-left:3px solid var(--gold); border-radius:2px;}
 .opts{list-style:none; margin:0; padding:0;}
 .opts li{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif','Noto Sans TC',serif;
   font-size:14.5px; line-height:1.8; padding:6px 11px; margin-bottom:5px;
-  border-left:3px solid var(--rule); border-radius:2px; background:#fff;}
+  border-left:3px solid var(--rule); border-radius:2px; background:var(--surface);}
 .opts .k{font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-weight:600; color:var(--crimson); margin-right:7px;}
 .ansBox summary{cursor:pointer; font-weight:700; font-size:15.5px; color:var(--crimson);}
 .ansBox .inner{margin-top:14px;}
 .ansTable{width:100%; border-collapse:collapse; font-size:13.5px; line-height:1.7; margin:0 0 8px;}
 .ansTable th,.ansTable td{border:1px solid var(--rule); padding:5px 8px; text-align:center;}
-.ansTable th{background:#F3EFE0;}
+.ansTable th{background:var(--tint-chip);}
 .ansTable td.n{font-family:'IBM Plex Mono','Noto Sans TC',monospace;}
-.anote{font-size:13px; line-height:1.8; background:#FFFBEA; border-left:3px solid var(--gold); padding:6px 10px; margin:0 0 8px;}
+.anote{font-size:13px; line-height:1.8; background:var(--tint-note); border-left:3px solid var(--gold); padding:6px 10px; margin:0 0 8px;}
 .src{font-size:12px; color:var(--ink-soft); line-height:1.8; margin:0 0 14px;}
 .pending{font-size:12.5px; color:var(--ink-soft); margin:12px 0 0;}
 /* 文章結構：與互動練習交卷後的區塊相同 */
-.stBox{border:1px solid var(--rule); border-left:3px solid var(--sage); border-radius:3px; background:#F7FAF5; padding:12px 14px;}
+.stBox{border:1px solid var(--rule); border-left:3px solid var(--sage); border-radius:3px; background:var(--tint-sage7); padding:12px 14px;}
 .stHead{font-family:'Noto Serif TC',serif; font-weight:700; font-size:15.5px; margin-bottom:8px;}
 .stRow{display:flex; gap:10px; font-size:13.5px; line-height:1.8; padding:4px 0; border-bottom:1px dotted var(--rule);}
 .stRow .k{flex:0 0 76px; font-weight:700; color:var(--sage);}
@@ -62,7 +62,7 @@ figure.fig figcaption{font-size:11.5px; color:var(--ink-soft); margin-top:6px; l
 .cueRow{margin-top:6px;}
 .cueRow .stLink{margin-left:0;}
 .trList{display:flex; flex-wrap:wrap; gap:5px;}
-.trw{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:13.5px; background:#fff;
+.trw{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:13.5px; background:var(--surface);
   border:1px solid var(--rule); border-radius:3px; padding:0 6px; line-height:1.7;}
 .stSub{font-weight:700; font-size:13.5px; color:var(--sage); margin:10px 0 4px;}
 .stOutline{margin:0; padding-left:22px; font-size:14px; line-height:1.9;}
@@ -94,9 +94,9 @@ footer .fl{font-size:13px; margin-bottom:12px; font-weight:700;}
 .evItem{border-top:1px dashed var(--rule); padding-top:8px; margin-bottom:10px;}
 .evN{font-weight:700; font-size:13.5px; color:var(--crimson); margin-bottom:4px;}
 .evq{margin:0 0 6px; font-size:14px; line-height:1.85;}
-.evq mark{background:#FFF2A8; font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:15px; padding:1px 0;}
-.evAll{display:inline-block; font-size:13px; font-weight:700; background:#FFF2A8; border:1px solid var(--gold); border-radius:3px; padding:0 8px; margin-right:8px;}
-.anBox{font-size:13.5px; line-height:1.85; background:#FBF9F2; border:1px solid var(--rule); border-left:3px solid var(--sage); border-radius:2px; padding:8px 12px; margin:6px 0 4px;}
+.evq mark{background:var(--hl-topic); font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:15px; padding:1px 0;}
+.evAll{display:inline-block; font-size:13px; font-weight:700; background:var(--hl-topic); border:1px solid var(--gold); border-radius:3px; padding:0 8px; margin-right:8px;}
+.anBox{font-size:13.5px; line-height:1.85; background:var(--tint-warm3); border:1px solid var(--rule); border-left:3px solid var(--sage); border-radius:2px; padding:8px 12px; margin:6px 0 4px;}
 .anHead{font-size:12px; font-weight:700; color:var(--sage);}
 .anMap{margin:1px 0;}
 .anMap .o,.anMap .q{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:14.5px; font-weight:700;}
@@ -110,9 +110,9 @@ footer .fl{font-size:13px; margin-bottom:12px; font-weight:700;}
 .citeH{display:inline-block; font-size:11.5px; font-weight:700; color:var(--sage); border:1px solid var(--sage); border-radius:3px; padding:0 5px; margin-right:6px;}
 .citeBox a{color:var(--crimson);}
 /* 全文中心思想與段落主旨句 */
-.msT,.msB{background:#BEE0F5; padding:1px 0;}
+.msT,.msB{background:var(--hl-main); padding:1px 0;}
 .msS,.msB{text-decoration:underline; text-decoration-color:var(--ink); text-decoration-thickness:1.5px; text-underline-offset:5px; text-decoration-skip-ink:none;}
-.msLegend{font-size:12.5px; line-height:1.8; color:var(--ink-soft); border:1px solid var(--rule); border-radius:3px; background:#F8FBFD; padding:8px 12px; margin:0 0 10px;}
+.msLegend{font-size:12.5px; line-height:1.8; color:var(--ink-soft); border:1px solid var(--rule); border-radius:3px; background:var(--tint-blue); padding:8px 12px; margin:0 0 10px;}
 .msKeys{font-size:13px; color:var(--ink); margin-bottom:2px;}
 .msKeys span{padding:0 4px;}
 .msq{margin:0 0 6px; font-size:14px; line-height:1.95;}
@@ -131,7 +131,7 @@ footer .fl{font-size:13px; margin-bottom:12px; font-weight:700;}
 .vbKK{font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:12.5px; color:var(--ink-soft);}
 .vbZh{flex:1 1 9em; min-width:0;}
 .vbMeta{margin-left:auto; font-size:11.5px; color:var(--ink-soft); white-space:nowrap;}
-.vbLv{display:inline-block; border:1px solid var(--rule); border-radius:10px; padding:0 7px; margin-right:6px; background:#fff;}
+.vbLv{display:inline-block; border:1px solid var(--rule); border-radius:10px; padding:0 7px; margin-right:6px; background:var(--surface);}
 .vbLv.off{border-color:var(--gold); color:var(--gold);}
 .vbNone{font-size:13.5px; line-height:1.7; margin:4px 0 2px;}
 .vbHd{font-size:13.5px; color:var(--gold); margin:12px 0 2px; padding-top:8px; border-top:1px solid var(--rule);}
@@ -141,4 +141,12 @@ footer .fl{font-size:13px; margin-bottom:12px; font-weight:700;}
 /* 防盜用措施（2026-10-14）：畫面浮水印、列印浮水印、頁尾授權聲明 */
 @media screen{body::before{content:"";position:fixed;top:0;left:0;right:0;bottom:0;z-index:2147483000;pointer-events:none;background-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22460%22%20height%3D%22240%22%3E%3Cg%20transform%3D%22rotate%28-20%20230%20120%29%22%20font-family%3D%22Noto%20Sans%20TC%2Csans-serif%22%20fill%3D%22%23D9A400%22%20fill-opacity%3D%22.2%22%20text-anchor%3D%22middle%22%3E%3Ctext%20x%3D%22230%22%20y%3D%22112%22%20font-size%3D%2220%22%3E%E9%96%B1%E8%AE%80%E6%B8%AC%E9%A9%97%3C%2Ftext%3E%3Ctext%20x%3D%22230%22%20y%3D%22140%22%20font-size%3D%2214%22%3Estaresto-create.github.io%2Freading-comprehension%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E");background-repeat:repeat;}}
 @media print{body::after{content:"閱讀測驗\A staresto-create.github.io/reading-comprehension\A 免費資源，請勿販售";white-space:pre;position:fixed;top:42%;left:0;right:0;text-align:center;transform:rotate(-25deg);font-family:"Noto Sans TC",sans-serif;font-size:26pt;line-height:1.7;color:#c8c8c8;z-index:2147483000;pointer-events:none;}}
-footer::after{display:block;margin-top:10px;font-size:12px;line-height:1.8;color:#8a8278;content:"本題庫自己寫的部分（解析、中譯、分類、標註與編排）採用 CC BY-NC 4.0（姓名標示─非商業性）授權：可以分享，但須註明出處，不得用於商業用途。授權條款：creativecommons.org/licenses/by-nc/4.0/";}
+footer::after{display:block;margin-top:10px;font-size:12px;line-height:1.8;color:var(--foot-note);content:"本題庫自己寫的部分（解析、中譯、分類、標註與編排）採用 CC BY-NC 4.0（姓名標示─非商業性）授權：可以分享，但須註明出處，不得用於商業用途。授權條款：creativecommons.org/licenses/by-nc/4.0/";}
+
+/* 深色模式（2026-10-22）：淺色數值與原本寫死的顏色相同；只在螢幕、手機或電腦設成深色外觀時生效，列印不受影響。 */
+:root{--foot-note:#8a8278;--hl-main:#BEE0F5;--hl-topic:#FFF2A8;--surface:#fff;--tint-blue:#F8FBFD;--tint-chip:#F3EFE0;--tint-note:#FFFBEA;--tint-sage7:#F7FAF5;--tint-warm3:#FBF9F2;color-scheme:light}
+@media screen and (prefers-color-scheme: dark){
+ :root{--paper:#1B1916;--paper-card:#26231F;--ink:#EDE7D8;--ink-soft:#B8B0A0;--rule:#4C463B;--crimson:#E57B68;--sage:#82C09C;--gold:#DDA94F;--foot-note:#A29A8B;--hl-main:#233F5B;--hl-topic:#463C14;--surface:#2D2A25;--tint-blue:#1F2A35;--tint-chip:#302C24;--tint-note:#342C18;--tint-sage7:#1F2D25;--tint-warm3:#2B2823;--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.35);color-scheme:dark}
+ footer a{color:var(--crimson) !important}
+}
+

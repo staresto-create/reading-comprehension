@@ -30,8 +30,8 @@
 .sec ul{margin:0 0 10px; padding-left:20px;}
 .sec li{margin-bottom:4px;}
 .sec [lang="en"]{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:15px;}
-.cue{display:inline-block; font-family:'Times New Roman',Times,'Liberation Serif',serif; font-size:14.5px; background:#fff; border:1px solid var(--rule); border-radius:3px; padding:0 6px; line-height:1.7;}
-.mix{background:#F7FAF5; border:1px solid var(--rule); border-left:3px solid var(--sage); border-radius:2px; padding:8px 12px; margin:0 0 10px;}
+.cue{display:inline-block; font-family:'Times New Roman',Times,'Liberation Serif',serif; font-size:14.5px; background:var(--surface); border:1px solid var(--rule); border-radius:3px; padding:0 6px; line-height:1.7;}
+.mix{background:var(--tint-sage7); border:1px solid var(--rule); border-left:3px solid var(--sage); border-radius:2px; padding:8px 12px; margin:0 0 10px;}
 .mix p:last-child{margin-bottom:0;}
 .mix b{color:var(--sage);}
 figure.go{margin:6px 0 12px; text-align:center;}
@@ -49,6 +49,14 @@ figure.go figcaption{font-size:12px; color:var(--ink-soft); margin-top:6px; line
 .practice .btn:focus-visible{outline:2px solid var(--ink); outline-offset:2px;}
 .wip{font-size:13.5px; color:var(--ink-soft);}
 .ref{font-size:12.5px; color:var(--ink-soft); line-height:1.85;}
+
+/* 深色模式（2026-10-22）：淺色數值與原本寫死的顏色相同；只在螢幕、手機或電腦設成深色外觀時生效，列印不受影響。 */
+:root{--surface:#fff;--tint-sage7:#F7FAF5;color-scheme:light}
+@media screen and (prefers-color-scheme: dark){
+ :root{--paper:#1B1916;--paper-card:#26231F;--ink:#EDE7D8;--ink-soft:#B8B0A0;--rule:#4C463B;--crimson:#E57B68;--sage:#82C09C;--gold:#DDA94F;--surface:#2D2A25;--tint-sage7:#1F2D25;--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.35);color-scheme:dark}
+ footer a{color:var(--crimson) !important}
+}
+
 </style>
 </head>
 <body>

@@ -44,11 +44,11 @@
   *{box-sizing:border-box;}
   html,body{margin:0;padding:0;}
   body{
-    background: var(--paper);
+    background:var(--paper);
     background-image:
-      radial-gradient(circle at 100% 0%, rgba(174,54,38,.05), transparent 40%),
-      repeating-linear-gradient(0deg, rgba(34,31,26,0.025) 0px, rgba(34,31,26,0.025) 1px, transparent 1px, transparent 34px);
-    color: var(--ink); font-family:'Noto Sans TC', sans-serif;
+      radial-gradient(circle at 100% 0%, var(--glow), transparent 40%),
+      repeating-linear-gradient(0deg, var(--grid-line) 0px, var(--grid-line) 1px, transparent 1px, transparent 34px);
+    color:var(--ink); font-family:'Noto Sans TC', sans-serif;
     -webkit-font-smoothing:antialiased; min-height:100vh; padding:32px 16px 60px;
   }
   .wrap{max-width:820px; width:100%; margin:0 auto;}
@@ -64,11 +64,11 @@
   .sec-note{font-weight:400; text-transform:none; letter-spacing:0; font-size:11px; margin-left:6px; color:var(--ink-soft);}
 
   .cat-grid{display:flex; flex-wrap:wrap; gap:8px; margin-bottom:6px;}
-  .chip{border:1.5px solid var(--rule); border-radius:20px; padding:6px 14px; font-size:13px; cursor:pointer; background:#fff; user-select:none;}
+  .chip{border:1.5px solid var(--rule); border-radius:20px; padding:6px 14px; font-size:13px; cursor:pointer; background:var(--surface); user-select:none;}
   .chip:hover{border-color:var(--ink);}
   .chip.active{border-color:var(--crimson); background:var(--crimson); color:#fff;}
 
-  details.sk-box{border:1px solid var(--rule); border-radius:4px; background:#fff; padding:12px 15px; margin-bottom:10px;}
+  details.sk-box{border:1px solid var(--rule); border-radius:4px; background:var(--surface); padding:12px 15px; margin-bottom:10px;}
   details.sk-box summary{cursor:pointer; list-style:none;}
   details.sk-box summary::-webkit-details-marker{display:none;}
   .sk-title{font-family:'Noto Serif TC',serif; font-weight:700; font-size:14.5px; display:inline;}
@@ -78,7 +78,7 @@
   details.sk-box b{color:var(--ink);}
 
   /* 線索數據列表 */
-  .cueList{border:1px solid var(--rule); border-radius:3px; background:#fff; padding:3px 11px; margin:9px 0 10px;}
+  .cueList{border:1px solid var(--rule); border-radius:3px; background:var(--surface); padding:3px 11px; margin:9px 0 10px;}
   .cueRow{display:flex; justify-content:space-between; align-items:baseline; gap:12px; padding:6px 2px; border-bottom:1px dashed var(--rule); font-size:13px;}
   .cueRow:last-child{border-bottom:none;}
   .cueRow .pct{font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:12.5px; color:var(--ink-soft); white-space:nowrap;}
@@ -89,7 +89,7 @@
   .cueRow.sub{padding-left:15px; font-size:12.5px;}
 
   .stats-box{display:flex; gap:10px; flex-wrap:wrap;}
-  .stat-pill{flex:1; min-width:96px; border:1px solid var(--rule); border-radius:4px; background:#fff; padding:11px 6px; text-align:center;}
+  .stat-pill{flex:1; min-width:96px; border:1px solid var(--rule); border-radius:4px; background:var(--surface); padding:11px 6px; text-align:center;}
   .stat-pill .num{font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-weight:600; font-size:20px;}
   .stat-pill .lbl{font-size:11px; color:var(--ink-soft); margin-top:2px;}
   .stats-actions{display:flex; flex-wrap:wrap; gap:6px; margin:10px 0 4px;}
@@ -98,24 +98,24 @@
      顏色不能單獨當可點訊號。「← 回選單」另有箭頭作訊號，不加底線。 */
   .link-btn{background:none; border:none; color:var(--crimson); font-size:12.5px; cursor:pointer; padding:4px 6px; font-family:inherit; text-decoration:underline; text-underline-offset:2px;}
 
-  .year-list{max-height:260px; overflow-y:auto; border:1px solid var(--rule); border-radius:4px; padding:10px; background:#fff;}
+  .year-list{max-height:260px; overflow-y:auto; border:1px solid var(--rule); border-radius:4px; padding:10px; background:var(--surface);}
   .year-item{display:flex; justify-content:space-between; align-items:center; gap:10px; padding:8px 6px; font-size:13.5px; border-bottom:1px dashed var(--rule); cursor:pointer;}
   .year-item:last-child{border-bottom:none;}
-  .year-item:hover{background:#FBF7EC;}
-  .year-item.sel{background:#FBF1EE;}
+  .year-item:hover{background:var(--tint-warm4);}
+  .year-item.sel{background:var(--tint-crimson);}
   .year-item .cnt{color:var(--ink-soft); font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:11.5px; white-space:nowrap;}
 
   .big-btn{
     display:block; width:100%; text-align:center; cursor:pointer;
-    background: var(--ink); color: var(--paper-card);
+    background:var(--ink); color:var(--paper-card);
     font-family:'Noto Serif TC',serif; font-weight:700; font-size:19px;
     padding:16px; border:none; border-radius:3px; letter-spacing:.06em;
     transition: transform .12s ease, background .15s ease; margin-top:20px;
   }
-  .big-btn:hover{background:#000; transform: translateY(-1px);}
+  .big-btn:hover{background:var(--btn-hover); transform: translateY(-1px);}
   .big-btn:disabled{opacity:.4; cursor:not-allowed; transform:none;}
-  .ghost-btn{padding:11px 16px; border-radius:4px; border:1.5px solid var(--ink); background:#fff; color:var(--ink); font-family:'Noto Serif TC',serif; font-weight:700; font-size:14px; cursor:pointer;}
-  .ghost-btn:hover{background:var(--ink); color:#fff;}
+  .ghost-btn{padding:11px 16px; border-radius:4px; border:1.5px solid var(--ink); background:var(--surface); color:var(--ink); font-family:'Noto Serif TC',serif; font-weight:700; font-size:14px; cursor:pointer;}
+  .ghost-btn:hover{background:var(--ink); color:var(--on-ink);}
   .row{display:flex; gap:10px; flex-wrap:wrap;}
 
   .backLink{display:inline-block; color:var(--crimson); font-size:13px; cursor:pointer; margin-bottom:12px;}
@@ -124,31 +124,31 @@
   /* 練習區 */
   .pTitle{font-family:'Noto Serif TC',serif; font-weight:700; font-size:17px; margin-bottom:6px;}
   .tagRow{display:flex; flex-wrap:wrap; gap:6px; margin-bottom:14px;}
-  .catTag{font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:11px; border:1px solid var(--rule); border-radius:3px; padding:3px 8px; color:var(--ink-soft); background:#fff;}
+  .catTag{font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:11px; border:1px solid var(--rule); border-radius:3px; padding:3px 8px; color:var(--ink-soft); background:var(--surface);}
   .catTag.primary{border-color:var(--crimson); color:var(--crimson);}
-  .flagNote{font-size:12.5px; line-height:1.75; color:var(--ink-soft); background:#FFFBEA; border-left:3px solid var(--gold); padding:9px 12px; border-radius:2px; margin-bottom:14px;}
+  .flagNote{font-size:12.5px; line-height:1.75; color:var(--ink-soft); background:var(--tint-note); border-left:3px solid var(--gold); padding:9px 12px; border-radius:2px; margin-bottom:14px;}
 
   .passage{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif','Noto Sans TC',sans-serif; font-size:15.5px; line-height:2.1; margin-bottom:18px;}
   .passage p{margin:0 0 15px;}
   .optList{border-top:1px solid var(--rule); padding-top:14px;}
-  .optRow{display:flex; gap:10px; align-items:flex-start; padding:9px 10px; border:1px solid var(--rule); border-radius:4px; background:#fff; margin-bottom:7px; font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif','Noto Sans TC',sans-serif; font-size:14px; line-height:1.7; cursor:pointer;}
+  .optRow{display:flex; gap:10px; align-items:flex-start; padding:9px 10px; border:1px solid var(--rule); border-radius:4px; background:var(--surface); margin-bottom:7px; font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif','Noto Sans TC',sans-serif; font-size:14px; line-height:1.7; cursor:pointer;}
   .optRow:hover{border-color:var(--ink);}
   .optRow.used{opacity:.42;}
-  .optRow.pick{border-color:var(--crimson); background:#FBF1EE;}
+  .optRow.pick{border-color:var(--crimson); background:var(--tint-crimson);}
   .optRow .ltr{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif','Noto Sans TC',sans-serif; font-weight:600; color:var(--crimson); flex-shrink:0;}
-  .optRow.ok{border-color:var(--sage); background:#F0F7EE;}
-  .optRow.ng{border-color:var(--crimson); background:#FCF2F0;}
+  .optRow.ok{border-color:var(--sage); background:var(--tint-sage6);}
+  .optRow.ng{border-color:var(--crimson); background:var(--tint-crimson2);}
 
   .prog{display:flex; justify-content:space-between; font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:12px; color:var(--ink-soft); margin-bottom:6px;}
   .bar{height:4px; background:var(--rule); border-radius:2px; overflow:hidden; margin-bottom:16px;}
   .bar-fill{height:100%; background:var(--crimson); transition:width .2s;}
 
-  .result{border:1px solid var(--rule); border-radius:4px; padding:16px; background:#fff; margin-bottom:16px; text-align:center;}
+  .result{border:1px solid var(--rule); border-radius:4px; padding:16px; background:var(--surface); margin-bottom:16px; text-align:center;}
   .result .big{font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:28px; font-weight:600;}
   .result .lbl{font-size:12.5px; color:var(--ink-soft);}
   .ansLine{font-size:13.5px; line-height:1.9; text-align:left; margin-top:12px; border-top:1px dashed var(--rule); padding-top:10px;}
   .objTag{font-size:12px; color:var(--sage); display:block; margin-top:2px;}
-  .myPick{font-size:13px; color:var(--crimson); background:#FCF2F0; border-left:3px solid var(--crimson); padding:5px 10px; border-radius:2px; margin-top:5px; line-height:1.7;}
+  .myPick{font-size:13px; color:var(--crimson); background:var(--tint-crimson2); border-left:3px solid var(--crimson); padding:5px 10px; border-radius:2px; margin-top:5px; line-height:1.7;}
 
   .note-box{background:var(--paper-card); border:1px solid var(--rule); border-radius:4px; padding:13px 15px; margin:22px 0 6px; font-size:12.5px; line-height:1.8; color:var(--ink-soft);}
   .note-box b{font-family:'Noto Serif TC',serif; font-size:13.5px; color:var(--ink);}
@@ -159,7 +159,7 @@
   .report-btn{display:inline-block; margin-top:8px; color:var(--crimson); text-decoration:none; border:1px solid var(--rule); border-radius:20px; padding:5px 14px;}
   .report-btn:hover{border-color:var(--crimson);}
 
-  details.dataBox{border:1px dashed var(--rule); border-radius:3px; background:#FBF9F2; padding:8px 12px; margin-top:12px;}
+  details.dataBox{border:1px dashed var(--rule); border-radius:3px; background:var(--tint-warm3); padding:8px 12px; margin-top:12px;}
   details.dataBox summary{cursor:pointer; list-style:none; font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:11.5px; letter-spacing:.06em; color:var(--ink-soft);}
   details.dataBox summary::-webkit-details-marker{display:none;}
   details.dataBox summary::before{content:"▸ "; color:var(--crimson);}
@@ -195,27 +195,27 @@
   /* 補考、參考試卷、試辦考試：紅色虛線左框＋紅框標籤，不只靠文字 */
   .year-item.unofficial{border-left:3px dashed var(--crimson); padding-left:9px;}
   .card.unofficial{border-left:3px dashed var(--crimson);}
-  .badge{display:inline-block; font-size:11px; line-height:1.5; border:1px solid var(--crimson); color:var(--crimson); background:#fff; border-radius:3px; padding:0 6px; margin-left:4px; white-space:nowrap; vertical-align:1px;}
+  .badge{display:inline-block; font-size:11px; line-height:1.5; border:1px solid var(--crimson); color:var(--crimson); background:var(--surface); border-radius:3px; padding:0 6px; margin-left:4px; white-space:nowrap; vertical-align:1px;}
   .catTag.warn{border-color:var(--crimson); color:var(--crimson);}
 
   .passage{overflow-wrap:anywhere;}
   .passage .pn{font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:11px; color:var(--ink-soft); margin-right:4px; user-select:none;}
   figure.fig{margin:0 0 16px; text-align:center;}
-  figure.fig img{max-width:100%; height:auto; border:1px solid var(--rule); background:#fff;}
+  figure.fig img{max-width:100%; height:auto; border:1px solid var(--rule); background:var(--surface);}
   figure.fig figcaption{font-size:11.5px; color:var(--ink-soft); margin-top:6px; line-height:1.6;}
 
   .qBlock{border-top:1px solid var(--rule); padding-top:14px; margin-top:4px; margin-bottom:16px;}
-  .qBlock.inline{border:1px solid var(--rule); border-radius:4px; background:#FBF9F2; padding:12px 12px 4px; margin:0 0 16px;}
+  .qBlock.inline{border:1px solid var(--rule); border-radius:4px; background:var(--tint-warm3); padding:12px 12px 4px; margin:0 0 16px;}
   .qStem{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif','Noto Sans TC',sans-serif; font-size:15px; line-height:1.85; margin-bottom:10px; overflow-wrap:anywhere;}
   .qStem .qn{font-weight:700; color:var(--crimson); margin-right:6px;}
-  .qStem .ins{display:block; margin-top:8px; padding:8px 12px; background:#F3EFE0; border-left:3px solid var(--gold); border-radius:2px;}
+  .qStem .ins{display:block; margin-top:8px; padding:8px 12px; background:var(--tint-chip); border-left:3px solid var(--gold); border-radius:2px;}
   button.optRow{width:100%; text-align:left; color:var(--ink);}
   .qFeed{font-size:13px; line-height:1.8; margin:2px 0 6px;}
   .qFeed .ok{color:var(--sage); font-weight:700;}
   .qFeed .ng{color:var(--crimson); font-weight:700;}
   .twinBtns{display:flex; flex-wrap:wrap; gap:6px; margin-top:8px;}
   .twinBtns .link-btn{padding:2px 0; font-size:12.5px;}
-  .exPending{font-size:12.5px; line-height:1.8; color:var(--ink-soft); background:#F5FAFD; border-left:3px solid var(--blue); padding:8px 12px; border-radius:2px; margin-bottom:14px;}
+  .exPending{font-size:12.5px; line-height:1.8; color:var(--ink-soft); background:var(--tint-blue2); border-left:3px solid var(--blue); padding:8px 12px; border-radius:2px; margin-bottom:14px;}
   .histRow{display:flex; justify-content:space-between; gap:10px; font-size:13px; padding:6px 2px; border-bottom:1px dashed var(--rule);}
   .histRow:last-child{border-bottom:none;}
   .histRow .r{font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:12px; color:var(--ink-soft); white-space:nowrap;}
@@ -226,7 +226,7 @@
   }
 
   /* 文章結構（交卷後才出現） */
-  .stBox{border:1px solid var(--rule); border-left:3px solid var(--sage); border-radius:3px; background:#F7FAF5; padding:12px 14px; margin:0 0 14px;}
+  .stBox{border:1px solid var(--rule); border-left:3px solid var(--sage); border-radius:3px; background:var(--tint-sage7); padding:12px 14px; margin:0 0 14px;}
   .stHead{font-family:'Noto Serif TC',serif; font-weight:700; font-size:15.5px; margin-bottom:8px;}
   .stRow{display:flex; gap:10px; font-size:13.5px; line-height:1.8; padding:4px 0; border-bottom:1px dotted var(--rule);}
   .stRow .k{flex:0 0 76px; font-weight:700; color:var(--sage);}
@@ -234,7 +234,7 @@
   .stRow .en{font-size:12px; color:var(--ink-soft);}
   .stLink{display:inline-block; margin-left:8px; font-size:12.5px; white-space:nowrap; color:var(--crimson);}
   .trList{display:flex; flex-wrap:wrap; gap:5px;}
-  .trw{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:13.5px; background:#fff; border:1px solid var(--rule); border-radius:3px; padding:0 6px; line-height:1.7;}
+  .trw{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:13.5px; background:var(--surface); border:1px solid var(--rule); border-radius:3px; padding:0 6px; line-height:1.7;}
   .stSub{font-weight:700; font-size:13.5px; color:var(--sage); margin:10px 0 4px;}
   .stOutline{margin:0; padding-left:22px; font-size:14px; line-height:1.9;}
   .stOutline li{margin-bottom:5px; overflow-wrap:anywhere;}
@@ -245,14 +245,14 @@
 
   /* 逐段中譯與答案依據句（交卷後才出現） */
   .zhBar{display:flex; flex-wrap:wrap; align-items:center; gap:10px; margin:2px 0 12px;}
-  .zhBtn[aria-pressed="true"]{background:var(--ink); color:#fff;}
+  .zhBtn[aria-pressed="true"]{background:var(--ink); color:var(--on-ink);}
   .passage .pn{display:inline-block; font-family:'Noto Sans TC',sans-serif; font-size:11px; color:var(--ink-soft); border:1px solid var(--rule); border-radius:3px; padding:0 5px; margin-right:6px; line-height:1.6; vertical-align:2px; user-select:none;}
-  .passage p.zhp{font-family:'Noto Sans TC',sans-serif; font-size:14.5px; line-height:1.95; color:var(--ink); background:#F7FAF5; border-left:3px solid var(--sage); padding:8px 12px; margin:-6px 0 18px; border-radius:2px;}
+  .passage p.zhp{font-family:'Noto Sans TC',sans-serif; font-size:14.5px; line-height:1.95; color:var(--ink); background:var(--tint-sage7); border-left:3px solid var(--sage); padding:8px 12px; margin:-6px 0 18px; border-radius:2px;}
   mark.ev{background:var(--yellow); color:inherit; padding:1px 0; border-radius:2px;}
   /* 全文中心思想與段落主旨句（交卷後才出現）：圖例名稱與提醒照克漏字站 */
   .msT,.msB{background:var(--blue); padding:1px 0; border-radius:2px;}
   .msS,.msB{text-decoration:underline; text-decoration-color:var(--ink); text-decoration-thickness:1.5px; text-underline-offset:5px; text-decoration-skip-ink:none;}
-  .msLegend{font-size:12.5px; line-height:1.8; color:var(--ink-soft); border:1px solid var(--rule); border-radius:3px; background:#F8FBFD; padding:8px 12px; margin:0 0 12px;}
+  .msLegend{font-size:12.5px; line-height:1.8; color:var(--ink-soft); border:1px solid var(--rule); border-radius:3px; background:var(--tint-blue); padding:8px 12px; margin:0 0 12px;}
   .msKeys{font-size:13px; color:var(--ink); margin-bottom:2px;}
   .msKeys span{padding:0 4px;}
   .msTip{font-size:12px; margin-top:4px;}
@@ -268,7 +268,7 @@
   .evBtn{padding:4px 12px; font-size:13px; background:var(--yellow); border-color:var(--gold);}
   .evAll{font-size:13px; font-weight:700; background:var(--yellow); border:1px solid var(--gold); border-radius:3px; padding:2px 10px;}
   .evHint{font-size:12.5px; color:var(--ink-soft);}
-  .anBox{font-size:13.5px; line-height:1.85; background:#FBF9F2; border:1px solid var(--rule); border-left:3px solid var(--sage); border-radius:2px; padding:8px 12px; margin:0 0 10px;}
+  .anBox{font-size:13.5px; line-height:1.85; background:var(--tint-warm3); border:1px solid var(--rule); border-left:3px solid var(--sage); border-radius:2px; padding:8px 12px; margin:0 0 10px;}
   .anHead{font-size:12px; font-weight:700; color:var(--sage); margin-bottom:2px;}
   .anMap{margin:1px 0;}
   .anMap .o,.anMap .q{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:14.5px;}
@@ -287,7 +287,7 @@
   .year-item .cnt .cq{display:block; color:var(--sage);}
   .qtPre{margin:0 0 6px;}
   .diffNote{font-size:12px; line-height:1.8; color:var(--ink-soft); margin:2px 0 4px;}
-  .rhBox{font-size:13px; line-height:1.85; color:var(--ink); border:1px solid var(--rule); border-left:3px solid var(--crimson); border-radius:3px; background:#FDFAF3; padding:7px 12px; margin:0 0 12px;}
+  .rhBox{font-size:13px; line-height:1.85; color:var(--ink); border:1px solid var(--rule); border-left:3px solid var(--crimson); border-radius:3px; background:var(--tint-warm5); padding:7px 12px; margin:0 0 12px;}
   .rhBox summary{cursor:pointer; font-weight:700; color:var(--crimson); font-size:13px;}
   .rhBox summary .rhSub{font-weight:400; color:var(--ink-soft); font-size:12px;}
   .rhBox p{margin:8px 0 0;}
@@ -295,7 +295,7 @@
   .cueRow{margin-top:6px;}
   .cueRow .stLink{margin-left:0;}
   /* 生字表（交卷後才出現：詞義題的答案就在中文裡） */
-  .vbBox{border:1px solid var(--rule); border-left:3px solid var(--gold); border-radius:3px; background:#FDFAF3; padding:9px 14px; margin:0 0 14px;}
+  .vbBox{border:1px solid var(--rule); border-left:3px solid var(--gold); border-radius:3px; background:var(--tint-warm5); padding:9px 14px; margin:0 0 14px;}
   .vbBox summary{cursor:pointer; font-weight:700; color:var(--gold); font-size:14px;}
   .vbBox summary .vbSub{font-weight:400; color:var(--ink-soft); font-size:12px;}
   .vbNote{font-size:12px; color:var(--ink-soft); line-height:1.75; margin:8px 0 6px;}
@@ -308,21 +308,29 @@
   .vbKK{font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:12.5px; color:var(--ink-soft);}
   .vbZh{flex:1 1 9em; min-width:0;}
   .vbMeta{margin-left:auto; font-size:11.5px; color:var(--ink-soft); white-space:nowrap;}
-  .vbLv{display:inline-block; border:1px solid var(--rule); border-radius:10px; padding:0 7px; margin-right:6px; background:#fff;}
+  .vbLv{display:inline-block; border:1px solid var(--rule); border-radius:10px; padding:0 7px; margin-right:6px; background:var(--surface);}
   .vbLv.off{border-color:var(--gold); color:var(--gold);}
 .vbNone{font-size:13.5px; line-height:1.7; margin:4px 0 2px;}
   .vbHd{font-size:13.5px; color:var(--gold); margin:12px 0 2px; padding-top:8px; border-top:1px solid var(--rule);}
   .vbHd .vbHs{font-weight:400; color:var(--ink-soft); font-size:12px; margin-left:4px;}
   .vbT{flex:1 1 100%; font-size:12px; color:var(--ink-soft); line-height:1.7;}
   .vbT a{color:var(--crimson);}
-  .drillNote{font-size:13px; line-height:1.8; color:var(--ink); border-left:3px solid var(--sage); background:#F4F7F2; padding:6px 10px; margin-bottom:12px;}
+  .drillNote{font-size:13px; line-height:1.8; color:var(--ink); border-left:3px solid var(--sage); background:var(--tint-sage11); padding:6px 10px; margin-bottom:12px;}
   .drillBtn{font-size:12px; padding:0 0 0 8px; white-space:nowrap;}
+
+/* 深色模式（2026-10-22）：淺色數值與原本寫死的顏色相同；只在螢幕、手機或電腦設成深色外觀時生效，列印不受影響。 */
+:root{--btn-hover:#000;--foot-note:#8a8278;--link-crimson:#9C2C1E;--on-ink:#fff;--surface:#fff;--tint-blue:#F8FBFD;--tint-blue2:#F5FAFD;--tint-chip:#F3EFE0;--tint-crimson:#FBF1EE;--tint-crimson2:#FCF2F0;--tint-note:#FFFBEA;--tint-sage11:#F4F7F2;--tint-sage6:#F0F7EE;--tint-sage7:#F7FAF5;--tint-warm3:#FBF9F2;--tint-warm4:#FBF7EC;--tint-warm5:#FDFAF3;--glow:rgba(174,54,38,.05);--grid-line:rgba(34,31,26,0.025);color-scheme:light}
+@media screen and (prefers-color-scheme: dark){
+ :root{--paper:#1B1916;--paper-card:#26231F;--ink:#EDE7D8;--ink-soft:#B8B0A0;--rule:#4C463B;--crimson:#E57B68;--sage:#82C09C;--gold:#DDA94F;--btn-hover:#FFFFFF;--foot-note:#A29A8B;--link-crimson:#E57B68;--on-ink:#1B1916;--surface:#2D2A25;--tint-blue:#1F2A35;--tint-blue2:#1F2A35;--tint-chip:#302C24;--tint-crimson:#3A2420;--tint-crimson2:#3A2420;--tint-note:#342C18;--tint-sage11:#202C25;--tint-sage6:#1F2D25;--tint-sage7:#1F2D25;--tint-warm3:#2B2823;--tint-warm4:#2B2823;--tint-warm5:#2B2823;--glow:rgba(229,123,104,.07);--grid-line:rgba(255,255,255,0.02);--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.35);color-scheme:dark}
+ footer a{color:var(--crimson) !important}
+ :root{--yellow:#463C14;--blue:#233F5B}
+}
 
 </style>
 <style id="map-entry-css">
 /* 題目地圖入口（2026-10-22 新增，對應 map/）：樣式比照文意選填站的難題入口 */
 .map-entry{display:block; text-decoration:none; border:1.5px solid var(--crimson);
-  background:#FBF1EE; border-radius:4px; padding:14px 16px; margin:14px 0 4px;}
+  background:var(--tint-crimson); border-radius:4px; padding:14px 16px; margin:14px 0 4px;}
 .map-entry:hover{background:var(--crimson);}
 .map-entry:hover .me-title, .map-entry:hover .me-sub{color:#fff;}
 .me-title{display:block; font-family:'Noto Serif TC',serif; font-weight:700; font-size:15px; color:var(--crimson);}
@@ -332,7 +340,7 @@
 /* 防盜用措施（2026-10-14）：畫面浮水印、列印浮水印、頁尾授權聲明 */
 @media screen{body::before{content:"";position:fixed;top:0;left:0;right:0;bottom:0;z-index:2147483000;pointer-events:none;background-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22460%22%20height%3D%22240%22%3E%3Cg%20transform%3D%22rotate%28-20%20230%20120%29%22%20font-family%3D%22Noto%20Sans%20TC%2Csans-serif%22%20fill%3D%22%23D9A400%22%20fill-opacity%3D%22.2%22%20text-anchor%3D%22middle%22%3E%3Ctext%20x%3D%22230%22%20y%3D%22112%22%20font-size%3D%2220%22%3E%E9%96%B1%E8%AE%80%E6%B8%AC%E9%A9%97%3C%2Ftext%3E%3Ctext%20x%3D%22230%22%20y%3D%22140%22%20font-size%3D%2214%22%3Estaresto-create.github.io%2Freading-comprehension%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E");background-repeat:repeat;}}
 @media print{body::after{content:"閱讀測驗\A staresto-create.github.io/reading-comprehension\A 免費資源，請勿販售";white-space:pre;position:fixed;top:42%;left:0;right:0;text-align:center;transform:rotate(-25deg);font-family:"Noto Sans TC",sans-serif;font-size:26pt;line-height:1.7;color:#c8c8c8;z-index:2147483000;pointer-events:none;}}
-.cc-note{font-size:12px;line-height:1.8;color:#8a8278;margin:12px auto;max-width:60em;padding:0 1em;}.cc-note a{color:inherit;}
+.cc-note{font-size:12px;line-height:1.8;color:var(--foot-note);margin:12px auto;max-width:60em;padding:0 1em;}.cc-note a{color:inherit;}
 </style>
 </head>
 <body>
@@ -521,9 +529,9 @@
   </div>
 
   <footer>
-    <div style="font-family:'Noto Sans TC',sans-serif; font-size:13px; line-height:2; margin-bottom:12px;"><a href="https://staresto-create.github.io/JCEE-vocab-questions/" style="color:#9C2C1E; font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">← 回題庫首頁</a><span style="padding:0 8px; opacity:.5;">·</span><a href="https://staresto-create.github.io/JCEE-vocab-questions/#rules" style="color:#9C2C1E; font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">🧩 五個詞：拼圖的規則</a></div>
+    <div style="font-family:'Noto Sans TC',sans-serif; font-size:13px; line-height:2; margin-bottom:12px;"><a href="https://staresto-create.github.io/JCEE-vocab-questions/" style="color:var(--link-crimson); font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">← 回題庫首頁</a><span style="padding:0 8px; opacity:.5;">·</span><a href="https://staresto-create.github.io/JCEE-vocab-questions/#rules" style="color:var(--link-crimson); font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">🧩 五個詞：拼圖的規則</a></div>
     資料來源：學測 83–115 年、指考 91–110 年歷屆閱讀測驗（大考中心公布）<br>
-    © 2026 staresto-create ZZSH · 免費、無廣告的非營利自學題庫 · <a href="https://staresto-create.github.io/JCEE-vocab-questions/#terms" style="color:#9C2C1E; font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">📖 使用與著作權</a><br>
+    © 2026 staresto-create ZZSH · 免費、無廣告的非營利自學題庫 · <a href="https://staresto-create.github.io/JCEE-vocab-questions/#terms" style="color:var(--link-crimson); font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">📖 使用與著作權</a><br>
     <a class="report-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSd6P1s7HqjvOmGqOzNDWcBQQ3F539SifSNiAfXvi6NqD2YP-Q/viewform?usp=pp_url&entry.1257494378=%E9%96%B1%E8%AE%80%E6%B8%AC%E9%A9%97" target="_blank" rel="noopener">🐛 回報錯誤</a>
   <p class="cc-note">本題庫自己寫的部分（解析、中譯、分類、標註與編排）採用 <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hant" target="_blank" rel="license noopener">CC BY-NC 4.0</a>（姓名標示─非商業性）授權：可以分享，但須註明出處，不得用於商業用途。試題來源與完整說明請見<a href="https://staresto-create.github.io/JCEE-vocab-questions/#terms">使用與著作權</a>。</p>
 </footer>
@@ -954,7 +962,7 @@ function renderPractice(){
   if(!graded){
     html += `<div class="row">
         <button class="ghost-btn" onclick="clearPicks()">清空重答</button>
-        <button class="ghost-btn" style="background:var(--ink); color:#fff;" onclick="grade()">交卷批改</button>
+        <button class="ghost-btn" style="background:var(--ink); color:var(--on-ink);" onclick="grade()">交卷批改</button>
       </div>`;
   }else{
     const ok = curItems.filter(it => isCorrect(it, picks[it.id])).length;
@@ -1121,7 +1129,7 @@ function renderQuestion(it, inline){
     const good = isCorrect(it, pk);
     h += `<div class="qFeed">${good ? '<span class="ok">答對</span>' : (pk ? `<span class="ng">答錯</span>，你選 (${pk})` : '<span class="ng">未作答</span>')}，正確答案 ${answerText(it)}</div>`;
     h += renderEvidence(it);
-    if(it.answerNote) h += `<div class="myPick" style="color:var(--ink-soft); background:#FFFBEA; border-left-color:var(--gold);">${esc(it.answerNote)}</div>`;
+    if(it.answerNote) h += `<div class="myPick" style="color:var(--ink-soft); background:var(--tint-note); border-left-color:var(--gold);">${esc(it.answerNote)}</div>`;
     h += renderDataBox(it);
   }
   return h + `</div>`;
