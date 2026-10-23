@@ -359,7 +359,7 @@
 @media print{
   body{background:#fff !important;}
   .wrap{max-width:none !important; padding:0 !important;}
-  .sc-back, .scr-strip, .scr-card, .backLink, .prog, .bar, .noPrint, .drillNote, details.rhBox, .twinBtns, .zhBar, .row, .toBar, #historyView, .report-btn, footer > div:first-child{display:none !important;}
+  .sc-back, .scr-strip, .scr-card, .backLink, .prog, .bar, .noPrint, .qtPre, .flagNote, .pTitle .ttl, .drillNote, details.rhBox, .twinBtns, .zhBar, .row, .toBar, #historyView, .report-btn, footer > div:first-child{display:none !important;}
   footer{font-size:8.5pt !important; line-height:1.5 !important; margin-top:8px !important; padding-top:6px !important; text-align:left !important;}
   .cc-note{font-size:8.5pt !important; line-height:1.5 !important; margin:4px 0 0 !important; padding:0 !important; max-width:none !important;}
   header.top{padding-bottom:6px !important; margin-bottom:10px !important;}
@@ -374,6 +374,9 @@
   .optRow{border:0 !important; background:none !important; padding:1px 0 1px 1.2em !important; margin:0 !important; font-size:11pt; opacity:1 !important; text-align:left; color:#000; break-inside:avoid;}
   .optRow .ltr{color:#000 !important;}
   body::after{content:"閱讀測驗・staresto-create.github.io/reading-comprehension・免費資源，請勿販售" !important; position:fixed !important; top:auto !important; bottom:0 !important; left:0 !important; right:0 !important; transform:none !important; font-size:8pt !important; line-height:1.4 !important; color:#777 !important; text-align:center !important;}
+  /* 試考用：任何會透露答案的東西都不印。已批改的畫面含答案與解析，整頁不印，改印一行說明 */
+  #practiceBody.isGraded > *{display:none !important;}
+  #practiceBody.isGraded::before{content:"這一頁是批改後的畫面，含答案與解析，所以不列印。要印空白試卷，請按「整組再做一次」，或重新整理頁面後再印。"; display:block; font-size:12pt; line-height:1.8; padding:20mm 0;}
   @page{margin:12mm 14mm 14mm;}
 }
 </style>
@@ -997,7 +1000,7 @@ function renderPractice(){
     ? `<div class="flagNote">${esc(p.flagNote)}${twins ? `<div class="twinBtns">${twins}</div>` : ''}</div>` : '';
 
   let html = `<div class="card${isOfficial(p) ? '' : ' unofficial'}">
-    <h2 class="pTitle" style="margin:0 0 6px;">${esc(yLab(p))} · ${esc(p.title)}${badge(p)}</h2>
+    <h2 class="pTitle" style="margin:0 0 6px;">${esc(yLab(p))}<span class="ttl"> · ${esc(p.title)}</span>${badge(p)}</h2>
     <div class="tagRow">${tags}</div>
     ${flag}
     ${graded ? '' : '<div class="noPrint" style="font-size:12.5px; color:var(--ink-soft); line-height:1.8; margin-bottom:12px;">先讀文章，再作答下方的題目。全部答完前也可以交卷，沒答的算答錯。</div>'}
@@ -1036,6 +1039,7 @@ function renderPractice(){
   }
   html += `</div>`;
   document.getElementById('practiceBody').innerHTML = html;
+  document.getElementById('practiceBody').classList.toggle('isGraded', !!graded);
 }
 
 /* 讀法提示（作答前，預設收起）：只寫這一篇的組織方式怎麼讀、主旨句怎麼找，不寫綱要，也不露出答案。
