@@ -305,7 +305,7 @@
   .vbW{font-weight:700; font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:15.5px;}
   .vbH{font-size:12px; color:var(--ink-soft); font-weight:400;}
   .vbPos{font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--ink-soft);}
-  .vbKK{font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:12.5px; color:var(--ink-soft);}
+  .vbRow .kkp{font-size:12.5px; color:var(--ink-soft); margin-left:0;}
   .vbZh{flex:1 1 9em; min-width:0;}
   .vbMeta{margin-left:auto; font-size:11.5px; color:var(--ink-soft); white-space:nowrap;}
   .vbLv{display:inline-block; border:1px solid var(--rule); border-radius:10px; padding:0 7px; margin-right:6px; background:var(--surface);}
@@ -382,6 +382,7 @@
 }
 </style>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/speaker.js"></script>
+<script src="https://staresto-create.github.io/JCEE-vocab-questions/kk.js"></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/resume.js" defer></script>
 <style id="print-entry">
 /* 「列印成考卷」按鈕（2026-10-23）：只在螢幕上出現，列印時隱藏；已批改的畫面含答案，不列印，按鈕也不顯示 */
@@ -628,6 +629,7 @@ async function init(){
     const res  = await Promise.all(dirs.flatMap(d => [fetch(d+'/passages.json'), fetch(d+'/items.json')]));
     if(res.some(r => !r.ok)) throw new Error('load');
     const data = await Promise.all(res.map(r => r.json()));
+    if(window.KK) await KK.ready;
     dirs.forEach((d,k) => {
       data[k*2].forEach(p => { PASSAGES[p.id] = p; });
       data[k*2+1].forEach(it => { ITEMS.push(it); });
@@ -1137,10 +1139,10 @@ const VB_NOTE2 = '生字表分成三部分：關鍵字彙、參考字彙和字�
 const VB_SITE = {gsat:['https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-','學測單字題庫'], zhikao:['https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-','指考單字題庫']};
 const COL_NOTE = '「字詞搭配」是要整組記的說法，分兩種：一種是哪兩個字配在一起，例如 pose a serious risk（造成嚴重的風險）、in unison（齊聲），換成意思相近的字就不自然；另一種是這個字後面要接什麼，寫成公式，例如 be resistant to + N（對……有抵抗力）。公式裡的 + N 表示接名詞，+ V 接原形動詞，+ V-ing 接動名詞，sb 指人，sth 指事物，「時間」「地方」這類中文表示那裡要填的東西。名稱不必背，看得出這一條寫的是「配對」還是「接法」就夠了；記住搭配和接法，這個字你才用得出來，不會只是看得懂。一看就懂的組合和專有名詞不列。每一條寫的是查字典時的基本形，文中的寫法不同時，下面附上原文。';
 function colRow(c){
-  return `<li class="vbRow"><span class="vbW" lang="en">${esc(c.e)}</span><span class="vbZh">${esc(c.zh)}</span><span class="vbMeta">${vbAt(c.at)}</span>${c.src ? `<span class="vbT">原文：<span lang="en">${esc(c.src)}</span></span>` : ''}</li>`;
+  return `<li class="vbRow"><span class="vbW" lang="en">${esc(c.e)}</span>${window.KK ? KK.html(c.e) : ''}<span class="vbZh">${esc(c.zh)}</span><span class="vbMeta">${vbAt(c.at)}</span>${c.src ? `<span class="vbT">原文：<span lang="en">${esc(c.src)}</span></span>` : ''}</li>`;
 }
 function vbRow(v, key){
-  let h = `<li class="vbRow"><span class="vbW" lang="en">${esc(v.w)}${v.h ? ` <span class="vbH">（詞彙表：<span lang="en">${esc(v.h)}</span>）</span>` : ''}${window.SPK ? SPK.html(v.w, true) : ''}</span>${v.kk ? `<span class="vbKK">[${esc(v.kk)}]</span>` : ''}<span class="vbPos" lang="en">${esc(v.pos)}</span><span class="vbZh">${esc(v.zh)}</span><span class="vbMeta"><span class="vbLv${v.lv ? '' : ' off'}">${VB_LV[v.lv]}</span>${vbAt(v.at)}</span>`;
+  let h = `<li class="vbRow"><span class="vbW" lang="en">${esc(v.w)}${v.h ? ` <span class="vbH">（詞彙表：<span lang="en">${esc(v.h)}</span>）</span>` : ''}${window.SPK ? SPK.html(v.w, true) : ''}</span>${window.KK ? KK.html(v.w) : ''}<span class="vbPos" lang="en">${esc(v.pos)}</span><span class="vbZh">${esc(v.zh)}</span><span class="vbMeta"><span class="vbLv${v.lv ? '' : ' off'}">${VB_LV[v.lv]}</span>${vbAt(v.at)}</span>`;
   if(key){
     const head = (v.h || v.w).toLowerCase();
     const refs = v.t.map(([s, q, lab, k, f]) => `<a href="${VB_SITE[s][0]}${q}" target="_blank" rel="noopener" title="到${VB_SITE[s][1]}作答">${esc(lab)}</a>${f.toLowerCase() !== head ? ` <span lang="en">${esc(f)}</span>` : ''}${k === 'a' ? '（答案）' : '（誘答）'}`).join('、');
