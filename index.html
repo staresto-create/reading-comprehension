@@ -354,6 +354,29 @@
 @media print{body::after{content:"閱讀測驗\A staresto-create.github.io/reading-comprehension\A 免費資源，請勿販售";white-space:pre;position:fixed;top:42%;left:0;right:0;text-align:center;transform:rotate(-25deg);font-family:"Noto Sans TC",sans-serif;font-size:26pt;line-height:1.7;color:#c8c8c8;z-index:2147483000;pointer-events:none;}}
 .cc-note{font-size:12px;line-height:1.8;color:var(--foot-note);margin:12px auto;max-width:60em;padding:0 1em;}.cc-note a{color:inherit;}
 </style>
+<style id="print-paper">
+/* 紙本列印版面（2026-10-23）：只影響列印，畫面不變。印出來像考卷：隱藏按鈕、進度、提示，選項去掉外框，題目不被分頁切開；浮水印改成頁尾一行小字 */
+@media print{
+  body{background:#fff !important;}
+  .wrap{max-width:none !important; padding:0 !important;}
+  .sc-back, .scr-strip, .scr-card, .backLink, .prog, .bar, .noPrint, .drillNote, details.rhBox, .twinBtns, .zhBar, .row, .toBar, #historyView, .report-btn, footer > div:first-child{display:none !important;}
+  footer{font-size:8.5pt !important; line-height:1.5 !important; margin-top:8px !important; padding-top:6px !important; text-align:left !important;}
+  .cc-note{font-size:8.5pt !important; line-height:1.5 !important; margin:4px 0 0 !important; padding:0 !important; max-width:none !important;}
+  header.top{padding-bottom:6px !important; margin-bottom:10px !important;}
+  .card{border:0 !important; box-shadow:none !important; padding:0 !important; margin:0 !important; background:none !important;}
+  .passage{font-size:11pt; line-height:1.65;}
+  .passage p{orphans:3; widows:3;}
+  .qBlock{break-inside:avoid; border-top:0 !important; padding-top:6px !important; margin-bottom:10px !important;}
+  .qBlock.inline{background:none !important; border:0 !important; padding:6px 0 0 !important; margin:0 0 10px !important;}
+  figure.fig{break-inside:avoid; margin:0 0 10px !important;}
+  figure.fig img{max-height:52mm; width:auto; max-width:100%;}
+  .optList{display:block;}
+  .optRow{border:0 !important; background:none !important; padding:1px 0 1px 1.2em !important; margin:0 !important; font-size:11pt; opacity:1 !important; text-align:left; color:#000; break-inside:avoid;}
+  .optRow .ltr{color:#000 !important;}
+  body::after{content:"閱讀測驗・staresto-create.github.io/reading-comprehension・免費資源，請勿販售" !important; position:fixed !important; top:auto !important; bottom:0 !important; left:0 !important; right:0 !important; transform:none !important; font-size:8pt !important; line-height:1.4 !important; color:#777 !important; text-align:center !important;}
+  @page{margin:12mm 14mm 14mm;}
+}
+</style>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/resume.js" defer></script>
 </head>
 <body>
@@ -977,7 +1000,7 @@ function renderPractice(){
     <h2 class="pTitle" style="margin:0 0 6px;">${esc(yLab(p))} · ${esc(p.title)}${badge(p)}</h2>
     <div class="tagRow">${tags}</div>
     ${flag}
-    ${graded ? '' : '<div style="font-size:12.5px; color:var(--ink-soft); line-height:1.8; margin-bottom:12px;">先讀文章，再作答下方的題目。全部答完前也可以交卷，沒答的算答錯。</div>'}
+    ${graded ? '' : '<div class="noPrint" style="font-size:12.5px; color:var(--ink-soft); line-height:1.8; margin-bottom:12px;">先讀文章，再作答下方的題目。全部答完前也可以交卷，沒答的算答錯。</div>'}
     ${graded ? '' : drillLine()}
     ${graded ? '' : readHint(p)}
     ${graded && p.zh ? `<div class="zhBar"><button type="button" class="ghost-btn zhBtn" aria-pressed="${zhOn}" onclick="toggleZh()">${zhOn ? '收起逐段中譯' : '顯示逐段中譯'}</button>${evOn ? `<button type="button" class="link-btn" onclick="clearEv()">取消依據句標示</button>` : ''}</div>` : ''}
