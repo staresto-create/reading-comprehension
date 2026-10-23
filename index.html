@@ -354,6 +354,7 @@
 @media print{body::after{content:"閱讀測驗\A staresto-create.github.io/reading-comprehension\A 免費資源，請勿販售";white-space:pre;position:fixed;top:42%;left:0;right:0;text-align:center;transform:rotate(-25deg);font-family:"Noto Sans TC",sans-serif;font-size:26pt;line-height:1.7;color:#c8c8c8;z-index:2147483000;pointer-events:none;}}
 .cc-note{font-size:12px;line-height:1.8;color:var(--foot-note);margin:12px auto;max-width:60em;padding:0 1em;}.cc-note a{color:inherit;}
 </style>
+<script src="https://staresto-create.github.io/JCEE-vocab-questions/resume.js" defer></script>
 </head>
 <body>
 <div class="wrap">
@@ -606,6 +607,7 @@ async function init(){
     officialOnly = e.target.checked; buildYearList(); writeHash();
   });
   buildExamGrid(); buildYearGrid(); buildOrgGrid(); buildCatGrid(); buildDiffGrid(); buildYearList(); renderStatsBox();
+  scrMountStrip();
   const pid = new URLSearchParams(location.hash.replace(/^#/,'')).get('p');
   if(pid && PASSAGES[pid]) openPassage(pid);
 }
@@ -904,10 +906,29 @@ function goHome(){
   document.getElementById('practiceView').style.display='none';
   document.getElementById('historyView').style.display='none';
   document.getElementById('homeView').style.display='block';
-  buildYearList(); writeHash(); window.scrollTo(0,0);
+  buildYearList(); writeHash(); window.scrollTo(0,0); scrMountStrip();
 }
+/* 接續上次（2026-10-23）：記下這一篇，供各站首頁與總站的「接續上次」使用。
+   只存在這台裝置的這個瀏覽器；共用模組讀不到時，下面每一處都安靜略過，不影響作答。
+   連結沿用本站原有的 #p=<篇號> 形式。 */
+function scr(f){
+  try{
+    if(window.SCResume) f(window.SCResume);
+    else window.addEventListener('load', function(){ try{ if(window.SCResume) f(window.SCResume); }catch(e){} });
+  }catch(e){}
+}
+function scrMountStrip(){ scr(function(R){ R.mountStrip(document.getElementById('homeView'), 'reading'); }); }
+function scrSavePassage(pid){
+  scr(function(R){
+    const p = PASSAGES[pid]; if(!p) return;
+    const r = p.range && p.range.length === 2 ? ' 第 ' + p.range[0] + '–' + p.range[1] + ' 題' : '';
+    R.save('reading', yLab(p) + r, '#p=' + encodeURIComponent(pid));
+  });
+}
+
 function openPassage(pid){
   curPid = pid; graded = false; picks = {}; zhOn = false; evOn = null; hintOpen = false; vbOpen = false;
+  scrSavePassage(pid);
   curItems = itemsOf(pid);
   document.getElementById('homeView').style.display='none';
   document.getElementById('historyView').style.display='none';
