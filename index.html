@@ -381,6 +381,7 @@
   #practiceBody.isGraded::before{content:"這一頁是批改後的畫面，含答案與解析，所以不列印。要印空白試卷，請按「整組再做一次」，或重新整理頁面後再印。"; display:block; font-size:12pt; line-height:1.8; padding:20mm 0;}
 }
 </style>
+<script src="https://staresto-create.github.io/JCEE-vocab-questions/speaker.js"></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/resume.js" defer></script>
 <style id="print-entry">
 /* 「列印成考卷」按鈕（2026-10-23）：只在螢幕上出現，列印時隱藏；已批改的畫面含答案，不列印，按鈕也不顯示 */
@@ -1139,7 +1140,7 @@ function colRow(c){
   return `<li class="vbRow"><span class="vbW" lang="en">${esc(c.e)}</span><span class="vbZh">${esc(c.zh)}</span><span class="vbMeta">${vbAt(c.at)}</span>${c.src ? `<span class="vbT">原文：<span lang="en">${esc(c.src)}</span></span>` : ''}</li>`;
 }
 function vbRow(v, key){
-  let h = `<li class="vbRow"><span class="vbW" lang="en">${esc(v.w)}${v.h ? ` <span class="vbH">（詞彙表：<span lang="en">${esc(v.h)}</span>）</span>` : ''}</span>${v.kk ? `<span class="vbKK">[${esc(v.kk)}]</span>` : ''}<span class="vbPos" lang="en">${esc(v.pos)}</span><span class="vbZh">${esc(v.zh)}</span><span class="vbMeta"><span class="vbLv${v.lv ? '' : ' off'}">${VB_LV[v.lv]}</span>${vbAt(v.at)}</span>`;
+  let h = `<li class="vbRow"><span class="vbW" lang="en">${esc(v.w)}${v.h ? ` <span class="vbH">（詞彙表：<span lang="en">${esc(v.h)}</span>）</span>` : ''}${window.SPK ? SPK.html(v.w, true) : ''}</span>${v.kk ? `<span class="vbKK">[${esc(v.kk)}]</span>` : ''}<span class="vbPos" lang="en">${esc(v.pos)}</span><span class="vbZh">${esc(v.zh)}</span><span class="vbMeta"><span class="vbLv${v.lv ? '' : ' off'}">${VB_LV[v.lv]}</span>${vbAt(v.at)}</span>`;
   if(key){
     const head = (v.h || v.w).toLowerCase();
     const refs = v.t.map(([s, q, lab, k, f]) => `<a href="${VB_SITE[s][0]}${q}" target="_blank" rel="noopener" title="到${VB_SITE[s][1]}作答">${esc(lab)}</a>${f.toLowerCase() !== head ? ` <span lang="en">${esc(f)}</span>` : ''}${k === 'a' ? '（答案）' : '（誘答）'}`).join('、');
