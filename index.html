@@ -1435,16 +1435,26 @@ function trapTag(it, ltr){
 function evQuote(it){
   if(!Array.isArray(it.ev) || !it.ev.length) return '';
   const p = PASSAGES[it.passageId]; if(!p) return '';
+  const bal = x => ((x.match(/“/g) || []).length - (x.match(/”/g) || []).length) + ((x.match(/"/g) || []).length % 2);
   const rows = it.ev.map(e => {
     const par = p.paras[e.p - 1] || '', k = par.indexOf(e.t);
     if(k < 0) return '';
-    const t = e.t, on = new Array(t.length).fill(0);
+    const pre = par.slice(0, k), rest = par.slice(k + e.t.length);
+    const cut = /\b(?:[A-Za-z]\.[A-Za-z]|Mr|Mrs|Ms|Dr|St)$/.test(e.t);
+    let tail = cut ? '' : ((rest.match(/^[.!?]?["”’)]*(?=\s|$)/) || [''])[0]);
+    const endOk = (/[.!?]["”’)]*$/.test(e.t) && !/^\s*[,;:a-z]/.test(rest)) || /[.!?]/.test(tail);
+    const startOk = k === 0 || (/[.!?]["”’)]?\s*[“"‘(]?$/.test(pre) && !/^[a-z]/.test(e.t));
+    const t = endOk ? e.t : e.t.replace(/[,;:]+\s*$/, '');
+    let lead = (k > 0 && startOk && endOk && pre.match(/[“"‘(]$/)) ? pre.match(/[“"‘(]$/)[0] : '';
+    const shown = lead + t;
+    if(bal(shown) <= 0) tail = tail.replace(/["”]/g, '');
+    if(shown.indexOf('(') < 0) tail = tail.replace(/\)/g, '');
+    if(!endOk) tail = '';
+    const on = new Array(t.length).fill(0);
     (it.map || []).forEach(m => spansIn(t, m[0]).forEach(([a, b]) => { for(let i = a; i < b; i++) on[i] = 1; }));
     let h = '', i = 0;
     while(i < t.length){ let j = i; while(j < t.length && on[j] === on[i]) j++; h += on[i] ? `<b class="mo">${esc(t.slice(i, j))}</b>` : esc(t.slice(i, j)); i = j; }
-    const startOk = k === 0 || /[.!?”"]\s*$/.test(par.slice(0, k));
-    const endOk = /[.!?”"]$/.test(t);
-    return `<div class="evQ"><span class="evQn">第 ${e.p} 段</span><mark class="ev" lang="en">${startOk ? '' : '…'}${h}${endOk ? '' : '…'}</mark></div>`;
+    return `<div class="evQ"><span class="evQn">第 ${e.p} 段</span><mark class="ev" lang="en">${startOk ? esc(lead) : '…'}${h}${esc(tail)}${endOk ? '' : '…'}</mark></div>`;
   }).join('');
   return rows ? `<div class="anHead">依據句</div>${rows}` : '';
 }
