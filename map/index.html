@@ -316,8 +316,8 @@ function build(items){
     if (!window.SCProgress) return;
     var nd = items.filter(function(it){ return doneIds[it.id]; }).length;
     var dn = document.getElementById('doneNote');
-    dn.textContent = nd ? '你在這台裝置上做過 ' + nd + ' 題（共 ' + items.length + ' 題），已經標上 ✓。紀錄只存在這個瀏覽器，不用登入。'
-                        : '做過的題目會標上 ✓；這台裝置上還沒有紀錄。紀錄只存在這個瀏覽器，不用登入。';
+    dn.textContent = nd ? '你在這台裝置上做過 ' + nd + ' 題（共 ' + items.length + ' 題），已經標上 ✓。紀錄只存在這個瀏覽器，不用登入。點格子會進到這一題的詳解頁，只看詳解不會標 ✓；要回到練習頁自己選答案，才算做過。'
+                        : '做過的題目會標上 ✓；這台裝置上還沒有紀錄。紀錄只存在這個瀏覽器，不用登入。點格子會進到這一題的詳解頁，只看詳解不會標 ✓；要回到練習頁自己選答案，才算做過。';
     dn.hidden = false;
   })();
   var nNone = items.filter(function(it){ return !isNum(it.rate); }).length;
