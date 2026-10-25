@@ -383,6 +383,7 @@
 </style>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/speaker.js"></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/kk.js"></script>
+<script src="https://staresto-create.github.io/JCEE-vocab-questions/progress.js"></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/resume.js" defer></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/start.js" defer></script>
 <style id="print-entry">
@@ -547,6 +548,7 @@
       <div class="pwBar"><button type="button" class="pwBtn" id="printWrongBtn" onclick="printWrongPassages()" disabled>🖨️ 列印錯題考卷</button><p class="pwSub" id="printWrongSub"></p></div>
 
       <button class="big-btn" id="u-start" style="margin-bottom:14px;" onclick="quickStart()">立即開始 · 隨機一篇</button>
+      <div id="progressHost" style="margin:-4px 0 14px;"></div>
       <label class="toggleRow" style="font-size:12.5px; color:var(--ink-soft); font-family:'IBM Plex Mono','Noto Sans TC',monospace;">
         <input type="checkbox" id="testModeToggle">
         測試模式（本次作答不計入學習歷程與錯題本）
@@ -624,6 +626,10 @@ const HISTORY_KEY = 'jcee_rc_history_v1';
 const WRONG_KEY   = 'jcee_rc_wrong_ids_v1';
 
 function loadHistory(){ try{ return JSON.parse(localStorage.getItem(HISTORY_KEY)) || []; }catch(e){ return []; } }
+/* 完成度：按「交卷」才算這一篇的題目做過（沒答的題不算） */
+function renderProgress(){
+  try{ if(window.SCProgress) SCProgress.mountBar(document.getElementById('progressHost'), 'reading', ITEMS.map(x => x.id)); }catch(e){}
+}
 function saveHistory(h){ try{ localStorage.setItem(HISTORY_KEY, JSON.stringify(h)); }catch(e){} }
 function loadWrongIds(){ try{ return JSON.parse(localStorage.getItem(WRONG_KEY)) || []; }catch(e){ return []; } }
 function saveWrongIds(w){ try{ localStorage.setItem(WRONG_KEY, JSON.stringify(w)); }catch(e){} }
@@ -677,6 +683,7 @@ async function init(){
   });
   buildExamGrid(); buildYearGrid(); buildOrgGrid(); buildCatGrid(); buildDiffGrid(); buildYearList(); renderStatsBox();
   scrMountStrip();
+  renderProgress();
   const pid = new URLSearchParams(location.hash.replace(/^#/,'')).get('p');
   if(pid && PASSAGES[pid]) openPassage(pid);
 }
@@ -1025,7 +1032,7 @@ function goHome(){
   document.getElementById('practiceView').style.display='none';
   document.getElementById('historyView').style.display='none';
   document.getElementById('homeView').style.display='block';
-  buildYearList(); writeHash(); window.scrollTo(0,0); scrMountStrip();
+  buildYearList(); writeHash(); window.scrollTo(0,0); scrMountStrip(); renderProgress();
 }
 /* 接續上次（2026-10-23）：記下這一篇，供各站首頁與總站的「接續上次」使用。
    只存在這台裝置的這個瀏覽器；共用模組讀不到時，下面每一處都安靜略過，不影響作答。
@@ -1322,6 +1329,7 @@ function grade(){
   if(unans > 0 && !confirm(`還有 ${unans} 題沒答，沒答的會算答錯。確定要交卷嗎？`)) return;
   graded = true;
   curItems.forEach(it => recordAnswer(it.id, isCorrect(it, picks[it.id])));
+  try{ if(window.SCProgress) SCProgress.markMany('reading', curItems.filter(it => picks[it.id]).map(it => it.id)); }catch(e){}
   renderPractice(); window.scrollTo(0,0);
 }
 
