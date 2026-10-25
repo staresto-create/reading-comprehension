@@ -336,6 +336,7 @@
 .unitbar .ublab{font-size:12px; font-weight:700; letter-spacing:.06em; border:1px solid currentColor; border-radius:12px; padding:2px 10px; opacity:.75; white-space:nowrap;}
 .unitbar a, .unitbar .cur{display:inline-block; border:1px solid rgba(128,128,128,.45); border-radius:14px; padding:3px 11px; white-space:nowrap; font-weight:700; text-decoration:none;}
 .unitbar a{color:var(--crimson);}
+  .sk-box a{color:var(--crimson); text-decoration:underline; text-underline-offset:3px;}
 .unitbar a:hover{text-decoration:underline; text-underline-offset:3px;}
 .unitbar .cur{background:rgba(128,128,128,.2);}
 .unitbar .ubnote{margin-top:8px; font-size:12px; line-height:1.6; opacity:.8; text-wrap:balance;}
@@ -1450,11 +1451,12 @@ function evQuote(it){
     if(bal(shown) <= 0) tail = tail.replace(/["”]/g, '');
     if(shown.indexOf('(') < 0) tail = tail.replace(/\)/g, '');
     if(!endOk) tail = '';
+    const abbrDot = (!endOk && cut && rest.charAt(0) === '.') ? '.' : '';
     const on = new Array(t.length).fill(0);
     (it.map || []).forEach(m => spansIn(t, m[0]).forEach(([a, b]) => { for(let i = a; i < b; i++) on[i] = 1; }));
     let h = '', i = 0;
     while(i < t.length){ let j = i; while(j < t.length && on[j] === on[i]) j++; h += on[i] ? `<b class="mo">${esc(t.slice(i, j))}</b>` : esc(t.slice(i, j)); i = j; }
-    return `<div class="evQ"><span class="evQn">第 ${e.p} 段</span><mark class="ev" lang="en">${startOk ? esc(lead) : '…'}${h}${esc(tail)}${endOk ? '' : '…'}</mark></div>`;
+    return `<div class="evQ"><span class="evQn">第 ${e.p} 段</span><mark class="ev" lang="en">${startOk ? esc(lead) : '…'}${h}${esc(tail)}${abbrDot}${endOk ? '' : '…'}</mark></div>`;
   }).join('');
   return rows ? `<div class="anHead">依據句</div>${rows}` : '';
 }
