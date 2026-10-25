@@ -270,6 +270,10 @@
   .evHint{font-size:12.5px; color:var(--ink-soft);}
   .anBox{font-size:13.5px; line-height:1.85; background:var(--tint-warm3); border:1px solid var(--rule); border-left:3px solid var(--sage); border-radius:2px; padding:8px 12px; margin:0 0 10px;}
   .anHead{font-size:12px; font-weight:700; color:var(--sage); margin-bottom:2px;}
+  .evQ{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:15px; line-height:1.85; margin:2px 0 3px;}
+  .evQ .evQn{font-family:'Noto Sans TC',sans-serif; font-size:11px; color:var(--ink-soft); border:1px solid var(--rule); border-radius:3px; padding:0 5px; margin-right:6px; line-height:1.6; vertical-align:2px; user-select:none;}
+  .evQ b.mo{font-weight:700; text-decoration:underline; text-decoration-color:var(--sage); text-decoration-thickness:2px; text-underline-offset:3px;}
+  .anHead2{margin-top:7px;}
   .anMap{margin:1px 0;}
   .anMap .o,.anMap .q{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:14.5px;}
   .anMap .o{font-weight:700;}
@@ -1427,6 +1431,23 @@ function trapTag(it, ltr){
   const ps = [...new Set((it.trap || []).filter(t => t.o === ltr).map(t => t.p))];
   return ps.length ? `<span class="trapTag">照抄第 ${ps.join('、')} 段的字詞</span>` : '';
 }
+/* 依據句直接引在這一題的解析卡裡（不必捲回文章）：黃底、原文換過說法的字詞加粗並加綠色底線；不是整句時前後加「…」 */
+function evQuote(it){
+  if(!Array.isArray(it.ev) || !it.ev.length) return '';
+  const p = PASSAGES[it.passageId]; if(!p) return '';
+  const rows = it.ev.map(e => {
+    const par = p.paras[e.p - 1] || '', k = par.indexOf(e.t);
+    if(k < 0) return '';
+    const t = e.t, on = new Array(t.length).fill(0);
+    (it.map || []).forEach(m => spansIn(t, m[0]).forEach(([a, b]) => { for(let i = a; i < b; i++) on[i] = 1; }));
+    let h = '', i = 0;
+    while(i < t.length){ let j = i; while(j < t.length && on[j] === on[i]) j++; h += on[i] ? `<b class="mo">${esc(t.slice(i, j))}</b>` : esc(t.slice(i, j)); i = j; }
+    const startOk = k === 0 || /[.!?”"]\s*$/.test(par.slice(0, k));
+    const endOk = /[.!?”"]$/.test(t);
+    return `<div class="evQ"><span class="evQn">第 ${e.p} 段</span><mark class="ev" lang="en">${startOk ? '' : '…'}${h}${endOk ? '' : '…'}</mark></div>`;
+  }).join('');
+  return rows ? `<div class="anHead">依據句</div>${rows}` : '';
+}
 function renderEvidence(it){
   if(!it.ev) return '';
   let row;
@@ -1438,7 +1459,7 @@ function renderEvidence(it){
   }
   row += catTag(it);
   const map = (it.map || []).map(m => `<div class="anMap"><span class="o" lang="en">${esc(m[0])}</span> <span class="ar">→</span>&nbsp;<span class="q" lang="en">${esc(m[1])}</span></div>`).join('');
-  return `<div class="evRow">${row}</div><div class="anBox">${map ? `<div class="anHead">原文 → 正確選項</div>${map}` : ''}<div class="anNote">${esc(it.note)}</div>${cueLink(it)}${citeBox(it)}</div>`;
+  return `<div class="evRow">${row}</div><div class="anBox">${evQuote(it)}${map ? `<div class="anHead${evQuote(it) ? ' anHead2' : ''}">原文 → 正確選項</div>${map}` : ''}<div class="anNote">${esc(it.note)}</div>${cueLink(it)}${citeBox(it)}</div>`;
 }
 /* 交卷後解析下方連到 cues.html 對應的一節：指涉題分代名詞和名詞，字義題、插入句各一節（說法和 cues.py 一致） */
 const CUE_PRON = new Set(['it','its','they','them','their','this','that','these','those','so','one','ones','others','another','we','he','she','him','her','his','us','such']);
