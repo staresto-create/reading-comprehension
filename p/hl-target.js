@@ -13,7 +13,7 @@
   function apply(root){
     var keys=getKeys(); if(!keys.length) return 0;
     var re=new RegExp('(^|[^A-Za-z])('+keys.map(pat).join('|')+')(?![A-Za-z])','gi');
-    var hosts=root.querySelectorAll('.passage,.stem,.pIntro');
+    var hosts=root.querySelectorAll('.passage,.stem,.pIntro,.qStem');
     var count=0, first=null;
     hosts.forEach(function(h){
       var w=document.createTreeWalker(h,NodeFilter.SHOW_TEXT,null), nodes=[], n;
@@ -40,7 +40,7 @@
         '@media print{.ht-bar{display:none}mark.ht-target{background:none;box-shadow:none}}';
       document.head.appendChild(st);
       var bar=document.createElement('div'); bar.className='ht-bar'; bar.setAttribute('role','status');
-      bar.appendChild(document.createTextNode('黃底是你點選的詞：'+keys.join('、')));
+      bar.appendChild(document.createTextNode('黃底是你查的詞出現的地方：'+keys.join('、')));
       var b=document.createElement('button'); b.type='button'; b.textContent='取消標示';
       b.onclick=function(){
         document.querySelectorAll('mark.ht-target').forEach(function(m){ m.replaceWith(document.createTextNode(m.textContent)); });
