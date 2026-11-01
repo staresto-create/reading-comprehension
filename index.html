@@ -61,6 +61,10 @@
 
   .sec-title{font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:11px; letter-spacing:.12em; color:var(--crimson); text-transform:uppercase; margin:22px 0 10px; display:flex; align-items:center; gap:8px;}
   .sec-title::after{content:""; flex:1; height:1px; background:var(--rule);}
+  .topic-note{font-size:12.5px; color:var(--ink-soft); line-height:1.7; margin:0 0 10px;}
+  .topic-sub-label{font-size:12px; color:var(--ink-soft); margin:10px 0 6px;}
+  .topic-clear{font-size:12px; margin:4px 0 0;}
+  .topic-clear button{background:none; border:0; padding:8px 4px 8px 0; min-height:32px; font:inherit; color:var(--ink-soft); cursor:pointer; text-decoration:underline;}
   .sec-note{font-weight:400; text-transform:none; letter-spacing:0; font-size:11px; margin-left:6px; color:var(--ink-soft);}
 
   .cat-grid{display:flex; flex-wrap:wrap; gap:8px; margin-bottom:6px;}
@@ -445,7 +449,7 @@ details[open]:not(.sh) > summary::after{content:"－ 收合" !important;}
   </header>
 
   <main id="homeView">
-    <nav class="unitbar" id="unitbar" aria-label="本頁單元"><div class="ubrow"><span class="ublab">第一次使用？</span><a href="../JCEE-vocab-questions/howto.html">怎麼使用這個題庫</a></div><div class="ubrow"><span class="ublab">同一題庫</span><a href="map/">題目地圖</a><a href="p/">篇目一覽</a><a href="structures.html">文章的組織方式</a><a href="cues.html">前後文怎麼接起來</a></div><div class="ubrow"><span class="ublab">本頁單元</span><a href="#u-start">開始練習</a><a href="#u-hist">我的學習歷程</a><a href="#u-d1">依據句和逐段中譯</a><a href="#u-d2">六類題型</a><a href="#u-d3">文章結構怎麼看</a><a href="#u-range">選擇練習範圍</a></div><div class="ubnote">支援深色模式（夜間模式），會自動配合手機或電腦的外觀設定。</div></nav>
+    <nav class="unitbar" id="unitbar" aria-label="本頁單元"><div class="ubrow"><span class="ublab">第一次使用？</span><a href="../JCEE-vocab-questions/howto.html">怎麼使用這個題庫</a></div><div class="ubrow"><span class="ublab">同一題庫</span><a href="map/">題目地圖</a><a href="p/">篇目一覽</a><a href="structures.html">文章的組織方式</a><a href="cues.html">前後文怎麼接起來</a></div><div class="ubrow"><span class="ublab">本頁單元</span><a href="#u-start">開始練習</a><a href="#u-hist">我的學習歷程</a><a href="#u-d1">依據句和逐段中譯</a><a href="#u-d2">六類題型</a><a href="#u-d3">文章結構怎麼看</a><a href="#u-range">選擇練習範圍</a><a href="#u-topic">篩選文章主題</a></div><div class="ubnote">支援深色模式（夜間模式），會自動配合手機或電腦的外觀設定。</div></nav>
     <div data-start-here></div>
     <p class="home-desc print-note" style="margin:0 0 14px"><b>想用紙本練習？</b>進到題目畫面後，按最上方的「🖨️ 列印成考卷」，印出來就是考卷：空格留白，不含答案、解析和提示。手機和電腦都能印（也可以存成 PDF）。</p>
     <div class="card">
@@ -577,6 +581,17 @@ details[open]:not(.sh) > summary::after{content:"－ 收合" !important;}
 
       <div class="sec-title">依年度篩選<span class="sec-note">（可複選，不選則不限年度）</span></div>
       <div class="cat-grid" id="yearGrid"></div>
+      <div class="sec-title" id="u-topic">篩選文章主題<span class="sec-note">（選填，可複選）</span></div>
+      <div class="topic-note">依文章談的內容找文章，例如想先讀科學或飲食旅遊類的文章。一篇文章可能同時屬於兩個主題，選其中任一個都找得到。</div>
+      <div class="cat-grid" id="topicGrid"></div>
+      <div id="subWrap" hidden>
+        <div class="topic-sub-label">社會議題可再細分（選填）</div>
+        <div class="cat-grid" id="subGrid"></div>
+      </div>
+      <div class="topic-sub-label">只看台灣相關的文章（選填）</div>
+      <div class="cat-grid" id="twGrid"></div>
+      <div class="topic-clear"><button type="button" onclick="clearTopics()">全不選</button></div>
+
       <div class="sec-title">依組織方式篩選<span class="sec-note">（可複選，不選則不限）<a href="structures.html">各類怎麼辨識 →</a></span></div>
       <div class="cat-grid" id="orgGrid"></div>
       <div class="sec-title" id="catTitle">依題型篩選<span class="sec-note">（可複選，不選則不限）</span></div>
@@ -670,6 +685,12 @@ const ORGS = [
   { key:'pbs', label:'問題解決' }, { key:'exm', label:'舉例說明' }, { key:'cmp', label:'比較對比' },
   { key:'cls', label:'分類' }, { key:'def', label:'定義' }, { key:'dsc', label:'描寫' }
 ];
+/* 文章主題（2026-11-01）：主題是整篇文章的屬性，存在 gsat、zhikao 的 passages.json 的 topic（主要）、topic2（次要）、
+   topicSub（社會議題子標籤）、tw（台灣相關）。同一個主題內是「或」（主要或次要符合即可），主題與其他篩選之間是「且」。
+   網址用 topic=1,6,tw（代碼 1 到 13，與英聽、作文、克漏字各站相同；tw 表示台灣相關）與 sub=1,2（子標籤）。 */
+const TOPIC_ORDER = ['家庭與日常生活','校園與學習','人際關係','自我成長與心理','健康、醫療與運動','社會議題','商業、經濟與職場','科技與媒體','科學與自然','環境與災害','歷史與文化','文學與藝術','飲食與旅遊'];
+const SUB_ORDER = ['人權與法治','性別平等','動物權益','全球議題'];
+let selectedTopics = new Set(), selectedSubs = new Set(), twOnly = false;
 const EXAM_CODE = { '學測':'g', '指考':'z' };
 const CODE_EXAM = { g:'學測', z:'指考' };
 
@@ -699,7 +720,7 @@ async function init(){
   document.getElementById('officialToggle').addEventListener('change', e => {
     officialOnly = e.target.checked; buildYearList(); writeHash();
   });
-  buildExamGrid(); buildYearGrid(); buildOrgGrid(); buildCatGrid(); buildDiffGrid(); buildYearList(); renderStatsBox();
+  buildExamGrid(); buildYearGrid(); buildTopicGrid(); buildOrgGrid(); buildCatGrid(); buildDiffGrid(); buildYearList(); renderStatsBox();
   scrMountStrip();
   renderProgress();
   const pid = new URLSearchParams(location.hash.replace(/^#/,'')).get('p');
@@ -714,6 +735,12 @@ function writeHash(){
   if(selectedOrgs.size) p.set('o', ORGS.filter(g => selectedOrgs.has(g.key)).map(g => g.key).join(','));
   if(selectedCats.size) p.set('t', CATS.filter(c => selectedCats.has(c.k)).map(c => c.key).join(','));
   if(selectedDiffs.size) p.set('d', DIFFS.filter(t => selectedDiffs.has(t.key)).map(t => t.key).join(','));
+  if(selectedTopics.size || twOnly){
+    const codes = TOPIC_ORDER.map((t,i) => selectedTopics.has(t) ? String(i+1) : null).filter(Boolean);
+    if(twOnly) codes.push('tw');
+    p.set('topic', codes.join(','));
+  }
+  if(selectedSubs.size) p.set('sub', SUB_ORDER.map((t,i) => selectedSubs.has(t) ? String(i+1) : null).filter(Boolean).join(','));
   if(diffSort) p.set('ds','1');
   if(officialOnly) p.set('off','1');
   if(curPid && document.getElementById('practiceView').style.display !== 'none') p.set('p', curPid);
@@ -729,6 +756,15 @@ function readHash(){
   (p.get('o')||'').split(',').forEach(k => { if(ORGS.some(g => g.key === k)) selectedOrgs.add(k); });
   (p.get('t')||'').split(',').forEach(k => { const c = CATS.find(x => x.key === k); if(c) selectedCats.add(c.k); });
   (p.get('d')||'').split(',').forEach(k => { if(DIFFS.some(t => t.key === k)) selectedDiffs.add(k); });
+  (p.get('topic')||'').split(',').forEach(c => {
+    if(c === 'tw'){ twOnly = true; return; }
+    const n = parseInt(c, 10);
+    if(/^\d+$/.test(c) && n >= 1 && n <= 13) selectedTopics.add(TOPIC_ORDER[n-1]);
+  });
+  if(selectedTopics.has('社會議題')) (p.get('sub')||'').split(',').forEach(c => {
+    const n = parseInt(c, 10);
+    if(/^\d+$/.test(c) && n >= 1 && n <= 4) selectedSubs.add(SUB_ORDER[n-1]);
+  });
   diffSort = p.get('ds') === '1';
   officialOnly = p.get('off') === '1';
 }
@@ -772,6 +808,16 @@ function yearOk(p){
   return YEAR_GROUPS.some(g => selectedYears.has(g.key) && n >= g.lo && n <= g.hi);
 }
 function officialOk(p){ return !officialOnly || isOfficial(p); }
+function passageTopics(p){ return [p.topic, p.topic2].filter(Boolean); }
+function topicOk(p){
+  if(twOnly && !p.tw) return false;
+  if(selectedTopics.size === 0) return true;
+  return passageTopics(p).some(t => {
+    if(!selectedTopics.has(t)) return false;
+    if(t === '社會議題' && selectedSubs.size > 0) return selectedSubs.has(p.topicSub);
+    return true;
+  });
+}
 function orgOk(p){ return selectedOrgs.size === 0 || (p.structure && selectedOrgs.has(p.structure.orgCode)); }
 /* 題型與難易度都是逐題的條件：一篇裡只要有一題同時符合兩者（沒選的那一項不限），這一篇就列出 */
 function drilling(){ return selectedCats.size > 0 || selectedDiffs.size > 0; }
@@ -814,7 +860,7 @@ function cmpDiff(a,b){
   return ra - rb || cmpPassage(a,b);
 }
 function visiblePassages(){
-  return Object.values(PASSAGES).filter(p => examOk(p) && yearOk(p) && officialOk(p) && orgOk(p) && catOk(p)).sort(diffSort ? cmpDiff : cmpPassage);
+  return Object.values(PASSAGES).filter(p => examOk(p) && yearOk(p) && officialOk(p) && topicOk(p) && orgOk(p) && catOk(p)).sort(diffSort ? cmpDiff : cmpPassage);
 }
 function itemsOf(pid){ return ITEMS.filter(it => it.passageId === pid).sort((a,b) => a.no - b.no); }
 function badge(p){ return isOfficial(p) ? '' : `<span class="badge">${esc(p.examType)}</span>`; }
@@ -845,6 +891,47 @@ function buildYearGrid(){
     g.appendChild(makeChip(`${yg.label}（${n}篇）`, selectedYears.has(yg.key),
       on => on ? selectedYears.add(yg.key) : selectedYears.delete(yg.key)));
   });
+}
+function buildTopicGrid(){
+  const cnt = {}, sub = {}; let tw = 0;
+  Object.values(PASSAGES).forEach(p => {
+    passageTopics(p).forEach(t => { cnt[t] = (cnt[t]||0) + 1; });
+    if(p.topicSub) sub[p.topicSub] = (sub[p.topicSub]||0) + 1;
+    if(p.tw) tw++;
+  });
+  const g = document.getElementById('topicGrid'); g.innerHTML='';
+  TOPIC_ORDER.forEach(t => {
+    if(!cnt[t]) return;
+    g.appendChild(makeChip(`${t}（${cnt[t]}篇）`, selectedTopics.has(t), on => {
+      on ? selectedTopics.add(t) : selectedTopics.delete(t);
+      if(t === '社會議題' && !on) selectedSubs = new Set();
+      buildSubGrid();
+    }));
+  });
+  const sg = document.getElementById('subGrid'); sg.innerHTML='';
+  SUB_ORDER.forEach(t => {
+    if(!sub[t]) return;
+    const sc = makeChip(`${t}（${sub[t]}篇）`, selectedSubs.has(t), on => { on ? selectedSubs.add(t) : selectedSubs.delete(t); });
+    sc.dataset.sub = t; sg.appendChild(sc);
+  });
+  const w = document.getElementById('twGrid'); w.innerHTML='';
+  w.appendChild(makeChip(`台灣相關（${tw}篇）`, twOnly, on => { twOnly = on; }));
+  document.getElementById('subWrap').hidden = !selectedTopics.has('社會議題');
+}
+/* 社會議題的子標籤只在選了「社會議題」時顯示；取消社會議題時子標籤一併清掉 */
+function buildSubGrid(){
+  const wrap = document.getElementById('subWrap');
+  const show = selectedTopics.has('社會議題');
+  wrap.hidden = !show;
+  if(!show){ selectedSubs = new Set(); }
+  document.querySelectorAll('#subGrid .chip').forEach(c => {
+    const t = c.dataset.sub;
+    c.setAttribute('aria-pressed', selectedSubs.has(t) ? 'true' : 'false');
+  });
+}
+function clearTopics(){
+  selectedTopics = new Set(); selectedSubs = new Set(); twOnly = false;
+  buildTopicGrid(); buildYearList(); writeHash();
 }
 function buildOrgGrid(){
   const g = document.getElementById('orgGrid'); g.innerHTML='';
@@ -982,6 +1069,8 @@ function quickStart(){
 }
 function startSelected(){
   if(!curPid){ alert('請先從清單中選一篇。'); return; }
+  /* 先前選的篇章若已被目前的篩選條件排除（清單上看不到），不直接開啟，免得進到畫面上看不出已選的那一篇 */
+  if(!visiblePassages().some(p => p.id === curPid)){ alert('你先前選的那一篇不符合目前的篩選條件，請從下方清單重新選一篇。'); return; }
   openPassage(curPid);
 }
 function startWrongBook(){
@@ -1511,6 +1600,8 @@ init();
     var a=e.target.closest&&e.target.closest('a[href^="#"]'); if(!a) return;
     var t=document.getElementById(a.getAttribute('href').slice(1)); if(!t) return;
     var d=t.tagName==='DETAILS'?t:t.closest('details'); if(d) d.open=true;
+    /* 不改網址的 #，免得蓋掉網址記住的篩選條件（重新整理時才不會遺失） */
+    e.preventDefault(); if(typeof scrollToEl==='function') scrollToEl(t); else t.scrollIntoView();
   });
   if(to){
     to.addEventListener('click',function(e){e.preventDefault(); if(bar) bar.scrollIntoView({block:'center'});});
