@@ -57,3 +57,42 @@
     else apply(document);
   }
 })();
+
+/* 「這一篇的生字表」底下的匯出列：複製到 Quizlet、下載 Anki 匯入檔。
+ * 單字與字詞搭配都從頁面上的生字表讀（.vbRow 的 .vbW 與 .vbZh），不另存一份資料；
+ * 共用程式與音標表從題庫總站載入，載入失敗時不顯示匯出列，生字表照常使用。 */
+(function(){
+  var BASE='https://staresto-create.github.io/JCEE-vocab-questions/';
+  function load(src){
+    return new Promise(function(ok){
+      var s=document.createElement('script'); s.src=BASE+src;
+      s.onload=function(){ok(true);}; s.onerror=function(){ok(false);};
+      document.head.appendChild(s);
+    });
+  }
+  function items(box){
+    var out=[];
+    [].forEach.call(box.querySelectorAll('.vbRow'),function(r){
+      var w=r.querySelector('.vbW'), z=r.querySelector('.vbZh'); if(!w||!z) return;
+      var first=w.firstChild, word=((first&&first.nodeType===3)?first.nodeValue:w.textContent).trim();
+      var p=r.querySelector('.vbPos'), pos=p?p.textContent.trim():'';
+      var zh=z.textContent.trim(); if(!word||!zh) return;
+      out.push({w:word,d:(pos?pos+' ':'')+zh});
+    });
+    return out;
+  }
+  function init(){
+    var box=document.querySelector('details.vbBox'); if(!box||!box.querySelector('.vbRow')) return;
+    var id=(location.pathname.split('/').pop()||'').replace(/\.html$/,'')||'passage';
+    Promise.all([window.VE?true:load('vocab-export.js'),window.KK?true:load('kk.js')]).then(function(r){
+      if(!window.VE) return;
+      var go=function(){
+        var host=document.createElement('div'); host.className='vbExport';
+        box.appendChild(host);
+        VE.mount(host,function(){return items(box);},{scope:'這一篇生字表裡的全部字（關鍵字彙、參考字彙和字詞搭配）',file:'reading_'+id,unit:'條'});
+      };
+      if(window.KK&&KK.ready&&KK.ready.then) KK.ready.then(go,go); else go();
+    });
+  }
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',init); else init();
+})();
