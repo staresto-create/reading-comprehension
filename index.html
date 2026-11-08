@@ -421,6 +421,7 @@ details[open]:not(.sh) > summary::after{content:"－ 收合" !important;}
 </style>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/speaker.js"></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/kk.js"></script>
+<script src="https://staresto-create.github.io/JCEE-vocab-questions/vocab-export.js"></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/progress.js"></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/resume.js" defer></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/start.js" defer></script>
@@ -1345,10 +1346,10 @@ const VB_NOTE2 = '生字表分成三部分：關鍵字彙、參考字彙和字�
 const VB_SITE = {gsat:['https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-','學測單字題庫'], zhikao:['https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-','指考單字題庫']};
 const COL_NOTE = '「字詞搭配」是要整組記的說法，分兩種：一種是哪兩個字配在一起，例如 pose a serious risk（造成嚴重的風險）、in unison（齊聲），換成意思相近的字就不自然；另一種是這個字後面要接什麼，寫成公式，例如 be resistant to + N（對……有抵抗力）。公式裡的 + N 表示接名詞，+ V 接原形動詞，+ V-ing 接動名詞，sb 指人，sth 指事物，「時間」「地方」這類中文表示那裡要填的東西。名稱不必背，看得出這一條寫的是「配對」還是「接法」就夠了；記住搭配和接法，這個字你才用得出來，不會只是看得懂。一看就懂的組合和專有名詞不列。每一條寫的是查字典時的基本形，文中的寫法不同時，下面附上原文。';
 function colRow(c){
-  return `<li class="vbRow"><span class="vbW" lang="en">${esc(c.e)}</span>${window.KK ? KK.html(c.e) : ''}<span class="vbZh">${esc(c.zh)}</span><span class="vbMeta">${vbAt(c.at)}</span>${c.src ? `<span class="vbT">原文：<span lang="en">${esc(c.src)}</span></span>` : ''}</li>`;
+  return `<li class="vbRow" data-ve-w="${esc(c.e)}" data-ve-d="${esc(c.zh)}"><span class="vbW" lang="en">${esc(c.e)}</span>${window.KK ? KK.html(c.e) : ''}<span class="vbZh">${esc(c.zh)}</span><span class="vbMeta">${vbAt(c.at)}</span>${c.src ? `<span class="vbT">原文：<span lang="en">${esc(c.src)}</span></span>` : ''}</li>`;
 }
 function vbRow(v, key){
-  let h = `<li class="vbRow"><span class="vbW" lang="en">${esc(v.w)}${v.h ? ` <span class="vbH">（詞彙表：<span lang="en">${esc(v.h)}</span>）</span>` : ''}${window.SPK ? SPK.html(v.w, true) : ''}</span>${window.KK ? KK.html(v.w) : ''}<span class="vbPos" lang="en">${esc(v.pos)}</span><span class="vbZh">${esc(v.zh)}</span><span class="vbMeta"><span class="vbLv${v.lv ? '' : ' off'}">${VB_LV[v.lv]}</span>${vbAt(v.at)}</span>`;
+  let h = `<li class="vbRow" data-ve-w="${esc(v.w)}" data-ve-d="${esc((v.pos && !/^[a-z.\/]+\.\s/.test(v.zh) ? v.pos + ' ' : '') + v.zh)}"><span class="vbW" lang="en">${esc(v.w)}${v.h ? ` <span class="vbH">（詞彙表：<span lang="en">${esc(v.h)}</span>）</span>` : ''}${window.SPK ? SPK.html(v.w, true) : ''}</span>${window.KK ? KK.html(v.w) : ''}<span class="vbPos" lang="en">${esc(v.pos)}</span><span class="vbZh">${esc(v.zh)}</span><span class="vbMeta"><span class="vbLv${v.lv ? '' : ' off'}">${VB_LV[v.lv]}</span>${vbAt(v.at)}</span>`;
   if(key){
     const head = (v.h || v.w).toLowerCase();
     const refs = v.t.map(([s, q, lab, k, f]) => `<a href="${VB_SITE[s][0]}${q}" target="_blank" rel="noopener" title="到${VB_SITE[s][1]}作答">${esc(lab)}</a>${f.toLowerCase() !== head ? ` <span lang="en">${esc(f)}</span>` : ''}${k === 'a' ? '（答案）' : '（誘答）'}`).join('、');
@@ -1363,8 +1364,9 @@ function renderVocab(p){
   const rh = R.length ? `<ul class="vbList">${R.map(v => vbRow(v, false)).join('')}</ul>` : '<p class="vbNone">這一篇沒有要列的參考字彙。</p>';
   const C = p.col || [];
   const ch = C.length ? `<h3 class="vbHd">字詞搭配 <span class="vbHs">配對與接法</span></h3><div class="vbNote">${COL_NOTE}</div><ul class="vbList">${C.map(colRow).join('')}</ul>` : '';
-  return `<details class="vbBox"${vbOpen ? ' open' : ''} ontoggle="vbOpen = this.open"><summary>這一篇的生字表 <span class="vbSub">（關鍵字彙 ${K.length} 個、參考字彙 ${R.length} 個${C.length ? `、字詞搭配 ${C.length} 組` : ''}）</span></summary>
+  return `<details class="vbBox" data-ve-root${vbOpen ? ' open' : ''} ontoggle="vbOpen = this.open"><summary>這一篇的生字表 <span class="vbSub">（關鍵字彙 ${K.length} 個、參考字彙 ${R.length} 個${C.length ? `、字詞搭配 ${C.length} 組` : ''}）</span></summary>
     <div class="vbNote">${VB_NOTE2}</div>
+    ${window.VE ? VE.bar({scope: '這一篇生字表裡的全部字（關鍵字彙、參考字彙和字詞搭配）', file: 'reading_vocab'}) : ''}
     <h3 class="vbHd">關鍵字彙 <span class="vbHs">第三到第五級、詞彙題考過的字</span></h3>${kh}
     <h3 class="vbHd">參考字彙 <span class="vbHs">詞彙題沒考過的五級字、六級字、詞彙表外的字</span></h3>${rh}${ch}
   </details>`;
