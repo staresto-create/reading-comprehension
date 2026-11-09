@@ -675,13 +675,13 @@ details[open]:not(.sh) > summary::after{content:"－ 收合" !important;}
 const HISTORY_KEY = 'jcee_rc_history_v1';
 const WRONG_KEY   = 'jcee_rc_wrong_ids_v1';
 
-function loadHistory(){ try{ return JSON.parse(localStorage.getItem(HISTORY_KEY)) || []; }catch(e){ return []; } }
+function loadHistory(){ try{ const a = JSON.parse(localStorage.getItem(HISTORY_KEY)); return Array.isArray(a) ? a.filter(h => h && typeof h === 'object') : []; }catch(e){ return []; } }
 /* 完成度：按「交卷」才算這一篇的題目做過（沒答的題不算） */
 function renderProgress(){
   try{ if(window.SCProgress) SCProgress.mountBar(document.getElementById('progressHost'), 'reading', ITEMS.map(x => x.id)); }catch(e){}
 }
 function saveHistory(h){ try{ localStorage.setItem(HISTORY_KEY, JSON.stringify(h)); }catch(e){} }
-function loadWrongIds(){ try{ return JSON.parse(localStorage.getItem(WRONG_KEY)) || []; }catch(e){ return []; } }
+function loadWrongIds(){ try{ const w = JSON.parse(localStorage.getItem(WRONG_KEY)); return Array.isArray(w) ? w.filter(x => typeof x === 'string') : []; }catch(e){ return []; } }
 function saveWrongIds(w){ try{ localStorage.setItem(WRONG_KEY, JSON.stringify(w)); }catch(e){} }
 function isTestMode(){ const el=document.getElementById('testModeToggle'); return !!(el && el.checked); }
 
