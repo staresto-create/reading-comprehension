@@ -89,7 +89,7 @@
       var go=function(){
         var host=document.createElement('div'); host.className='vbExport';
         box.appendChild(host);
-        VE.mount(host,function(){return items(box);},{scope:'這一篇生字表裡的全部字（關鍵字彙、參考字彙和字詞搭配）',file:'reading_'+id,unit:'條'});
+        VE.mount(host,function(){return items(box);},{scope:'這一篇生字表裡的全部條目（關鍵字彙、參考字彙和字詞搭配）',file:'reading_'+id,unit:'條'});
       };
       if(window.KK&&KK.ready&&KK.ready.then) KK.ready.then(go,go); else go();
     });
