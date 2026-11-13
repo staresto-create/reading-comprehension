@@ -40,7 +40,7 @@
         '@media print{.ht-bar{display:none}mark.ht-target{background:none;box-shadow:none}}';
       document.head.appendChild(st);
       var bar=document.createElement('div'); bar.className='ht-bar'; bar.setAttribute('role','status');
-      bar.appendChild(document.createTextNode('黃底是連結標出的地方：'+keys.join('、')));
+      bar.appendChild(document.createTextNode('連結要你看的地方已標成黃底：'+keys.join('、')));
       var b=document.createElement('button'); b.type='button'; b.textContent='取消標示';
       b.onclick=function(){
         document.querySelectorAll('mark.ht-target').forEach(function(m){ m.replaceWith(document.createTextNode(m.textContent)); });
