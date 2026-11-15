@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>因果關係｜拆解閱讀測驗：「久坐病」的危害</title>
+<meta name="description" content="用大考中心 104 學測閱讀測驗第 53–56 題，一步一步拆解因果關係的文章：找因果動詞、排因果鏈、看 But wait 是誰在說話。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@500;700&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{--paper:#F6F1E4;--card:#FFFDF7;--ink:#221F1A;--soft:#5B5648;--rule:#DCD3BB;--crimson:#AE3626;--sage:#3E6E52;--gold:#A9812E;
+--onsage:#fff;--hl:#F3E6B8;--sagebg:#CFE3D4;--miss:#E6DFCB;--gobg:#221F1A;--gofg:#F6F1E4;--surface:#fff;--shadow:0 1px 0 rgba(34,31,26,.06),0 8px 24px rgba(34,31,26,.08)}
+@media screen and (prefers-color-scheme:dark){:root{--paper:#1B1916;--card:#26231F;--ink:#EDE7D8;--soft:#B8B0A0;--rule:#4C463B;--crimson:#E57B68;--sage:#82C09C;--gold:#DDA94F;--onsage:#14241A;--hl:#463C14;--sagebg:#24402F;--miss:#34302A;--gobg:#82C09C;--gofg:#14241A;--surface:#2D2A25;--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.35);color-scheme:dark}}
+*{box-sizing:border-box}
+html{font-size:17px}
+html.proj{font-size:clamp(22px,2vw,40px)}
+@media (max-width:600px){html.proj{font-size:19px}}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:'Noto Sans TC',-apple-system,"PingFang TC","Microsoft JhengHei",sans-serif;line-height:1.85;-webkit-text-size-adjust:100%}
+a{color:var(--crimson)}
+.wrap{max-width:46rem;margin:0 auto;padding:1.3rem 1rem 4rem}
+html.proj .wrap{max-width:64rem;padding-bottom:calc(7rem + env(safe-area-inset-bottom))}
+.serif{font-family:'Noto Serif TC',"Times New Roman",serif}
+h1{font-family:'Noto Serif TC',serif;font-size:1.45rem;line-height:1.5;margin:0 0 .3rem}
+.sub{color:var(--soft);font-size:.88rem;margin:0 0 .8rem}
+.lede{margin:.4rem 0 .9rem}
+.bar{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:.2rem 0 1rem}
+.bar button,.bar a.pill{font:inherit;font-size:.82rem;background:var(--card);color:var(--ink);border:1px solid var(--rule);border-radius:999px;padding:.45rem .95rem;min-height:44px;cursor:pointer;text-decoration:none}
+.bar button:focus-visible,.go:focus-visible,.cards button:focus-visible,.opts button:focus-visible{outline:2px solid var(--crimson);outline-offset:2px}
+.resume{font-size:.85rem;background:var(--sagebg);border-radius:.3rem;padding:.45rem .7rem;margin:0 0 .9rem}
+.resume[hidden]{display:none}
+.resume button{font:inherit;font-size:.8rem;margin-left:.5rem;cursor:pointer;background:var(--card);color:var(--ink);border:1px solid var(--rule);border-radius:.25rem;padding:.1rem .6rem}
+details.full{background:var(--card);border:1px solid var(--rule);border-radius:4px;padding:.55rem .9rem;margin:0 0 1rem}
+details.full summary{cursor:pointer;font-size:.92rem}
+details.full p{font-family:'Noto Serif TC',"Times New Roman",serif;font-size:.95rem;margin:.6rem 0;line-height:1.8}
+details.full p i{font-style:normal;font-family:'Noto Sans TC',sans-serif;color:var(--soft);font-size:.78rem;margin-right:.4rem}
+html.proj details.full{font-size:.9rem}
+html.proj footer,html.proj #rst,html.proj .go{display:none}
+html.proj .stepno,html.proj .cards small,html.proj .quote i,html.proj .score{font-size:.9rem}
+.step{border-top:1px solid var(--rule);padding-top:1.1rem;margin-top:1.5rem}
+.step[hidden]{display:none}
+html.proj .step{display:none;border-top:0;margin-top:.5rem}
+html.proj .step.cur{display:block}
+.stepno{font-size:.8rem;color:var(--soft);margin:0 0 .15rem}
+.step[data-fin="1"] .stepno::after{content:" ✓ 已完成";color:var(--sage);font-weight:700}
+h2{font-family:'Noto Serif TC',serif;font-size:1.15rem;margin:0 0 .5rem;color:var(--crimson)}
+.step p{margin:0 0 .7rem}
+.how{font-size:.88rem;color:var(--soft);border-left:3px solid var(--gold);padding:.1rem .7rem;margin:0 0 .8rem}
+.quote{background:var(--card);border:1px solid var(--rule);border-radius:4px;padding:.65rem .85rem;margin:.2rem 0 .9rem;font-family:'Noto Serif TC',"Times New Roman",serif;font-size:.95rem;line-height:1.85}
+.quote i{font-style:normal;font-family:'Noto Sans TC',sans-serif;font-size:.74rem;color:var(--soft);display:block;margin-top:.35rem}
+.quote mark,.said mark{background:var(--hl);color:inherit;border-radius:.15rem;padding:0 .1rem}
+.quote .blank.filled{border-bottom:2px solid var(--sage);color:var(--sage);font-family:'Noto Serif TC',"Times New Roman",serif;font-size:inherit;text-align:left}
+.quote .blank{display:inline-block;min-width:5rem;border-bottom:2px dashed var(--crimson);color:var(--crimson);text-align:center;font-family:'Noto Sans TC',sans-serif;font-size:.85rem;margin:0 .1rem}
+.cards{display:flex;flex-wrap:wrap;gap:.45rem;margin:.2rem 0 .8rem}
+.cards button{font:inherit;font-family:'Noto Serif TC',"Times New Roman",serif;font-size:.95rem;background:var(--card);color:var(--ink);border:1px solid var(--rule);border-radius:.3rem;padding:.4rem .75rem;cursor:pointer;text-align:left;position:relative}
+.cards button small{display:block;font-family:'Noto Sans TC',sans-serif;font-size:.78rem;color:var(--soft);margin-top:.05rem}
+@media (hover:hover){.cards button:hover{border-color:var(--gold)}.opts button:hover{border-color:var(--gold)}}
+.cards button.hit{background:var(--sagebg);border-color:var(--sage);outline:none}
+.cards button.tick::before{content:"✓ ";color:var(--sage);font-weight:700}
+.cards.done{flex-direction:column;align-items:flex-start}
+.cards button.miss{background:var(--miss);color:var(--soft);border-style:dashed}
+.cards button.nope{animation:nope .3s;outline:2px solid var(--crimson)}
+.cards button .no{position:absolute;top:-.5rem;right:-.4rem;background:var(--sage);color:var(--onsage);border-radius:999px;font-family:'Noto Sans TC',sans-serif;font-size:.72rem;min-width:1.2rem;height:1.2rem;line-height:1.2rem;text-align:center}
+@keyframes nope{25%{transform:translateX(-4px)}75%{transform:translateX(4px)}}
+.score{font-size:.86rem;color:var(--soft);margin:0 0 .7rem}
+.score em{font-style:normal;color:var(--sage);font-weight:700}
+.opts{display:flex;flex-direction:column;gap:.45rem;margin:.2rem 0 .8rem}
+.opts button{font:inherit;font-size:.95rem;background:var(--card);color:var(--ink);border:1px solid var(--rule);border-radius:.3rem;padding:.45rem .8rem;cursor:pointer;text-align:left}
+.opts.en button{font-family:'Noto Serif TC',"Times New Roman",serif}
+.opts button[data-state=right]{background:var(--sage);border-color:var(--sage);color:var(--onsage)}
+.opts button[data-state=right]::after{content:"  ✓ 答案";font-weight:700}
+.opts button[data-state=wrong]{background:var(--miss);color:var(--soft)}
+.opts button[data-state=chosen]{background:var(--miss);color:var(--soft);border-color:var(--crimson);border-width:2px}
+.opts button[data-state=chosen]::after{content:"  ✗ 你的選擇";color:var(--crimson);font-weight:700}
+.opts button[disabled]{cursor:default}
+.rowq{margin:.2rem 0 .9rem}
+.rowq b{display:block;font-size:.9rem;margin-bottom:.25rem}
+.said{background:var(--card);border-left:3px solid var(--sage);border-radius:.3rem;padding:.7rem .85rem;margin:.2rem 0 .9rem;font-size:.93rem;box-shadow:var(--shadow)}
+.said[hidden]{display:none}
+.said p{margin:0 0 .6rem}
+.said ol{margin:.3rem 0 .6rem;padding-left:1.3rem}
+.said .ex{font-family:'Noto Serif TC',"Times New Roman",serif}
+.cmp{display:grid;grid-template-columns:auto 1fr;gap:.2rem .7rem;font-size:.9rem;margin:.4rem 0 .7rem}
+.cmp span:nth-child(odd){color:var(--soft)}
+.go{font:inherit;font-size:.92rem;background:var(--gobg);color:var(--gofg);border:1px solid var(--gobg);border-radius:.3rem;padding:.4rem 1.05rem;cursor:pointer}
+.go[hidden]{display:none}
+.gs.shown{background:var(--hl)}
+.gs:not(.shown){color:var(--soft);font-family:'Noto Sans TC',sans-serif;font-size:.85rem}
+.alt{font:inherit;font-size:.85rem;background:var(--card);color:var(--crimson);border:1px solid var(--rule);border-radius:.3rem;padding:.3rem .8rem;cursor:pointer;margin-bottom:.8rem}
+.alt[hidden]{display:none}
+.tag{display:inline-block;font-size:.72rem;border:1px solid var(--crimson);color:var(--crimson);border-radius:3px;padding:0 .4rem;margin-bottom:.4rem}
+.close ol{padding-left:1.3rem}
+.close li{margin-bottom:.45rem}
+.links{font-size:.88rem}
+footer{margin-top:2.5rem;font-size:.78rem;color:var(--soft);line-height:1.8}
+.pnav{display:none}
+html.proj .pnav{display:flex;position:fixed;left:0;right:0;bottom:0;gap:.8rem;justify-content:center;align-items:center;background:var(--card);border-top:1px solid var(--rule);padding:.5rem}
+.pnav button,.pnav span{white-space:nowrap}
+.pnav button{font:inherit;font-size:.8rem;background:var(--gobg);color:var(--gofg);border:0;border-radius:.3rem;padding:.35rem 1.1rem;cursor:pointer}
+.pnav button:disabled{opacity:.35}
+.pnav span{font-size:.8rem;color:var(--soft)}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+@media print{.bar,.pnav,.go,.alt{display:none}}
+</style>
+</head>
+<body data-key="walk-g104p4-v2" data-gap="In essence, fundamental changes in biology occur if you sit for too long.">
+<main class="wrap">
+<section class="step cur" id="s0" style="border-top:0;margin-top:0;padding-top:0">
+<h1>因果關係：沒有 because，也看得出誰造成誰</h1>
+<p class="sub">104 學測　第 53–56 題　The Dangers of “Sitting Disease”</p>
+<p class="lede">這一篇講久坐為什麼傷身。你會自己點、自己排、自己驗證：先找出表示因果的動詞，再把因果鏈排出來，接著看 But wait 之後作者真正要說什麼，最後做一題篇章結構。</p>
+<p class="sub">共四步，做完會出現重點整理。</p>
+<div class="bar"><button id="pj" type="button">投影模式（大字、一次一步）</button><button id="rst" type="button">重新開始</button></div>
+<p class="resume" id="rs" hidden>已接續上次的進度。</p>
+<details class="full"><summary>先看全文（4 段）</summary><p><i>第 1 段</i>You’ve most likely heard the news by now: A car-commuting, desk-bound, TV-watching lifestyle can be harmful to our health. All the time that we spend rooted in the chair is linked to increased risks of so many deadly diseases that experts have named this modern-day health epidemic the “sitting disease.”</p><p><i>第 2 段</i>Sitting for too long slows down the body’s metabolism and the way enzymes break down our fat reserves, raising both blood sugar levels and blood pressure. Small amounts of regular activity, even just standing and moving around, throughout the day is enough to bring the increased levels back down. And those small amounts of activity add up—30 minutes of light activity in two or three-minute bursts can be just as effective as a half-hour block of exercise. But without that activity, blood sugar levels and blood pressure keep creeping up, steadily damaging the inside of the arteries and increasing the risk of diabetes, heart disease, stroke, and other serious diseases. <span class="gs" data-full="In essence, fundamental changes in biology occur if you sit for too long.">（第四步的空格，做完再顯示）</span></p><p><i>第 3 段</i>But wait, you’re a runner. You needn’t worry about the harm of a sedentary lifestyle because you exercise regularly, right? Well, not so fast. Recent studies show that people spend an average of 64 hours a week sitting, whether or not they exercise 150 minutes a week as recommended by World Health Organization (WHO). Regular exercisers, furthermore, are found to be about 30 percent less active on days when they exercise. Overall, most people simply aren’t exercising or moving around enough to counteract all the harm that can result from sitting nine hours or more a day.</p><p><i>第 4 段</i>Scared straight out of your chair? Good. The remedy is as simple as standing up and taking activity breaks.</p></details>
+</section>
+<section class="step" id="s1" data-type="pick" data-need="5">
+<p class="stepno">第一步</p>
+<h2>因果不一定寫 because</h2>
+<p>講因果關係的文章，常常不用 because 或 so，而是用<b>動詞</b>標出因果。下面八張字卡都來自文章，有五張是在說「A 造成 B」的字或片語。把這五張找出來。點錯會變灰，還可以再點。</p><div class="cards"><button type="button" data-ok="1">slows down<small>第 2 段</small></button><button type="button">an average of 64 hours a week<small>第 3 段</small></button><button type="button" data-ok="1">raising<small>第 2 段</small></button><button type="button">standing and moving around<small>第 2 段</small></button><button type="button" data-ok="1">damaging<small>第 2 段</small></button><button type="button">about 30 percent less active<small>第 3 段</small></button><button type="button" data-ok="1">increasing the risk of<small>第 2 段</small></button><button type="button" data-ok="1">result from<small>第 3 段</small></button></div><p class="score" aria-live="polite"></p><button class="alt" type="button" hidden>找不到，直接看答案</button><div class="said" hidden><p><b>五張都是表示因果的動詞，第 2 段一個 because 也沒有。</b>slows down 是「使……變慢」，raising 是「使……上升」，damaging 是「損害」，increasing the risk of 是「增加……的風險」。</p><p><b>result from 是倒著寫的：</b>前面放結果，from 後面才是原因。the harm that can result from sitting 裡，harm 是結果，sitting 是原因。result in 的方向正好相反：A results in B，前面是原因。</p><p>第 1 段的 is linked to 只表示兩件事有關係，還沒有說誰造成誰，所以不算因果。沒被選到的三張是數據和動作，也沒有說誰造成誰。</p></div><button class="go" type="button" hidden>這些動詞連起來，是一條因果鏈</button>
+</section>
+<section class="step" id="s2" data-type="order" hidden>
+<p class="stepno">第二步</p>
+<h2>自己驗證：排因果鏈</h2>
+<p class="how">方法：相鄰的兩張，唸成「因為前一張，所以這一張」。唸得通，還要在文章裡找得到表示因果的動詞或連接詞，才算因果；只能說「而且」的，是並列。</p><p>第 2 段把久坐怎麼傷身寫成一條因果鏈。下面四張卡順序已經打亂，請從<b>最前面的原因</b>開始，一張一張點。點對了會標上號碼，點錯會提醒，還可以再點。</p><div class="quote">Sitting for too long <mark>slows down</mark> the body’s metabolism … <mark>raising</mark> both blood sugar levels and blood pressure. … blood sugar levels and blood pressure keep creeping up, steadily <mark>damaging</mark> the inside of the arteries and <mark>increasing the risk of</mark> diabetes, heart disease, stroke, and other serious diseases.<i>第 2 段</i></div><div class="cards"><button type="button" data-ord="3">血糖和血壓上升</button><button type="button" data-ord="1">坐太久</button><button type="button" data-ord="4">動脈受損，疾病風險也增加</button><button type="button" data-ord="2">新陳代謝變慢</button></div><p class="score" aria-live="polite"></p><button class="alt" type="button" hidden>找不到，直接看答案</button><div class="said" hidden><p><b>因果鏈是：</b>坐太久 → 新陳代謝變慢 → 血糖和血壓上升 → 動脈受損，疾病風險也增加。</p><p>三個箭頭，文章用的都是動詞（slows down、raising、damaging 和 increasing the risk of），沒有 because。</p><p>最後一張卡其實有兩件事：damaging 和 increasing the risk of 中間用 and 連接，兩件事都是血糖、血壓持續升高的結果，彼此是並列。拿「因為動脈受損，所以疾病風險增加」來唸雖然唸得通，但文章沒有這樣寫。</p></div><button class="go" type="button" hidden>有運動習慣，就不用擔心嗎？</button>
+</section>
+<section class="step" id="s3" data-type="choice" hidden>
+<p class="stepno">第三步</p>
+<h2>But wait 和 not so fast：作者真正要說的是什麼</h2>
+<p>第 2 段說，久坐會一步一步傷身。第 3 段用 But wait 轉個方向，替有運動習慣的讀者發問。看看作者怎麼說：</p><div class="quote"><mark>But wait</mark>, you’re a runner. You needn’t worry about the harm of a sedentary lifestyle because you exercise regularly, right? Well, <mark>not so fast</mark>. Recent studies show that people spend an average of 64 hours a week sitting, whether or not they exercise 150 minutes a week as recommended by World Health Organization (WHO). Regular exercisers, furthermore, are found to be about 30 percent less active on days when they exercise. Overall, most people simply aren’t exercising or moving around enough to counteract all the harm that can result from sitting nine hours or more a day.<i>第 3 段</i></div><p>這一段想說明的是什麼？</p><div class="opts"><button type="button">(A) 規律運動的人坐的時間比不運動的人少，所以不必擔心久坐</button><button type="button">(B) 只要每週運動滿 150 分鐘，就能抵消久坐對身體的傷害</button><button type="button" data-ok="1">(C) 多數人的運動和走動量，不足以抵消每天久坐造成的傷害</button><button type="button">(D) 有運動的日子，人會走動得更多，所以久坐的傷害比較小</button></div><div class="said" hidden><p><b>But wait 那兩句是作者替讀者發問：我有在跑步，應該不用擔心吧？Well, not so fast 是作者的回答：沒那麼簡單。</b>後面兩個數據是理由，Overall 那一句是結論。</p><p>(A) 和文章相反：whether or not they exercise，不管有沒有運動，每週平均都坐 64 小時。(B) 正是 But wait 那一方的想法，被 not so fast 否定：就算運動滿 150 分鐘，坐的時間還是很長。(D) 和文章相反：有運動的日子，活動量反而少了大約三成（about 30 percent less active）。</p></div><button class="go" type="button" hidden>最後一步：把一句話放回去</button>
+</section>
+<section class="step" id="s4" data-type="choice" hidden>
+<p class="stepno">第四步</p>
+<h2>把一句話放回去</h2>
+<span class="tag">本題庫自編，仿篇章結構題</span><p>下面把第 2 段最後一句抽掉了。四個句子，只有一句放得進去。前三步練的東西，這一題都用得上。</p><div class="quote">But without that activity, blood sugar levels and blood pressure keep creeping up, steadily damaging the inside of the arteries and increasing the risk of diabetes, heart disease, stroke, and other serious diseases. <span class="blank">（空格）</span><i>第 2 段</i></div><div class="quote"><mark>But wait</mark>, you’re a runner. You needn’t worry about the harm of a sedentary lifestyle because you exercise regularly, right?<i>第 3 段</i></div><div class="opts en"><button type="button">(A) In contrast, brief activity breaks do little to lower blood sugar or blood pressure.</button><button type="button" data-ok="1">(B) In essence, fundamental changes in biology occur if you sit for too long.</button><button type="button">(C) As a result, most people cannot avoid sitting for several hours each day.</button><button type="button">(D) In fact, experts have never been sure what makes sitting so harmful to the body.</button></div><div class="said" hidden><p><b>答案是 (B)，三個線索要一起看。</b></p><p><b>In essence 是表示總結的標記。</b>前面講了一整條因果鏈，這是總結的位置。(B) 的 if you sit for too long 呼應第 2 段第一句的 Sitting for too long，把整條因果鏈收成一句：坐太久，身體在生理上會有根本的改變。第 3 段的 Overall 也是同樣的作用。</p><p><b>下一段接得順。</b>(B) 說坐太久，身體就會改變。第 3 段的 But wait 正好接著替讀者發問：我有在跑步，這應該跟我沒關係吧？</p><p><b>內容不能互相矛盾。</b>(A) 說短暫的活動沒什麼用，但這一段前面說 Small amounts of regular activity 就夠了。(C) 的 As a result 表示後面是前一句造成的結果。前一句講的是疾病風險增加，可是「多數人無法避免久坐」不是疾病風險增加造成的。(D) 說專家 never been sure，但第 2 段正在一步一步解釋久坐為什麼有害，作者不會接著說專家從來不確定原因。</p></div><button class="go" type="button" hidden>看重點整理</button>
+</section>
+
+<section class="step close" id="sx" hidden>
+<h2>重點整理</h2>
+<ol><li><b>因果不一定寫 because 或 so。</b>slows down、raising、damaging、increasing the risk of，這些動詞就是在標出因果。</li><li><b>要看原因和結果的位置。</b>A causes B、A results in B 和 B results from A 講的是同一件事；前兩種原因在前，result from 則是結果在前、原因在後。看到 result from，要從後面往前讀。</li><li><b>因果鏈可以自己驗證。</b>相鄰兩項唸成「因為……所以……」，唸得通，還要找到表示因果的動詞或連接詞；只能說「而且」的，是並列。</li><li><b>But wait 先替讀者提出疑問，not so fast 再回答。</b>這種一問一答，重點在回答的那一方，後面的數據是回答的理由。</li></ol>
+<p class="links"><a href="https://staresto-create.github.io/reading-comprehension/p/g104p4.html">回到這一篇的題目與解析 →</a>　<a href="https://staresto-create.github.io/reading-comprehension/structures.html">文章的組織方式 →</a></p>
+</section>
+<footer>資料來源：大學入學考試中心公布之歷屆試題。本頁第四步「把一句話放回去」的題目，由本題庫仿照篇章結構題型自編，不是大考原題。<br>© 2026 staresto-create ZZSH · 免費、無廣告的非營利自學題庫</footer>
+</main>
+<nav class="pnav" aria-label="投影模式換頁"><button id="pprev" type="button">← 上一步</button><span id="pc"></span><button id="pnext" type="button">下一步 →</button><button id="pexit" type="button">離開投影</button></nav>
+<script>
+(function(){
+"use strict";
+function $(s,r){return (r||document).querySelector(s);}
+function $$(s,r){return Array.prototype.slice.call((r||document).querySelectorAll(s));}
+var KEY=document.body.dataset.key, PROJ=false;
+var ST={done:{}};
+function save(){ if(PROJ) return; try{localStorage.setItem(KEY,JSON.stringify(ST));}catch(e){} }
+function load(){ try{var r=localStorage.getItem(KEY);return r?JSON.parse(r):null;}catch(e){return null;} }
+var steps=$$(".step");
+var impl={};
+function nextOf(st){var i=steps.indexOf(st);return steps[i+1]||null;}
+function reveal(st){ $$(".said",st).forEach(function(x){x.hidden=false;}); var g=$(".go",st); if(g) g.hidden=false; var sk=$(".alt",st); if(sk) sk.hidden=true; }
+function finish(st,silent){
+  if(st.dataset.fin==="1") return; st.dataset.fin="1";
+  reveal(st);
+  if(st.id==="s4"){ var ans=document.body.dataset.gap; if(ans){ $$(".blank").forEach(function(b){ b.textContent=ans; b.classList.add("filled"); }); } $$(".gs").forEach(function(g){ g.textContent=g.dataset.full; g.classList.add("shown"); }); }
+  if(!silent){ST.done[st.id]=1; save();}
+}
+/* pick */
+impl.pick=function(st,restore){
+  var box=$(".cards",st), need=+st.dataset.need, got=0, clicks=0, sc=$(".score",st), sk=$(".alt",st);
+  function paint(){ if(sc) sc.innerHTML=got>=need?"全部找到了":"找到 <em>"+got+"</em> / "+need; }
+  function sweep(){ $$("button",box).forEach(function(b){ if(b.dataset.ok){b.classList.remove("miss");b.classList.add("hit","tick");} else b.classList.add("miss"); }); }
+  function all(){ sweep(); got=need; paint(); finish(st); }
+  box.addEventListener("click",function(e){
+    var b=e.target.closest("button"); if(!b||st.dataset.fin==="1") return;
+    if(!b.dataset.ok){ b.classList.add("miss"); clicks++; if(clicks>=2&&sk) sk.hidden=false; return; }
+    if(b.classList.contains("hit")) return;
+    b.classList.remove("miss"); b.classList.add("hit","tick"); b.setAttribute("aria-pressed","true"); got++; paint();
+    if(got>=need){ sweep(); finish(st); }
+  });
+  if(sk) sk.addEventListener("click",all);
+  paint();
+  if(restore) all();
+};
+/* order */
+impl.order=function(st,restore){
+  var box=$(".cards",st), btns=$$("button",box), n=0, bad=0, sk=$(".alt",st), sc=$(".score",st);
+  function paint(){ if(sc) sc.innerHTML="已排好 <em>"+n+"</em> / "+btns.length; }
+  function arrange(){ btns.forEach(function(b){ b.style.order=b.dataset.ord; b.classList.remove("nope"); }); box.classList.add("done"); }
+  function all(){ btns.forEach(function(b){ if(!b.classList.contains("hit")){ b.classList.add("hit"); var s=document.createElement("span"); s.className="no"; s.textContent=b.dataset.ord; b.appendChild(s);} }); n=btns.length; paint(); arrange(); finish(st); }
+  box.addEventListener("click",function(e){
+    var b=e.target.closest("button"); if(!b||st.dataset.fin==="1"||b.classList.contains("hit")) return;
+    if(+b.dataset.ord===n+1){ n++; b.classList.remove("nope"); b.classList.add("hit"); var s=document.createElement("span"); s.className="no"; s.textContent=n; b.appendChild(s); paint(); if(n>=btns.length){ arrange(); finish(st); } }
+    else { bad++; b.classList.remove("nope"); void b.offsetWidth; b.classList.add("nope"); if(sc) sc.innerHTML="這張還不是第 "+(n+1)+" 個，再想想。已排好 <em>"+n+"</em> / "+btns.length; if(bad>=2&&sk) sk.hidden=false; }
+  });
+  if(sk) sk.addEventListener("click",all);
+  paint();
+  if(restore) all();
+};
+/* choice / gap : one shot */
+impl.choice=function(st,restore){
+  var box=$(".opts",st);
+  function settle(chosen){ $$("button",box).forEach(function(b){ b.disabled=true; b.dataset.state=b.dataset.ok?"right":"wrong"; }); if(chosen&&!chosen.dataset.ok) chosen.dataset.state="chosen"; finish(st); }
+  box.addEventListener("click",function(e){ var b=e.target.closest("button"); if(!b||st.dataset.fin==="1") return; settle(b); });
+  if(restore) settle(null);
+};
+/* match : several rows */
+impl.match=function(st,restore){
+  var rows=$$(".rowq",st), left=rows.length;
+  function lock(r){ $$("button",r).forEach(function(b){b.disabled=true; if(b.dataset.ok){b.dataset.state="right";} else b.dataset.state="wrong";}); r.dataset.ok="1"; }
+  rows.forEach(function(r){ r.addEventListener("click",function(e){ var b=e.target.closest("button"); if(!b||r.dataset.ok) return;
+    if(b.dataset.ok){ lock(r); left--; if(left<=0) finish(st); } else { b.dataset.state="wrong"; b.disabled=true; } }); });
+  if(restore){ rows.forEach(lock); finish(st); }
+};
+var saved=(location.hash==="#proj")?null:load();
+if(saved&&saved.done) ST=saved;
+steps.forEach(function(st){
+  var t=st.dataset.type; if(t&&impl[t]) impl[t](st, !!(saved&&saved.done&&saved.done[st.id]));
+  if(t&&saved&&saved.done&&saved.done[st.id]){ st.hidden=false; var nx=nextOf(st); if(nx) nx.hidden=false; }
+});
+if(saved&&saved.done&&Object.keys(saved.done).length){ var rs=$("#rs"); if(rs){ var tot=steps.filter(function(s){return s.dataset.type;}).length; rs.firstChild.textContent=(Object.keys(saved.done).length>=tot)?"已接續上次的進度（全部完成）。":"已接續上次的進度。"; rs.hidden=false; } }
+$$(".go").forEach(function(g){ g.addEventListener("click",function(){ var st=g.closest(".step"); var nx=nextOf(st); if(!nx) return; nx.hidden=false; if(PROJ){ show(steps.indexOf(nx)); return; } nx.scrollIntoView({behavior:"smooth",block:"start"}); var h=$("h2",nx); if(h){ h.tabIndex=-1; h.focus({preventScroll:true}); } }); });
+var rst=$("#rst"); if(rst) rst.addEventListener("click",function(){ try{localStorage.removeItem(KEY);}catch(e){} try{history.replaceState(null,"","#");}catch(e){} location.reload(); });
+/* projection mode */
+var cur=0, pj=$("#pj"), pn=$(".pnav"), pc=$("#pc"), prv=$("#pprev"), nxt=$("#pnext");
+function show(i){ cur=Math.max(0,Math.min(steps.length-1,i)); steps.forEach(function(s,k){ s.classList.toggle("cur",k===cur); }); steps[cur].hidden=false; if(pc) pc.textContent=(cur===0)?"開始":(cur>=steps.length-1?"重點整理":"第 "+cur+" 步 / 共 "+(steps.length-2)+" 步"); prv.disabled=cur===0; nxt.disabled=cur===steps.length-1; window.scrollTo(0,0); }
+var snap=[];
+function enter(){ snap=steps.map(function(s){return s.hidden;}); PROJ=true; document.documentElement.classList.add("proj"); pj.textContent="離開投影模式"; try{history.replaceState(null,"","#proj");}catch(e){} show(0); }
+function leave(){ PROJ=false; document.documentElement.classList.remove("proj"); pj.textContent="投影模式（大字、一次一步）"; try{history.replaceState(null,"","#");}catch(e){} steps.forEach(function(s,k){ s.classList.remove("cur"); s.hidden=snap[k]; }); steps[0].classList.add("cur"); window.scrollTo(0,0); }
+pj.addEventListener("click",function(){ PROJ?leave():enter(); });
+var pex=$("#pexit"); if(pex) pex.addEventListener("click",leave);
+prv.addEventListener("click",function(){show(cur-1);}); nxt.addEventListener("click",function(){show(cur+1);});
+document.addEventListener("keydown",function(e){ if(!PROJ) return; if(e.key==="ArrowRight"||e.key==="PageDown"){e.preventDefault();show(cur+1);} else if(e.key==="ArrowLeft"||e.key==="PageUp"){e.preventDefault();show(cur-1);} else if(e.key==="Escape"){leave();} });
+if(location.hash==="#proj") enter();
+})();
+</script>
+</body>
+</html>
