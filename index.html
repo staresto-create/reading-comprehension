@@ -168,6 +168,8 @@
   footer{margin-top:34px; padding-top:16px; border-top:1px solid var(--rule); font-size:11.5px; line-height:1.9; color:var(--ink-soft); text-align:center;}
   .report-btn{display:inline-block; margin-top:8px; color:var(--crimson); text-decoration:none; border:1px solid var(--rule); border-radius:20px; padding:5px 14px;}
   .report-btn:hover{border-color:var(--crimson);}
+  .rptq{display:inline-block; margin-top:8px; font-size:12.5px; color:var(--ink-soft); text-decoration:none; border-bottom:1px dotted var(--rule);}
+  .rptq:hover{color:var(--crimson);}
 
   details.dataBox{border:1px dashed var(--rule); border-radius:3px; background:var(--tint-warm3); padding:8px 12px; margin-top:12px;}
   details.dataBox summary{cursor:pointer; list-style:none; font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:11.5px; letter-spacing:.06em; color:var(--ink-soft);}
@@ -397,7 +399,7 @@ details[open]:not(.sh) > summary::after{content:"－ 收合" !important;}
 @media print{
   body{background:#fff !important;}
   .wrap{max-width:none !important; padding:0 !important;}
-  .sc-back, .scr-strip, .scr-card, .backLink, .prog, .bar, .noPrint, .qtPre, .flagNote, .pTitle .ttl, .drillNote, details.rhBox, .twinBtns, .zhBar, .row, .toBar, #historyView, .report-btn, footer > div:first-child{display:none !important;}
+  .sc-back, .scr-strip, .scr-card, .backLink, .prog, .bar, .noPrint, .qtPre, .flagNote, .pTitle .ttl, .drillNote, details.rhBox, .twinBtns, .zhBar, .row, .toBar, #historyView, .report-btn, .rptq, footer > div:first-child{display:none !important;}
   footer{font-size:8.5pt !important; line-height:1.5 !important; margin-top:8px !important; padding-top:6px !important; text-align:left !important;}
   .cc-note{font-size:8.5pt !important; line-height:1.5 !important; margin:4px 0 0 !important; padding:0 !important; max-width:none !important;}
   header.top{padding-bottom:6px !important; margin-bottom:10px !important;}
@@ -1417,6 +1419,7 @@ function renderQuestion(it, inline){
     h += renderEvidence(it);
     if(it.answerNote) h += `<div class="myPick" style="color:var(--ink-soft); background:var(--tint-note); border-left-color:var(--gold);">${esc(it.answerNote)}</div>`;
     h += renderDataBox(it);
+    h += `<a class="rptq" href="https://docs.google.com/forms/d/e/1FAIpQLSd6P1s7HqjvOmGqOzNDWcBQQ3F539SifSNiAfXvi6NqD2YP-Q/viewform?usp=pp_url&entry.1257494378=${encodeURIComponent('閱讀測驗 ' + it.id)}" target="_blank" rel="noopener">🐛 回報這題的錯誤（題目編號 ${esc(it.id)}）</a>`;
   }
   return h + `</div>`;
 }
