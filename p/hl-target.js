@@ -96,3 +96,25 @@
   }
   if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',init); else init();
 })();
+
+/* 從題目地圖點格子進來時（地圖頁在 sessionStorage 留下 rcFromMap），在麵包屑下方加「← 回題目地圖」。
+ * 旗標讀到就清掉，所以只有這一次從地圖進來的頁面會出現；回到地圖時，地圖頁自己還原捲動位置與篩選（rcMapState）。 */
+(function(){
+  var fm=null;
+  try{ fm=sessionStorage.getItem('rcFromMap'); sessionStorage.removeItem('rcFromMap'); }catch(e){}
+  if(!fm) return;
+  function add(){
+    var crumb=document.querySelector('.crumb'); if(!crumb||document.getElementById('backMap')) return;
+    var a=document.createElement('a'); a.id='backMap'; a.href='../map/?back'; a.textContent='← 回題目地圖';
+    a.style.cssText='display:inline-flex;align-items:center;min-height:44px;margin:-6px 0 8px;font-size:14px;font-weight:700;text-decoration:none';
+    crumb.parentNode.insertBefore(a,crumb.nextSibling);
+    /* 讀完、作答完通常停在頁尾的「下一篇」，所以那裡也放一個，不必捲回頁首 */
+    var nav=document.querySelector('.nav');
+    if(nav && !document.getElementById('backMapEnd')){
+      var e=document.createElement('a'); e.id='backMapEnd'; e.className='toMapEnd'; e.href='../map/?back'; e.textContent='← 回題目地圖';
+      nav.parentNode.insertBefore(e,nav.nextSibling);
+    }
+    var st=document.createElement('style'); st.textContent='@media print{#backMap{display:none!important}}'; document.head.appendChild(st);
+  }
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',add); else add();
+})();

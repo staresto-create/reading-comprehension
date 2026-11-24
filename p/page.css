@@ -172,3 +172,8 @@ details[open]:not(.sh) > summary::after{content:"－ 收合" !important;}
 .rptq{display:inline-block; margin-top:6px; font-size:12.5px; color:var(--ink-soft,#666); text-decoration:none; border-bottom:1px dotted var(--rule,#bbb);}
 .rptq:hover{color:var(--crimson);}
 @media print{.rptq{display:none !important;}}
+
+/* 2026-11-24 防呆：讀完詳解、在「下一題」旁邊就能回題目地圖，不必捲回頁首 */
+.toMapEnd{display:flex; align-items:center; justify-content:center; min-height:44px; box-sizing:border-box; margin:12px 0 0; border:1.5px solid var(--rule); border-radius:4px; font-size:14px; font-weight:700; color:var(--crimson); text-decoration:none;}
+.toMapEnd:hover{border-color:var(--crimson);}
+@media print{.toMapEnd{display:none !important;}}
