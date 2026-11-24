@@ -106,7 +106,7 @@
   function add(){
     var crumb=document.querySelector('.crumb'); if(!crumb||document.getElementById('backMap')) return;
     var a=document.createElement('a'); a.id='backMap'; a.href='../map/?back'; a.textContent='← 回題目地圖';
-    a.style.cssText='display:inline-flex;align-items:center;min-height:44px;margin:-6px 0 8px;font-size:14px;font-weight:700;text-decoration:none';
+    a.style.cssText='display:inline-flex;align-items:center;min-height:44px;margin:-6px 0 8px;font-size:14px;font-weight:700;color:var(--crimson);text-decoration:none';
     crumb.parentNode.insertBefore(a,crumb.nextSibling);
     /* 讀完、作答完通常停在頁尾的「下一篇」，所以那裡也放一個，不必捲回頁首 */
     var nav=document.querySelector('.nav');

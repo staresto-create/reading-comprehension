@@ -333,7 +333,7 @@ function build(items){
     }
     if (rWithout.length){
       var h2 = el('h2','mp-sec', pre + '沒有答對率的試卷'); h2.id='u-unrated-' + (ex === '學測' ? 'gsat' : 'zhikao'); out.appendChild(h2); s2.heads.push(h2);
-      var n2 = el('p','mp-secnote', (ex === '學測' ? '這些試卷大考中心沒有公布逐題答對率（試辦考試只公布級分統計）。' : '這些試卷大考中心沒有公布逐題答對率。') + '格子裡以「—」表示，題目與解析一樣完整，可以照常練習。'); out.appendChild(n2); s2.heads.push(n2);
+      var n2 = el('p','mp-secnote', (ex === '學測' ? '這些試卷大考中心沒有公布逐題答對率（試辦考試只公布級分對照、級分人數與成績標準）。' : '這些試卷大考中心沒有公布逐題答對率。') + '格子裡以「—」表示，題目與解析一樣完整，可以照常練習。'); out.appendChild(n2); s2.heads.push(n2);
       renderRows(out, rWithout, s2);
     }
   });
